@@ -1,4 +1,4 @@
-Metropolitan Line
+Metropolitan Line Delta — avar2
 ============
 
 <p align="center">
@@ -7,6 +7,8 @@ Metropolitan Line
     <source media="(prefers-color-scheme: light)" srcset="./documentation/cover.svg">
     <img alt="open source version of Edward Johnston's Typeface for London Underground" src="./documentation/cover.svg">
   </picture>
+Metropolitan Line Delta is an avar2 version of Metropolitan Line.
+
 Metropolitan Line is an open-source revival of Edward Johnston’s timeless typeface for the London Underground of 1916. Designed by Alexei Vanyashin and Michael Voronin in 2026, it is based on Railway Sans, digitized by Justin Howes in 1994 and published by Greg Fleming in 2012. 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./documentation/image1_dark.svg">
