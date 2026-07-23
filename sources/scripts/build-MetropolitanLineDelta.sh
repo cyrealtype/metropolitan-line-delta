@@ -5,6 +5,7 @@ source tools/metropolitan-delta-env/bin/activate
 
 # ROMAN
 fontmake -m source/Alpha/MetropolitanLine-Regular.designspace -o variable --output-path fonts/Alpha/MetropolitanLineDelta-Roman-VF.ttf --no-production-names --no-check-compatibility
+echo "Done → MetropolitanLineDelta-Roman-VF.ttf"
 
 # STATICS
 #sh source/build-MetropolitanDelta-statics.sh
