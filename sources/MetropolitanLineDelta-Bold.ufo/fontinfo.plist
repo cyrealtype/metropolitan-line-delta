@@ -11,7 +11,9 @@
     <key>descender</key>
     <integer>-450</integer>
     <key>familyName</key>
-    <string>Metropolitan Line</string>
+    <string>Metropolitan Line Delta</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -34,6 +36,8 @@
     <string>Cyreal</string>
     <key>openTypeNameManufacturerURL</key>
     <string>https://cyreal.org</string>
+    <key>openTypeNameSampleText</key>
+    <string>Hond</string>
     <key>openTypeOS2Selection</key>
     <array>
       <integer>7</integer>

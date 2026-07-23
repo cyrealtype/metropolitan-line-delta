@@ -1,10 +1,11 @@
 {
 "unitsPerEm": 2000,
 "fontInfo": {
-"familyName": "Metropolitan Line",
+"familyName": "Metropolitan Line Delta",
 "versionMajor": 1,
 "versionMinor": 3,
 "copyright": "Copyright 2026 The Metropolitan Line Project authors (https://github.com/cyrealtype/metropolitan-line)",
+"sampleText": "Hond",
 "designer": "Cyreal, Alexei Vanyashin, Michael Voronin",
 "designerURL": "https://cyreal.org",
 "manufacturer": "Cyreal",
@@ -28,13 +29,7 @@
 "tag": "wght",
 "minValue": 400,
 "defaultValue": 400,
-"maxValue": 400,
-"mapping": [
-[
-400,
-900
-]
-]
+"maxValue": 900
 }
 ]
 },
@@ -153,22 +148,5 @@
 "rvrn"
 ],
 "rules": []
-},
-"customData": {
-"GSDimensionPlugin.Dimensions": {
-"m001": {
-"HH": "100",
-"HV": "110",
-"OH": "102",
-"OV": "112",
-"nV": "100",
-"nd": "86",
-"oH": "95",
-"oV": "100",
-"tH": "90"
-}
-},
-"KernOnVersion": "1.37",
-"UFOFormat": 3
 }
 }
