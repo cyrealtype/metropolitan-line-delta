@@ -11,8 +11,8 @@ echo "Done → MetropolitanLineDelta-VF.ttf"
 #sh source
 
 # Apply non-linear avar2
-python3 ../tools/apply-avar2.py ../fonts/MetropolitanLineDelta-VF.ttf
-echo "Done → applying avar2"
+python3 ../tools/apply-avar1.py ../fonts/MetropolitanLineDelta-VF.ttf
+echo "Done → applying avar1"
 
 #/build-MetropolitanDelta-statics.sh
 

@@ -3,11 +3,18 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>avar1 test Metropolitan Line Delta</title>
+    <title>Honon — Variable Font</title>
     <style>
       @font-face {
-        font-family: "Metropolitan Line Delta";
+        font-family: "Metropolitan Line Delta Original";
         src: url("../../fonts/MetropolitanLineDelta-VF.ttf") format("truetype");
+        font-weight: 400 900;
+        font-display: swap;
+      }
+
+      @font-face {
+        font-family: "Metropolitan Line Delta avar1";
+        src: url("../../fonts/MetropolitanLineDelta-VF-avar1.ttf") format("truetype");
         font-weight: 400 900;
         font-display: swap;
       }
@@ -32,15 +39,42 @@
         padding: 2rem;
       }
 
+      .comparison {
+        width: min(100%, 90rem);
+        display: grid;
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        gap: clamp(1.5rem, 5vw, 6rem);
+      }
+
+      .sample {
+        display: grid;
+        justify-items: center;
+        gap: 0.85rem;
+      }
+
+      .label {
+        margin: 0;
+        font-size: 0.65rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
       h2 {
         margin: 0;
-        font-family: "Metropolitan Line Delta", sans-serif;
-        font-size: clamp(4rem, 18vw, 18rem);
+        font-size: clamp(3.5rem, 11vw, 12rem);
         line-height: 0.85;
-        letter-spacing: -0.06em;
+        letter-spacing: .01em;
         font-weight: 400;
         font-variation-settings: "wght" 400;
         text-align: center;
+      }
+
+      .original { font-family: "Metropolitan Line Delta Original", sans-serif; }
+      .avar1 { font-family: "Metropolitan Line Delta avar1", sans-serif; }
+
+      @media (max-width: 640px) {
+        .comparison { grid-template-columns: 1fr; gap: 2.5rem; }
+        h2 { font-size: clamp(4rem, 22vw, 9rem); }
       }
 
       .controls {
@@ -63,6 +97,7 @@
         font-size: 0.75rem;
         letter-spacing: 0.04em;
         cursor: pointer;
+        width: 6rem;
       }
 
       button:hover, button:focus-visible { background: #000; color: #fff; }
@@ -104,7 +139,16 @@
   </head>
   <body>
     <main>
-      <h2 id="word" aria-label="Honon">Honon</h2>
+      <div class="comparison">
+        <section class="sample" aria-label="Original variable font">
+          <p class="label">Metropolitan Line VF</p>
+          <h2 class="word original">Honon</h2>
+        </section>
+        <section class="sample" aria-label="avar version 1 test font">
+          <p class="label">Metropolitan Line Delta avar1</p>
+          <h2 class="word avar1">Honon</h2>
+        </section>
+      </div>
     </main>
 
     <div class="controls" aria-label="Weight controls">
@@ -114,7 +158,7 @@
     </div>
 
     <script>
-      const word = document.querySelector('#word');
+      const words = document.querySelectorAll('.word');
       const slider = document.querySelector('#weight');
       const value = document.querySelector('#weightValue');
       const toggle = document.querySelector('#toggle');
@@ -127,8 +171,10 @@
 
       function setWeight(weight) {
         const rounded = Math.round(weight);
-        word.style.fontWeight = rounded;
-        word.style.fontVariationSettings = `"wght" ${rounded}`;
+        words.forEach((word) => {
+          word.style.fontWeight = rounded;
+          word.style.fontVariationSettings = `"wght" ${rounded}`;
+        });
         slider.value = rounded;
         value.value = rounded;
         value.textContent = rounded;
