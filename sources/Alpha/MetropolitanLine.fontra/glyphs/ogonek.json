@@ -1,0 +1,57 @@
+{
+"name": "ogonek",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "ogonekcomb",
+"transformation": {
+"translateX": 46
+}
+}
+],
+"xAdvance": 488,
+"anchors": [
+{
+"name": "_ogonek",
+"x": 292,
+"y": 0
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "ogonekcomb",
+"transformation": {
+"translateX": 46
+}
+}
+],
+"xAdvance": 488,
+"anchors": [
+{
+"name": "_ogonek",
+"x": 292,
+"y": 0
+}
+]
+}
+}
+}
+}

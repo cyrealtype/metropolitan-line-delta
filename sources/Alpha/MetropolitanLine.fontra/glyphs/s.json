@@ -1,0 +1,451 @@
+{
+"name": "s",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 434,
+"y": -20,
+"smooth": true
+},
+{
+"x": 606,
+"y": -20,
+"type": "quad"
+},
+{
+"x": 826,
+"y": 125,
+"type": "quad"
+},
+{
+"x": 826,
+"y": 278,
+"smooth": true
+},
+{
+"x": 826,
+"y": 401,
+"type": "quad"
+},
+{
+"x": 663,
+"y": 544,
+"type": "quad"
+},
+{
+"x": 492,
+"y": 584,
+"smooth": true
+},
+{
+"x": 413,
+"y": 602,
+"type": "quad"
+},
+{
+"x": 323,
+"y": 634,
+"type": "quad"
+},
+{
+"x": 280,
+"y": 673,
+"type": "quad"
+},
+{
+"x": 280,
+"y": 702,
+"smooth": true
+},
+{
+"x": 280,
+"y": 746,
+"type": "quad"
+},
+{
+"x": 367,
+"y": 786,
+"type": "quad"
+},
+{
+"x": 438,
+"y": 786,
+"smooth": true
+},
+{
+"x": 604,
+"y": 786,
+"type": "quad"
+},
+{
+"x": 744,
+"y": 682
+},
+{
+"x": 744,
+"y": 888
+},
+{
+"x": 679,
+"y": 926,
+"type": "quad"
+},
+{
+"x": 506,
+"y": 970,
+"type": "quad"
+},
+{
+"x": 426,
+"y": 970,
+"smooth": true
+},
+{
+"x": 322,
+"y": 970,
+"type": "quad"
+},
+{
+"x": 164,
+"y": 904,
+"type": "quad"
+},
+{
+"x": 78,
+"y": 783,
+"type": "quad"
+},
+{
+"x": 78,
+"y": 702,
+"smooth": true
+},
+{
+"x": 78,
+"y": 582,
+"type": "quad"
+},
+{
+"x": 245,
+"y": 446,
+"type": "quad"
+},
+{
+"x": 412,
+"y": 408,
+"smooth": true
+},
+{
+"x": 526,
+"y": 382,
+"type": "quad"
+},
+{
+"x": 626,
+"y": 314,
+"type": "quad"
+},
+{
+"x": 626,
+"y": 270,
+"smooth": true
+},
+{
+"x": 626,
+"y": 225,
+"type": "quad"
+},
+{
+"x": 530,
+"y": 170,
+"type": "quad"
+},
+{
+"x": 430,
+"y": 170,
+"smooth": true
+},
+{
+"x": 312,
+"y": 170,
+"type": "quad"
+},
+{
+"x": 157,
+"y": 236,
+"type": "quad"
+},
+{
+"x": 78,
+"y": 310
+},
+{
+"x": 78,
+"y": 82
+},
+{
+"x": 157,
+"y": 31,
+"type": "quad"
+},
+{
+"x": 327,
+"y": -20,
+"type": "quad"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 880,
+"anchors": [
+{
+"name": "bottom",
+"x": 434,
+"y": 0
+},
+{
+"name": "top",
+"x": 426,
+"y": 950
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 434,
+"y": -20,
+"smooth": true
+},
+{
+"x": 606,
+"y": -20,
+"type": "quad"
+},
+{
+"x": 826,
+"y": 125,
+"type": "quad"
+},
+{
+"x": 826,
+"y": 278,
+"smooth": true
+},
+{
+"x": 826,
+"y": 401,
+"type": "quad"
+},
+{
+"x": 663,
+"y": 544,
+"type": "quad"
+},
+{
+"x": 492,
+"y": 584,
+"smooth": true
+},
+{
+"x": 413,
+"y": 602,
+"type": "quad"
+},
+{
+"x": 323,
+"y": 634,
+"type": "quad"
+},
+{
+"x": 280,
+"y": 673,
+"type": "quad"
+},
+{
+"x": 280,
+"y": 702,
+"smooth": true
+},
+{
+"x": 280,
+"y": 746,
+"type": "quad"
+},
+{
+"x": 367,
+"y": 786,
+"type": "quad"
+},
+{
+"x": 438,
+"y": 786,
+"smooth": true
+},
+{
+"x": 604,
+"y": 786,
+"type": "quad"
+},
+{
+"x": 744,
+"y": 682
+},
+{
+"x": 744,
+"y": 888
+},
+{
+"x": 679,
+"y": 926,
+"type": "quad"
+},
+{
+"x": 506,
+"y": 970,
+"type": "quad"
+},
+{
+"x": 426,
+"y": 970,
+"smooth": true
+},
+{
+"x": 322,
+"y": 970,
+"type": "quad"
+},
+{
+"x": 164,
+"y": 904,
+"type": "quad"
+},
+{
+"x": 78,
+"y": 783,
+"type": "quad"
+},
+{
+"x": 78,
+"y": 702,
+"smooth": true
+},
+{
+"x": 78,
+"y": 582,
+"type": "quad"
+},
+{
+"x": 245,
+"y": 446,
+"type": "quad"
+},
+{
+"x": 412,
+"y": 408,
+"smooth": true
+},
+{
+"x": 526,
+"y": 382,
+"type": "quad"
+},
+{
+"x": 626,
+"y": 314,
+"type": "quad"
+},
+{
+"x": 626,
+"y": 270,
+"smooth": true
+},
+{
+"x": 626,
+"y": 225,
+"type": "quad"
+},
+{
+"x": 530,
+"y": 170,
+"type": "quad"
+},
+{
+"x": 430,
+"y": 170,
+"smooth": true
+},
+{
+"x": 312,
+"y": 170,
+"type": "quad"
+},
+{
+"x": 157,
+"y": 236,
+"type": "quad"
+},
+{
+"x": 78,
+"y": 310
+},
+{
+"x": 78,
+"y": 82
+},
+{
+"x": 157,
+"y": 31,
+"type": "quad"
+},
+{
+"x": 327,
+"y": -20,
+"type": "quad"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 880,
+"anchors": [
+{
+"name": "bottom",
+"x": 434,
+"y": 0
+},
+{
+"name": "top",
+"x": 426,
+"y": 950
+}
+]
+}
+}
+}
+}

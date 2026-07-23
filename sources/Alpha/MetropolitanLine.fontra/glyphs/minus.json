@@ -1,0 +1,85 @@
+{
+"name": "minus",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 194,
+"y": 586
+},
+{
+"x": 1046,
+"y": 586
+},
+{
+"x": 1046,
+"y": 786
+},
+{
+"x": 194,
+"y": 786
+},
+{
+"x": 194,
+"y": 586
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 1240
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 194,
+"y": 586
+},
+{
+"x": 1046,
+"y": 586
+},
+{
+"x": 1046,
+"y": 786
+},
+{
+"x": 194,
+"y": 786
+},
+{
+"x": 194,
+"y": 586
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 1240
+}
+}
+}
+}

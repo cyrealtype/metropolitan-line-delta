@@ -1,0 +1,237 @@
+{
+"name": "tinferior",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 300,
+"y": -200,
+"smooth": true
+},
+{
+"x": 374,
+"y": -200,
+"type": "quad"
+},
+{
+"x": 448,
+"y": -151
+},
+{
+"x": 448,
+"y": 23
+},
+{
+"x": 416,
+"y": -5,
+"type": "quad"
+},
+{
+"x": 351,
+"y": -36,
+"type": "quad"
+},
+{
+"x": 329,
+"y": -36,
+"smooth": true
+},
+{
+"x": 284,
+"y": -36,
+"type": "quad"
+},
+{
+"x": 284,
+"y": 24,
+"smooth": true
+},
+{
+"x": 284,
+"y": 387
+},
+{
+"x": 111,
+"y": 387
+},
+{
+"x": 111,
+"y": -22,
+"smooth": true
+},
+{
+"x": 111,
+"y": -72,
+"type": "quad"
+},
+{
+"x": 162,
+"y": -154,
+"type": "quad"
+},
+{
+"x": 248,
+"y": -200,
+"type": "quad"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 20,
+"y": 294
+},
+{
+"x": 20,
+"y": 140
+},
+{
+"x": 448,
+"y": 140
+},
+{
+"x": 448,
+"y": 294
+},
+{
+"x": 20,
+"y": 294
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 480
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 300,
+"y": -200,
+"smooth": true
+},
+{
+"x": 374,
+"y": -200,
+"type": "quad"
+},
+{
+"x": 448,
+"y": -151
+},
+{
+"x": 448,
+"y": 23
+},
+{
+"x": 416,
+"y": -5,
+"type": "quad"
+},
+{
+"x": 351,
+"y": -36,
+"type": "quad"
+},
+{
+"x": 329,
+"y": -36,
+"smooth": true
+},
+{
+"x": 284,
+"y": -36,
+"type": "quad"
+},
+{
+"x": 284,
+"y": 24,
+"smooth": true
+},
+{
+"x": 284,
+"y": 387
+},
+{
+"x": 111,
+"y": 387
+},
+{
+"x": 111,
+"y": -22,
+"smooth": true
+},
+{
+"x": 111,
+"y": -72,
+"type": "quad"
+},
+{
+"x": 162,
+"y": -154,
+"type": "quad"
+},
+{
+"x": 248,
+"y": -200,
+"type": "quad"
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 20,
+"y": 294
+},
+{
+"x": 20,
+"y": 140
+},
+{
+"x": 448,
+"y": 140
+},
+{
+"x": 448,
+"y": 294
+},
+{
+"x": 20,
+"y": 294
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 480
+}
+}
+}
+}

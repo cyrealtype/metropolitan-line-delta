@@ -1,0 +1,73 @@
+{
+"name": "kcommaaccent",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "k"
+},
+{
+"name": "commaaccentcomb",
+"transformation": {
+"translateX": 234
+}
+}
+],
+"xAdvance": 1016,
+"anchors": [
+{
+"name": "bottom",
+"x": 508,
+"y": -526
+},
+{
+"name": "top",
+"x": 508,
+"y": 1400
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "k"
+},
+{
+"name": "commaaccentcomb",
+"transformation": {
+"translateX": 234
+}
+}
+],
+"xAdvance": 1016,
+"anchors": [
+{
+"name": "bottom",
+"x": 508,
+"y": -526
+},
+{
+"name": "top",
+"x": 508,
+"y": 1400
+}
+]
+}
+}
+}
+}

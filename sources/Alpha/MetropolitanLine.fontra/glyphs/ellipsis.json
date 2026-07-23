@@ -1,0 +1,61 @@
+{
+"name": "ellipsis",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "period"
+},
+{
+"name": "period",
+"transformation": {
+"translateX": 390
+}
+},
+{
+"name": "period",
+"transformation": {
+"translateX": 780
+}
+}
+],
+"xAdvance": 1220
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "period"
+},
+{
+"name": "period",
+"transformation": {
+"translateX": 390
+}
+},
+{
+"name": "period",
+"transformation": {
+"translateX": 780
+}
+}
+],
+"xAdvance": 1220
+}
+}
+}
+}

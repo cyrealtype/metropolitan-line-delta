@@ -1,0 +1,69 @@
+{
+"name": "tildecomb.case.i",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "tildecomb.i",
+"transformation": {
+"translateX": 74,
+"translateY": 396
+}
+}
+],
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 410,
+"y": 1400
+},
+{
+"name": "top",
+"x": 410,
+"y": 1718
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "tildecomb.i",
+"transformation": {
+"translateX": 74,
+"translateY": 396
+}
+}
+],
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 410,
+"y": 1400
+},
+{
+"name": "top",
+"x": 410,
+"y": 1718
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,93 @@
+{
+"name": "uhungarumlaut",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "u"
+},
+{
+"name": "hungarumlautcomb",
+"transformation": {
+"translateX": 236
+}
+}
+],
+"xAdvance": 1046,
+"anchors": [
+{
+"name": "bottom",
+"x": 480,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 944,
+"y": 0
+},
+{
+"name": "top",
+"x": 674,
+"y": 1318
+},
+{
+"name": "topright",
+"x": 944,
+"y": 950
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "u"
+},
+{
+"name": "hungarumlautcomb",
+"transformation": {
+"translateX": 236
+}
+}
+],
+"xAdvance": 1046,
+"anchors": [
+{
+"name": "bottom",
+"x": 480,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 944,
+"y": 0
+},
+{
+"name": "top",
+"x": 674,
+"y": 1318
+},
+{
+"name": "topright",
+"x": 944,
+"y": 950
+}
+]
+}
+}
+}
+}

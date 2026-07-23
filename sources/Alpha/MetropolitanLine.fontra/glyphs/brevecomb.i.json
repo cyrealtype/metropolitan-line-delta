@@ -1,0 +1,221 @@
+{
+"name": "brevecomb.i",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 348,
+"y": 1102,
+"smooth": true
+},
+{
+"x": 429,
+"y": 1102,
+"type": "quad"
+},
+{
+"x": 561,
+"y": 1184,
+"type": "quad"
+},
+{
+"x": 636,
+"y": 1329,
+"type": "quad"
+},
+{
+"x": 636,
+"y": 1420
+},
+{
+"x": 476,
+"y": 1420
+},
+{
+"x": 476,
+"y": 1351,
+"type": "quad"
+},
+{
+"x": 403,
+"y": 1260,
+"type": "quad"
+},
+{
+"x": 348,
+"y": 1260,
+"smooth": true
+},
+{
+"x": 293,
+"y": 1260,
+"type": "quad"
+},
+{
+"x": 220,
+"y": 1351,
+"type": "quad"
+},
+{
+"x": 220,
+"y": 1420
+},
+{
+"x": 60,
+"y": 1420
+},
+{
+"x": 60,
+"y": 1329,
+"type": "quad"
+},
+{
+"x": 135,
+"y": 1184,
+"type": "quad"
+},
+{
+"x": 267,
+"y": 1102,
+"type": "quad"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 348,
+"y": 950
+},
+{
+"name": "top",
+"x": 348,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 348,
+"y": 1102,
+"smooth": true
+},
+{
+"x": 429,
+"y": 1102,
+"type": "quad"
+},
+{
+"x": 561,
+"y": 1184,
+"type": "quad"
+},
+{
+"x": 636,
+"y": 1329,
+"type": "quad"
+},
+{
+"x": 636,
+"y": 1420
+},
+{
+"x": 476,
+"y": 1420
+},
+{
+"x": 476,
+"y": 1351,
+"type": "quad"
+},
+{
+"x": 403,
+"y": 1260,
+"type": "quad"
+},
+{
+"x": 348,
+"y": 1260,
+"smooth": true
+},
+{
+"x": 293,
+"y": 1260,
+"type": "quad"
+},
+{
+"x": 220,
+"y": 1351,
+"type": "quad"
+},
+{
+"x": 220,
+"y": 1420
+},
+{
+"x": 60,
+"y": 1420
+},
+{
+"x": 60,
+"y": 1329,
+"type": "quad"
+},
+{
+"x": 135,
+"y": 1184,
+"type": "quad"
+},
+{
+"x": 267,
+"y": 1102,
+"type": "quad"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 348,
+"y": 950
+},
+{
+"name": "top",
+"x": 348,
+"y": 1318
+}
+]
+}
+}
+}
+}

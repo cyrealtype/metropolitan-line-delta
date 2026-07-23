@@ -1,0 +1,142 @@
+Acyr = A | 0x0410
+Abrevecyr = A + breve.cyrcomb.case@top | 0x04D0
+Adieresiscyr = A + dieresiscomb.case@top | 0x04D2
+Ve = B | 0x0412
+#Ghe = Gamma | 0x0413
+Gje = Gamma + acutecomb.case@top | 0x0403
+Ie = E | 0x0415
+Io = E + dieresiscomb.case@top | 0x0401
+Iebrevecyr = E + breve.cyrcomb.case@top | 0x04D6
+Zhebrevecyr = Zhe + breve.cyrcomb.case@top | 04C1
+Zhedieresiscyr = Zhe + dieresiscomb.case@top | 04DC
+Igravecyr = Icyr + gravecomb.case@top |0x040D
+Ishort = Icyr + breve.cyrcomb.case@top | 0x0419
+Kje = K + acutecomb.case@top | 0x040C
+Em = M | 0x41c
+En = H | 0x41d
+Ocyr = O | 0x41e
+Odieresiscyr = O + dieresiscomb.case@top | 0x4e6
+Er = P | 0x420
+Es = C | 0x421
+Dze = S | 0x405
+Iukran = I | 0x406
+Je = J | 0x408
+Te = T | 0x422
+Ushort = Ucyr + breve.cyrcomb.case@top | 0x40e
+Umacroncyr = Ucyr + macroncomb.case@top | 0x4ee
+Udieresiscyr = Ucyr + dieresiscomb.case@top | 0x4f0
+Uhungarumlautcyr = Ucyr + hungarumlautcomb.case@top | 0x4f2
+Ha = X | 0x425
+Shcha = Sha + cy-descendercomb.case@cy_descender | 0x429
+Yeru = Soft & I | 0x042B
+Yi = I + Yi-dieresiscomb.case@top | 0x407
+Yu= I + Yu-dash.case@yu_dash + O@yu_dash ^ I,O | 0x042E
+Ghestroke = Gamma + horizontalbarlc@center | 0x0492
+Zhedescender = Zhe + cy-descendercomb.case@cy_descender | 0x496
+Zedescendercyr = Ze + cedillacomb.case@bottom | 0x498
+Kadescender = Ka + cy-descendercomb.case@cy_descender  | 0x49a
+Endescender = H + cy-descendercomb.case@cy_descender | 0x4a2
+Esdescendercyr = C + cedillacomb.case@bottom | 0x4aa
+Tedescender-cy = T + cy-descendercomb.case@cy_descender | 0x4ac
+Ustraight = Y | 0x4ae
+Ustraightstroke = Y + U-stroke | 0x4B0
+Hadescender = X + cy-descendercomb.case@cy_descender | 0x4b2
+Chedescender-cy = Che + cy-descendercomb.case@cy_descender | 0x4b6
+Palochka = I | 0x04C0
+Obarcyr = O + Obarcyr-stroke | 0x04E8
+Hastroke-cy = X + Hacyr-stroke | 0x04FE
+Ka.bgr = K
+El.bgr = Lambda
+
+
+acyr = a | 0x430
+abrevecyr = a + breve.cyrcomb@top | 0x4d1
+adieresiscyr = a + dieresiscomb@top | 0x4d3
+gje=ghe+acutecomb@top | 0x453
+ie = e | 0x435
+io = e + dieresiscomb@top | 0x451
+iebrevecyr = e + breve.cyrcomb@top | 0x4d7
+zhebrevecyr = zhe + breve.cyrcomb@top | 0x4c2
+zhedieresiscyr = zhe + dieresiscomb@top | 0x4dd
+ishort = icyr + breve.cyrcomb@top | 0x439
+igravecyr = icyr + gravecomb@top | 0x45d
+kje = ka + acutecomb@top | 0x45c
+ocyr = o |0x043E
+odieresiscyr = o + dieresiscomb@top | 0x4e7
+er = p | 0x0440
+es = c | 0x0441
+ucyr = y | 0443
+ushort = y + breve.cyrcomb@top | 0x45e
+umacroncyr = y + macroncomb@top | 0x4ef
+udieresiscyr = y + dieresiscomb@top | 0x4f1
+uhungarumlautcyr = y + hungarumlautcomb@top | 0x4f3
+ef = phi | 0x444
+ha = x | 0x445
+shcha = sha + cy-descendercomb@cy_descender | 0x449
+yeru= soft & idotless | 0x044B
+yi = idotless + yi-dieresiscomb@top | 0x457
+yu= idotless + yu-dash@yu_dash + o@yu_dash ^ idotless,o | 0x044E
+je = jdotless + idot@top | 0x458
+tshe = h + horizontalbarlc@center | 0x045B
+dje = h + horizontalbarlc@center + engtail@h:engtail | 0x0452
+dze = s | 0x455
+iukran = idotless + idot@top | 0x456
+?ghestroke = ghe + horizontalbarlc@35%,35% | 0x493
+zhedescender = zhe + cy-descendercomb@cy_descender | 0x497
+zedescendercyr = ze + cedillacomb@bottom | 0x499
+kadescender = ka + cy-descendercomb@cy_descender | 0x49b
+endescender = en + cy-descendercomb@cy_descender | 0x4a3
+esdescendercyr = c + cedillacomb@bottom | 0x4ab
+tedescender-cy = te + cy-descendercomb@cy_descender | 0x4ad
+hadescender = x + cy-descendercomb@cy_descender | 0x4b3
+chedescender-cy = che + cy-descendercomb@cy_descender | 0x4b7
+tse.bgr = u + cy-descendercomb@cy_descender
+shcha.bgr = sha.bgr + cy-descendercomb@cy_descender
+ishort.bgr = u + breve.cyrcomb@top
+ustraightstroke = ustraight + u-stroke | 0x4b1
+shha = h | 0x4bb
+palochka = l | 0x4cf
+schwacyr = schwa | 0x4d9
+obarcyr = o + obarcyr-stroke | 0x04E9
+hastroke-cy = x + hacyr-stroke | 0x04FF
+de.bgr = g
+i.bgr = u
+igrave.bgr = u + gravecomb@top
+ka.bgr = k
+en.bgr = en
+pe.bgr = n
+te.bgr = m
+che.bgr = che
+yu.bgr= l + yu-dash@yu_dash + o@yu_dash ^ l,o
+ghe.locl = ghe
+de.locl = de
+pe.locl = pe
+te.locl = te
+
+
+Amacroncyr = A + macroncomb.case@top | 0xf50e
+amacroncyr = a + macroncomb@top | 0xf50f
+Iemacroncyr = E + macroncomb.case@top | 0xf510
+iemacroncyr = e + macroncomb@top | 0xf511
+Omacroncyr = O + macroncomb.case@top | 0xf518
+omacroncyr = o + macroncomb@top | 0xf519
+Obrevecyr = O + breve.cyrcomb.case@top | 0xf51a
+obrevecyr = o + breve.cyrcomb@top | 0xf51b
+Emacroncyr = Ecyr + macroncomb.case@top | 0xf522
+emacroncyr = ecyr + macroncomb@top | 0xf523
+Ebrevecyr = Ecyr + breve.cyrcomb.case@top | 0xf524
+ebrevecyr = ecyr + breve.cyrcomb@top | 0xf525
+Yamacron = Ya + macroncomb.case@top | 0xf528
+yamacron = ya + macroncomb@top | 0xf529
+Yumacron = I + Yu-dash.case@yu_dash + O@yu_dash + macroncomb.case@I:115%, top ^ I,O | 0xf52c
+yumacron = idotless + yu-dash@yu_dash + o@yu_dash + macroncomb@idotless:102%, top  ^ idotless,o | 0xf52d
+
+
+
+
+
+
+
+
+
+

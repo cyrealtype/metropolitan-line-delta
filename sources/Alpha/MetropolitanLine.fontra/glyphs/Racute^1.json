@@ -1,0 +1,73 @@
+{
+"name": "Racute",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "R"
+},
+{
+"name": "acutecomb.case",
+"transformation": {
+"translateX": 176
+}
+}
+],
+"xAdvance": 1108,
+"anchors": [
+{
+"name": "bottom",
+"x": 528,
+"y": 0
+},
+{
+"name": "top",
+"x": 442,
+"y": 1718
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "R"
+},
+{
+"name": "acutecomb.case",
+"transformation": {
+"translateX": 246
+}
+}
+],
+"xAdvance": 1178,
+"anchors": [
+{
+"name": "bottom",
+"x": 598,
+"y": 0
+},
+{
+"name": "top",
+"x": 512,
+"y": 1718
+}
+]
+}
+}
+}
+}

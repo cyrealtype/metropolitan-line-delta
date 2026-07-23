@@ -1,0 +1,109 @@
+{
+"name": "macroncomb.i",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 60,
+"y": 1186
+},
+{
+"x": 474,
+"y": 1186
+},
+{
+"x": 474,
+"y": 1366
+},
+{
+"x": 60,
+"y": 1366
+},
+{
+"x": 60,
+"y": 1186
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 268,
+"y": 950
+},
+{
+"name": "top",
+"x": 268,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 60,
+"y": 1186
+},
+{
+"x": 474,
+"y": 1186
+},
+{
+"x": 474,
+"y": 1366
+},
+{
+"x": 60,
+"y": 1366
+},
+{
+"x": 60,
+"y": 1186
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 268,
+"y": 950
+},
+{
+"name": "top",
+"x": 268,
+"y": 1318
+}
+]
+}
+}
+}
+}

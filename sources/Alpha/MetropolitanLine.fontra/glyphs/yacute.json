@@ -1,0 +1,73 @@
+{
+"name": "yacute",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "y"
+},
+{
+"name": "acutecomb",
+"transformation": {
+"translateX": 428
+}
+}
+],
+"xAdvance": 1154,
+"anchors": [
+{
+"name": "bottom",
+"x": 560,
+"y": -450
+},
+{
+"name": "top",
+"x": 694,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "y"
+},
+{
+"name": "acutecomb",
+"transformation": {
+"translateX": 428
+}
+}
+],
+"xAdvance": 1154,
+"anchors": [
+{
+"name": "bottom",
+"x": 560,
+"y": -450
+},
+{
+"name": "top",
+"x": 694,
+"y": 1318
+}
+]
+}
+}
+}
+}

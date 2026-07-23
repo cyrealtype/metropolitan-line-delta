@@ -1,0 +1,83 @@
+{
+"name": "Tcedilla",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "T"
+},
+{
+"name": "cedillacomb",
+"transformation": {
+"translateX": 320
+}
+}
+],
+"xAdvance": 1152,
+"anchors": [
+{
+"name": "bottom",
+"x": 576,
+"y": -390
+},
+{
+"name": "center",
+"x": 576,
+"y": 700
+},
+{
+"name": "top",
+"x": 576,
+"y": 1400
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "T"
+},
+{
+"name": "cedillacomb",
+"transformation": {
+"translateX": 320
+}
+}
+],
+"xAdvance": 1152,
+"anchors": [
+{
+"name": "bottom",
+"x": 576,
+"y": -390
+},
+{
+"name": "center",
+"x": 576,
+"y": 700
+},
+{
+"name": "top",
+"x": 576,
+"y": 1400
+}
+]
+}
+}
+}
+}

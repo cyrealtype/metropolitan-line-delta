@@ -1,0 +1,61 @@
+{
+"name": "tilde",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "tildecomb"
+}
+],
+"xAdvance": 820,
+"anchors": [
+{
+"name": "_top",
+"x": 410,
+"y": 950
+},
+{
+"name": "top",
+"x": 410,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "tildecomb"
+}
+],
+"xAdvance": 820,
+"anchors": [
+{
+"name": "_top",
+"x": 410,
+"y": 950
+},
+{
+"name": "top",
+"x": 410,
+"y": 1318
+}
+]
+}
+}
+}
+}

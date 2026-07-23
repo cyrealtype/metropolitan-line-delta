@@ -1,0 +1,61 @@
+{
+"name": "hungarumlaut",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "hungarumlautcomb"
+}
+],
+"xAdvance": 644,
+"anchors": [
+{
+"name": "_top",
+"x": 288,
+"y": 950
+},
+{
+"name": "top",
+"x": 438,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "hungarumlautcomb"
+}
+],
+"xAdvance": 644,
+"anchors": [
+{
+"name": "_top",
+"x": 288,
+"y": 950
+},
+{
+"name": "top",
+"x": 438,
+"y": 1318
+}
+]
+}
+}
+}
+}

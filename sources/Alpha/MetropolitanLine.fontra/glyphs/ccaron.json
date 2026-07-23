@@ -1,0 +1,73 @@
+{
+"name": "ccaron",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "c"
+},
+{
+"name": "caroncomb",
+"transformation": {
+"translateX": 174
+}
+}
+],
+"xAdvance": 920,
+"anchors": [
+{
+"name": "bottom",
+"x": 564,
+"y": 0
+},
+{
+"name": "top",
+"x": 558,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "c"
+},
+{
+"name": "caroncomb",
+"transformation": {
+"translateX": 174
+}
+}
+],
+"xAdvance": 920,
+"anchors": [
+{
+"name": "bottom",
+"x": 564,
+"y": 0
+},
+{
+"name": "top",
+"x": 558,
+"y": 1318
+}
+]
+}
+}
+}
+}

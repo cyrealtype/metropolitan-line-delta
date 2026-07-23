@@ -1,0 +1,99 @@
+{
+"name": "periodcentered",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 60,
+"y": 656
+},
+{
+"x": 60,
+"y": 462
+},
+{
+"x": 260,
+"y": 462
+},
+{
+"x": 260,
+"y": 656
+},
+{
+"x": 60,
+"y": 656
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 320,
+"anchors": [
+{
+"name": "_center",
+"x": 156,
+"y": 558
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 60,
+"y": 656
+},
+{
+"x": 60,
+"y": 462
+},
+{
+"x": 260,
+"y": 462
+},
+{
+"x": 260,
+"y": 656
+},
+{
+"x": 60,
+"y": 656
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 320,
+"anchors": [
+{
+"name": "_center",
+"x": 156,
+"y": 558
+}
+]
+}
+}
+}
+}

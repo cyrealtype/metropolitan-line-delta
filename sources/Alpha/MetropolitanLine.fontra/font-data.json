@@ -1,0 +1,174 @@
+{
+"unitsPerEm": 2000,
+"fontInfo": {
+"familyName": "Metropolitan Line",
+"versionMajor": 1,
+"versionMinor": 3,
+"copyright": "Copyright 2026 The Metropolitan Line Project authors (https://github.com/cyrealtype/metropolitan-line)",
+"designer": "Cyreal, Alexei Vanyashin, Michael Voronin",
+"designerURL": "https://cyreal.org",
+"manufacturer": "Cyreal",
+"manufacturerURL": "https://cyreal.org",
+"licenseDescription": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+"licenseInfoURL": "http://scripts.sil.org/OFL",
+"vendorID": "CYRE",
+"customData": {
+"openTypeHeadCreated": "2026/07/08 12:27:20",
+"openTypeOS2Selection": [
+7
+],
+"openTypeOS2Type": []
+}
+},
+"axes": {
+"axes": [
+{
+"name": "Weight",
+"label": "Weight",
+"tag": "wght",
+"minValue": 400,
+"defaultValue": 400,
+"maxValue": 400,
+"mapping": [
+[
+400,
+900
+]
+]
+}
+]
+},
+"sources": {
+"Metropolitan Line Bold": {
+"name": "Bold",
+"location": {
+"Weight": 900
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 1400,
+"zone": 32
+},
+"capHeight": {
+"value": 1400,
+"zone": 32
+},
+"xHeight": {
+"value": 950,
+"zone": 32
+},
+"descender": {
+"value": -450,
+"zone": -32
+},
+"baseline": {
+"value": 0,
+"zone": -32
+}
+},
+"customData": {
+"openTypeHheaAscender": 1900,
+"openTypeHheaDescender": -500,
+"openTypeHheaLineGap": 0,
+"openTypeOS2TypoAscender": 1900,
+"openTypeOS2TypoDescender": -500,
+"openTypeOS2TypoLineGap": 0,
+"openTypeOS2WinAscent": 1880,
+"openTypeOS2WinDescent": 500,
+"postscriptBlueValues": [
+-20,
+0,
+950,
+970,
+1400,
+1420,
+1400,
+1424
+],
+"postscriptOtherBlues": [
+-470,
+-450
+],
+"postscriptUnderlinePosition": -100,
+"postscriptUnderlineThickness": 50
+}
+},
+"Metropolitan Line Regular": {
+"name": "Regular",
+"location": {
+"Weight": 400
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 1400,
+"zone": 32
+},
+"capHeight": {
+"value": 1400,
+"zone": 32
+},
+"xHeight": {
+"value": 950,
+"zone": 32
+},
+"descender": {
+"value": -450,
+"zone": -32
+},
+"baseline": {
+"value": 0,
+"zone": -32
+}
+},
+"customData": {
+"openTypeHheaAscender": 1900,
+"openTypeHheaDescender": -500,
+"openTypeHheaLineGap": 0,
+"openTypeOS2TypoAscender": 1900,
+"openTypeOS2TypoDescender": -500,
+"openTypeOS2TypoLineGap": 0,
+"openTypeOS2WinAscent": 1880,
+"openTypeOS2WinDescent": 500,
+"postscriptBlueValues": [
+-20,
+0,
+950,
+970,
+1400,
+1420,
+1400,
+1424
+],
+"postscriptOtherBlues": [
+-470,
+-450
+],
+"postscriptUnderlinePosition": -100,
+"postscriptUnderlineThickness": 50
+}
+}
+},
+"conditionalSubstitutions": {
+"featureTags": [
+"rvrn"
+],
+"rules": []
+},
+"customData": {
+"GSDimensionPlugin.Dimensions": {
+"m001": {
+"HH": "100",
+"HV": "110",
+"OH": "102",
+"OV": "112",
+"nV": "100",
+"nd": "86",
+"oH": "95",
+"oV": "100",
+"tH": "90"
+}
+},
+"KernOnVersion": "1.37",
+"UFOFormat": 3
+}
+}

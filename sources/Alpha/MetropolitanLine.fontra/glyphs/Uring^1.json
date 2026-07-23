@@ -1,0 +1,93 @@
+{
+"name": "Uring",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "U"
+},
+{
+"name": "ringcomb.case",
+"transformation": {
+"translateX": 390
+}
+}
+],
+"xAdvance": 1272,
+"anchors": [
+{
+"name": "bottom",
+"x": 636,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 918,
+"y": 48
+},
+{
+"name": "top",
+"x": 634,
+"y": 1718
+},
+{
+"name": "topright",
+"x": 1242,
+"y": 1400
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "U"
+},
+{
+"name": "ringcomb.case",
+"transformation": {
+"translateX": 460
+}
+}
+],
+"xAdvance": 1412,
+"anchors": [
+{
+"name": "bottom",
+"x": 706,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 988,
+"y": 48
+},
+{
+"name": "top",
+"x": 704,
+"y": 1718
+},
+{
+"name": "topright",
+"x": 1312,
+"y": 1400
+}
+]
+}
+}
+}
+}

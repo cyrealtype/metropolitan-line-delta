@@ -1,0 +1,231 @@
+{
+"name": "ogonekcomb",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 256,
+"y": -398,
+"smooth": true
+},
+{
+"x": 327,
+"y": -398,
+"type": "quad"
+},
+{
+"x": 382,
+"y": -368
+},
+{
+"x": 382,
+"y": -200
+},
+{
+"x": 331,
+"y": -230,
+"type": "quad"
+},
+{
+"x": 272,
+"y": -230,
+"smooth": true
+},
+{
+"x": 218,
+"y": -230,
+"type": "quad"
+},
+{
+"x": 168,
+"y": -188,
+"type": "quad"
+},
+{
+"x": 168,
+"y": -146,
+"smooth": true
+},
+{
+"x": 168,
+"y": -107,
+"type": "quad"
+},
+{
+"x": 206,
+"y": -40,
+"type": "quad"
+},
+{
+"x": 246,
+"y": 0
+},
+{
+"x": 96,
+"y": 0
+},
+{
+"x": 56,
+"y": -37,
+"type": "quad"
+},
+{
+"x": 14,
+"y": -140,
+"type": "quad"
+},
+{
+"x": 14,
+"y": -196,
+"smooth": true
+},
+{
+"x": 14,
+"y": -296,
+"type": "quad"
+},
+{
+"x": 150,
+"y": -398,
+"type": "quad"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_ogonek",
+"x": 246,
+"y": 0
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 256,
+"y": -398,
+"smooth": true
+},
+{
+"x": 327,
+"y": -398,
+"type": "quad"
+},
+{
+"x": 382,
+"y": -368
+},
+{
+"x": 382,
+"y": -200
+},
+{
+"x": 331,
+"y": -230,
+"type": "quad"
+},
+{
+"x": 272,
+"y": -230,
+"smooth": true
+},
+{
+"x": 218,
+"y": -230,
+"type": "quad"
+},
+{
+"x": 168,
+"y": -188,
+"type": "quad"
+},
+{
+"x": 168,
+"y": -146,
+"smooth": true
+},
+{
+"x": 168,
+"y": -107,
+"type": "quad"
+},
+{
+"x": 206,
+"y": -40,
+"type": "quad"
+},
+{
+"x": 246,
+"y": 0
+},
+{
+"x": 96,
+"y": 0
+},
+{
+"x": 56,
+"y": -37,
+"type": "quad"
+},
+{
+"x": 14,
+"y": -140,
+"type": "quad"
+},
+{
+"x": 14,
+"y": -196,
+"smooth": true
+},
+{
+"x": 14,
+"y": -296,
+"type": "quad"
+},
+{
+"x": 150,
+"y": -398,
+"type": "quad"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_ogonek",
+"x": 246,
+"y": 0
+}
+]
+}
+}
+}
+}
