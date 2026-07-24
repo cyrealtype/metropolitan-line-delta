@@ -9,11 +9,6 @@ echo "Done → MetropolitanLineDelta-VF.ttf"
 
 # STATICS
 #sh source
-
-# Apply non-linear avar2
-python3 ../tools/apply-avar1.py ../fonts/MetropolitanLineDelta-VF.ttf
-echo "Done → applying avar1"
-
 #/build-MetropolitanDelta-statics.sh
 
 deactivate

@@ -5,7 +5,59 @@
       <labelname xml:lang="en">Weight</labelname>
     </axis>
   </axes>
+  <mappings>
+    <!-- Identity anchors -->
+    <mapping>
+      <input><dimension name="Weight" xvalue="400"/></input>
+      <output><dimension name="Weight" xvalue="400"/></output>
+    </mapping>
   
+    <!-- Light region: small changes -->
+    <mapping>
+      <input><dimension name="Weight" xvalue="450"/></input>
+      <output><dimension name="Weight" xvalue="410"/></output>
+    </mapping>
+    <mapping>
+      <input><dimension name="Weight" xvalue="500"/></input>
+      <output><dimension name="Weight" xvalue="430"/></output>
+    </mapping>
+    <mapping>
+      <input><dimension name="Weight" xvalue="550"/></input>
+      <output><dimension name="Weight" xvalue="460"/></output>
+    </mapping>
+    <mapping>
+      <input><dimension name="Weight" xvalue="600"/></input>
+      <output><dimension name="Weight" xvalue="500"/></output>
+    </mapping>
+  
+    <!-- Bold region: accelerating changes -->
+    <mapping>
+      <input><dimension name="Weight" xvalue="650"/></input>
+      <output><dimension name="Weight" xvalue="560"/></output>
+    </mapping>
+    <mapping>
+      <input><dimension name="Weight" xvalue="700"/></input>
+      <output><dimension name="Weight" xvalue="630"/></output>
+    </mapping>
+    <mapping>
+      <input><dimension name="Weight" xvalue="750"/></input>
+      <output><dimension name="Weight" xvalue="710"/></output>
+    </mapping>
+    <mapping>
+      <input><dimension name="Weight" xvalue="800"/></input>
+      <output><dimension name="Weight" xvalue="790"/></output>
+    </mapping>
+    <mapping>
+      <input><dimension name="Weight" xvalue="850"/></input>
+      <output><dimension name="Weight" xvalue="860"/></output>
+    </mapping>
+  
+    <!-- Identity anchor -->
+    <mapping>
+      <input><dimension name="Weight" xvalue="900"/></input>
+      <output><dimension name="Weight" xvalue="900"/></output>
+    </mapping>
+  </mappings>
   <sources>
     <source filename="MetropolitanLineDelta-Regular.ufo" 
             name="Metropolitan Line Regular" 
