@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrow.ss03" format="2">
+  <advance width="1996"/>
+  <outline>
+    <contour>
+      <point x="1996" y="674" type="line"/>
+      <point x="1996" y="474" type="line"/>
+      <point x="0" y="474" type="line"/>
+      <point x="0" y="674" type="line"/>
+      <point x="1996" y="674" type="line"/>
+    </contour>
+    <contour>
+      <point x="851" y="202" type="line"/>
+      <point x="507" y="574" type="line"/>
+      <point x="851" y="946" type="line"/>
+      <point x="1131" y="946" type="line"/>
+      <point x="779" y="576" type="line"/>
+      <point x="1131" y="202" type="line"/>
+      <point x="851" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="1283" y="202" type="line"/>
+      <point x="939" y="574" type="line"/>
+      <point x="1283" y="946" type="line"/>
+      <point x="1563" y="946" type="line"/>
+      <point x="1211" y="576" type="line"/>
+      <point x="1563" y="202" type="line"/>
+      <point x="1283" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="1716" y="202" type="line"/>
+      <point x="1372" y="574" type="line"/>
+      <point x="1716" y="946" type="line"/>
+      <point x="1996" y="946" type="line"/>
+      <point x="1644" y="576" type="line"/>
+      <point x="1996" y="202" type="line"/>
+      <point x="1716" y="202" type="line"/>
+    </contour>
+  </outline>
+</glyph>

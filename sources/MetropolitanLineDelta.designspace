@@ -5,19 +5,25 @@
     <axis tag="wdth" name="wdth" minimum="50" maximum="100" default="100"/>
   </axes>
   <sources>
-    <source filename="MetropolitanLineDelta_Condensed.ufo" name="86a2637f" familyname="Metropolitan Line" stylename="Condensed">
+    <source filename="MetropolitanLineDelta-Condensed.ufo" name="Metropolitan Line Delta Condensed" familyname="Metropolitan Line" stylename="Condensed">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="50"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-Regular.ufo" name="Metropolitan Line Regular" familyname="Metropolitan Line" stylename="Regular">
+    <source filename="MetropolitanLineDelta-Regular.ufo" name="Metropolitan Line Delta Regular" familyname="Metropolitan Line" stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-Bold.ufo" name="Metropolitan Line Bold" familyname="Metropolitan Line" stylename="Bold">
+    <source filename="MetropolitanLineDelta-Condensed Bold.ufo" name="Metropolitan Line Delta Condensed Bold" familyname="Metropolitan Line" stylename="Condensed Bold">
+      <location>
+        <dimension name="wght" xvalue="900"/>
+        <dimension name="wdth" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-Bold.ufo" name="Metropolitan Line Delta Bold" familyname="Metropolitan Line" stylename="Bold">
       <location>
         <dimension name="wght" xvalue="900"/>
         <dimension name="wdth" xvalue="100"/>
@@ -28,6 +34,7 @@
     <variable-font name="MetropolitanLineDelta-VF">
       <axis-subsets>
         <axis-subset name="wght"/>
+        <axis-subset name="wdth"/>
       </axis-subsets>
     </variable-font>
   </variable-fonts>
