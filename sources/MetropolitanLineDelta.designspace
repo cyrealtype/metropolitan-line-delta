@@ -4,7 +4,6 @@
     <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
       <labelname xml:lang="en">Weight</labelname>
     </axis>
-  </axes>
   <mappings>
     <!-- Identity anchors -->
     <mapping>
@@ -58,6 +57,7 @@
       <output><dimension name="Weight" xvalue="900"/></output>
     </mapping>
   </mappings>
+  </axes>
   <sources>
     <source filename="MetropolitanLineDelta-Regular.ufo" 
             name="Metropolitan Line Regular" 
