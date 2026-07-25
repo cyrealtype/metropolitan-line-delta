@@ -1,87 +1,119 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="5.0">
+<designspace format="5.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
-      <labelname xml:lang="en">Weight</labelname>
-    </axis>
-  <mappings>
-    <!-- Identity anchors -->
-    <mapping>
-      <input><dimension name="Weight" xvalue="400"/></input>
-      <output><dimension name="Weight" xvalue="400"/></output>
-    </mapping>
-  
-    <!-- Light region: small changes -->
-    <mapping>
-      <input><dimension name="Weight" xvalue="450"/></input>
-      <output><dimension name="Weight" xvalue="410"/></output>
-    </mapping>
-    <mapping>
-      <input><dimension name="Weight" xvalue="500"/></input>
-      <output><dimension name="Weight" xvalue="430"/></output>
-    </mapping>
-    <mapping>
-      <input><dimension name="Weight" xvalue="550"/></input>
-      <output><dimension name="Weight" xvalue="460"/></output>
-    </mapping>
-    <mapping>
-      <input><dimension name="Weight" xvalue="600"/></input>
-      <output><dimension name="Weight" xvalue="500"/></output>
-    </mapping>
-  
-    <!-- Bold region: accelerating changes -->
-    <mapping>
-      <input><dimension name="Weight" xvalue="650"/></input>
-      <output><dimension name="Weight" xvalue="560"/></output>
-    </mapping>
-    <mapping>
-      <input><dimension name="Weight" xvalue="700"/></input>
-      <output><dimension name="Weight" xvalue="630"/></output>
-    </mapping>
-    <mapping>
-      <input><dimension name="Weight" xvalue="750"/></input>
-      <output><dimension name="Weight" xvalue="710"/></output>
-    </mapping>
-    <mapping>
-      <input><dimension name="Weight" xvalue="800"/></input>
-      <output><dimension name="Weight" xvalue="790"/></output>
-    </mapping>
-    <mapping>
-      <input><dimension name="Weight" xvalue="850"/></input>
-      <output><dimension name="Weight" xvalue="860"/></output>
-    </mapping>
-  
-    <!-- Identity anchor -->
-    <mapping>
-      <input><dimension name="Weight" xvalue="900"/></input>
-      <output><dimension name="Weight" xvalue="900"/></output>
-    </mapping>
-  </mappings>
+    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400"/>
+    <axis tag="wdth" name="width" minimum="50" maximum="100" default="100"/>
+    <mappings>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="400"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="400"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="450"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="410"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="500"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="430"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="550"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="460"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="600"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="500"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="650"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="560"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="700"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="630"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="750"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="710"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="800"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="790"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="850"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="860"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="900"/>
+        </input>
+        <output>
+          <dimension name="Weight" xvalue="900"/>
+        </output>
+      </mapping>
+    </mappings>
   </axes>
   <sources>
-    <source filename="MetropolitanLineDelta-Regular.ufo" 
-            name="Metropolitan Line Regular" 
-            familyname="Metropolitan Line" 
-            stylename="Regular">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
+    <source filename="MetropolitanLineDelta_Condensed.ufo" name="86a2637f" familyname="Metropolitan Line" stylename="Condensed">
       <location>
         <dimension name="Weight" xvalue="400"/>
+        <dimension name="width" xvalue="50"/>
       </location>
     </source>
-    
-    <source filename="MetropolitanLineDelta-Bold.ufo" 
-            name="Metropolitan Line Bold" 
-            familyname="Metropolitan Line" 
-            stylename="Bold">
+    <source filename="MetropolitanLineDelta-Regular.ufo" name="Metropolitan Line Regular" familyname="Metropolitan Line" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-Bold.ufo" name="Metropolitan Line Bold" familyname="Metropolitan Line" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="900"/>
+        <dimension name="width" xvalue="100"/>
       </location>
     </source>
   </sources>
-  
   <variable-fonts>
     <variable-font name="MetropolitanLineDelta-VF">
       <axis-subsets>

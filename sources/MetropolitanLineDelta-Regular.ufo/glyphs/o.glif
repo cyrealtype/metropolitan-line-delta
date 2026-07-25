@@ -45,4 +45,13 @@
       <point x="630" y="170"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Condensed</key>
+        <string>86a2637f</string>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
