@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightArrow.ss03" format="2">
+  <advance width="2196"/>
+  <outline>
+    <contour>
+      <point x="100" y="674" type="line"/>
+      <point x="100" y="474" type="line"/>
+      <point x="2096" y="474" type="line"/>
+      <point x="2096" y="674" type="line"/>
+      <point x="100" y="674" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="202" type="line"/>
+      <point x="381" y="202" type="line"/>
+      <point x="725" y="574" type="line"/>
+      <point x="381" y="946" type="line"/>
+      <point x="101" y="946" type="line"/>
+      <point x="453" y="576" type="line"/>
+      <point x="101" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="202" type="line"/>
+      <point x="813" y="202" type="line"/>
+      <point x="1157" y="574" type="line"/>
+      <point x="813" y="946" type="line"/>
+      <point x="533" y="946" type="line"/>
+      <point x="885" y="576" type="line"/>
+      <point x="533" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="965" y="202" type="line"/>
+      <point x="1245" y="202" type="line"/>
+      <point x="1589" y="574" type="line"/>
+      <point x="1245" y="946" type="line"/>
+      <point x="965" y="946" type="line"/>
+      <point x="1317" y="576" type="line"/>
+      <point x="965" y="202" type="line"/>
+    </contour>
+  </outline>
+</glyph>

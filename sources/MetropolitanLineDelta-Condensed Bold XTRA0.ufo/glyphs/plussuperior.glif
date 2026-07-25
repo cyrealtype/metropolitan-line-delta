@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plussuperior" format="2">
+  <advance width="676"/>
+  <unicode hex="207A"/>
+  <outline>
+    <component base="plusinferior" yOffset="1000"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>plusinferior</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,40 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.1">
   <axes>
-    <axis tag="wght" name="wght" minimum="400" maximum="900" default="400"/>
-    <axis tag="wdth" name="wdth" minimum="50" maximum="100" default="100"/>
+    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="50" maximum="100" default="100">
+      <labelname xml:lang="en">Width</labelname>
+    </axis>
+    <axis tag="XTRA" name="Extra Spacing" minimum="0" default="0" maximum="100" hidden="1">
+      <labelname xml:lang="en">Extra Spacing</labelname>
+    </axis>
+
+    <mappings>
+      <!-- Light Condensed: no spacing -->
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="50"/>
+        </input>
+        <output>
+          <dimension name="Extra Spacing" xvalue="0"/>
+        </output>
+      </mapping>
+
+      <!-- Light Wide: no spacing -->
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="400"/>
+          <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+          <dimension name="Extra Spacing" xvalue="0"/>
+        </output>
+      </mapping>
+
+      <!-- Bold Wide: no spacing (XTRA activates separately here) -->
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="900"/>
+          <dimension name="Width" xvalue="100"/>
+        </input>
+        <output>
+          <dimension name="Extra Spacing" xvalue="0"/>
+        </output>
+      </mapping>
+
+      <!-- Threshold: weight 700 + width 80 -->
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="700"/>
+          <dimension name="Width" xvalue="80"/>
+        </input>
+        <output>
+          <dimension name="Extra Spacing" xvalue="0"/>
+        </output>
+      </mapping>
+
+      <!-- Bold Condensed: 75% spacing -->
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="900"/>
+          <dimension name="Width" xvalue="50"/>
+        </input>
+        <output>
+          <dimension name="Extra Spacing" xvalue="75"/>
+        </output>
+      </mapping>
+
+      <!-- Bold + slightly condensed: 30% spacing -->
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="900"/>
+          <dimension name="Width" xvalue="80"/>
+        </input>
+        <output>
+          <dimension name="Extra Spacing" xvalue="30"/>
+        </output>
+      </mapping>
+
+      <!-- SemiBold + fully condensed: 20% spacing -->
+      <mapping>
+        <input>
+          <dimension name="Weight" xvalue="700"/>
+          <dimension name="Width" xvalue="50"/>
+        </input>
+        <output>
+          <dimension name="Extra Spacing" xvalue="20"/>
+        </output>
+      </mapping>
+    </mappings>
   </axes>
+
   <sources>
-    <source filename="MetropolitanLineDelta-Condensed.ufo" name="Metropolitan Line Delta Condensed" familyname="Metropolitan Line" stylename="Condensed">
+    <source filename="MetropolitanLineDelta-Condensed.ufo"
+            name="Metropolitan Line Delta Condensed"
+            familyname="Metropolitan Line" stylename="Condensed">
       <location>
-        <dimension name="wght" xvalue="400"/>
-        <dimension name="wdth" xvalue="50"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="50"/>
+        <dimension name="Extra Spacing" xvalue="0"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-Regular.ufo" name="Metropolitan Line Delta Regular" familyname="Metropolitan Line" stylename="Regular">
+
+    <source filename="MetropolitanLineDelta-Regular.ufo"
+            name="Metropolitan Line Delta Regular"
+            familyname="Metropolitan Line" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
-        <dimension name="wght" xvalue="400"/>
-        <dimension name="wdth" xvalue="100"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Extra Spacing" xvalue="0"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-Condensed Bold.ufo" name="Metropolitan Line Delta Condensed Bold" familyname="Metropolitan Line" stylename="Condensed Bold">
+
+    <!-- Bold Wide at XTRA=0 -->
+    <source filename="MetropolitanLineDelta-Bold.ufo"
+            name="Metropolitan Line Delta Bold"
+            familyname="Metropolitan Line" stylename="Bold">
       <location>
-        <dimension name="wght" xvalue="900"/>
-        <dimension name="wdth" xvalue="50"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Extra Spacing" xvalue="0"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-Bold.ufo" name="Metropolitan Line Delta Bold" familyname="Metropolitan Line" stylename="Bold">
+
+    <!-- Bold Wide at XTRA=100 -->
+    <source filename="MetropolitanLineDelta-Bold XTRA100.ufo"
+            name="Metropolitan Line Delta Bold XTRA100"
+            familyname="Metropolitan Line" stylename="Bold Wide">
       <location>
-        <dimension name="wght" xvalue="900"/>
-        <dimension name="wdth" xvalue="100"/>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="Extra Spacing" xvalue="100"/>
+      </location>
+    </source>
+
+    <!-- Bold Condensed at XTRA=0 -->
+    <source filename="MetropolitanLineDelta-Condensed Bold XTRA0.ufo"
+            name="Metropolitan Line Delta Condensed Bold XTRA0"
+            familyname="Metropolitan Line" stylename="Condensed Bold">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Width" xvalue="50"/>
+        <dimension name="Extra Spacing" xvalue="0"/>
+      </location>
+    </source>
+
+    <!-- Bold Condensed at XTRA=100 -->
+    <source filename="MetropolitanLineDelta-Condensed Bold XTRA100.ufo"
+            name="Metropolitan Line Delta Condensed Bold XTRA100"
+            familyname="Metropolitan Line" stylename="Condensed Bold Wide">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Width" xvalue="50"/>
+        <dimension name="Extra Spacing" xvalue="100"/>
       </location>
     </source>
   </sources>
+
   <variable-fonts>
     <variable-font name="MetropolitanLineDelta-VF">
       <axis-subsets>
-        <axis-subset name="wght"/>
-        <axis-subset name="wdth"/>
+        <axis-subset name="Weight"/>
+        <axis-subset name="Width"/>
+        <axis-subset name="Extra Spacing"/>
       </axis-subsets>
     </variable-font>
   </variable-fonts>
