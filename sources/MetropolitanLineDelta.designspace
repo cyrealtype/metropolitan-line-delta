@@ -7,8 +7,8 @@
     <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="100" hidden="1"/>
     <axis tag="XOUC" name="XOUC" minimum="2" maximum="300" default="110" hidden="1"/>
     <axis tag="YOUC" name="YOUC" minimum="2" maximum="280" default="100" hidden="1"/>
-    <mappings>
-      <mapping>
+    <mappings description="Horizontal stroke">
+      <mapping description="min">
         <input>
           <dimension name="XOPQ" xvalue="2"/>
         </input>
@@ -16,7 +16,7 @@
           <dimension name="XOUC" xvalue="2"/>
         </output>
       </mapping>
-      <mapping>
+      <mapping description="max">
         <input>
           <dimension name="XOPQ" xvalue="300"/>
         </input>
@@ -24,7 +24,9 @@
           <dimension name="XOUC" xvalue="110"/>
         </output>
       </mapping>
-      <mapping>
+    </mappings>
+    <mappings description="Vertical stroke">
+      <mapping description="min">
         <input>
           <dimension name="YOPQ" xvalue="2"/>
         </input>
@@ -32,7 +34,7 @@
           <dimension name="YOUC" xvalue="2"/>
         </output>
       </mapping>
-      <mapping>
+      <mapping description="max">
         <input>
           <dimension name="YOPQ" xvalue="280"/>
         </input>
@@ -40,7 +42,22 @@
           <dimension name="YOUC" xvalue="280"/>
         </output>
       </mapping>
-      <mapping>
+    </mappings>
+    <mappings description="Weight">
+      <mapping description="min">
+        <input>
+          <dimension name="Weight" xvalue="1"/>
+          <dimension name="XTSP" xvalue="-30.826314"/>
+        </input>
+        <output>
+          <dimension name="XOPQ" xvalue="2"/>
+          <dimension name="YOPQ" xvalue="2"/>
+          <dimension name="XTSP" xvalue="0"/>
+          <dimension name="XOUC" xvalue="2"/>
+          <dimension name="YOUC" xvalue="2"/>
+        </output>
+      </mapping>
+      <mapping description="default">
         <input>
           <dimension name="Weight" xvalue="400"/>
         </input>
@@ -52,28 +69,16 @@
           <dimension name="YOUC" xvalue="100"/>
         </output>
       </mapping>
-      <mapping>
+      <mapping description="max">
         <input>
           <dimension name="Weight" xvalue="1000"/>
         </input>
         <output>
-          <dimension name="XTSP" xvalue="50.790123"/>
+          <dimension name="XTSP" xvalue="14.861613"/>
           <dimension name="XOPQ" xvalue="300"/>
           <dimension name="YOPQ" xvalue="280"/>
           <dimension name="XOUC" xvalue="300"/>
-          <dimension name="YOUC" xvalue="280"/>
-        </output>
-      </mapping>
-      <mapping>
-        <input>
-          <dimension name="Weight" xvalue="1"/>
-        </input>
-        <output>
-          <dimension name="XOPQ" xvalue="2"/>
-          <dimension name="YOPQ" xvalue="2"/>
-          <dimension name="XTSP" xvalue="0"/>
-          <dimension name="XOUC" xvalue="2"/>
-          <dimension name="YOUC" xvalue="2"/>
+          <dimension name="YOUC" xvalue="244.455475"/>
         </output>
       </mapping>
     </mappings>
