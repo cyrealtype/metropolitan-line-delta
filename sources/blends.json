@@ -3,19 +3,19 @@
 		"wght": {
 			"name": "Weight",
 			"default": 400,
-			"min": 400,
+			"min": 1,
 			"max": 800
 		},
 	},
 	"sources" : {
 		"wght400": {
 			"XOPQ": 100.0,
-			"XTSP": -5.0,
+			"XTSP": 72.5,
 			"YOPQ": 85.0,
 		},
 		"wght1000": {
 			"XOPQ": 158.0,
-			"XTSP": -5.0,
+			"XTSP": 60.0,
 			"YOPQ": 112.0,
 		},
 	}
