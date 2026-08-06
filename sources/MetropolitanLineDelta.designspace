@@ -144,6 +144,11 @@
     <variable-font name="MetropolitanLineDelta-VF">
       <axis-subsets>
         <axis-subset name="Weight"/>
+        <axis-subset name="XTSP"/>
+        <axis-subset name="XOPQ"/>
+        <axis-subset name="YOPQ"/>
+        <axis-subset name="XOUC"/>
+        <axis-subset name="YOUC"/>
       </axis-subsets>
     </variable-font>
   </variable-fonts>
