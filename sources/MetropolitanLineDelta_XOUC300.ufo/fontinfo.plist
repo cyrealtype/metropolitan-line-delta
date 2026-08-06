@@ -12,10 +12,6 @@
     <integer>-450</integer>
     <key>familyName</key>
     <string>Metropolitan Line Delta</string>
-    <key>guidelines</key>
-    <array/>
-    <key>italicAngle</key>
-    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2026/07/08 12:27:20</string>
     <key>openTypeHheaAscender</key>
@@ -52,6 +48,10 @@
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>CYRE</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>1880</integer>
     <key>openTypeOS2WinDescent</key>
@@ -62,8 +62,6 @@
       <integer>0</integer>
       <integer>950</integer>
       <integer>970</integer>
-      <integer>1400</integer>
-      <integer>1420</integer>
       <integer>1400</integer>
       <integer>1424</integer>
     </array>

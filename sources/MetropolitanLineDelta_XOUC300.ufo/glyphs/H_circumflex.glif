@@ -7,7 +7,26 @@
   <anchor x="678" y="1718" name="top"/>
   <anchor x="100" y="1400" name="topleft"/>
   <outline>
-    <component base="H"/>
-    <component base="circumflexcomb.case" xOffset="292"/>
+    <component base="H" identifier="BC41B878"/>
+    <component base="circumflexcomb.case" xOffset="292" identifier="147B6C73"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-06 20:39:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>147B6C73</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BC41B878</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

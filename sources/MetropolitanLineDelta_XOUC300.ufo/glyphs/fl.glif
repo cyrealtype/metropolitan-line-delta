@@ -8,30 +8,26 @@
   <anchor x="1094" y="1400" name="topright_1"/>
   <anchor x="630" y="0" name="caret_1"/>
   <outline>
-    <component base="f"/>
-    <component base="l" xOffset="590"/>
+    <component base="f" identifier="DE7712E7"/>
+    <component base="l" xOffset="590" identifier="1233A957"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-06 20:39:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1233A957</key>
         <dict>
-          <key>alignment</key>
+          <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>f</string>
         </dict>
+        <key>DE7712E7</key>
         <dict>
-          <key>alignment</key>
+          <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>l</string>
         </dict>
-      </array>
+      </dict>
     </dict>
   </lib>
 </glyph>

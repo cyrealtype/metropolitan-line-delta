@@ -7,30 +7,26 @@
   <anchor x="202" y="1400" name="top"/>
   <anchor x="504" y="1400" name="topright"/>
   <outline>
-    <component base="l"/>
-    <component base="caroncomb.alt" xOffset="330"/>
+    <component base="l" identifier="B9E4DFF7"/>
+    <component base="caroncomb.alt" xOffset="330" identifier="14BC1E19"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-06 20:39:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>14BC1E19</key>
         <dict>
-          <key>alignment</key>
+          <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>l</string>
         </dict>
+        <key>B9E4DFF7</key>
         <dict>
-          <key>alignment</key>
+          <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>caroncomb.alt</string>
         </dict>
-      </array>
+      </dict>
     </dict>
   </lib>
 </glyph>
