@@ -1,27 +1,90 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+    <axis tag="wght" name="Weight" minimum="400" maximum="1000" default="400">
       <labelname xml:lang="en">Weight</labelname>
+    </axis>
+    <!-- PARAMETRIC -->
+    <axis tag="XTSP" name="XTSP" minimum="-100" maximum="100" default="0">
+      <labelname xml:lang="en">Parametric Spacing</labelname>
+    </axis>
+    <axis tag="XOPQ" name="XOPQ" minimum="2" maximum="300" default="110" hidden="1">
+      <labelname xml:lang="en">Parametric Thick Stroke</labelname>
+    </axis>
+    <axis tag="YOPQ" name="YOPQ" minimum="2" maximum="280" default="100" hidden="1">
+      <labelname xml:lang="en">Parametric Thin Stroke</labelname>
+    </axis>
+    <!-- UPPERCASE -->
+    <axis tag="XOUC" name="XOUC" minimum="2" maximum="300" default="110" hidden="1">
+      <labelname xml:lang="en">Parametric Thick Stroke Uppercase</labelname>
+    </axis>
+    <axis tag="YOUC" name="YOUC" minimum="2" maximum="280" default="100" hidden="1">
+      <labelname xml:lang="en">Parametric Thin Stroke Uppercase</labelname>
+    </axis>
     </axis>
   </axes>
 
-  <sources>
+  <mappings>
+    <!-- Weight 400 (Regular) - Default -->
+    <mapping>
+      <input>
+        <dimension name="Weight" xvalue="400"/>
+      </input>
+      <output>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="XTSP" xvalue="0"/>
+      </output>
+    </mapping>
 
-    <source filename="MetropolitanLineDelta-Regular.ufo"
-            name="Metropolitan Line Delta Regular"
-            familyname="Metropolitan Line" stylename="Regular">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
+    <!-- Weight 600 (Semibold) -->
+    <mapping>
+      <input>
+        <dimension name="Weight" xvalue="600"/>
+      </input>
+      <output>
+        <dimension name="XOPQ" xvalue="180"/>
+        <dimension name="YOPQ" xvalue="150"/>
+        <dimension name="XOUC" xvalue="180"/>
+        <dimension name="YOUC" xvalue="150"/>
+        <dimension name="XTSP" xvalue="-10"/>
+      </output>
+    </mapping>
+
+    <!-- Weight 800 (Black) -->
+    <mapping>
+      <input>
+        <dimension name="Weight" xvalue="800"/>
+      </input>
+      <output>
+        <dimension name="XOPQ" xvalue="260"/>
+        <dimension name="YOPQ" xvalue="210"/>
+        <dimension name="XOUC" xvalue="260"/>
+        <dimension name="YOUC" xvalue="210"/>
+        <dimension name="XTSP" xvalue="-30"/>
+      </output>
+    </mapping>
+  </mappings>
+
+  <sources>
+    <source filename="MetropolitanLineDelta-Regular.ufo" name="Regular" familyname="Metropolitan Line" stylename="Regular">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
+    <source filename="MetropolitanLineDelta-Semibold.ufo" name="Semibold" familyname="Metropolitan Line" stylename="Semibold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-Black.ufo" name="Black" familyname="Metropolitan Line" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
   </sources>
-
-    
 
   <variable-fonts>
     <variable-font name="MetropolitanLineDelta-VF">

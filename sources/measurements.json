@@ -1,0 +1,34 @@
+{
+  "font": {
+    "XOPQ": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "0",
+      "glyph 2": "H",
+      "point 2": "9",
+      "parent": "",
+      "description": ""
+    },
+    "XTSP": {
+      "direction": "x",
+      "glyph 1": "H",
+      "point 1": "-1",
+      "glyph 2": "H",
+      "point 2": "0",
+      "parent": "",
+      "description": ""
+    },
+    "YOPQ": {
+      "direction": "y",
+      "glyph 1": "H",
+      "point 1": "0",
+      "glyph 2": "H",
+      "point 2": "1",
+      "parent": "",
+      "description": ""
+    },
+  },
+  "glyphs": {
+    "H": {},
+  }
+}
