@@ -21,7 +21,6 @@
     <axis tag="YOUC" name="YOUC" minimum="2" maximum="280" default="100" hidden="1">
       <labelname xml:lang="en">Parametric Thin Stroke Uppercase</labelname>
     </axis>
-    </axis>
   </axes>
 
   <mappings>
@@ -69,19 +68,74 @@
   </mappings>
 
   <sources>
-    <source filename="MetropolitanLineDelta-Regular.ufo" name="Regular" familyname="Metropolitan Line" stylename="Regular">
+    <source filename="MetropolitanLineDelta-wght400.ufo" name="Regular" familyname="Metropolitan Line Delta" stylename="Regular">
       <location>
         <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-Semibold.ufo" name="Semibold" familyname="Metropolitan Line" stylename="Semibold">
+    <source filename="MetropolitanLineDelta_XTSP-100.ufo" name="XTSP-100" familyname="Metropolitan Line Delta" stylename="XTSP-100">
       <location>
-        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="-100"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-Black.ufo" name="Black" familyname="Metropolitan Line" stylename="Black">
+    <source filename="MetropolitanLineDelta_XTSP100.ufo" name="XTSP100" familyname="Metropolitan Line Delta" stylename="XTSP100">
       <location>
-        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="100"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta_XOUC2.ufo" name="XOUC2" familyname="Metropolitan Line Delta" stylename="XOUC2">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="2"/>
+        <dimension name="YOUC" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta_XOUC300.ufo" name="XOUC300" familyname="Metropolitan Line Delta" stylename="XOUC300">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="300"/>
+        <dimension name="YOUC" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta_YOUC2.ufo" name="YOUC2" familyname="Metropolitan Line Delta" stylename="YOUC2">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="2"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta_YOUC280.ufo" name="YOUC280" familyname="Metropolitan Line Delta" stylename="YOUC280">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="0"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="280"/>
       </location>
     </source>
   </sources>
