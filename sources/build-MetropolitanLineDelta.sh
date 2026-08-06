@@ -17,3 +17,7 @@ ttx -t avar -o - ../fonts/MetropolitanLineDelta-VF.ttf | head -30
 #/build-MetropolitanDelta-statics.sh
 
 deactivate
+
+echo 'Copying to fonts folder...'
+cp ../fonts/MetropolitanLineDelta-VF.ttf ~/Library/Fonts/avar2
+echo '✅ Done'
