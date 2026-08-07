@@ -44,40 +44,40 @@
       </mapping>
     </mappings>
     <mappings description="Weight">
-      <mapping description="min">
+      <mapping description="Light">
         <input>
           <dimension name="Weight" xvalue="1"/>
         </input>
         <output>
+          <dimension name="XOPQ" xvalue="5"/>
+          <dimension name="YOPQ" xvalue="5"/>
+          <dimension name="XTSP" xvalue="72.5"/>
           <dimension name="XOUC" xvalue="110"/>
           <dimension name="YOUC" xvalue="100"/>
-          <dimension name="XTSP" xvalue="72"/>
-          <dimension name="XOPQ" xvalue="110"/>
-          <dimension name="YOPQ" xvalue="100"/>
         </output>
       </mapping>
-      <mapping description="default">
+      <mapping description="Regular">
         <input>
           <dimension name="Weight" xvalue="400"/>
         </input>
         <output>
           <dimension name="XOUC" xvalue="110"/>
           <dimension name="YOUC" xvalue="100"/>
-          <dimension name="XTSP" xvalue="72"/>
           <dimension name="XOPQ" xvalue="110"/>
           <dimension name="YOPQ" xvalue="100"/>
+          <dimension name="XTSP" xvalue="72.5"/>
         </output>
       </mapping>
-      <mapping description="max">
+      <mapping description="Black">
         <input>
           <dimension name="Weight" xvalue="1000"/>
         </input>
         <output>
-          <dimension name="XOUC" xvalue="110"/>
-          <dimension name="YOUC" xvalue="280"/>
-          <dimension name="XTSP" xvalue="60"/>
-          <dimension name="XOPQ" xvalue="110"/>
-          <dimension name="YOPQ" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="188"/>
+          <dimension name="XTSP" xvalue="72.5"/>
+          <dimension name="XOPQ" xvalue="201"/>
+          <dimension name="XOUC" xvalue="201"/>
+          <dimension name="YOUC" xvalue="188"/>
         </output>
       </mapping>
     </mappings>
