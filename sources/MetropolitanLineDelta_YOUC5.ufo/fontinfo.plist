@@ -12,6 +12,10 @@
     <integer>-450</integer>
     <key>familyName</key>
     <string>Metropolitan Line Delta</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2026/07/08 12:27:20</string>
     <key>openTypeHheaAscender</key>
@@ -79,7 +83,7 @@
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>YOUC2</string>
+    <string>YOUC5</string>
     <key>unitsPerEm</key>
     <integer>2000</integer>
     <key>versionMajor</key>
