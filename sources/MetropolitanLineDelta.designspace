@@ -7,7 +7,7 @@
     <axis tag="YOPQ" name="YOPQ" minimum="5" maximum="280" default="100" hidden="1"/>
     <axis tag="XOUC" name="XOUC" minimum="5" maximum="300" default="110" hidden="1"/>
     <axis tag="YOUC" name="YOUC" minimum="5" maximum="280" default="100" hidden="1"/>
-    <axis tag="XOLC" name="XOLC" minimum="5" maximum="300" default="100" hidden="1"/>
+    <axis tag="XOLC" name="XOLC" minimum="5" maximum="300" default="110" hidden="1"/>
     <mappings description="Horizontal stroke">
       <mapping description="min">
         <input>
@@ -15,6 +15,7 @@
         </input>
         <output>
           <dimension name="XOUC" xvalue="5"/>
+          <dimension name="XOLC" xvalue="5"/>
         </output>
       </mapping>
       <mapping description="max">
@@ -23,6 +24,7 @@
         </input>
         <output>
           <dimension name="XOUC" xvalue="300"/>
+          <dimension name="XOLC" xvalue="300"/>
         </output>
       </mapping>
     </mappings>
