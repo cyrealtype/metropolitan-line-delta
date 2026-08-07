@@ -36,6 +36,7 @@
         </input>
         <output>
           <dimension name="YOUC" xvalue="5"/>
+          <dimension name="YOLC" xvalue="5"/>
         </output>
       </mapping>
       <mapping description="max">
@@ -44,6 +45,7 @@
         </input>
         <output>
           <dimension name="YOUC" xvalue="280"/>
+          <dimension name="YOLC" xvalue="280"/>
         </output>
       </mapping>
     </mappings>
@@ -56,9 +58,10 @@
           <dimension name="XOPQ" xvalue="5"/>
           <dimension name="YOPQ" xvalue="5"/>
           <dimension name="XTSP" xvalue="72.5"/>
-          <dimension name="XOUC" xvalue="110"/>
-          <dimension name="XOLC" xvalue="110"/>
-          <dimension name="YOUC" xvalue="100"/>
+          <dimension name="XOUC" xvalue="5"/>
+          <dimension name="XOLC" xvalue="5"/>
+          <dimension name="YOUC" xvalue="5"/>
+          <dimension name="YOLC" xvalue="5"/>
         </output>
       </mapping>
       <mapping description="Regular">
@@ -72,6 +75,7 @@
           <dimension name="XOPQ" xvalue="110"/>
           <dimension name="YOPQ" xvalue="100"/>
           <dimension name="XTSP" xvalue="72.5"/>
+          <dimension name="YOLC" xvalue="100"/>
         </output>
       </mapping>
       <mapping description="Black">
@@ -80,11 +84,12 @@
         </input>
         <output>
           <dimension name="YOPQ" xvalue="188"/>
-          <dimension name="XTSP" xvalue="72.5"/>
+          <dimension name="XTSP" xvalue="50"/>
           <dimension name="XOPQ" xvalue="201"/>
           <dimension name="XOUC" xvalue="201"/>
           <dimension name="XOLC" xvalue="201"/>
           <dimension name="YOUC" xvalue="188"/>
+          <dimension name="YOLC" xvalue="188"/>
         </output>
       </mapping>
     </mappings>
@@ -208,6 +213,18 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="280"/>
         <dimension name="YOLC" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta_YOLC=280.ufo" name="::fontra010" familyname="Metropolitan Line Delta" stylename="YOLC280">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="280"/>
       </location>
     </source>
   </sources>
