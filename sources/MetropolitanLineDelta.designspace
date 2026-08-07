@@ -88,8 +88,8 @@
           <dimension name="XOPQ" xvalue="201"/>
           <dimension name="XOUC" xvalue="201"/>
           <dimension name="XOLC" xvalue="201"/>
-          <dimension name="YOUC" xvalue="188"/>
-          <dimension name="YOLC" xvalue="188"/>
+          <dimension name="YOUC" xvalue="220"/>
+          <dimension name="YOLC" xvalue="220"/>
         </output>
       </mapping>
     </mappings>
@@ -107,7 +107,19 @@
         <dimension name="YOLC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_XOLC5.ufo" name="XOLC5" familyname="Metropolitan Line Delta" stylename="XOLC5">
+    <source filename="MetropolitanLineDelta-YOLC280.ufo" name="YOLC280" familyname="Metropolitan Line Delta" stylename="YOLC208">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="280"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-XOLC5.ufo" name="XOLC5" familyname="Metropolitan Line Delta" stylename="XOLC5">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -119,7 +131,7 @@
         <dimension name="YOLC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_XOLC300.ufo" name="XOLC300" familyname="Metropolitan Line Delta" stylename="XOLC300">
+    <source filename="MetropolitanLineDelta-XOLC300.ufo" name="XOLC300" familyname="Metropolitan Line Delta" stylename="XOLC300">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -131,7 +143,7 @@
         <dimension name="YOLC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_XTSP5.ufo" name="XTSP5" familyname="Metropolitan Line Delta" stylename="XTSP5">
+    <source filename="MetropolitanLineDelta-XTSP5.ufo" name="XTSP5" familyname="Metropolitan Line Delta" stylename="XTSP5">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="5"/>
@@ -143,7 +155,7 @@
         <dimension name="YOLC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_XTSP140.ufo" name="XTSP140" familyname="Metropolitan Line Delta" stylename="XTSP140">
+    <source filename="MetropolitanLineDelta-XTSP140.ufo" name="XTSP140" familyname="Metropolitan Line Delta" stylename="XTSP140">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="140"/>
@@ -155,7 +167,7 @@
         <dimension name="YOLC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_XOUC5.ufo" name="XOUC5" familyname="Metropolitan Line Delta" stylename="XOUC5">
+    <source filename="MetropolitanLineDelta-XOUC5.ufo" name="XOUC5" familyname="Metropolitan Line Delta" stylename="XOUC5">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -167,7 +179,7 @@
         <dimension name="YOLC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_XOUC300.ufo" name="XOUC300" familyname="Metropolitan Line Delta" stylename="XOUC300">
+    <source filename="MetropolitanLineDelta-XOUC300.ufo" name="XOUC300" familyname="Metropolitan Line Delta" stylename="XOUC300">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -179,7 +191,7 @@
         <dimension name="YOLC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_YOUC5.ufo" name="YOUC5" familyname="Metropolitan Line Delta" stylename="YOUC5">
+    <source filename="MetropolitanLineDelta-YOUC5.ufo" name="YOUC5" familyname="Metropolitan Line Delta" stylename="YOUC5">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -191,7 +203,7 @@
         <dimension name="YOLC" xvalue="100"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_YOLC5.ufo" name="e0d5dece" familyname="Metropolitan Line Delta" stylename="YOLC5">
+    <source filename="MetropolitanLineDelta-YOLC5.ufo" name="YOLC5" familyname="Metropolitan Line Delta" stylename="YOLC5">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -203,7 +215,7 @@
         <dimension name="YOLC" xvalue="5"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_YOUC280.ufo" name="YOUC280" familyname="Metropolitan Line Delta" stylename="YOUC280">
+    <source filename="MetropolitanLineDelta-YOUC280.ufo" name="YOUC280" familyname="Metropolitan Line Delta" stylename="YOUC280">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -213,18 +225,6 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="280"/>
         <dimension name="YOLC" xvalue="100"/>
-      </location>
-    </source>
-    <source filename="MetropolitanLineDelta_YOLC=280.ufo" name="::fontra010" familyname="Metropolitan Line Delta" stylename="YOLC280">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="XTSP" xvalue="72.5"/>
-        <dimension name="XOPQ" xvalue="110"/>
-        <dimension name="YOPQ" xvalue="100"/>
-        <dimension name="XOUC" xvalue="110"/>
-        <dimension name="XOLC" xvalue="110"/>
-        <dimension name="YOUC" xvalue="100"/>
-        <dimension name="YOLC" xvalue="280"/>
       </location>
     </source>
   </sources>
@@ -238,6 +238,7 @@
         <axis-subset name="XOUC"/>
         <axis-subset name="XOLC"/>
         <axis-subset name="YOUC"/>
+        <axis-subset name="YOLC"/>
       </axis-subsets>
     </variable-font>
   </variable-fonts>
