@@ -29,18 +29,4 @@
       <point x="102" y="950" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>YOLC=280</key>
-        <string>YOLC280</string>
-      </dict>
-      <key>xyz.fontra.source-names</key>
-      <dict>
-        <key>YOLC=280</key>
-        <string>YOLC280</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

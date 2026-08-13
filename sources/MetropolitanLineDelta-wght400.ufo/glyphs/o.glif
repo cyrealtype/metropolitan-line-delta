@@ -45,13 +45,4 @@
       <point x="630" y="170"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>YOLC=280</key>
-        <string>YOLC280</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
