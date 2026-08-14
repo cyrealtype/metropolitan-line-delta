@@ -9,8 +9,8 @@
   <anchor x="-190" y="1444" name="topleft"/>
   <anchor x="1540" y="1400" name="topright"/>
   <outline>
-    <component base="O" identifier="AAD4CCAC"/>
-    <component base="macroncomb.case" xOffset="442" identifier="6FD18459"/>
+    <component base="O" identifier="C01C538D"/>
+    <component base="macroncomb.case" xOffset="442" identifier="FA98BE5D"/>
   </outline>
   <lib>
     <dict>
@@ -18,12 +18,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>6FD18459</key>
+        <key>C01C538D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AAD4CCAC</key>
+        <key>FA98BE5D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

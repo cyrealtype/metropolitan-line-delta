@@ -8,8 +8,8 @@
   <anchor x="1094" y="1400" name="topright_1"/>
   <anchor x="630" y="0" name="caret_1"/>
   <outline>
-    <component base="f" identifier="12D5720F"/>
-    <component base="l" xOffset="590" identifier="0C85983A"/>
+    <component base="f" identifier="B83B3243"/>
+    <component base="l" xOffset="590" identifier="85964C9B"/>
   </outline>
   <lib>
     <dict>
@@ -17,12 +17,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0C85983A</key>
+        <key>85964C9B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>12D5720F</key>
+        <key>B83B3243</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

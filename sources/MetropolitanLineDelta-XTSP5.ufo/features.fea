@@ -1271,7 +1271,7 @@ feature mark {
 		pos base Gcircumflex <anchor 766 0> mark @mark_bottom <anchor 780 1718> mark @mark_top;
 		pos base Gcommaaccent <anchor 766 -526> mark @mark_bottom <anchor 780 1400> mark @mark_top;
 		pos base Gdotaccent <anchor 766 0> mark @mark_bottom <anchor 780 1676> mark @mark_top;
-		pos base H <anchor 591 0> mark @mark_bottom <anchor 582 1400> mark @mark_top;
+		pos base H <anchor 678 0> mark @mark_bottom <anchor 881 1400> mark @mark_top;
 		pos base Hbar <anchor 678 0> mark @mark_bottom <anchor 678 1400> mark @mark_top;
 		pos base Hcircumflex <anchor 678 0> mark @mark_bottom <anchor 678 1718> mark @mark_top;
 		pos base I <anchor 220 0> mark @mark_bottom <anchor 220 1400> mark @mark_top;
@@ -1302,7 +1302,7 @@ feature mark {
 		pos base Ncommaaccent <anchor 758 -526> mark @mark_bottom <anchor 758 1400> mark @mark_top;
 		pos base Ntilde <anchor 758 0> mark @mark_bottom <anchor 758 1718> mark @mark_top;
 		pos base Eng <anchor 758 -450> mark @mark_bottom <anchor 758 1400> mark @mark_top;
-		pos base O <anchor 790 0> mark @mark_bottom <anchor 790 1400> mark @mark_top;
+		pos base O <anchor 934 0> mark @mark_bottom <anchor 954 1400> mark @mark_top;
 		pos base Oacute <anchor 790 0> mark @mark_bottom <anchor 858 1718> mark @mark_top;
 		pos base Obreve <anchor 790 0> mark @mark_bottom <anchor 790 1718> mark @mark_top;
 		pos base Ocircumflex <anchor 790 0> mark @mark_bottom <anchor 790 1718> mark @mark_top;
@@ -1495,7 +1495,7 @@ feature mark {
 		pos base Eth <anchor 340 700> mark @mark_center;
 		pos base Dcaron <anchor 340 700> mark @mark_center;
 		pos base Dcroat <anchor 340 700> mark @mark_center;
-		pos base H <anchor 588 1120> mark @mark_center;
+		pos base H <anchor 873 1120> mark @mark_center;
 		pos base Hbar <anchor 678 1120> mark @mark_center;
 		pos base Hcircumflex <anchor 678 1120> mark @mark_center;
 		pos base L <anchor 594 764> mark @mark_center;
@@ -1504,7 +1504,7 @@ feature mark {
 		pos base Lcommaaccent <anchor 594 764> mark @mark_center;
 		pos base Ldot <anchor 594 764> mark @mark_center;
 		pos base Lslash <anchor 694 764> mark @mark_center;
-		pos base O <anchor 790 700> mark @mark_center;
+		pos base O <anchor 954 700> mark @mark_center;
 		pos base Oacute <anchor 790 700> mark @mark_center;
 		pos base Obreve <anchor 790 700> mark @mark_center;
 		pos base Ocircumflex <anchor 790 700> mark @mark_center;
@@ -1588,7 +1588,7 @@ feature mark {
 		pos base Imacron <anchor 330 0> mark @mark_ogonek;
 		pos base Iogonek <anchor 330 0> mark @mark_ogonek;
 		pos base Itilde <anchor 330 0> mark @mark_ogonek;
-		pos base O <anchor 1146 64> mark @mark_ogonek;
+		pos base O <anchor 1313 64> mark @mark_ogonek;
 		pos base Oacute <anchor 1146 64> mark @mark_ogonek;
 		pos base Obreve <anchor 1146 64> mark @mark_ogonek;
 		pos base Ocircumflex <anchor 1146 64> mark @mark_ogonek;

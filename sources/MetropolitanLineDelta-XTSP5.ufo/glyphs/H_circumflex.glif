@@ -7,8 +7,8 @@
   <anchor x="678" y="1718" name="top"/>
   <anchor x="100" y="1400" name="topleft"/>
   <outline>
-    <component base="H" identifier="009366F4"/>
-    <component base="circumflexcomb.case" xOffset="292" identifier="8C5A5B23"/>
+    <component base="H" identifier="8D8E9AD7"/>
+    <component base="circumflexcomb.case" xOffset="292" identifier="386E5D73"/>
   </outline>
   <lib>
     <dict>
@@ -16,12 +16,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>009366F4</key>
+        <key>386E5D73</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8C5A5B23</key>
+        <key>8D8E9AD7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

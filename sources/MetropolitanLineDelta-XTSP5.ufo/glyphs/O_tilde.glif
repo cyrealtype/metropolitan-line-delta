@@ -9,8 +9,8 @@
   <anchor x="-190" y="1444" name="topleft"/>
   <anchor x="1540" y="1400" name="topright"/>
   <outline>
-    <component base="O" identifier="AAF59BD4"/>
-    <component base="tildecomb.case" xOffset="380" identifier="00438605"/>
+    <component base="O" identifier="C88F6EC7"/>
+    <component base="tildecomb.case" xOffset="380" identifier="1E74C49C"/>
   </outline>
   <lib>
     <dict>
@@ -18,12 +18,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>00438605</key>
+        <key>1E74C49C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AAF59BD4</key>
+        <key>C88F6EC7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

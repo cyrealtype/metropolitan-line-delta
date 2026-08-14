@@ -7,8 +7,8 @@
   <anchor x="556" y="950" name="top"/>
   <anchor x="1168" y="1400" name="topright"/>
   <outline>
-    <component base="d" identifier="AC7B9830"/>
-    <component base="caroncomb.alt" xOffset="994" identifier="99D57FA8"/>
+    <component base="d" identifier="A483BEE9"/>
+    <component base="caroncomb.alt" xOffset="994" identifier="A4D143DA"/>
   </outline>
   <lib>
     <dict>
@@ -16,12 +16,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>99D57FA8</key>
+        <key>A483BEE9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AC7B9830</key>
+        <key>A4D143DA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

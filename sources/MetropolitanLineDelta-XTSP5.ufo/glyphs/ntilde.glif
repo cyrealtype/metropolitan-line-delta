@@ -5,8 +5,8 @@
   <anchor x="534" y="0" name="bottom"/>
   <anchor x="584" y="1318" name="top"/>
   <outline>
-    <component base="n" identifier="74FDA5C6"/>
-    <component base="tildecomb" xOffset="174" identifier="C4435ECC"/>
+    <component base="n" identifier="09836C67"/>
+    <component base="tildecomb" xOffset="174" identifier="7A31A82A"/>
   </outline>
   <lib>
     <dict>
@@ -14,12 +14,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>74FDA5C6</key>
+        <key>09836C67</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C4435ECC</key>
+        <key>7A31A82A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

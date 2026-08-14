@@ -9,8 +9,8 @@
   <anchor x="-190" y="1444" name="topleft"/>
   <anchor x="1540" y="1400" name="topright"/>
   <outline>
-    <component base="O" identifier="49108211"/>
-    <component base="acutecomb.case" xOffset="592" identifier="54BE7D7D"/>
+    <component base="O" identifier="0209567F"/>
+    <component base="acutecomb.case" xOffset="592" identifier="4E29C5CC"/>
   </outline>
   <lib>
     <dict>
@@ -18,12 +18,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>49108211</key>
+        <key>0209567F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>54BE7D7D</key>
+        <key>4E29C5CC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

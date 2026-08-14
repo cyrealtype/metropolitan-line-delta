@@ -9,8 +9,8 @@
   <anchor x="-190" y="1444" name="topleft"/>
   <anchor x="1540" y="1400" name="topright"/>
   <outline>
-    <component base="O" identifier="3E63C3FB"/>
-    <component base="hungarumlautcomb.case" xOffset="502" identifier="14A4C4E7"/>
+    <component base="O" identifier="8966D011"/>
+    <component base="hungarumlautcomb.case" xOffset="502" identifier="C2572EC9"/>
   </outline>
   <lib>
     <dict>
@@ -18,12 +18,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>14A4C4E7</key>
+        <key>8966D011</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>3E63C3FB</key>
+        <key>C2572EC9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

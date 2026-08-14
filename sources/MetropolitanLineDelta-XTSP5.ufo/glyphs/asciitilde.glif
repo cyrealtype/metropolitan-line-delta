@@ -5,7 +5,7 @@
   <anchor x="410" y="374" name="_top"/>
   <anchor x="410" y="742" name="top"/>
   <outline>
-    <component base="tilde" yOffset="-576" identifier="A80052B6"/>
+    <component base="tilde" yOffset="-576" identifier="2C99888A"/>
   </outline>
   <lib>
     <dict>
@@ -13,7 +13,7 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>A80052B6</key>
+        <key>2C99888A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

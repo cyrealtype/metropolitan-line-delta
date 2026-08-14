@@ -8,8 +8,8 @@
   <anchor x="550" y="1256" name="top"/>
   <anchor x="796" y="902" name="topright"/>
   <outline>
-    <component base="o" identifier="9DF09E30"/>
-    <component base="dieresiscomb" xOffset="174" identifier="422B8DC0"/>
+    <component base="o" identifier="8624E1E7"/>
+    <component base="dieresiscomb" xOffset="174" identifier="F0B8B88A"/>
   </outline>
   <lib>
     <dict>
@@ -17,12 +17,12 @@
       <string>2026-08-14 22:14:30 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>422B8DC0</key>
+        <key>8624E1E7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9DF09E30</key>
+        <key>F0B8B88A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
