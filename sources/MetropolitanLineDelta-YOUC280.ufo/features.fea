@@ -1,11 +1,9 @@
 # automatic
 @Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent G.ss01 H.ss01 K.ss01 W.ss01 X.ss01 W.ss02 W.ss03 W.ss04 Q_U
-];
+ ];
 
 # Prefix: Languagesystems
-# automatic
 languagesystem DFLT dflt;
-
 languagesystem latn dflt;
 languagesystem latn AZE;
 languagesystem latn CRT;
@@ -15,6 +13,9 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
+
+# Prefix: Prefix
+# automatic
 
 
 feature aalt {
@@ -29,7 +30,6 @@ feature ss01;
 feature ss02;
 feature ss03;
 feature ss04;
-
 } aalt;
 
 feature ccmp {
@@ -65,7 +65,6 @@ lookup ccmp_latn_1 {
 
 script latn;
 lookup ccmp_latn_1;
-
 } ccmp;
 
 feature locl {
@@ -101,7 +100,6 @@ lookup locl_latn_2 {
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT.case;
 } locl_latn_2;
-
 } locl;
 
 feature subs {
@@ -132,7 +130,6 @@ sub parenleft by parenleftinferior;
 sub parenright by parenrightinferior;
 sub equal by equalinferior;
 sub plus by plusinferior;
-
 } subs;
 
 feature sinf {
@@ -163,7 +160,6 @@ sub parenleft by parenleftinferior;
 sub parenright by parenrightinferior;
 sub equal by equalinferior;
 sub plus by plusinferior;
-
 } sinf;
 
 feature sups {
@@ -182,7 +178,6 @@ sub parenleft by parenleftsuperior;
 sub parenright by parenrightsuperior;
 sub equal by equalsuperior;
 sub plus by plussuperior;
-
 } sups;
 
 feature ordn {
@@ -190,7 +185,6 @@ feature ordn {
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 sub N o period by numero;
-
 } ordn;
 
 feature case {
@@ -207,14 +201,12 @@ sub brevecomb by brevecomb.case;
 sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
 sub macroncomb by macroncomb.case;
-
 } case;
 
 feature dlig {
 # automatic
 lookupflag IgnoreMarks;
 sub Q U by Q_U;
-
 } dlig;
 
 feature liga {
@@ -222,12 +214,11 @@ feature liga {
 lookupflag IgnoreMarks;
 sub f i by fi;
 sub f l by fl;
-
 } liga;
 
 feature ss01 {
 featureNames {
-  name "G,H,K,W,X,a,q,g alternates";
+	name "G,H,K,W,X,a,q,g alternates";
 };
 # automatic
 sub G by G.ss01;
@@ -242,39 +233,36 @@ sub apple by apple.ss01;
 sub dollar by dollar.ss01;
 sub rightArrow by rightArrow.ss01;
 sub leftArrow by leftArrow.ss01;
-
 } ss01;
 
 feature ss02 {
 featureNames {
-  name "W, g, arrows set 2";
+	name "W, g, arrows set 2";
 };
 # automatic
 sub W by W.ss02;
 sub g by g.ss02;
 sub rightArrow by rightArrow.ss02;
 sub leftArrow by leftArrow.ss02;
-
 } ss02;
 
 feature ss03 {
 featureNames {
-  name "W, arrows set 3";
+	name "W, arrows set 3";
 };
 # automatic
 sub W by W.ss03;
 sub rightArrow by rightArrow.ss03;
 sub leftArrow by leftArrow.ss03;
-
 } ss03;
 
 feature ss04 {
 featureNames {
-  name "W, arrows set 4";
+	name "W, arrows set 4";
 };
 # automatic
 sub W by W.ss04;
 sub rightArrow by rightArrow.ss04;
 sub leftArrow by leftArrow.ss04;
-
 } ss04;
+
