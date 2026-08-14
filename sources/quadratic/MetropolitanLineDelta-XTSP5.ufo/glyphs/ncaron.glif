@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncaron" format="2">
+  <advance width="1046"/>
+  <unicode hex="0148"/>
+  <anchor x="534" y="0" name="bottom"/>
+  <anchor x="584" y="1318" name="top"/>
+  <outline>
+    <component base="n" identifier="A93D6C1A"/>
+    <component base="caroncomb" xOffset="200" identifier="89462623"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 22:14:30 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>89462623</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A93D6C1A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

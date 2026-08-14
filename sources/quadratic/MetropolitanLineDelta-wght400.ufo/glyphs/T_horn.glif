@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1038"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="320" y="1400" type="line"/>
+      <point x="320" y="1220" type="line"/>
+      <point x="516.0" y="1220.0" type="line" smooth="yes"/>
+      <point x="651.0000158910876" y="1220.0"/>
+      <point x="761.0" y="1169.5" type="qcurve" smooth="yes"/>
+      <point x="998.0" y="1060.6954624046487"/>
+      <point x="998.0" y="818.0" type="qcurve" smooth="yes"/>
+      <point x="998.0" y="700.0000072047249"/>
+      <point x="934.5" y="608.5" type="qcurve" smooth="yes"/>
+      <point x="800.9070985655738" y="416.0"/>
+      <point x="518" y="416" type="qcurve" smooth="yes"/>
+      <point x="320" y="416" type="line"/>
+      <point x="320" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="616" type="line"/>
+      <point x="320" y="616" type="line"/>
+      <point x="320" y="616" type="line"/>
+      <point x="518.0" y="616.0" type="line" smooth="yes"/>
+      <point x="774.0" y="616.0"/>
+      <point x="774.0" y="818.0" type="qcurve" smooth="yes"/>
+      <point x="774.0" y="1020.0"/>
+      <point x="518" y="1020" type="qcurve" smooth="yes"/>
+      <point x="320" y="1020" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb" format="2">
+  <unicode hex="0328"/>
+  <anchor x="246" y="0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="256.0" y="-398.0" type="qcurve" smooth="yes"/>
+      <point x="14.0" y="-398.0"/>
+      <point x="14.0" y="-196.0" type="qcurve" smooth="yes"/>
+      <point x="14.0" y="-75.849999615625"/>
+      <point x="96" y="0" type="qcurve"/>
+      <point x="246.0" y="0.0" type="line"/>
+      <point x="168.0" y="-78.00000000000001"/>
+      <point x="168.0" y="-146.0" type="qcurve" smooth="yes"/>
+      <point x="168.0" y="-230.0"/>
+      <point x="272.0" y="-230.0" type="qcurve" smooth="yes"/>
+      <point x="331.0" y="-230.0"/>
+      <point x="382" y="-200" type="qcurve"/>
+      <point x="382.0" y="-368.0" type="line"/>
+      <point x="326.999995" y="-398.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

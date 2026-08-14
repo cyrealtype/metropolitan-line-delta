@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tinferior" format="2">
+  <advance width="480"/>
+  <unicode hex="209C"/>
+  <outline>
+    <contour>
+      <point x="300.0" y="-200.0" type="qcurve" smooth="yes"/>
+      <point x="111.0" y="-200.0"/>
+      <point x="111" y="-22" type="qcurve" smooth="yes"/>
+      <point x="111" y="387" type="line"/>
+      <point x="284" y="387" type="line"/>
+      <point x="284.0" y="24.0" type="line" smooth="yes"/>
+      <point x="284.0" y="-36.0"/>
+      <point x="329.0" y="-36.0" type="qcurve" smooth="yes"/>
+      <point x="379.43243243243245" y="-36.0"/>
+      <point x="448" y="23" type="qcurve"/>
+      <point x="448.0" y="-151.0" type="line"/>
+      <point x="375.24242424242425" y="-200.0"/>
+    </contour>
+    <contour>
+      <point x="20" y="294" type="line"/>
+      <point x="20" y="294" type="line"/>
+      <point x="20" y="294" type="line"/>
+      <point x="448" y="294" type="line"/>
+      <point x="448" y="140" type="line"/>
+      <point x="20" y="140" type="line"/>
+    </contour>
+  </outline>
+</glyph>

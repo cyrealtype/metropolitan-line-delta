@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling" format="2">
+  <advance width="1240"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="263.0" y="249.2374873050785"/>
+      <point x="263.0" y="681.0" type="qcurve" smooth="yes"/>
+      <point x="263.0" y="1424.0"/>
+      <point x="670.0" y="1424.0" type="qcurve" smooth="yes"/>
+      <point x="862.4507132235665" y="1424.0"/>
+      <point x="974" y="1280" type="qcurve"/>
+      <point x="822.0" y="1040.0" type="line"/>
+      <point x="822.0" y="1224.0"/>
+      <point x="660.0" y="1224.0" type="qcurve" smooth="yes"/>
+      <point x="601.9999903932595" y="1224.0"/>
+      <point x="561.0" y="1179.5" type="qcurve" smooth="yes"/>
+      <point x="469.0" y="1079.6463531618078"/>
+      <point x="469.0" y="670.0" type="qcurve" smooth="yes"/>
+      <point x="467.9999949836122" y="361.9999999525925"/>
+      <point x="412" y="200" type="qcurve"/>
+      <point x="1218" y="200" type="line"/>
+      <point x="1112" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="536" type="line"/>
+      <point x="80" y="536" type="line"/>
+      <point x="80" y="536" type="line"/>
+      <point x="168" y="736" type="line"/>
+      <point x="852" y="736" type="line"/>
+      <point x="764" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

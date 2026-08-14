@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="424"/>
+  <unicode hex="0237"/>
+  <anchor x="222" y="-450" name="bottom"/>
+  <anchor x="222" y="950" name="top"/>
+  <outline>
+    <contour>
+      <point x="4.0" y="-470.0" type="qcurve" smooth="yes"/>
+      <point x="-32.0" y="-470.0"/>
+      <point x="-74" y="-464" type="qcurve"/>
+      <point x="-74.0" y="-266.0" type="line"/>
+      <point x="-61.99996999992491" y="-268.0"/>
+      <point x="-38.0" y="-268.0" type="qcurve" smooth="yes"/>
+      <point x="122.0" y="-268.0"/>
+      <point x="122" y="0" type="qcurve" smooth="yes"/>
+      <point x="122" y="950" type="line"/>
+      <point x="322" y="950" type="line"/>
+      <point x="322.0" y="0.0" type="line" smooth="yes"/>
+      <point x="322.0" y="-470.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

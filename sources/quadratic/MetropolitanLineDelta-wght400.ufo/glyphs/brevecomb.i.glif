@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.i" format="2">
+  <anchor x="348" y="950" name="_top"/>
+  <anchor x="348" y="1318" name="top"/>
+  <outline>
+    <contour>
+      <point x="348.0" y="1102.0" type="qcurve" smooth="yes"/>
+      <point x="267.00000804878164" y="1102.0"/>
+      <point x="201.0" y="1143.0" type="qcurve" smooth="yes"/>
+      <point x="60.00000000000001" y="1230.5909144318182"/>
+      <point x="60" y="1420" type="qcurve"/>
+      <point x="220.0" y="1420.0" type="line"/>
+      <point x="220.0" y="1260.0"/>
+      <point x="348.0" y="1260.0" type="qcurve" smooth="yes"/>
+      <point x="476.0" y="1260.0"/>
+      <point x="476" y="1420" type="qcurve"/>
+      <point x="636.0" y="1420.0" type="line"/>
+      <point x="636.0" y="1328.999995"/>
+      <point x="598.5" y="1256.5" type="qcurve" smooth="yes"/>
+      <point x="518.5862096521997" y="1102.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

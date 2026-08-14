@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeroinferior" format="2">
+  <advance width="700"/>
+  <unicode hex="2080"/>
+  <outline>
+    <contour>
+      <point x="350.0" y="-200.0" type="qcurve" smooth="yes"/>
+      <point x="86.00000000000001" y="-200.0"/>
+      <point x="86.0" y="180.0" type="qcurve" smooth="yes"/>
+      <point x="86.0" y="300.0000176470562"/>
+      <point x="120.0" y="386.0" type="qcurve" smooth="yes"/>
+      <point x="189.1860394131965" y="561.0"/>
+      <point x="350.0" y="561.0" type="qcurve" smooth="yes"/>
+      <point x="427.00000168539293" y="561.0"/>
+      <point x="486.5" y="516.5" type="qcurve" smooth="yes"/>
+      <point x="614.0" y="421.1428584933975"/>
+      <point x="614.0" y="180.0" type="qcurve" smooth="yes"/>
+      <point x="614.0" y="-200.0"/>
+    </contour>
+    <contour>
+      <point x="350.0" y="-22.0" type="qcurve" smooth="yes"/>
+      <point x="429.0" y="-22.0"/>
+      <point x="429.0" y="182.0" type="qcurve" smooth="yes"/>
+      <point x="429.0" y="387.0"/>
+      <point x="350.0" y="387.0" type="qcurve" smooth="yes"/>
+      <point x="271.0" y="387.0"/>
+      <point x="271.0" y="182.0" type="qcurve" smooth="yes"/>
+      <point x="271.0" y="-21.999999999999993"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

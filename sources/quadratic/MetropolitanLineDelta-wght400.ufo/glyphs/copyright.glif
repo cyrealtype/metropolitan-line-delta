@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="copyright" format="2">
+  <advance width="1580"/>
+  <unicode hex="00A9"/>
+  <anchor x="823.788" y="326" name="bottom"/>
+  <anchor x="818.886" y="1071.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="790.0" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="582.0" y="-20.0"/>
+      <point x="409.5" y="76.0" type="qcurve" smooth="yes"/>
+      <point x="36.0" y="283.8608695652174"/>
+      <point x="36.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="36.0" y="901.0000049999999"/>
+      <point x="136.5" y="1066.5" type="qcurve" smooth="yes"/>
+      <point x="353.5921417357682" y="1424.0"/>
+      <point x="790.0" y="1424.0" type="qcurve" smooth="yes"/>
+      <point x="998.0" y="1424.0"/>
+      <point x="1170.5" y="1328.0" type="qcurve" smooth="yes"/>
+      <point x="1544.0" y="1120.1391304347826"/>
+      <point x="1544.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="1544.0" y="502.999995"/>
+      <point x="1443.5" y="337.5" type="qcurve" smooth="yes"/>
+      <point x="1226.4078582642317" y="-20.000000000000014"/>
+    </contour>
+    <contour>
+      <point x="790.0" y="122.0" type="qcurve" smooth="yes"/>
+      <point x="953.9999861688303" y="122.0"/>
+      <point x="1090.0" y="199.0" type="qcurve" smooth="yes"/>
+      <point x="1384.0" y="365.45589081720397"/>
+      <point x="1384.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="1384.0" y="862.0000034177216"/>
+      <point x="1305.0" y="995.0" type="qcurve" smooth="yes"/>
+      <point x="1134.526317979818" y="1282.0"/>
+      <point x="790.0" y="1282.0" type="qcurve" smooth="yes"/>
+      <point x="626.0000138311699" y="1282.0"/>
+      <point x="490.0" y="1205.0" type="qcurve" smooth="yes"/>
+      <point x="196.0" y="1038.544109182796"/>
+      <point x="196.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="196.0" y="541.9999965822786"/>
+      <point x="275.0" y="409.0" type="qcurve" smooth="yes"/>
+      <point x="445.47368202018197" y="122.0"/>
+    </contour>
+    <component base="c" xScale="0.817" yScale="0.785" xOffset="363" yOffset="326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

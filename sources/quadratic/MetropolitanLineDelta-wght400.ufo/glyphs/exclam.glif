@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="564"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="162" y="1224" type="line"/>
+      <point x="162" y="1224" type="line"/>
+      <point x="162" y="1224" type="line"/>
+      <point x="162" y="1400" type="line"/>
+      <point x="402" y="1400" type="line"/>
+      <point x="402" y="1224" type="line"/>
+      <point x="340" y="312" type="line"/>
+      <point x="228" y="312" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="108" type="line"/>
+      <point x="140" y="108" type="line"/>
+      <point x="140" y="108" type="line"/>
+      <point x="282" y="250" type="line"/>
+      <point x="424" y="108" type="line"/>
+      <point x="282" y="-34" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="554"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="120" y="-264" type="line"/>
+      <point x="234.0" y="-225.32143538743594"/>
+      <point x="234" y="-16" type="qcurve" smooth="yes"/>
+      <point x="234" y="184" type="line"/>
+      <point x="434" y="184" type="line"/>
+      <point x="434.0" y="-16.0" type="line" smooth="yes"/>
+      <point x="434.0" y="-286.0"/>
+      <point x="120" y="-286" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="234" y="876" type="line"/>
+      <point x="234" y="876" type="line"/>
+      <point x="234" y="876" type="line"/>
+      <point x="434" y="876" type="line"/>
+      <point x="434" y="682" type="line"/>
+      <point x="234" y="682" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

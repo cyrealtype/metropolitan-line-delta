@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs" format="2">
+  <advance width="652"/>
+  <unicode hex="017F"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="102.0" y="1080.0" type="line" smooth="yes"/>
+      <point x="102.0" y="1420.0"/>
+      <point x="432.0" y="1420.0" type="qcurve" smooth="yes"/>
+      <point x="529.0000071249995" y="1420.0"/>
+      <point x="626" y="1380" type="qcurve"/>
+      <point x="626.0" y="1184.0" type="line"/>
+      <point x="537.4074116666666" y="1230.0"/>
+      <point x="460.0" y="1230.0" type="qcurve" smooth="yes"/>
+      <point x="302.0" y="1230.0"/>
+      <point x="302" y="1050" type="qcurve" smooth="yes"/>
+      <point x="302" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

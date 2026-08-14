@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="900"/>
+  <unicode hex="004A"/>
+  <anchor x="408" y="0" name="bottom"/>
+  <anchor x="690" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="406.0" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="148.88312609135485" y="-20.0"/>
+      <point x="40" y="242" type="qcurve"/>
+      <point x="228.0" y="344.0" type="line"/>
+      <point x="284.216219722425" y="184.0"/>
+      <point x="404.0" y="184.0" type="qcurve" smooth="yes"/>
+      <point x="580.0" y="184.0"/>
+      <point x="580" y="390" type="qcurve" smooth="yes"/>
+      <point x="580" y="1400" type="line"/>
+      <point x="800" y="1400" type="line"/>
+      <point x="800.0" y="394.0" type="line" smooth="yes"/>
+      <point x="800.0" y="272.00000500000004"/>
+      <point x="750.5" y="178.0" type="qcurve" smooth="yes"/>
+      <point x="646.2340397801606" y="-20.000000000000007"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

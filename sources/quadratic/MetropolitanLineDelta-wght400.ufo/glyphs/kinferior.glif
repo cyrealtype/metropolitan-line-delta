@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kinferior" format="2">
+  <advance width="608"/>
+  <unicode hex="2096"/>
+  <outline>
+    <contour>
+      <point x="52" y="-180" type="line"/>
+      <point x="52" y="-180" type="line"/>
+      <point x="52" y="-180" type="line"/>
+      <point x="52" y="501" type="line"/>
+      <point x="225" y="501" type="line"/>
+      <point x="225" y="185" type="line"/>
+      <point x="329" y="295" type="line"/>
+      <point x="584" y="294" type="line"/>
+      <point x="328" y="81" type="line"/>
+      <point x="592" y="-181" type="line"/>
+      <point x="351" y="-180" type="line"/>
+      <point x="225" y="-32" type="line"/>
+      <point x="225" y="-180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

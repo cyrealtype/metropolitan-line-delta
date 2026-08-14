@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance width="1110"/>
+  <unicode hex="0071"/>
+  <anchor x="556" y="0" name="bottom"/>
+  <anchor x="556" y="950" name="top"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 22:14:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

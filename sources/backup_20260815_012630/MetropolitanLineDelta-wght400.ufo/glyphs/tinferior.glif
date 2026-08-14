@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tinferior" format="2">
+  <advance width="480"/>
+  <unicode hex="209C"/>
+  <outline>
+    <contour>
+      <point x="300" y="-200" type="curve" smooth="yes"/>
+      <point x="349.33333" y="-200"/>
+      <point x="398.66667" y="-183.66667"/>
+      <point x="448" y="-151" type="curve"/>
+      <point x="448" y="23" type="line"/>
+      <point x="405.33333" y="-14.33333"/>
+      <point x="358.33333" y="-36"/>
+      <point x="329" y="-36" type="curve" smooth="yes"/>
+      <point x="299" y="-36"/>
+      <point x="284" y="-16"/>
+      <point x="284" y="24" type="curve" smooth="yes"/>
+      <point x="284" y="387" type="line"/>
+      <point x="111" y="387" type="line"/>
+      <point x="111" y="-22" type="line" smooth="yes"/>
+      <point x="111" y="-119.31723"/>
+      <point x="189.58757" y="-200"/>
+    </contour>
+    <contour>
+      <point x="20" y="294" type="line"/>
+      <point x="20" y="140" type="line"/>
+      <point x="448" y="140" type="line"/>
+      <point x="448" y="294" type="line"/>
+      <point x="20" y="294" type="line"/>
+      <point x="20" y="294" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

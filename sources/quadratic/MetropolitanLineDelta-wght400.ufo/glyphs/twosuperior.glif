@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twosuperior" format="2">
+  <advance width="642"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="84" y="820" type="line"/>
+      <point x="84" y="820" type="line"/>
+      <point x="84" y="820" type="line"/>
+      <point x="336.0" y="1214.0" type="line" smooth="yes"/>
+      <point x="368.0" y="1265.0000079687513"/>
+      <point x="368.0" y="1312.0" type="qcurve" smooth="yes"/>
+      <point x="368.0" y="1384.0"/>
+      <point x="296.0" y="1384.0" type="qcurve" smooth="yes"/>
+      <point x="207.5714371275514" y="1384.0"/>
+      <point x="98" y="1254" type="qcurve"/>
+      <point x="98.0" y="1484.0" type="line"/>
+      <point x="188.3783896201616" y="1560.0"/>
+      <point x="308.0" y="1560.0" type="qcurve" smooth="yes"/>
+      <point x="548.0" y="1560.0"/>
+      <point x="548.0" y="1334.0" type="qcurve" smooth="yes"/>
+      <point x="548.0" y="1247.0000024264705"/>
+      <point x="480" y="1146" type="qcurve" smooth="yes"/>
+      <point x="376" y="994" type="line"/>
+      <point x="562" y="994" type="line"/>
+      <point x="562" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

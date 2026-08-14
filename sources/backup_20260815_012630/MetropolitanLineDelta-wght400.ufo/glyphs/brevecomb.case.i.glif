@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case.i" format="2">
+  <anchor x="390" y="1400" name="_top"/>
+  <anchor x="390" y="1718" name="top"/>
+  <outline>
+    <contour>
+      <point x="390" y="1520" type="curve" smooth="yes"/>
+      <point x="499.33333" y="1520"/>
+      <point x="593" y="1577.16667"/>
+      <point x="645" y="1668.5" type="curve" smooth="yes"/>
+      <point x="671" y="1714.16667"/>
+      <point x="684" y="1764.66667"/>
+      <point x="684" y="1820" type="curve"/>
+      <point x="524" y="1820" type="line"/>
+      <point x="524" y="1729.55615"/>
+      <point x="465.42913" y="1660"/>
+      <point x="390" y="1660" type="curve" smooth="yes"/>
+      <point x="314.57087" y="1660"/>
+      <point x="256" y="1729.55615"/>
+      <point x="256" y="1820" type="curve"/>
+      <point x="96" y="1820" type="line"/>
+      <point x="96" y="1709.33333"/>
+      <point x="151.66667" y="1613.33333"/>
+      <point x="241" y="1560" type="curve" smooth="yes"/>
+      <point x="285.66667" y="1533.33333"/>
+      <point x="335.33333" y="1520"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
