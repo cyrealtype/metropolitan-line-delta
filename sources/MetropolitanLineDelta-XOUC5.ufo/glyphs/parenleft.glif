@@ -7,23 +7,17 @@
       <point x="236" y="-326" type="curve"/>
       <point x="436" y="-326" type="line"/>
       <point x="308" y="-66"/>
-      <point x="236" y="224.33333"/>
+      <point x="236" y="224"/>
       <point x="236" y="575" type="curve" smooth="yes"/>
-      <point x="236" y="925.66667"/>
-      <point x="304.66667" y="1210.66667"/>
+      <point x="236" y="926"/>
+      <point x="305" y="1211"/>
       <point x="430" y="1480" type="curve"/>
       <point x="234" y="1480" type="line"/>
       <point x="102" y="1212"/>
-      <point x="36" y="910.33333"/>
+      <point x="36" y="910"/>
       <point x="36" y="575" type="curve" smooth="yes"/>
-      <point x="36" y="224.33333"/>
+      <point x="36" y="224"/>
       <point x="108" y="-66"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-14 21:56:50 +0000</string>
-    </dict>
-  </lib>
 </glyph>

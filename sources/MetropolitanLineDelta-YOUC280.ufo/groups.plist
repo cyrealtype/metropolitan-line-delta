@@ -546,6 +546,7 @@
       <string>omacron</string>
       <string>oslash</string>
       <string>otilde</string>
+      <string>p</string>
       <string>thorn</string>
     </array>
     <key>public.kern1.ogonekcomb</key>
@@ -1222,6 +1223,7 @@
       <string>ncommaaccent</string>
       <string>ntilde</string>
       <string>eng</string>
+      <string>p</string>
       <string>r</string>
       <string>racute</string>
       <string>rcaron</string>

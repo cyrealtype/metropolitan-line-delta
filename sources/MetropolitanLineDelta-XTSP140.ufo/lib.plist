@@ -2,96 +2,109 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>GSOffsetHorizontal</key>
-    <integer>30</integer>
-    <key>GSOffsetMakeStroke</key>
-    <integer>1</integer>
-    <key>GSOffsetPosition</key>
-    <integer>1</integer>
-    <key>GSOffsetVertical</key>
-    <integer>30</integer>
-    <key>KernOnIndependentPairs</key>
-    <array>
-      <string>z n</string>
-      <string>U H</string>
-      <string>m n</string>
-      <string>u n</string>
-      <string>h n</string>
-    </array>
-    <key>KernOnModels</key>
-    <array>
-      <string>F J</string>
-      <string>P J</string>
-      <string>L V</string>
-      <string>A Y</string>
-      <string>A V</string>
-      <string>R Y</string>
-      <string>R V</string>
-      <string>W J</string>
-      <string>l y</string>
-      <string>R W</string>
-      <string>l w</string>
-      <string>Y C</string>
-      <string>R G</string>
-      <string>y g</string>
-      <string>y a</string>
-      <string>k a</string>
-      <string>R J</string>
-      <string>a y</string>
-      <string>a v</string>
-      <string>k t</string>
-      <string>s y</string>
-      <string>y s</string>
-      <string>k g</string>
-      <string>k u</string>
-      <string>l o</string>
-      <string>g a</string>
-      <string>a g</string>
-      <string>y l</string>
-      <string>d j</string>
-      <string>f n</string>
-      <string>t f</string>
-      <string>Z H</string>
-      <string>H N</string>
-      <string>T F</string>
-      <string>r v</string>
-      <string>g g</string>
-      <string>g j</string>
-    </array>
-    <key>com.github.googlei18n.ufo2ft.featureWriters</key>
-    <array>
-      <dict>
-        <key>class</key>
-        <string>CursFeatureWriter</string>
-      </dict>
-      <dict>
-        <key>class</key>
-        <string>KernFeatureWriter</string>
-      </dict>
-      <dict>
-        <key>class</key>
-        <string>MarkFeatureWriter</string>
-      </dict>
-      <dict>
-        <key>class</key>
-        <string>GdefFeatureWriter</string>
-      </dict>
-    </array>
-    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <key>com.schriftgestaltung.appVersion</key>
+    <string>4004</string>
+    <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
         <key>name</key>
-        <string>eraseOpenCorners</string>
-        <key>namespace</key>
-        <string>glyphsLib.filters</string>
-        <key>pre</key>
-        <true/>
+        <string>Weight</string>
+        <key>tag</key>
+        <string>wght</string>
       </dict>
+      <dict>
+        <key>name</key>
+        <string>Proportional spacing</string>
+        <key>tag</key>
+        <string>XTSP</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Thick Stroke</string>
+        <key>tag</key>
+        <string>XOPQ</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Thin Stroke</string>
+        <key>tag</key>
+        <string>YOPQ</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>X stem uppercase</string>
+        <key>tag</key>
+        <string>XOUC</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>x stem lowercase</string>
+        <key>tag</key>
+        <string>XOLC</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Y opaque uppercase</string>
+        <key>tag</key>
+        <string>YOUC</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>y opaque lowercase</string>
+        <key>tag</key>
+        <string>YOLC</string>
+      </dict>
+    </array>
+    <key>com.schriftgestaltung.axesValues</key>
+    <array>
+      <integer>400</integer>
+      <integer>140</integer>
+      <integer>110</integer>
+      <integer>100</integer>
+      <integer>110</integer>
+      <integer>110</integer>
+      <integer>100</integer>
+      <integer>100</integer>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.font.customParameters</key>
     <array>
+      <dict>
+        <key>name</key>
+        <string>Axis Mappings 2</string>
+        <key>value</key>
+        <array>
+          <dict>
+            <key>input</key>
+            <dict>
+              <key>XOPQ</key>
+              <real>5.0</real>
+            </dict>
+            <key>output</key>
+            <dict>
+              <key>XOLC</key>
+              <real>5.0</real>
+              <key>XOUC</key>
+              <real>5.0</real>
+            </dict>
+          </dict>
+          <dict>
+            <key>input</key>
+            <dict>
+              <key>XOPQ</key>
+              <real>300.0</real>
+            </dict>
+            <key>output</key>
+            <dict>
+              <key>XOLC</key>
+              <real>300.0</real>
+              <key>XOUC</key>
+              <real>300.0</real>
+            </dict>
+          </dict>
+        </array>
+      </dict>
       <dict>
         <key>name</key>
         <string>EditView Line Height</string>
@@ -109,6 +122,80 @@
         <string>useNiceNames</string>
         <key>value</key>
         <integer>1</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Variable Font Origin</string>
+        <key>value</key>
+        <string>CC287EC8-52D8-49D1-9602-AC2FBEE261BA</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Virtual Master</string>
+        <key>value</key>
+        <array>
+          <dict>
+            <key>Axis</key>
+            <string>Weight</string>
+            <key>Location</key>
+            <real>1.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>Thick Stroke</string>
+            <key>Location</key>
+            <real>5.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>Thin Stroke</string>
+            <key>Location</key>
+            <real>5.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>x stem lowercase</string>
+            <key>Location</key>
+            <real>5.0</real>
+          </dict>
+        </array>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Virtual Master</string>
+        <key>value</key>
+        <array>
+          <dict>
+            <key>Axis</key>
+            <string>Weight</string>
+            <key>Location</key>
+            <real>1000.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>Thick Stroke</string>
+            <key>Location</key>
+            <real>300.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>Thin Stroke</string>
+            <key>Location</key>
+            <real>280.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>x stem lowercase</string>
+            <key>Location</key>
+            <real>300.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>y opaque lowercase</string>
+            <key>Location</key>
+            <real>280.0</real>
+          </dict>
+        </array>
       </dict>
     </array>
     <key>com.schriftgestaltung.fontMaster.customParameters</key>
@@ -157,7 +244,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>0F9692D5-43FF-4906-9B89-A24E2C159D4D</string>
+    <string>E8A2965E-BFF9-4C3B-8198-664456A65466</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>4</integer>
     <key>com.schriftgestaltung.master.name</key>
@@ -187,9 +274,9 @@
       <string>Ccircumflex</string>
       <string>Cdotaccent</string>
       <string>D</string>
+      <string>Eth</string>
       <string>Dcaron</string>
       <string>Dcroat</string>
-      <string>Eth</string>
       <string>E</string>
       <string>Eacute</string>
       <string>Ebreve</string>
@@ -210,7 +297,6 @@
       <string>Hbar</string>
       <string>Hcircumflex</string>
       <string>I</string>
-      <string>IJ</string>
       <string>Iacute</string>
       <string>Ibreve</string>
       <string>Icircumflex</string>
@@ -220,6 +306,7 @@
       <string>Imacron</string>
       <string>Iogonek</string>
       <string>Itilde</string>
+      <string>IJ</string>
       <string>J</string>
       <string>Jcircumflex</string>
       <string>K</string>
@@ -321,9 +408,9 @@
       <string>ccircumflex</string>
       <string>cdotaccent</string>
       <string>d</string>
+      <string>eth</string>
       <string>dcaron</string>
       <string>dcroat</string>
-      <string>eth</string>
       <string>e</string>
       <string>eacute</string>
       <string>ebreve</string>
@@ -633,631 +720,6 @@
       <string>cedilla</string>
       <string>ogonek</string>
     </array>
-    <key>public.openTypeCategories</key>
-    <dict>
-      <key>A</key>
-      <string>base</string>
-      <key>AE</key>
-      <string>base</string>
-      <key>Aacute</key>
-      <string>base</string>
-      <key>Abreve</key>
-      <string>base</string>
-      <key>Acircumflex</key>
-      <string>base</string>
-      <key>Adieresis</key>
-      <string>base</string>
-      <key>Agrave</key>
-      <string>base</string>
-      <key>Amacron</key>
-      <string>base</string>
-      <key>Aogonek</key>
-      <string>base</string>
-      <key>Aring</key>
-      <string>base</string>
-      <key>Atilde</key>
-      <string>base</string>
-      <key>C</key>
-      <string>base</string>
-      <key>Cacute</key>
-      <string>base</string>
-      <key>Ccaron</key>
-      <string>base</string>
-      <key>Ccedilla</key>
-      <string>base</string>
-      <key>Ccircumflex</key>
-      <string>base</string>
-      <key>Cdotaccent</key>
-      <string>base</string>
-      <key>D</key>
-      <string>base</string>
-      <key>Dcaron</key>
-      <string>base</string>
-      <key>Dcroat</key>
-      <string>base</string>
-      <key>E</key>
-      <string>base</string>
-      <key>Eacute</key>
-      <string>base</string>
-      <key>Ebreve</key>
-      <string>base</string>
-      <key>Ecaron</key>
-      <string>base</string>
-      <key>Ecircumflex</key>
-      <string>base</string>
-      <key>Edieresis</key>
-      <string>base</string>
-      <key>Edotaccent</key>
-      <string>base</string>
-      <key>Egrave</key>
-      <string>base</string>
-      <key>Emacron</key>
-      <string>base</string>
-      <key>Eng</key>
-      <string>base</string>
-      <key>Eogonek</key>
-      <string>base</string>
-      <key>Eth</key>
-      <string>base</string>
-      <key>G</key>
-      <string>base</string>
-      <key>G.ss01</key>
-      <string>base</string>
-      <key>Gbreve</key>
-      <string>base</string>
-      <key>Gcircumflex</key>
-      <string>base</string>
-      <key>Gcommaaccent</key>
-      <string>base</string>
-      <key>Gdotaccent</key>
-      <string>base</string>
-      <key>H</key>
-      <string>base</string>
-      <key>H.ss01</key>
-      <string>base</string>
-      <key>Hbar</key>
-      <string>base</string>
-      <key>Hcircumflex</key>
-      <string>base</string>
-      <key>I</key>
-      <string>base</string>
-      <key>IJ</key>
-      <string>base</string>
-      <key>Iacute</key>
-      <string>base</string>
-      <key>Ibreve</key>
-      <string>base</string>
-      <key>Icircumflex</key>
-      <string>base</string>
-      <key>Idieresis</key>
-      <string>base</string>
-      <key>Idotaccent</key>
-      <string>base</string>
-      <key>Igrave</key>
-      <string>base</string>
-      <key>Imacron</key>
-      <string>base</string>
-      <key>Iogonek</key>
-      <string>base</string>
-      <key>Itilde</key>
-      <string>base</string>
-      <key>J</key>
-      <string>base</string>
-      <key>Jcircumflex</key>
-      <string>base</string>
-      <key>K</key>
-      <string>base</string>
-      <key>Kcommaaccent</key>
-      <string>base</string>
-      <key>L</key>
-      <string>base</string>
-      <key>Lacute</key>
-      <string>base</string>
-      <key>Lcaron</key>
-      <string>base</string>
-      <key>Lcommaaccent</key>
-      <string>base</string>
-      <key>Ldot</key>
-      <string>base</string>
-      <key>Lslash</key>
-      <string>base</string>
-      <key>M</key>
-      <string>base</string>
-      <key>N</key>
-      <string>base</string>
-      <key>Nacute</key>
-      <string>base</string>
-      <key>Ncaron</key>
-      <string>base</string>
-      <key>Ncommaaccent</key>
-      <string>base</string>
-      <key>Ntilde</key>
-      <string>base</string>
-      <key>O</key>
-      <string>base</string>
-      <key>OE</key>
-      <string>base</string>
-      <key>Oacute</key>
-      <string>base</string>
-      <key>Obreve</key>
-      <string>base</string>
-      <key>Ocircumflex</key>
-      <string>base</string>
-      <key>Odieresis</key>
-      <string>base</string>
-      <key>Ograve</key>
-      <string>base</string>
-      <key>Ohungarumlaut</key>
-      <string>base</string>
-      <key>Omacron</key>
-      <string>base</string>
-      <key>Oslash</key>
-      <string>base</string>
-      <key>Otilde</key>
-      <string>base</string>
-      <key>Q</key>
-      <string>base</string>
-      <key>Q_U</key>
-      <string>ligature</string>
-      <key>R</key>
-      <string>base</string>
-      <key>Racute</key>
-      <string>base</string>
-      <key>Rcaron</key>
-      <string>base</string>
-      <key>Rcommaaccent</key>
-      <string>base</string>
-      <key>S</key>
-      <string>base</string>
-      <key>Sacute</key>
-      <string>base</string>
-      <key>Scaron</key>
-      <string>base</string>
-      <key>Scedilla</key>
-      <string>base</string>
-      <key>Scircumflex</key>
-      <string>base</string>
-      <key>Scommaaccent</key>
-      <string>base</string>
-      <key>T</key>
-      <string>base</string>
-      <key>Tcaron</key>
-      <string>base</string>
-      <key>Tcedilla</key>
-      <string>base</string>
-      <key>Tcommaaccent</key>
-      <string>base</string>
-      <key>U</key>
-      <string>base</string>
-      <key>Uacute</key>
-      <string>base</string>
-      <key>Ubreve</key>
-      <string>base</string>
-      <key>Ucircumflex</key>
-      <string>base</string>
-      <key>Udieresis</key>
-      <string>base</string>
-      <key>Ugrave</key>
-      <string>base</string>
-      <key>Uhungarumlaut</key>
-      <string>base</string>
-      <key>Umacron</key>
-      <string>base</string>
-      <key>Uogonek</key>
-      <string>base</string>
-      <key>Uring</key>
-      <string>base</string>
-      <key>Utilde</key>
-      <string>base</string>
-      <key>V</key>
-      <string>base</string>
-      <key>W</key>
-      <string>base</string>
-      <key>W.ss01</key>
-      <string>base</string>
-      <key>W.ss02</key>
-      <string>base</string>
-      <key>W.ss03</key>
-      <string>base</string>
-      <key>W.ss04</key>
-      <string>base</string>
-      <key>Wacute</key>
-      <string>base</string>
-      <key>Wcircumflex</key>
-      <string>base</string>
-      <key>Wdieresis</key>
-      <string>base</string>
-      <key>Wgrave</key>
-      <string>base</string>
-      <key>X</key>
-      <string>base</string>
-      <key>X.ss01</key>
-      <string>base</string>
-      <key>Y</key>
-      <string>base</string>
-      <key>Yacute</key>
-      <string>base</string>
-      <key>Ycircumflex</key>
-      <string>base</string>
-      <key>Ydieresis</key>
-      <string>base</string>
-      <key>Ygrave</key>
-      <string>base</string>
-      <key>Z</key>
-      <string>base</string>
-      <key>Zacute</key>
-      <string>base</string>
-      <key>Zcaron</key>
-      <string>base</string>
-      <key>Zdotaccent</key>
-      <string>base</string>
-      <key>a</key>
-      <string>base</string>
-      <key>a.ss01</key>
-      <string>base</string>
-      <key>aacute</key>
-      <string>base</string>
-      <key>abreve</key>
-      <string>base</string>
-      <key>acircumflex</key>
-      <string>base</string>
-      <key>acute</key>
-      <string>base</string>
-      <key>acutecomb</key>
-      <string>mark</string>
-      <key>acutecomb.case</key>
-      <string>mark</string>
-      <key>adieresis</key>
-      <string>base</string>
-      <key>ae</key>
-      <string>base</string>
-      <key>agrave</key>
-      <string>base</string>
-      <key>amacron</key>
-      <string>base</string>
-      <key>aogonek</key>
-      <string>base</string>
-      <key>aring</key>
-      <string>base</string>
-      <key>asciitilde</key>
-      <string>base</string>
-      <key>atilde</key>
-      <string>base</string>
-      <key>breve</key>
-      <string>base</string>
-      <key>brevecomb</key>
-      <string>mark</string>
-      <key>brevecomb.case</key>
-      <string>mark</string>
-      <key>brevecomb.case.i</key>
-      <string>mark</string>
-      <key>brevecomb.i</key>
-      <string>mark</string>
-      <key>bullet</key>
-      <string>base</string>
-      <key>c</key>
-      <string>base</string>
-      <key>cacute</key>
-      <string>base</string>
-      <key>caron</key>
-      <string>base</string>
-      <key>caroncomb</key>
-      <string>mark</string>
-      <key>caroncomb.alt</key>
-      <string>mark</string>
-      <key>caroncomb.case</key>
-      <string>mark</string>
-      <key>ccaron</key>
-      <string>base</string>
-      <key>ccedilla</key>
-      <string>base</string>
-      <key>ccircumflex</key>
-      <string>base</string>
-      <key>cdotaccent</key>
-      <string>base</string>
-      <key>cedilla</key>
-      <string>base</string>
-      <key>cedillacomb</key>
-      <string>mark</string>
-      <key>cent</key>
-      <string>base</string>
-      <key>circumflex</key>
-      <string>base</string>
-      <key>circumflexcomb</key>
-      <string>mark</string>
-      <key>circumflexcomb.case</key>
-      <string>mark</string>
-      <key>circumflexcomb.case.i</key>
-      <string>mark</string>
-      <key>circumflexcomb.i</key>
-      <string>mark</string>
-      <key>commaaccentcomb</key>
-      <string>mark</string>
-      <key>commaturnedabovecomb</key>
-      <string>mark</string>
-      <key>copyright</key>
-      <string>base</string>
-      <key>d</key>
-      <string>base</string>
-      <key>dcaron</key>
-      <string>base</string>
-      <key>dcroat</key>
-      <string>base</string>
-      <key>dieresis</key>
-      <string>base</string>
-      <key>dieresiscomb</key>
-      <string>mark</string>
-      <key>dieresiscomb.case</key>
-      <string>mark</string>
-      <key>dotaccent</key>
-      <string>base</string>
-      <key>dotaccentcomb</key>
-      <string>mark</string>
-      <key>dotaccentcomb.case</key>
-      <string>mark</string>
-      <key>e</key>
-      <string>base</string>
-      <key>eacute</key>
-      <string>base</string>
-      <key>ebreve</key>
-      <string>base</string>
-      <key>ecaron</key>
-      <string>base</string>
-      <key>ecircumflex</key>
-      <string>base</string>
-      <key>edieresis</key>
-      <string>base</string>
-      <key>edotaccent</key>
-      <string>base</string>
-      <key>egrave</key>
-      <string>base</string>
-      <key>emacron</key>
-      <string>base</string>
-      <key>eng</key>
-      <string>base</string>
-      <key>eogonek</key>
-      <string>base</string>
-      <key>fi</key>
-      <string>ligature</string>
-      <key>fl</key>
-      <string>ligature</string>
-      <key>g</key>
-      <string>base</string>
-      <key>g.ss01</key>
-      <string>base</string>
-      <key>g.ss02</key>
-      <string>base</string>
-      <key>gbreve</key>
-      <string>base</string>
-      <key>gcircumflex</key>
-      <string>base</string>
-      <key>gcommaaccent</key>
-      <string>base</string>
-      <key>gdotaccent</key>
-      <string>base</string>
-      <key>grave</key>
-      <string>base</string>
-      <key>gravecomb</key>
-      <string>mark</string>
-      <key>gravecomb.case</key>
-      <string>mark</string>
-      <key>h</key>
-      <string>base</string>
-      <key>hbar</key>
-      <string>base</string>
-      <key>hcircumflex</key>
-      <string>base</string>
-      <key>hungarumlaut</key>
-      <string>base</string>
-      <key>hungarumlautcomb</key>
-      <string>mark</string>
-      <key>hungarumlautcomb.case</key>
-      <string>mark</string>
-      <key>i</key>
-      <string>base</string>
-      <key>iacute</key>
-      <string>base</string>
-      <key>ibreve</key>
-      <string>base</string>
-      <key>icircumflex</key>
-      <string>base</string>
-      <key>idieresis</key>
-      <string>base</string>
-      <key>idotaccent</key>
-      <string>base</string>
-      <key>idotless</key>
-      <string>base</string>
-      <key>igrave</key>
-      <string>base</string>
-      <key>ij</key>
-      <string>base</string>
-      <key>imacron</key>
-      <string>base</string>
-      <key>iogonek</key>
-      <string>base</string>
-      <key>itilde</key>
-      <string>base</string>
-      <key>j</key>
-      <string>base</string>
-      <key>jcircumflex</key>
-      <string>base</string>
-      <key>jdotless</key>
-      <string>base</string>
-      <key>k</key>
-      <string>base</string>
-      <key>kcommaaccent</key>
-      <string>base</string>
-      <key>l</key>
-      <string>base</string>
-      <key>lacute</key>
-      <string>base</string>
-      <key>lcaron</key>
-      <string>base</string>
-      <key>lcommaaccent</key>
-      <string>base</string>
-      <key>ldot</key>
-      <string>base</string>
-      <key>m</key>
-      <string>base</string>
-      <key>macron</key>
-      <string>base</string>
-      <key>macroncomb</key>
-      <string>mark</string>
-      <key>macroncomb.case</key>
-      <string>mark</string>
-      <key>macroncomb.case.i</key>
-      <string>mark</string>
-      <key>macroncomb.i</key>
-      <string>mark</string>
-      <key>n</key>
-      <string>base</string>
-      <key>nacute</key>
-      <string>base</string>
-      <key>ncaron</key>
-      <string>base</string>
-      <key>ncommaaccent</key>
-      <string>base</string>
-      <key>ntilde</key>
-      <string>base</string>
-      <key>numero</key>
-      <string>base</string>
-      <key>o</key>
-      <string>base</string>
-      <key>oacute</key>
-      <string>base</string>
-      <key>obreve</key>
-      <string>base</string>
-      <key>ocircumflex</key>
-      <string>base</string>
-      <key>odieresis</key>
-      <string>base</string>
-      <key>oe</key>
-      <string>base</string>
-      <key>ogonekcomb</key>
-      <string>mark</string>
-      <key>ograve</key>
-      <string>base</string>
-      <key>ohungarumlaut</key>
-      <string>base</string>
-      <key>omacron</key>
-      <string>base</string>
-      <key>oslash</key>
-      <string>base</string>
-      <key>otilde</key>
-      <string>base</string>
-      <key>p</key>
-      <string>base</string>
-      <key>q</key>
-      <string>base</string>
-      <key>q.ss01</key>
-      <string>base</string>
-      <key>r</key>
-      <string>base</string>
-      <key>racute</key>
-      <string>base</string>
-      <key>rcaron</key>
-      <string>base</string>
-      <key>rcommaaccent</key>
-      <string>base</string>
-      <key>registered</key>
-      <string>base</string>
-      <key>ring</key>
-      <string>base</string>
-      <key>ringcomb</key>
-      <string>mark</string>
-      <key>ringcomb.case</key>
-      <string>mark</string>
-      <key>s</key>
-      <string>base</string>
-      <key>sacute</key>
-      <string>base</string>
-      <key>scaron</key>
-      <string>base</string>
-      <key>scedilla</key>
-      <string>base</string>
-      <key>scircumflex</key>
-      <string>base</string>
-      <key>scommaaccent</key>
-      <string>base</string>
-      <key>strokeshortcomb</key>
-      <string>mark</string>
-      <key>t</key>
-      <string>base</string>
-      <key>tcaron</key>
-      <string>base</string>
-      <key>tcedilla</key>
-      <string>base</string>
-      <key>tcommaaccent</key>
-      <string>base</string>
-      <key>thorn</key>
-      <string>base</string>
-      <key>tilde</key>
-      <string>base</string>
-      <key>tildecomb</key>
-      <string>mark</string>
-      <key>tildecomb.case</key>
-      <string>mark</string>
-      <key>tildecomb.case.i</key>
-      <string>mark</string>
-      <key>tildecomb.i</key>
-      <string>mark</string>
-      <key>u</key>
-      <string>base</string>
-      <key>uacute</key>
-      <string>base</string>
-      <key>ubreve</key>
-      <string>base</string>
-      <key>ucircumflex</key>
-      <string>base</string>
-      <key>udieresis</key>
-      <string>base</string>
-      <key>ugrave</key>
-      <string>base</string>
-      <key>uhungarumlaut</key>
-      <string>base</string>
-      <key>umacron</key>
-      <string>base</string>
-      <key>uogonek</key>
-      <string>base</string>
-      <key>uring</key>
-      <string>base</string>
-      <key>utilde</key>
-      <string>base</string>
-      <key>v</key>
-      <string>base</string>
-      <key>w</key>
-      <string>base</string>
-      <key>wacute</key>
-      <string>base</string>
-      <key>wcircumflex</key>
-      <string>base</string>
-      <key>wdieresis</key>
-      <string>base</string>
-      <key>wgrave</key>
-      <string>base</string>
-      <key>x</key>
-      <string>base</string>
-      <key>y</key>
-      <string>base</string>
-      <key>yacute</key>
-      <string>base</string>
-      <key>ycircumflex</key>
-      <string>base</string>
-      <key>ydieresis</key>
-      <string>base</string>
-      <key>yen</key>
-      <string>base</string>
-      <key>ygrave</key>
-      <string>base</string>
-      <key>z</key>
-      <string>base</string>
-      <key>zacute</key>
-      <string>base</string>
-      <key>zcaron</key>
-      <string>base</string>
-      <key>zdotaccent</key>
-      <string>base</string>
-    </dict>
     <key>public.postscriptNames</key>
     <dict>
       <key>Gcommaaccent</key>
@@ -1494,19 +956,6 @@
       <string>uni2080</string>
       <key>zerosuperior</key>
       <string>uni2070</string>
-    </dict>
-    <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
-    <dict>
-      <key>ascender</key>
-      <integer>32</integer>
-      <key>baseline</key>
-      <integer>-32</integer>
-      <key>capHeight</key>
-      <integer>32</integer>
-      <key>descender</key>
-      <integer>-32</integer>
-      <key>xHeight</key>
-      <integer>32</integer>
     </dict>
   </dict>
 </plist>

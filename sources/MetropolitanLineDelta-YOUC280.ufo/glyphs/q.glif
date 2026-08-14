@@ -5,20 +5,11 @@
   <anchor x="556" y="0" name="bottom"/>
   <anchor x="556" y="950" name="top"/>
   <outline>
-    <component base="p" xScale="-1" xOffset="1110" identifier="DE6BA471"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-14 21:57:38 +0000</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>DE6BA471</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <string>2026-08-14 22:14:30 +0000</string>
     </dict>
   </lib>
 </glyph>

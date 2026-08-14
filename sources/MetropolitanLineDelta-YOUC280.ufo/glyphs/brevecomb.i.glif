@@ -6,30 +6,28 @@
     <contour>
       <point x="348" y="1102" type="curve" smooth="yes"/>
       <point x="456" y="1102"/>
-      <point x="548.5" y="1159.83333"/>
-      <point x="598.5" y="1256.5" type="curve" smooth="yes"/>
-      <point x="623.5" y="1304.83333"/>
-      <point x="636" y="1359.33333"/>
+      <point x="549" y="1160"/>
+      <point x="599" y="1257" type="curve" smooth="yes"/>
+      <point x="624" y="1305"/>
+      <point x="636" y="1359"/>
       <point x="636" y="1420" type="curve"/>
       <point x="476" y="1420" type="line"/>
       <point x="476" y="1328"/>
-      <point x="421.33333" y="1260"/>
+      <point x="421" y="1260"/>
       <point x="348" y="1260" type="curve" smooth="yes"/>
-      <point x="274.66667" y="1260"/>
+      <point x="275" y="1260"/>
       <point x="220" y="1328"/>
       <point x="220" y="1420" type="curve"/>
       <point x="60" y="1420" type="line"/>
-      <point x="60" y="1298.66667"/>
-      <point x="113" y="1197.66667"/>
+      <point x="60" y="1299"/>
+      <point x="113" y="1198"/>
       <point x="201" y="1143" type="curve" smooth="yes"/>
-      <point x="245" y="1115.66667"/>
+      <point x="245" y="1116"/>
       <point x="294" y="1102"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-14 21:57:41 +0000</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>0</integer>
     </dict>

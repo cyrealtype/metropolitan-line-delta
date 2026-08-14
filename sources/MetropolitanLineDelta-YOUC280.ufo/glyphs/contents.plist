@@ -694,6 +694,8 @@
     <string>oslash.glif</string>
     <key>otilde</key>
     <string>otilde.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
     <key>paragraphseparator</key>
