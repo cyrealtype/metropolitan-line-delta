@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ntilde" format="2">
+  <advance width="1046"/>
+  <unicode hex="00F1"/>
+  <anchor x="534" y="0" name="bottom"/>
+  <anchor x="584" y="1318" name="top"/>
+  <outline>
+    <component base="n" identifier="09836C67"/>
+    <component base="tildecomb" xOffset="174" identifier="7A31A82A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 22:14:30 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>09836C67</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7A31A82A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

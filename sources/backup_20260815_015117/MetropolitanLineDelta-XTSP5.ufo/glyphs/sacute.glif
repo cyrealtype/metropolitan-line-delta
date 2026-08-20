@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacute" format="2">
+  <advance width="880"/>
+  <unicode hex="015B"/>
+  <anchor x="434" y="0" name="bottom"/>
+  <anchor x="558" y="1318" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="acutecomb" xOffset="292"/>
+  </outline>
+</glyph>

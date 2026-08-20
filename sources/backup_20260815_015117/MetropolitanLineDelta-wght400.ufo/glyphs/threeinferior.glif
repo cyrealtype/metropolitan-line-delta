@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeinferior" format="2">
+  <advance width="690"/>
+  <unicode hex="2083"/>
+  <outline>
+    <contour>
+      <point x="347" y="-200" type="curve" smooth="yes"/>
+      <point x="488.04643" y="-200"/>
+      <point x="614" y="-96.538"/>
+      <point x="614" y="45" type="curve" smooth="yes"/>
+      <point x="614" y="162.84447"/>
+      <point x="527.87626" y="257.14047"/>
+      <point x="409" y="272" type="curve"/>
+      <point x="437" y="216" type="line"/>
+      <point x="620" y="536" type="line"/>
+      <point x="128" y="536" type="line"/>
+      <point x="128" y="366" type="line"/>
+      <point x="347" y="366" type="line"/>
+      <point x="226" y="153" type="line"/>
+      <point x="351.141" y="183.77238"/>
+      <point x="433" y="143.62915"/>
+      <point x="433" y="62" type="curve" smooth="yes"/>
+      <point x="433" y="4.66667"/>
+      <point x="393" y="-29"/>
+      <point x="345" y="-29" type="curve" smooth="yes"/>
+      <point x="294.33333" y="-29"/>
+      <point x="247.33333" y="12.33333"/>
+      <point x="218" y="83" type="curve"/>
+      <point x="86" y="-32" type="line"/>
+      <point x="142" y="-134.66667"/>
+      <point x="237.66667" y="-200"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

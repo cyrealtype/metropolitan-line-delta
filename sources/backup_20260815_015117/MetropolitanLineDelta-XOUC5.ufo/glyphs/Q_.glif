@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="1580"/>
+  <unicode hex="0051"/>
+  <anchor x="790" y="0" name="bottom"/>
+  <anchor x="790" y="700" name="center"/>
+  <anchor x="1146" y="64" name="ogonek"/>
+  <anchor x="790" y="1400" name="top"/>
+  <anchor x="-190" y="1444" name="topleft"/>
+  <anchor x="1540" y="1400" name="topright"/>
+  <outline>
+    <contour>
+      <point x="1404" y="-30" type="line"/>
+      <point x="1536" y="118" type="line"/>
+      <point x="1084" y="512" type="line"/>
+      <point x="954" y="364" type="line"/>
+      <point x="1404" y="-30" type="line"/>
+      <point x="1404" y="-30" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>
