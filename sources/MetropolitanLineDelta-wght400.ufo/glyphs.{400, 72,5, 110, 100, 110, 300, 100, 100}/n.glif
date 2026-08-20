@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="1798"/>
+  <unicode hex="006E"/>
+  <anchor x="-16" y="0" name="bottom"/>
+  <anchor x="584" y="950" name="top"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="678" y="0" type="line"/>
+      <point x="678" y="692" type="line"/>
+      <point x="723" y="745"/>
+      <point x="801" y="780"/>
+      <point x="906" y="780" type="curve" smooth="yes"/>
+      <point x="1057" y="780"/>
+      <point x="1142" y="691"/>
+      <point x="1142" y="538" type="curve" smooth="yes"/>
+      <point x="1142" y="0" type="line"/>
+      <point x="1718" y="0" type="line"/>
+      <point x="1718" y="548" type="line" smooth="yes"/>
+      <point x="1718" y="812"/>
+      <point x="1492" y="970"/>
+      <point x="1050" y="970" type="curve" smooth="yes"/>
+      <point x="911" y="970"/>
+      <point x="747" y="941"/>
+      <point x="678" y="890" type="curve"/>
+      <point x="678" y="950" type="line"/>
+      <point x="102" y="950" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.attr</key>
+      <dict>
+        <key>coordinates</key>
+        <array>
+          <real>400.0</real>
+          <real>72.5</real>
+          <real>110.0</real>
+          <real>100.0</real>
+          <real>110.0</real>
+          <real>300.0</real>
+          <real>100.0</real>
+          <real>100.0</real>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>588D336F-9105-4222-B57B-FFE13FC8B601</string>
+    </dict>
+  </lib>
+</glyph>

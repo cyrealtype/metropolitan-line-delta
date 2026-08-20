@@ -18,5 +18,9 @@
       <string>{400, 72,5, 110, 100, 110, 300, 100, 100}</string>
       <string>glyphs.{400, 72,5, 110, 100, 110, 300, 100, 100}</string>
     </array>
+    <array>
+      <string>{400, 72,5, 110, 100, 110, 300, 100, 100}.background</string>
+      <string>glyphs.{400, 72,5, 110, 100, 110, 300, 100, 100}.background</string>
+    </array>
   </array>
 </plist>

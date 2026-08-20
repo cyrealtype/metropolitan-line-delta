@@ -85,9 +85,9 @@
         <output>
           <dimension name="YOPQ" xvalue="188"/>
           <dimension name="XTSP" xvalue="50"/>
-          <dimension name="XOPQ" xvalue="201"/>
-          <dimension name="XOUC" xvalue="201"/>
-          <dimension name="XOLC" xvalue="201"/>
+          <dimension name="XOPQ" xvalue="230"/>
+          <dimension name="XOUC" xvalue="230"/>
+          <dimension name="XOLC" xvalue="230"/>
           <dimension name="YOUC" xvalue="220"/>
           <dimension name="YOLC" xvalue="220"/>
         </output>

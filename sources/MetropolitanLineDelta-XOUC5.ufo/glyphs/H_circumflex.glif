@@ -10,4 +10,10 @@
     <component base="H"/>
     <component base="circumflexcomb.case" xOffset="292"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-20 17:29:07 +0000</string>
+    </dict>
+  </lib>
 </glyph>
