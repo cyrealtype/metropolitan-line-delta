@@ -3,10 +3,10 @@
   <advance width="1260"/>
   <unicode hex="FB02"/>
   <anchor x="926" y="0" name="bottom_1"/>
+  <anchor x="630" y="0" name="caret_1"/>
   <anchor x="1104" y="714" name="center_1"/>
   <anchor x="792" y="1400" name="top_1"/>
   <anchor x="1094" y="1400" name="topright_1"/>
-  <anchor x="630" y="0" name="caret_1"/>
   <outline>
     <component base="f" identifier="0947BB85"/>
     <component base="l" xOffset="590" identifier="E7AAA243"/>
@@ -14,7 +14,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-14 22:14:30 +0000</string>
+      <string>2026-08-20 15:22:47 +0000</string>
       <key>public.objectLibs</key>
       <dict>
         <key>0947BB85</key>

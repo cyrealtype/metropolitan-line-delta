@@ -15,22 +15,16 @@
       <point x="1018" y="1400" type="line"/>
       <point x="448" y="1400" type="line" smooth="yes"/>
       <point x="296" y="1400"/>
-      <point x="176" y="1337.5"/>
-      <point x="112" y="1227.5" type="curve" smooth="yes"/>
-      <point x="80" y="1172.5"/>
+      <point x="176" y="1338"/>
+      <point x="112" y="1228" type="curve" smooth="yes"/>
+      <point x="80" y="1173"/>
       <point x="64" y="1109"/>
       <point x="64" y="1037" type="curve" smooth="yes"/>
-      <point x="64" y="827.10086"/>
-      <point x="210.08967" y="692"/>
+      <point x="64" y="827"/>
+      <point x="210" y="692"/>
       <point x="466" y="692" type="curve"/>
       <point x="466" y="-200" type="line"/>
       <point x="466" y="-200" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-14 21:57:33 +0000</string>
-    </dict>
-  </lib>
 </glyph>

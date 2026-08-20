@@ -6,6 +6,12 @@
   <anchor x="584" y="950" name="top"/>
   <outline>
     <component base="n"/>
-    <component base="commaaccentcomb" xOffset="260"/>
+    <component base="commaaccentcomb" xOffset="249"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-20 15:22:47 +0000</string>
+    </dict>
+  </lib>
 </glyph>

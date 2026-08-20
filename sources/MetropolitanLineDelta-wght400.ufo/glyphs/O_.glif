@@ -12,37 +12,39 @@
   <outline>
     <contour>
       <point x="790" y="-20" type="curve" smooth="yes"/>
-      <point x="1200.7030779184015" y="-20"/>
-      <point x="1544" y="288.45242306429026"/>
+      <point x="1201" y="-20"/>
+      <point x="1544" y="288"/>
       <point x="1544" y="702" type="curve" smooth="yes"/>
-      <point x="1544" y="1122.6525300190071"/>
-      <point x="1194.429554568607" y="1424"/>
+      <point x="1544" y="1123"/>
+      <point x="1194" y="1424"/>
       <point x="790" y="1424" type="curve" smooth="yes"/>
-      <point x="379.2969220815983" y="1424"/>
-      <point x="36" y="1115.54757693571"/>
+      <point x="379" y="1424"/>
+      <point x="36" y="1116"/>
       <point x="36" y="702" type="curve" smooth="yes"/>
-      <point x="36" y="281.3474699809929"/>
-      <point x="385.5704454313933" y="-20"/>
+      <point x="36" y="281"/>
+      <point x="386" y="-20"/>
     </contour>
     <contour>
       <point x="790" y="184" type="curve" smooth="yes"/>
-      <point x="497.0209980647271" y="184"/>
-      <point x="260" y="410.20403201731614"/>
+      <point x="497" y="184"/>
+      <point x="260" y="410"/>
       <point x="260" y="702" type="curve" smooth="yes"/>
-      <point x="260" y="999.1197378771053"/>
-      <point x="501.2857305044357" y="1220"/>
+      <point x="260" y="999"/>
+      <point x="501" y="1220"/>
       <point x="790" y="1220" type="curve" smooth="yes"/>
-      <point x="1082.9790019352727" y="1220"/>
-      <point x="1320" y="993.7959679826844"/>
+      <point x="1083" y="1220"/>
+      <point x="1320" y="994"/>
       <point x="1320" y="702" type="curve" smooth="yes"/>
-      <point x="1320" y="404.88026212289486"/>
-      <point x="1078.7142694955644" y="184"/>
+      <point x="1320" y="405"/>
+      <point x="1079" y="184"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-14 21:57:33 +0000</string>
+      <string>2026-08-20 15:34:49 +0000</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

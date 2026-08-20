@@ -11,4 +11,10 @@
     <component base="o"/>
     <component base="dieresiscomb" xOffset="174"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-20 15:22:47 +0000</string>
+    </dict>
+  </lib>
 </glyph>

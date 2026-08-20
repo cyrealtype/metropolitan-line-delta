@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-  <advance width="1580"/>
+  <advance width="1908"/>
   <unicode hex="0051"/>
   <anchor x="790" y="0" name="bottom"/>
   <anchor x="790" y="700" name="center"/>
@@ -14,9 +14,19 @@
       <point x="1536" y="118" type="line"/>
       <point x="1084" y="512" type="line"/>
       <point x="954" y="364" type="line"/>
-      <point x="1404" y="-30" type="line"/>
-      <point x="1404" y="-30" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-20 15:36:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>
