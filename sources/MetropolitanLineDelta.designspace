@@ -9,6 +9,7 @@
     <axis tag="XOLC" name="XOLC" minimum="5" maximum="300" default="110" hidden="1"/>
     <axis tag="YOUC" name="YOUC" minimum="5" maximum="280" default="100" hidden="1"/>
     <axis tag="YOLC" name="YOLC" minimum="5" maximum="280" default="100" hidden="1"/>
+    <axis tag="STUI" name="STUI" minimum="2" maximum="700" default="92" hidden="1"/>
     <mappings description="Horizontal stroke">
       <mapping description="min">
         <input>
@@ -105,6 +106,7 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-YOLC280.ufo" name="YOLC280" familyname="Metropolitan Line Delta" stylename="YOLC208">
@@ -117,6 +119,7 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="280"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XOLC5.ufo" name="XOLC5" familyname="Metropolitan Line Delta" stylename="XOLC5">
@@ -129,6 +132,7 @@
         <dimension name="XOLC" xvalue="5"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XOLC300.ufo" name="XOLC300" familyname="Metropolitan Line Delta" stylename="XOLC300">
@@ -141,6 +145,7 @@
         <dimension name="XOLC" xvalue="300"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTSP5.ufo" name="XTSP5" familyname="Metropolitan Line Delta" stylename="XTSP5">
@@ -153,6 +158,7 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTSP140.ufo" name="XTSP140" familyname="Metropolitan Line Delta" stylename="XTSP140">
@@ -165,6 +171,7 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XOUC5.ufo" name="XOUC5" familyname="Metropolitan Line Delta" stylename="XOUC5">
@@ -177,6 +184,7 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XOUC300.ufo" name="XOUC300" familyname="Metropolitan Line Delta" stylename="XOUC300">
@@ -189,6 +197,7 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-YOUC5.ufo" name="YOUC5" familyname="Metropolitan Line Delta" stylename="YOUC5">
@@ -201,6 +210,7 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="5"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-YOLC5.ufo" name="YOLC5" familyname="Metropolitan Line Delta" stylename="YOLC5">
@@ -213,6 +223,20 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="5"/>
+        <dimension name="STUI" xvalue="92"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta_STUI2.ufo" name="ff1921ce" familyname="Metropolitan Line Delta" stylename="STUI2">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="2"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-YOUC280.ufo" name="YOUC280" familyname="Metropolitan Line Delta" stylename="YOUC280">
@@ -225,6 +249,7 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="280"/>
         <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
       </location>
     </source>
   </sources>
