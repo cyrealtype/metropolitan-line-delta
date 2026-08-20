@@ -1,36 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numero" format="2">
-  <advance width="2175"/>
+  <advance width="2106"/>
   <unicode hex="2116"/>
   <anchor x="758" y="0" name="bottom"/>
   <anchor x="758" y="1400" name="top"/>
   <outline>
     <component base="N" identifier="2BED502A"/>
-    <component base="ordmasculine" xOffset="1521" yOffset="-2" identifier="4CA78D14"/>
+    <component base="ordmasculine" xOffset="1514" identifier="4CA78D14"/>
     <component base="hyphen" xOffset="1437" yOffset="120" identifier="187AB90B"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-20 15:22:47 +0000</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>187AB90B</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>2BED502A</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>4CA78D14</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -8,10 +8,4 @@
     <component base="n"/>
     <component base="tildecomb" xOffset="163"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-20 15:22:47 +0000</string>
-    </dict>
-  </lib>
 </glyph>

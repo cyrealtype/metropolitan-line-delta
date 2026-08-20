@@ -1,262 +1,12 @@
-@MMK_L_A = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde];
-@MMK_L_B = [B Germandbls];
-@MMK_L_C = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent G.ss01 euro];
-@MMK_L_E = [AE E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek OE];
-@MMK_L_Eth = [Dcroat];
-@MMK_L_F = [F];
-@MMK_L_H = [H Hbar Hcircumflex IJ M N Nacute Ncaron Ncommaaccent Ntilde Eng H.ss01 paragraph bar];
-@MMK_L_I = [I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde];
-@MMK_L_K = [K Kcommaaccent K.ss01];
-@MMK_L_L = [L Lacute Lcaron Lcommaaccent Ldot Lslash];
-@MMK_L_O = [D Eth Dcaron O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde Q zero copyright registered];
-@MMK_L_P = [P Thorn];
-@MMK_L_R = [R Racute Rcaron Rcommaaccent];
-@MMK_L_S = [S Sacute Scaron Scedilla Scircumflex Scommaaccent dollar];
-@MMK_L_T = [T Tcaron Tcedilla Tcommaaccent];
-@MMK_L_U = [J Jcircumflex U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde Q_U];
-@MMK_L_V = [V W Wacute Wcircumflex Wdieresis Wgrave W.ss01 W.ss02 W.ss03 W.ss04];
-@MMK_L_X = [X X.ss01];
-@MMK_L_Y = [Y Yacute Ycircumflex Ydieresis Ygrave yen];
-@MMK_L_Z = [Z Zacute Zcaron Zdotaccent];
-@MMK_L_acutecomb = [acutecomb acute];
-@MMK_L_acutecomb.case = [acutecomb.case];
-@MMK_L_ainferior = [ainferior einferior oinferior xinferior];
-@MMK_L_alpha = [reversedRotatedFloralHeartBullet apple];
-@MMK_L_ampersand = [ampersand];
-@MMK_L_apple.ss01 = [apple.ss01];
-@MMK_L_asterisk = [asciicircum];
-@MMK_L_at = [at];
-@MMK_L_brevecomb = [brevecomb breve];
-@MMK_L_brevecomb.case = [brevecomb.case];
-@MMK_L_brevecomb.case.i = [brevecomb.case.i];
-@MMK_L_brevecomb.i = [brevecomb.i];
-@MMK_L_c = [c cacute ccaron ccedilla ccircumflex cdotaccent cent];
-@MMK_L_caroncomb = [caroncomb caron];
-@MMK_L_caroncomb.alt = [caroncomb.alt];
-@MMK_L_caroncomb.case = [caroncomb.case];
-@MMK_L_cedillacomb = [cedillacomb cedilla];
-@MMK_L_circumflexcomb = [circumflexcomb circumflex];
-@MMK_L_circumflexcomb.case = [circumflexcomb.case];
-@MMK_L_circumflexcomb.case.i = [circumflexcomb.case.i];
-@MMK_L_circumflexcomb.i = [circumflexcomb.i];
-@MMK_L_commaaccentcomb = [commaaccentcomb];
-@MMK_L_commaturnedabovecomb = [commaturnedabovecomb];
-@MMK_L_d = [d dcaron dcroat];
-@MMK_L_dieresiscomb = [dieresiscomb dieresis];
-@MMK_L_dieresiscomb.case = [dieresiscomb.case];
-@MMK_L_dollar.ss01 = [dollar.ss01];
-@MMK_L_dotaccentcomb = [dotaccentcomb dotaccent];
-@MMK_L_dotaccentcomb.case = [dotaccentcomb.case];
-@MMK_L_e = [ae e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek oe];
-@MMK_L_eight = [eight];
-@MMK_L_equalinferior = [equalinferior equalsuperior];
-@MMK_L_exclam = [exclam exclamdown exclamdouble questionexclamation];
-@MMK_L_f = [f longs];
-@MMK_L_five = [five];
-@MMK_L_floralHeart = [floralHeart];
-@MMK_L_four = [four];
-@MMK_L_g = [g gbreve gcircumflex gcommaaccent gdotaccent g.ss01 g.ss02];
-@MMK_L_germandbls = [germandbls];
-@MMK_L_gravecomb = [gravecomb grave];
-@MMK_L_gravecomb.case = [gravecomb.case];
-@MMK_L_hinferior = [hinferior kinferior linferior minferior ninferior pinferior sinferior tinferior];
-@MMK_L_hungarumlautcomb = [hungarumlautcomb hungarumlaut];
-@MMK_L_hungarumlautcomb.case = [hungarumlautcomb.case];
-@MMK_L_idotless = [i idotless iacute ibreve icircumflex idieresis idotaccent igrave imacron iogonek itilde ij fi];
-@MMK_L_infinity = [infinity];
-@MMK_L_integral = [dblIntegral integral];
-@MMK_L_jdotless = [j jdotless jcircumflex];
-@MMK_L_k = [k kcommaaccent];
-@MMK_L_l = [l lacute lcaron lcommaaccent ldot lslash fl];
-@MMK_L_leftArrow = [leftArrow leftArrow.ss01 leftArrow.ss02 leftArrow.ss03 leftArrow.ss04];
-@MMK_L_macroncomb = [macroncomb macron];
-@MMK_L_macroncomb.case = [macroncomb.case];
-@MMK_L_macroncomb.case.i = [macroncomb.case.i];
-@MMK_L_macroncomb.i = [macroncomb.i];
-@MMK_L_n = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde h hbar hcircumflex m n nacute ncaron ncommaaccent ntilde eng];
-@MMK_L_nine = [nine];
-@MMK_L_o = [b eth o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde p thorn];
-@MMK_L_ogonekcomb = [ogonekcomb ogonek];
-@MMK_L_one = [one];
-@MMK_L_ordfeminine = [trademark degree];
-@MMK_L_ordmasculine = [ordfeminine ordmasculine numero];
-@MMK_L_percent = [percent];
-@MMK_L_period = [period comma];
-@MMK_L_plus = [plus minus multiply divide equal greater less];
-@MMK_L_plusinferior = [plusinferior plussuperior];
-@MMK_L_q = [q];
-@MMK_L_q.alt = [q.ss01];
-@MMK_L_question = [question exclamationquestion doublequestion];
-@MMK_L_r = [r racute rcaron rcommaaccent];
-@MMK_L_rightArrow = [rightArrow rightArrow.ss01 rightArrow.ss02 rightArrow.ss03 rightArrow.ss04];
-@MMK_L_ringcomb = [ringcomb ring];
-@MMK_L_ringcomb.case = [ringcomb.case];
-@MMK_L_rotatedFloralHeartBullet = [rotatedFloralHeartBullet];
-@MMK_L_s = [s sacute scaron scedilla scircumflex scommaaccent];
-@MMK_L_section = [section];
-@MMK_L_seven = [seven];
-@MMK_L_six = [six];
-@MMK_L_sterling = [sterling];
-@MMK_L_strokeshortcomb = [strokeshortcomb];
-@MMK_L_t = [t tcaron tcedilla tcommaaccent];
-@MMK_L_three = [three];
-@MMK_L_tildecomb = [asciitilde tildecomb tilde];
-@MMK_L_tildecomb.case = [tildecomb.case];
-@MMK_L_tildecomb.i = [tildecomb.i tildecomb.case.i];
-@MMK_L_tripleIntegral = [tripleIntegral];
-@MMK_L_two = [two];
-@MMK_L_u = [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde a.ss01 mu];
-@MMK_L_v = [v w wacute wcircumflex wdieresis wgrave];
-@MMK_L_x = [x];
-@MMK_L_y = [y yacute ycircumflex ydieresis ygrave];
-@MMK_L_z = [z zacute zcaron zdotaccent];
-@MMK_R_A = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE];
-@MMK_R_Eth = [Dcroat];
-@MMK_R_H = [B D Eth Dcaron E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F H Hbar Hcircumflex IJ K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot M N Nacute Ncaron Ncommaaccent Ntilde Eng P Thorn R Racute Rcaron Rcommaaccent Germandbls H.ss01 K.ss01 b h hbar hcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot bar numero];
-@MMK_R_I = [I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde];
-@MMK_R_J = [J Jcircumflex];
-@MMK_R_L = [Lslash];
-@MMK_R_O = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcircumflex Gcommaaccent Gdotaccent O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE Q G.ss01 Q_U zero copyright registered euro];
-@MMK_R_S = [S Sacute Scaron Scedilla Scircumflex Scommaaccent dollar];
-@MMK_R_T = [T Tcaron Tcedilla Tcommaaccent];
-@MMK_R_U = [U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde];
-@MMK_R_V = [V W Wacute Wcircumflex Wdieresis Wgrave W.ss01 W.ss02 W.ss03 W.ss04];
-@MMK_R_X = [X X.ss01];
-@MMK_R_Y = [Y Yacute Ycircumflex Ydieresis Ygrave yen];
-@MMK_R_Z = [Z Zacute Zcaron Zdotaccent];
-@MMK_R_a = [a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae];
-@MMK_R_acutecomb = [acutecomb acute];
-@MMK_R_acutecomb.case = [acutecomb.case];
-@MMK_R_ainferior = [ainferior einferior oinferior xinferior];
-@MMK_R_alpha = [reversedRotatedFloralHeartBullet];
-@MMK_R_ampersand = [ampersand];
-@MMK_R_apple.ss01 = [apple.ss01];
-@MMK_R_asterisk = [asciicircum];
-@MMK_R_at = [at];
-@MMK_R_brevecomb = [brevecomb breve];
-@MMK_R_brevecomb.case = [brevecomb.case];
-@MMK_R_brevecomb.case.i = [brevecomb.case.i];
-@MMK_R_brevecomb.i = [brevecomb.i];
-@MMK_R_caroncomb = [caroncomb caron];
-@MMK_R_caroncomb.alt = [caroncomb.alt];
-@MMK_R_caroncomb.case = [caroncomb.case];
-@MMK_R_cedillacomb = [cedillacomb cedilla];
-@MMK_R_circumflexcomb = [circumflexcomb circumflex];
-@MMK_R_circumflexcomb.case = [circumflexcomb.case];
-@MMK_R_circumflexcomb.case.i = [circumflexcomb.case.i];
-@MMK_R_circumflexcomb.i = [circumflexcomb.i];
-@MMK_R_commaaccentcomb = [commaaccentcomb];
-@MMK_R_commaturnedabovecomb = [commaturnedabovecomb];
-@MMK_R_dieresiscomb = [dieresiscomb dieresis];
-@MMK_R_dieresiscomb.case = [dieresiscomb.case];
-@MMK_R_dollar.ss01 = [dollar.ss01];
-@MMK_R_dotaccentcomb = [dotaccentcomb dotaccent];
-@MMK_R_dotaccentcomb.case = [dotaccentcomb.case];
-@MMK_R_eight = [eight];
-@MMK_R_equalinferior = [equalinferior equalsuperior];
-@MMK_R_exclam = [exclam exclamdown exclamationquestion exclamdouble];
-@MMK_R_f = [f fi fl];
-@MMK_R_five = [five];
-@MMK_R_floralHeart = [floralHeart];
-@MMK_R_four = [four];
-@MMK_R_g = [g gbreve gcircumflex gcommaaccent gdotaccent g.ss01 g.ss02];
-@MMK_R_gravecomb = [gravecomb grave];
-@MMK_R_gravecomb.case = [gravecomb.case];
-@MMK_R_h = [thorn germandbls longs];
-@MMK_R_hbar = [lslash];
-@MMK_R_hinferior = [hinferior kinferior linferior minferior ninferior pinferior sinferior tinferior];
-@MMK_R_hungarumlautcomb = [hungarumlautcomb hungarumlaut];
-@MMK_R_hungarumlautcomb.case = [hungarumlautcomb.case];
-@MMK_R_idotless = [i idotless iacute ibreve icircumflex idieresis idotaccent igrave imacron iogonek itilde];
-@MMK_R_infinity = [infinity];
-@MMK_R_integral = [dblIntegral integral];
-@MMK_R_j = [ij];
-@MMK_R_jdotless = [j jdotless jcircumflex];
-@MMK_R_leftArrow = [leftArrow leftArrow.ss01 leftArrow.ss02 leftArrow.ss03 leftArrow.ss04];
-@MMK_R_macroncomb = [macroncomb macron];
-@MMK_R_macroncomb.case = [macroncomb.case];
-@MMK_R_macroncomb.case.i = [macroncomb.case.i];
-@MMK_R_macroncomb.i = [macroncomb.i];
-@MMK_R_n = [m n nacute ncaron ncommaaccent ntilde eng p r racute rcaron rcommaaccent];
-@MMK_R_nine = [nine];
-@MMK_R_o = [c cacute ccaron ccedilla ccircumflex cdotaccent d eth dcaron dcroat e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek o oacute obreve ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe q a.ss01 q.ss01 cent];
-@MMK_R_ogonekcomb = [ogonekcomb ogonek];
-@MMK_R_one = [one];
-@MMK_R_ordfeminine = [trademark degree];
-@MMK_R_ordmasculine = [ordfeminine ordmasculine];
-@MMK_R_p = [mu];
-@MMK_R_paragraph = [paragraph];
-@MMK_R_percent = [percent];
-@MMK_R_period = [period comma];
-@MMK_R_plus = [plus minus multiply divide equal greater less];
-@MMK_R_plusinferior = [plusinferior plussuperior];
-@MMK_R_question = [question doublequestion questionexclamation];
-@MMK_R_reversedRotatedFloralHeartBullet = [apple];
-@MMK_R_rightArrow = [rightArrow rightArrow.ss01 rightArrow.ss02 rightArrow.ss03 rightArrow.ss04];
-@MMK_R_ringcomb = [ringcomb ring];
-@MMK_R_ringcomb.case = [ringcomb.case];
-@MMK_R_rotatedFloralHeartBullet = [rotatedFloralHeartBullet];
-@MMK_R_s = [s sacute scaron scedilla scircumflex scommaaccent];
-@MMK_R_section = [section];
-@MMK_R_seven = [seven];
-@MMK_R_six = [six];
-@MMK_R_sterling = [sterling];
-@MMK_R_strokeshortcomb = [strokeshortcomb];
-@MMK_R_t = [t tcaron tcedilla tcommaaccent];
-@MMK_R_three = [three];
-@MMK_R_tilde = [asciitilde];
-@MMK_R_tildecomb = [tildecomb tilde];
-@MMK_R_tildecomb.case = [tildecomb.case];
-@MMK_R_tildecomb.i = [tildecomb.i tildecomb.case.i];
-@MMK_R_tripleIntegral = [tripleIntegral];
-@MMK_R_two = [two];
-@MMK_R_u = [u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring utilde];
-@MMK_R_v = [v w wacute wcircumflex wdieresis wgrave];
-@MMK_R_x = [x];
-@MMK_R_y = [y yacute ycircumflex ydieresis ygrave];
-@MMK_R_z = [z zacute zcaron zdotaccent];
-	markClass [dieresiscomb] <anchor 376 950> @mark_top;
-	markClass [dotaccentcomb] <anchor 202 950> @mark_top;
-	markClass [gravecomb] <anchor 310 950> @mark_top;
-	markClass [acutecomb] <anchor 134 950> @mark_top;
-	markClass [hungarumlautcomb] <anchor 288 950> @mark_top;
-	markClass [caroncomb.alt] <anchor 174 1400> @mark_topright;
-	markClass [circumflexcomb] <anchor 386 950> @mark_top;
-	markClass [caroncomb] <anchor 384 950> @mark_top;
-	markClass [brevecomb] <anchor 390 950> @mark_top;
-	markClass [ringcomb] <anchor 246 950> @mark_top;
-	markClass [tildecomb] <anchor 410 950> @mark_top;
-	markClass [macroncomb] <anchor 348 950> @mark_top;
-	markClass [commaturnedabovecomb] <anchor 160 950> @mark_top;
-	markClass [commaaccentcomb] <anchor 274 0> @mark_bottom;
-	markClass [cedillacomb] <anchor 256 0> @mark_bottom;
-	markClass [ogonekcomb] <anchor 246 0> @mark_ogonek;
-	markClass [strokeshortcomb] <anchor 398 860> @mark_center;
-	markClass [dieresiscomb.case] <anchor 376 1400> @mark_top;
-	markClass [dotaccentcomb.case] <anchor 202 1400> @mark_top;
-	markClass [gravecomb.case] <anchor 310 1400> @mark_top;
-	markClass [acutecomb.case] <anchor 198 1400> @mark_top;
-	markClass [hungarumlautcomb.case] <anchor 288 1400> @mark_top;
-	markClass [circumflexcomb.case] <anchor 386 1400> @mark_top;
-	markClass [caroncomb.case] <anchor 386 1400> @mark_top;
-	markClass [brevecomb.case] <anchor 390 1400> @mark_top;
-	markClass [ringcomb.case] <anchor 246 1400> @mark_top;
-	markClass [tildecomb.case] <anchor 410 1400> @mark_top;
-	markClass [macroncomb.case] <anchor 348 1400> @mark_top;
-	markClass [circumflexcomb.i] <anchor 344 950> @mark_top;
-	markClass [brevecomb.i] <anchor 348 950> @mark_top;
-	markClass [tildecomb.i] <anchor 340 950> @mark_top;
-	markClass [macroncomb.i] <anchor 268 950> @mark_top;
-	markClass [circumflexcomb.case.i] <anchor 350 1400> @mark_top;
-	markClass [brevecomb.case.i] <anchor 390 1400> @mark_top;
-	markClass [tildecomb.case.i] <anchor 410 1400> @mark_top;
-	markClass [macroncomb.case.i] <anchor 268 1400> @mark_top;
-@anchor_ogonek = [ogonekcomb];
-@anchor_bottom = [commaaccentcomb cedillacomb];
-@anchor_top = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb commaturnedabovecomb dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case circumflexcomb.i brevecomb.i tildecomb.i macroncomb.i circumflexcomb.case.i brevecomb.case.i tildecomb.case.i macroncomb.case.i];
-@anchor_center = [strokeshortcomb];
-### class:0:Uppercase ###
-@Uppercase = [
+@anchor_ogonek = [ ogonekcomb ];
+
+@anchor_bottom = [ commaaccentcomb cedillacomb ];
+
+@anchor_top = [ dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb commaturnedabovecomb dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case circumflexcomb.i brevecomb.i tildecomb.i macroncomb.i circumflexcomb.case.i brevecomb.case.i tildecomb.case.i macroncomb.case.i ];
+
+@anchor_center = [ strokeshortcomb ];
+
+@Uppercase = [ 
 ### open class 'Uppercase' ###
 A
 Aacute
@@ -393,10 +143,9 @@ W.ss03
 W.ss04
 Q_U
 ### close class 'Uppercase' ###
-];
+ ];
 
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn AZE;
@@ -407,9 +156,54 @@ languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
+
+# Prefix: Prefix
+### class:0:Uppercase ###
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
 ### close prefix 'Languagesystems' ###
 
 ### feature:0:aalt ###
+
+### feature:1:ccmp ###
+
+### feature:2:locl ###
+
+### feature:3:subs ###
+
+### feature:4:sinf ###
+
+### feature:5:sups ###
+
+### feature:6:ordn ###
+
+### feature:7:case ###
+
+### feature:8:dlig ###
+
+### feature:9:liga ###
+
+### feature:10:ss01 ###
+
+### feature:11:ss02 ###
+
+### feature:12:ss03 ###
+
+### feature:13:ss04 ###
+
+### feature:-1:kern ###
+
+### feature:-1:mark ###
+
+### feature:-1:mkmk ###
+
+table GDEF {
+	LigatureCaretByPos Q_U 1496;
+	LigatureCaretByPos fi 506;
+	LigatureCaretByPos fl 630;
+
+} GDEF;
+
 feature aalt {
 ### open feature 'aalt' ###
 feature locl;
@@ -425,7 +219,6 @@ feature ss04;
 ### close feature 'aalt' ###
 } aalt;
 
-### feature:1:ccmp ###
 feature ccmp {
 ### open feature 'ccmp' ###
 lookup ccmp_DFLT_1 {
@@ -462,23 +255,9 @@ lookup ccmp_latn_1;
 ### close feature 'ccmp' ###
 } ccmp;
 
-### feature:2:locl ###
 feature locl {
 ### open feature 'locl' ###
 script latn;
-
-language AZE CRT KAZ TAT TRK;
-lookup idotaccent {
-	sub i by idotaccent;
-} idotaccent;
-
-language ROM MOL;
-lookup commaaccent {
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-} commaaccent;
 
 language CAT;
 lookup puntvolat {
@@ -488,7 +267,6 @@ lookup puntvolat {
 ### close feature 'locl' ###
 } locl;
 
-### feature:3:subs ###
 feature subs {
 ### open feature 'subs' ###
 sub a by ainferior;
@@ -520,7 +298,6 @@ sub plus by plusinferior;
 ### close feature 'subs' ###
 } subs;
 
-### feature:4:sinf ###
 feature sinf {
 ### open feature 'sinf' ###
 sub a by ainferior;
@@ -552,7 +329,6 @@ sub plus by plusinferior;
 ### close feature 'sinf' ###
 } sinf;
 
-### feature:5:sups ###
 feature sups {
 ### open feature 'sups' ###
 sub zero by zerosuperior;
@@ -572,7 +348,6 @@ sub plus by plussuperior;
 ### close feature 'sups' ###
 } sups;
 
-### feature:6:ordn ###
 feature ordn {
 ### open feature 'ordn' ###
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
@@ -581,7 +356,6 @@ sub N o period by numero;
 ### close feature 'ordn' ###
 } ordn;
 
-### feature:7:case ###
 feature case {
 ### open feature 'case' ###
 sub periodcentered.loclCAT by periodcentered.loclCAT.case;
@@ -599,7 +373,6 @@ sub macroncomb by macroncomb.case;
 ### close feature 'case' ###
 } case;
 
-### feature:8:dlig ###
 feature dlig {
 ### open feature 'dlig' ###
 lookupflag IgnoreMarks;
@@ -607,7 +380,6 @@ sub Q U by Q_U;
 ### close feature 'dlig' ###
 } dlig;
 
-### feature:9:liga ###
 feature liga {
 ### open feature 'liga' ###
 lookupflag IgnoreMarks;
@@ -616,7 +388,6 @@ sub f l by fl;
 ### close feature 'liga' ###
 } liga;
 
-### feature:10:ss01 ###
 feature ss01 {
 featureNames {
 	name "G,H,K,W,X,a,q,g alternates";
@@ -638,7 +409,6 @@ sub leftArrow by leftArrow.ss01;
 ### close feature 'ss01' ###
 } ss01;
 
-### feature:11:ss02 ###
 feature ss02 {
 featureNames {
 	name "W, g, arrows set 2";
@@ -652,7 +422,6 @@ sub leftArrow by leftArrow.ss02;
 ### close feature 'ss02' ###
 } ss02;
 
-### feature:12:ss03 ###
 feature ss03 {
 featureNames {
 	name "W, arrows set 3";
@@ -665,7 +434,6 @@ sub leftArrow by leftArrow.ss03;
 ### close feature 'ss03' ###
 } ss03;
 
-### feature:13:ss04 ###
 feature ss04 {
 featureNames {
 	name "W, arrows set 4";
@@ -678,677 +446,6 @@ sub leftArrow by leftArrow.ss04;
 ### close feature 'ss04' ###
 } ss04;
 
-### feature:-1:kern ###
-feature kern {
-### open feature 'kern' ###
-	lookup kern_DFLT {
-		lookupflag IgnoreMarks;
-		pos @MMK_L_eight @MMK_R_A -120;
-		pos @MMK_L_eight @MMK_R_O -80;
-		pos @MMK_L_eight @MMK_R_eight -120;
-		pos @MMK_L_eight @MMK_R_five -120;
-		pos @MMK_L_eight @MMK_R_four -80;
-		pos @MMK_L_eight @MMK_R_nine -160;
-		pos @MMK_L_eight @MMK_R_o -40;
-		pos @MMK_L_eight @MMK_R_one -80;
-		pos @MMK_L_eight @MMK_R_period -200;
-		pos @MMK_L_eight @MMK_R_seven -160;
-		pos @MMK_L_eight @MMK_R_six -80;
-		pos @MMK_L_eight @MMK_R_three -200;
-		pos @MMK_L_eight @MMK_R_two -120;
-		pos @MMK_L_eight hyphen -40;
-		pos @MMK_L_eight quotesingle -160;
-		pos @MMK_L_five @MMK_R_A -160;
-		pos @MMK_L_five @MMK_R_O -40;
-		pos @MMK_L_five @MMK_R_eight -120;
-		pos @MMK_L_five @MMK_R_five -40;
-		pos @MMK_L_five @MMK_R_four -80;
-		pos @MMK_L_five @MMK_R_nine -120;
-		pos @MMK_L_five @MMK_R_o -40;
-		pos @MMK_L_five @MMK_R_period -240;
-		pos @MMK_L_five @MMK_R_seven -80;
-		pos @MMK_L_five @MMK_R_six -120;
-		pos @MMK_L_five @MMK_R_three -80;
-		pos @MMK_L_five @MMK_R_two -80;
-		pos @MMK_L_five hyphen -40;
-		pos @MMK_L_five quotesingle -40;
-		pos @MMK_L_four @MMK_R_A -80;
-		pos @MMK_L_four @MMK_R_eight -40;
-		pos @MMK_L_four @MMK_R_nine -40;
-		pos @MMK_L_four @MMK_R_period -160;
-		pos @MMK_L_four @MMK_R_seven -80;
-		pos @MMK_L_four @MMK_R_three -40;
-		pos @MMK_L_four quotesingle -40;
-		pos @MMK_L_nine @MMK_R_A -200;
-		pos @MMK_L_nine @MMK_R_O -80;
-		pos @MMK_L_nine @MMK_R_eight -120;
-		pos @MMK_L_nine @MMK_R_five -160;
-		pos @MMK_L_nine @MMK_R_four -80;
-		pos @MMK_L_nine @MMK_R_nine -80;
-		pos @MMK_L_nine @MMK_R_one -40;
-		pos @MMK_L_nine @MMK_R_period -360;
-		pos @MMK_L_nine @MMK_R_seven -160;
-		pos @MMK_L_nine @MMK_R_six -120;
-		pos @MMK_L_nine @MMK_R_three -160;
-		pos @MMK_L_nine @MMK_R_two -120;
-		pos @MMK_L_nine quotesingle -40;
-		pos @MMK_L_one @MMK_R_eight -40;
-		pos @MMK_L_one @MMK_R_nine -40;
-		pos @MMK_L_seven @MMK_R_A -320;
-		pos @MMK_L_seven @MMK_R_O -80;
-		pos @MMK_L_seven @MMK_R_eight -160;
-		pos @MMK_L_seven @MMK_R_five -160;
-		pos @MMK_L_seven @MMK_R_four -240;
-		pos @MMK_L_seven @MMK_R_nine -120;
-		pos @MMK_L_seven @MMK_R_o -160;
-		pos @MMK_L_seven @MMK_R_period -480;
-		pos @MMK_L_seven @MMK_R_seven -40;
-		pos @MMK_L_seven @MMK_R_six -200;
-		pos @MMK_L_seven @MMK_R_three -80;
-		pos @MMK_L_seven @MMK_R_two -40;
-		pos @MMK_L_seven hyphen -240;
-		pos @MMK_L_six @MMK_R_A -120;
-		pos @MMK_L_six @MMK_R_O -40;
-		pos @MMK_L_six @MMK_R_eight -80;
-		pos @MMK_L_six @MMK_R_five -80;
-		pos @MMK_L_six @MMK_R_four -40;
-		pos @MMK_L_six @MMK_R_nine -120;
-		pos @MMK_L_six @MMK_R_period -160;
-		pos @MMK_L_six @MMK_R_seven -160;
-		pos @MMK_L_six @MMK_R_six -40;
-		pos @MMK_L_six @MMK_R_three -120;
-		pos @MMK_L_six @MMK_R_two -120;
-		pos @MMK_L_six quotesingle -120;
-		pos @MMK_L_three @MMK_R_A -120;
-		pos @MMK_L_three @MMK_R_O -40;
-		pos @MMK_L_three @MMK_R_eight -120;
-		pos @MMK_L_three @MMK_R_five -80;
-		pos @MMK_L_three @MMK_R_nine -120;
-		pos @MMK_L_three @MMK_R_o -40;
-		pos @MMK_L_three @MMK_R_period -200;
-		pos @MMK_L_three @MMK_R_seven -120;
-		pos @MMK_L_three @MMK_R_six -80;
-		pos @MMK_L_three @MMK_R_three -40;
-		pos @MMK_L_three @MMK_R_two -40;
-		pos @MMK_L_three hyphen -40;
-		pos @MMK_L_three quotesingle -40;
-		pos @MMK_L_two @MMK_R_A -80;
-		pos @MMK_L_two @MMK_R_O -80;
-		pos @MMK_L_two @MMK_R_eight -120;
-		pos @MMK_L_two @MMK_R_five -80;
-		pos @MMK_L_two @MMK_R_four -80;
-		pos @MMK_L_two @MMK_R_nine -120;
-		pos @MMK_L_two @MMK_R_o -80;
-		pos @MMK_L_two @MMK_R_period -160;
-		pos @MMK_L_two @MMK_R_seven -80;
-		pos @MMK_L_two @MMK_R_six -120;
-		pos @MMK_L_two @MMK_R_three -120;
-		pos @MMK_L_two hyphen -80;
-		pos @MMK_L_two quotesingle -40;
-		pos @MMK_L_period @MMK_R_O -40;
-		pos @MMK_L_period @MMK_R_eight -80;
-		pos @MMK_L_period @MMK_R_five -80;
-		pos @MMK_L_period @MMK_R_four -200;
-		pos @MMK_L_period @MMK_R_nine -160;
-		pos @MMK_L_period @MMK_R_seven -120;
-		pos @MMK_L_period @MMK_R_six -120;
-		pos @MMK_L_period @MMK_R_three -120;
-		pos @MMK_L_question @MMK_R_A -120;
-		pos asterisk @MMK_R_A -160;
-		pos bullet @MMK_R_A -80;
-		pos endash @MMK_R_nine -40;
-		pos endash @MMK_R_seven -120;
-		pos hyphen @MMK_R_five -120;
-		pos hyphen @MMK_R_nine -120;
-		pos hyphen @MMK_R_seven -200;
-		pos hyphen @MMK_R_three -120;
-		pos hyphen @MMK_R_two -80;
-		pos numbersign @MMK_R_A -120;
-		pos quotedbl @MMK_R_A -80;
-		pos quotesinglbase @MMK_R_A 80;
-		pos quotesingle @MMK_R_A -80;
-		pos quotesingle @MMK_R_O -40;
-		pos quotesingle @MMK_R_eight -160;
-		pos quotesingle @MMK_R_five -80;
-		pos quotesingle @MMK_R_four -160;
-		pos quotesingle @MMK_R_nine -40;
-		pos quotesingle @MMK_R_seven -40;
-		pos quotesingle @MMK_R_six -120;
-		pos quotesingle @MMK_R_three -40;
-		pos @MMK_L_sterling @MMK_R_eight -80;
-		pos @MMK_L_sterling @MMK_R_five -40;
-		pos @MMK_L_sterling @MMK_R_four -160;
-		pos @MMK_L_sterling @MMK_R_nine -160;
-		pos @MMK_L_sterling @MMK_R_one -40;
-		pos @MMK_L_sterling @MMK_R_seven -160;
-		pos @MMK_L_sterling @MMK_R_six -80;
-		pos @MMK_L_sterling @MMK_R_three -80;
-	} kern_DFLT;
-	lookup kern_latn {
-		lookupflag IgnoreMarks;
-		pos A question -120;
-		pos A doublequestion -120;
-		pos A questionexclamation -160;
-		pos Aacute question -120;
-		pos Aacute doublequestion -120;
-		pos Aacute questionexclamation -160;
-		pos Abreve question -120;
-		pos Abreve doublequestion -120;
-		pos Abreve questionexclamation -160;
-		pos Acircumflex question -120;
-		pos Acircumflex doublequestion -120;
-		pos Acircumflex questionexclamation -160;
-		pos Adieresis question -120;
-		pos Adieresis doublequestion -120;
-		pos Adieresis questionexclamation -160;
-		pos Agrave question -120;
-		pos Agrave doublequestion -120;
-		pos Agrave questionexclamation -160;
-		pos Amacron question -120;
-		pos Amacron doublequestion -120;
-		pos Amacron questionexclamation -160;
-		pos Aogonek question -120;
-		pos Aogonek doublequestion -120;
-		pos Aogonek questionexclamation -160;
-		pos Aring question -120;
-		pos Aring doublequestion -120;
-		pos Aring questionexclamation -160;
-		pos Atilde question -120;
-		pos Atilde doublequestion -120;
-		pos Atilde questionexclamation -160;
-		pos J A -80;
-		pos Jcircumflex A -80;
-		pos U A -80;
-		pos Uacute A -80;
-		pos Ubreve A -80;
-		pos Ucircumflex A -80;
-		pos Udieresis A -80;
-		pos Ugrave A -80;
-		pos Uhungarumlaut A -80;
-		pos Umacron A -80;
-		pos Uogonek A -80;
-		pos Uring A -80;
-		pos Utilde A -80;
-		pos Q_U A -80;
-		pos i l -26;
-		pos idotless l -26;
-		pos iacute l -26;
-		pos ibreve l -26;
-		pos icircumflex l -26;
-		pos idieresis l -26;
-		pos idotaccent l -26;
-		pos igrave l -26;
-		pos imacron l -26;
-		pos iogonek l -26;
-		pos itilde l -26;
-		pos ij l -26;
-		pos tcaron A -110;
-		pos tcaron Aacute -110;
-		pos tcaron Abreve -110;
-		pos tcaron Acircumflex -110;
-		pos tcaron Adieresis -110;
-		pos tcaron Agrave -110;
-		pos tcaron Amacron -110;
-		pos tcaron Aogonek -110;
-		pos tcaron Aring -110;
-		pos tcaron Atilde -110;
-		pos tcaron AE -110;
-		pos fi l -26;
-		pos @MMK_L_A @MMK_R_J -20;
-		pos @MMK_L_A @MMK_R_O -84;
-		pos @MMK_L_A @MMK_R_T -222;
-		pos @MMK_L_A @MMK_R_U -80;
-		pos @MMK_L_A @MMK_R_V -200;
-		pos @MMK_L_A @MMK_R_Y -194;
-		pos @MMK_L_A @MMK_R_a -50;
-		pos @MMK_L_A @MMK_R_dollar.ss01 -40;
-		pos @MMK_L_A @MMK_R_dotaccentcomb -80;
-		pos @MMK_L_A @MMK_R_eight -120;
-		pos @MMK_L_A @MMK_R_equalinferior -80;
-		pos @MMK_L_A @MMK_R_exclam -40;
-		pos @MMK_L_A @MMK_R_five -80;
-		pos @MMK_L_A @MMK_R_four -40;
-		pos @MMK_L_A @MMK_R_g -30;
-		pos @MMK_L_A @MMK_R_nine -80;
-		pos @MMK_L_A @MMK_R_o -70;
-		pos @MMK_L_A @MMK_R_ordfeminine -160;
-		pos @MMK_L_A @MMK_R_percent -80;
-		pos @MMK_L_A @MMK_R_plus -120;
-		pos @MMK_L_A @MMK_R_plusinferior -40;
-		pos @MMK_L_A @MMK_R_s -10;
-		pos @MMK_L_A @MMK_R_seven -120;
-		pos @MMK_L_A @MMK_R_six -120;
-		pos @MMK_L_A @MMK_R_t -120;
-		pos @MMK_L_A @MMK_R_three -120;
-		pos @MMK_L_A @MMK_R_two -80;
-		pos @MMK_L_A @MMK_R_u -30;
-		pos @MMK_L_A @MMK_R_v -160;
-		pos @MMK_L_A @MMK_R_y -120;
-		pos @MMK_L_A asterisk -160;
-		pos @MMK_L_A bullet -80;
-		pos @MMK_L_A numbersign -80;
-		pos @MMK_L_A quotedbl -80;
-		pos @MMK_L_A quotesingle -80;
-		pos @MMK_L_B @MMK_R_A -32;
-		pos @MMK_L_B @MMK_R_O 12;
-		pos @MMK_L_B @MMK_R_S 28;
-		pos @MMK_L_B @MMK_R_T -96;
-		pos @MMK_L_B @MMK_R_V -114;
-		pos @MMK_L_B @MMK_R_X -68;
-		pos @MMK_L_B @MMK_R_Y -132;
-		pos @MMK_L_B @MMK_R_Z -86;
-		pos @MMK_L_C @MMK_R_A -12;
-		pos @MMK_L_C @MMK_R_O -14;
-		pos @MMK_L_C @MMK_R_S 58;
-		pos @MMK_L_C @MMK_R_V -4;
-		pos @MMK_L_C @MMK_R_X -28;
-		pos @MMK_L_C @MMK_R_Y -30;
-		pos @MMK_L_C @MMK_R_Z -44;
-		pos @MMK_L_C @MMK_R_nine -40;
-		pos @MMK_L_C @MMK_R_y -10;
-		pos @MMK_L_E @MMK_R_H -18;
-		pos @MMK_L_E @MMK_R_O -74;
-		pos @MMK_L_E @MMK_R_S 26;
-		pos @MMK_L_E @MMK_R_T 16;
-		pos @MMK_L_E @MMK_R_U -28;
-		pos @MMK_L_E @MMK_R_X 14;
-		pos @MMK_L_E @MMK_R_a -32;
-		pos @MMK_L_E @MMK_R_f -66;
-		pos @MMK_L_E @MMK_R_g -44;
-		pos @MMK_L_E @MMK_R_idotless -14;
-		pos @MMK_L_E @MMK_R_o -80;
-		pos @MMK_L_E @MMK_R_s -30;
-		pos @MMK_L_E @MMK_R_t -118;
-		pos @MMK_L_E @MMK_R_u -54;
-		pos @MMK_L_E @MMK_R_v -152;
-		pos @MMK_L_E @MMK_R_y -154;
-		pos @MMK_L_F @MMK_R_A -236;
-		pos @MMK_L_F @MMK_R_H -10;
-		pos @MMK_L_F @MMK_R_I -24;
-		pos @MMK_L_F @MMK_R_J -286;
-		pos @MMK_L_F @MMK_R_O -70;
-		pos @MMK_L_F @MMK_R_T 56;
-		pos @MMK_L_F @MMK_R_X -30;
-		pos @MMK_L_F @MMK_R_Z -20;
-		pos @MMK_L_F @MMK_R_a -150;
-		pos @MMK_L_F @MMK_R_f -40;
-		pos @MMK_L_F @MMK_R_g -160;
-		pos @MMK_L_F @MMK_R_idotless -40;
-		pos @MMK_L_F @MMK_R_jdotless -40;
-		pos @MMK_L_F @MMK_R_n -110;
-		pos @MMK_L_F @MMK_R_o -146;
-		pos @MMK_L_F @MMK_R_s -130;
-		pos @MMK_L_F @MMK_R_t -80;
-		pos @MMK_L_F @MMK_R_u -80;
-		pos @MMK_L_F @MMK_R_v -120;
-		pos @MMK_L_F @MMK_R_x -120;
-		pos @MMK_L_F @MMK_R_y -120;
-		pos @MMK_L_F @MMK_R_z -140;
-		pos @MMK_L_H @MMK_R_H 20;
-		pos @MMK_L_H @MMK_R_I -14;
-		pos @MMK_L_H @MMK_R_S 26;
-		pos @MMK_L_H @MMK_R_Z -24;
-		pos @MMK_L_I @MMK_R_H -14;
-		pos @MMK_L_I @MMK_R_I -26;
-		pos @MMK_L_I @MMK_R_J -20;
-		pos @MMK_L_I @MMK_R_O -16;
-		pos @MMK_L_I @MMK_R_U -14;
-		pos @MMK_L_I @MMK_R_Z -38;
-		pos @MMK_L_K @MMK_R_J -74;
-		pos @MMK_L_K @MMK_R_O -138;
-		pos @MMK_L_K @MMK_R_S -38;
-		pos @MMK_L_K @MMK_R_X 16;
-		pos @MMK_L_K @MMK_R_a -80;
-		pos @MMK_L_K @MMK_R_f -80;
-		pos @MMK_L_K @MMK_R_g -40;
-		pos @MMK_L_K @MMK_R_o -170;
-		pos @MMK_L_K @MMK_R_s -40;
-		pos @MMK_L_K @MMK_R_t -200;
-		pos @MMK_L_K @MMK_R_u -100;
-		pos @MMK_L_K @MMK_R_v -200;
-		pos @MMK_L_K @MMK_R_y -160;
-		pos @MMK_L_L @MMK_R_H 16;
-		pos @MMK_L_L @MMK_R_I -14;
-		pos @MMK_L_L @MMK_R_O -110;
-		pos @MMK_L_L @MMK_R_T -236;
-		pos @MMK_L_L @MMK_R_U -104;
-		pos @MMK_L_L @MMK_R_V -224;
-		pos @MMK_L_L @MMK_R_Y -252;
-		pos @MMK_L_L @MMK_R_t -80;
-		pos @MMK_L_L @MMK_R_v -160;
-		pos @MMK_L_L @MMK_R_y -120;
-		pos @MMK_L_O @MMK_R_A -84;
-		pos @MMK_L_O @MMK_R_H 18;
-		pos @MMK_L_O @MMK_R_J -84;
-		pos @MMK_L_O @MMK_R_O 8;
-		pos @MMK_L_O @MMK_R_S 14;
-		pos @MMK_L_O @MMK_R_T -98;
-		pos @MMK_L_O @MMK_R_V -82;
-		pos @MMK_L_O @MMK_R_X -136;
-		pos @MMK_L_O @MMK_R_Y -118;
-		pos @MMK_L_O @MMK_R_Z -112;
-		pos @MMK_L_O @MMK_R_eight -80;
-		pos @MMK_L_O @MMK_R_five -40;
-		pos @MMK_L_O @MMK_R_four -40;
-		pos @MMK_L_O @MMK_R_nine -80;
-		pos @MMK_L_O @MMK_R_period -160;
-		pos @MMK_L_O @MMK_R_seven -120;
-		pos @MMK_L_O @MMK_R_six -40;
-		pos @MMK_L_O @MMK_R_three -120;
-		pos @MMK_L_O @MMK_R_two -80;
-		pos @MMK_L_P @MMK_R_A -198;
-		pos @MMK_L_P @MMK_R_J -280;
-		pos @MMK_L_P @MMK_R_S 34;
-		pos @MMK_L_P @MMK_R_T -32;
-		pos @MMK_L_P @MMK_R_V -34;
-		pos @MMK_L_P @MMK_R_X -134;
-		pos @MMK_L_P @MMK_R_Y -68;
-		pos @MMK_L_P @MMK_R_Z -78;
-		pos @MMK_L_P @MMK_R_g -120;
-		pos @MMK_L_P @MMK_R_o -80;
-		pos @MMK_L_R @MMK_R_H -18;
-		pos @MMK_L_R @MMK_R_I -38;
-		pos @MMK_L_R @MMK_R_J -74;
-		pos @MMK_L_R @MMK_R_O -112;
-		pos @MMK_L_R @MMK_R_S -42;
-		pos @MMK_L_R @MMK_R_T -174;
-		pos @MMK_L_R @MMK_R_U -114;
-		pos @MMK_L_R @MMK_R_V -198;
-		pos @MMK_L_R @MMK_R_Y -198;
-		pos @MMK_L_R @MMK_R_Z -42;
-		pos @MMK_L_R @MMK_R_a -80;
-		pos @MMK_L_R @MMK_R_f -70;
-		pos @MMK_L_R @MMK_R_g -80;
-		pos @MMK_L_R @MMK_R_idotless -80;
-		pos @MMK_L_R @MMK_R_n -40;
-		pos @MMK_L_R @MMK_R_o -120;
-		pos @MMK_L_R @MMK_R_s -80;
-		pos @MMK_L_R @MMK_R_t -124;
-		pos @MMK_L_R @MMK_R_u -80;
-		pos @MMK_L_R @MMK_R_v -160;
-		pos @MMK_L_R @MMK_R_y -160;
-		pos @MMK_L_R @MMK_R_z -10;
-		pos @MMK_L_S @MMK_R_H 44;
-		pos @MMK_L_S @MMK_R_I 26;
-		pos @MMK_L_S @MMK_R_O 60;
-		pos @MMK_L_S @MMK_R_S 84;
-		pos @MMK_L_S @MMK_R_U 22;
-		pos @MMK_L_S @MMK_R_V -28;
-		pos @MMK_L_S @MMK_R_Y -62;
-		pos @MMK_L_S @MMK_R_Z -28;
-		pos @MMK_L_S @MMK_R_nine -40;
-		pos @MMK_L_S @MMK_R_seven -40;
-		pos @MMK_L_S @MMK_R_three -40;
-		pos @MMK_L_T @MMK_R_A -222;
-		pos @MMK_L_T @MMK_R_J -238;
-		pos @MMK_L_T @MMK_R_O -98;
-		pos @MMK_L_T @MMK_R_T 30;
-		pos @MMK_L_T @MMK_R_V 16;
-		pos @MMK_L_T @MMK_R_a -320;
-		pos @MMK_L_T @MMK_R_f -40;
-		pos @MMK_L_T @MMK_R_g -320;
-		pos @MMK_L_T @MMK_R_jdotless -40;
-		pos @MMK_L_T @MMK_R_n -240;
-		pos @MMK_L_T @MMK_R_o -280;
-		pos @MMK_L_T @MMK_R_s -280;
-		pos @MMK_L_T @MMK_R_t -160;
-		pos @MMK_L_T @MMK_R_u -80;
-		pos @MMK_L_T @MMK_R_v -200;
-		pos @MMK_L_T @MMK_R_x -200;
-		pos @MMK_L_T @MMK_R_y -200;
-		pos @MMK_L_T @MMK_R_z -160;
-		pos @MMK_L_U @MMK_R_A -50;
-		pos @MMK_L_U @MMK_R_I -14;
-		pos @MMK_L_U @MMK_R_J -86;
-		pos @MMK_L_U @MMK_R_O 32;
-		pos @MMK_L_U @MMK_R_S 38;
-		pos @MMK_L_U @MMK_R_V 20;
-		pos @MMK_L_U @MMK_R_X -46;
-		pos @MMK_L_U @MMK_R_Z -46;
-		pos @MMK_L_U @MMK_R_a -10;
-		pos @MMK_L_U @MMK_R_g -60;
-		pos @MMK_L_V @MMK_R_A -200;
-		pos @MMK_L_V @MMK_R_J -250;
-		pos @MMK_L_V @MMK_R_O -82;
-		pos @MMK_L_V @MMK_R_T 16;
-		pos @MMK_L_V @MMK_R_X -40;
-		pos @MMK_L_V @MMK_R_Z -14;
-		pos @MMK_L_V @MMK_R_a -240;
-		pos @MMK_L_V @MMK_R_f -80;
-		pos @MMK_L_V @MMK_R_g -200;
-		pos @MMK_L_V @MMK_R_idotless -80;
-		pos @MMK_L_V @MMK_R_jdotless -40;
-		pos @MMK_L_V @MMK_R_n -120;
-		pos @MMK_L_V @MMK_R_o -200;
-		pos @MMK_L_V @MMK_R_s -200;
-		pos @MMK_L_V @MMK_R_u -80;
-		pos @MMK_L_V @MMK_R_v -80;
-		pos @MMK_L_V @MMK_R_x -80;
-		pos @MMK_L_V @MMK_R_y -80;
-		pos @MMK_L_V @MMK_R_z -120;
-		pos @MMK_L_X @MMK_R_J -62;
-		pos @MMK_L_X @MMK_R_O -134;
-		pos @MMK_L_X @MMK_R_S -12;
-		pos @MMK_L_X @MMK_R_U -46;
-		pos @MMK_L_X @MMK_R_V -40;
-		pos @MMK_L_X @MMK_R_Y -34;
-		pos @MMK_L_X @MMK_R_g -40;
-		pos @MMK_L_X @MMK_R_n -40;
-		pos @MMK_L_X @MMK_R_o -120;
-		pos @MMK_L_X @MMK_R_s -40;
-		pos @MMK_L_X @MMK_R_t -120;
-		pos @MMK_L_X @MMK_R_u -80;
-		pos @MMK_L_X @MMK_R_v -160;
-		pos @MMK_L_X @MMK_R_y -160;
-		pos @MMK_L_Y @MMK_R_A -192;
-		pos @MMK_L_Y @MMK_R_J -252;
-		pos @MMK_L_Y @MMK_R_O -116;
-		pos @MMK_L_Y @MMK_R_X -34;
-		pos @MMK_L_Y @MMK_R_eight -80;
-		pos @MMK_L_Y @MMK_R_f -120;
-		pos @MMK_L_Y @MMK_R_five -80;
-		pos @MMK_L_Y @MMK_R_four -80;
-		pos @MMK_L_Y @MMK_R_g -320;
-		pos @MMK_L_Y @MMK_R_idotless -80;
-		pos @MMK_L_Y @MMK_R_jdotless -40;
-		pos @MMK_L_Y @MMK_R_n -200;
-		pos @MMK_L_Y @MMK_R_nine -40;
-		pos @MMK_L_Y @MMK_R_o -270;
-		pos @MMK_L_Y @MMK_R_s -280;
-		pos @MMK_L_Y @MMK_R_seven -40;
-		pos @MMK_L_Y @MMK_R_six -80;
-		pos @MMK_L_Y @MMK_R_t -200;
-		pos @MMK_L_Y @MMK_R_three -40;
-		pos @MMK_L_Y @MMK_R_two -40;
-		pos @MMK_L_Y @MMK_R_u -200;
-		pos @MMK_L_Y @MMK_R_v -160;
-		pos @MMK_L_Y @MMK_R_x -160;
-		pos @MMK_L_Y @MMK_R_y -160;
-		pos @MMK_L_Y @MMK_R_z -200;
-		pos @MMK_L_Z @MMK_R_I -14;
-		pos @MMK_L_Z @MMK_R_O -86;
-		pos @MMK_L_Z @MMK_R_S 18;
-		pos @MMK_L_Z @MMK_R_X 20;
-		pos @MMK_L_Z @MMK_R_o -40;
-		pos @MMK_L_Z @MMK_R_t -80;
-		pos @MMK_L_Z @MMK_R_v -200;
-		pos @MMK_L_Z @MMK_R_y -80;
-		pos @MMK_L_c @MMK_R_f 28;
-		pos @MMK_L_c @MMK_R_x 20;
-		pos @MMK_L_d @MMK_R_a -26;
-		pos @MMK_L_d @MMK_R_g -42;
-		pos @MMK_L_d @MMK_R_idotless -18;
-		pos @MMK_L_d @MMK_R_o -12;
-		pos @MMK_L_d @MMK_R_s -16;
-		pos @MMK_L_d @MMK_R_y -14;
-		pos @MMK_L_e @MMK_R_A -52;
-		pos @MMK_L_e @MMK_R_a -12;
-		pos @MMK_L_e @MMK_R_f -12;
-		pos @MMK_L_e @MMK_R_g -56;
-		pos @MMK_L_e @MMK_R_idotless -24;
-		pos @MMK_L_e @MMK_R_t -38;
-		pos @MMK_L_e @MMK_R_v -64;
-		pos @MMK_L_e @MMK_R_x -34;
-		pos @MMK_L_e @MMK_R_y -76;
-		pos @MMK_L_e @MMK_R_z -32;
-		pos @MMK_L_f @MMK_R_A -150;
-		pos @MMK_L_f @MMK_R_V 22;
-		pos @MMK_L_f @MMK_R_a -52;
-		pos @MMK_L_f @MMK_R_f 36;
-		pos @MMK_L_f @MMK_R_g -64;
-		pos @MMK_L_f @MMK_R_o -58;
-		pos @MMK_L_f @MMK_R_s -26;
-		pos @MMK_L_f @MMK_R_z -12;
-		pos @MMK_L_g @MMK_R_a -34;
-		pos @MMK_L_g @MMK_R_f 30;
-		pos @MMK_L_g @MMK_R_g 50;
-		pos @MMK_L_g @MMK_R_jdotless 144;
-		pos @MMK_L_g @MMK_R_o -32;
-		pos @MMK_L_g @MMK_R_x 40;
-		pos @MMK_L_idotless @MMK_R_A -20;
-		pos @MMK_L_idotless @MMK_R_H -18;
-		pos @MMK_L_idotless @MMK_R_a -40;
-		pos @MMK_L_idotless @MMK_R_g -52;
-		pos @MMK_L_idotless @MMK_R_idotless -36;
-		pos @MMK_L_idotless @MMK_R_jdotless -18;
-		pos @MMK_L_idotless @MMK_R_n -28;
-		pos @MMK_L_idotless @MMK_R_o -30;
-		pos @MMK_L_idotless @MMK_R_s -30;
-		pos @MMK_L_idotless @MMK_R_t -24;
-		pos @MMK_L_idotless @MMK_R_v -22;
-		pos @MMK_L_idotless @MMK_R_y -28;
-		pos @MMK_L_idotless @MMK_R_z -16;
-		pos @MMK_L_jdotless @MMK_R_a -32;
-		pos @MMK_L_jdotless @MMK_R_idotless -14;
-		pos @MMK_L_jdotless @MMK_R_jdotless 48;
-		pos @MMK_L_jdotless @MMK_R_s -12;
-		pos @MMK_L_k @MMK_R_H -38;
-		pos @MMK_L_k @MMK_R_a -74;
-		pos @MMK_L_k @MMK_R_g -48;
-		pos @MMK_L_k @MMK_R_o -108;
-		pos @MMK_L_k @MMK_R_s -46;
-		pos @MMK_L_k @MMK_R_t -54;
-		pos @MMK_L_k @MMK_R_u -36;
-		pos @MMK_L_k @MMK_R_v -48;
-		pos @MMK_L_k @MMK_R_x 38;
-		pos @MMK_L_k @MMK_R_y -50;
-		pos @MMK_L_l @MMK_R_A 12;
-		pos @MMK_L_l @MMK_R_H -30;
-		pos @MMK_L_l @MMK_R_f -68;
-		pos @MMK_L_l @MMK_R_g -38;
-		pos @MMK_L_l @MMK_R_idotless -16;
-		pos @MMK_L_l @MMK_R_o -34;
-		pos @MMK_L_l @MMK_R_t -130;
-		pos @MMK_L_l @MMK_R_u -30;
-		pos @MMK_L_l @MMK_R_v -156;
-		pos @MMK_L_l @MMK_R_y -158;
-		pos @MMK_L_n @MMK_R_H -12;
-		pos @MMK_L_n @MMK_R_V -186;
-		pos @MMK_L_n @MMK_R_f -18;
-		pos @MMK_L_n @MMK_R_g -30;
-		pos @MMK_L_n @MMK_R_t -38;
-		pos @MMK_L_n @MMK_R_v -72;
-		pos @MMK_L_n @MMK_R_y -80;
-		pos @MMK_L_o @MMK_R_A -70;
-		pos @MMK_L_o @MMK_R_H -12;
-		pos @MMK_L_o @MMK_R_a -22;
-		pos @MMK_L_o @MMK_R_f -38;
-		pos @MMK_L_o @MMK_R_g -42;
-		pos @MMK_L_o @MMK_R_idotless -30;
-		pos @MMK_L_o @MMK_R_jdotless -12;
-		pos @MMK_L_o @MMK_R_n -12;
-		pos @MMK_L_o @MMK_R_s -12;
-		pos @MMK_L_o @MMK_R_t -58;
-		pos @MMK_L_o @MMK_R_v -82;
-		pos @MMK_L_o @MMK_R_x -74;
-		pos @MMK_L_o @MMK_R_y -100;
-		pos @MMK_L_o @MMK_R_z -72;
-		pos @MMK_L_q @MMK_R_H -16;
-		pos @MMK_L_q @MMK_R_a -26;
-		pos @MMK_L_q @MMK_R_idotless -28;
-		pos @MMK_L_q @MMK_R_jdotless 76;
-		pos @MMK_L_q @MMK_R_o -12;
-		pos @MMK_L_q @MMK_R_s -16;
-		pos @MMK_L_q.alt @MMK_R_A 30;
-		pos @MMK_L_r @MMK_R_A -78;
-		pos @MMK_L_r @MMK_R_a -36;
-		pos @MMK_L_r @MMK_R_f 28;
-		pos @MMK_L_r @MMK_R_g -52;
-		pos @MMK_L_r @MMK_R_o -58;
-		pos @MMK_L_r @MMK_R_v 26;
-		pos @MMK_L_r @MMK_R_y 22;
-		pos @MMK_L_s @MMK_R_A -28;
-		pos @MMK_L_s @MMK_R_H -14;
-		pos @MMK_L_s @MMK_R_f -16;
-		pos @MMK_L_s @MMK_R_g -54;
-		pos @MMK_L_s @MMK_R_idotless -30;
-		pos @MMK_L_s @MMK_R_jdotless -14;
-		pos @MMK_L_s @MMK_R_n -14;
-		pos @MMK_L_s @MMK_R_t -46;
-		pos @MMK_L_s @MMK_R_v -52;
-		pos @MMK_L_s @MMK_R_x -32;
-		pos @MMK_L_s @MMK_R_y -54;
-		pos @MMK_L_s @MMK_R_z -46;
-		pos @MMK_L_t @MMK_R_A 10;
-		pos @MMK_L_t @MMK_R_H -12;
-		pos @MMK_L_t @MMK_R_V -128;
-		pos @MMK_L_t @MMK_R_g -36;
-		pos @MMK_L_t @MMK_R_idotless -22;
-		pos @MMK_L_t @MMK_R_o -44;
-		pos @MMK_L_t @MMK_R_x 24;
-		pos @MMK_L_u @MMK_R_H -16;
-		pos @MMK_L_u @MMK_R_a -26;
-		pos @MMK_L_u @MMK_R_g -42;
-		pos @MMK_L_u @MMK_R_idotless -28;
-		pos @MMK_L_u @MMK_R_o -12;
-		pos @MMK_L_u @MMK_R_s -16;
-		pos @MMK_L_u @MMK_R_y -14;
-		pos @MMK_L_v @MMK_R_A -170;
-		pos @MMK_L_v @MMK_R_a -78;
-		pos @MMK_L_v @MMK_R_g -106;
-		pos @MMK_L_v @MMK_R_idotless -20;
-		pos @MMK_L_v @MMK_R_o -82;
-		pos @MMK_L_v @MMK_R_s -48;
-		pos @MMK_L_v @MMK_R_z -16;
-		pos @MMK_L_x @MMK_R_H 18;
-		pos @MMK_L_x @MMK_R_a -16;
-		pos @MMK_L_x @MMK_R_f 44;
-		pos @MMK_L_x @MMK_R_jdotless 18;
-		pos @MMK_L_x @MMK_R_n 18;
-		pos @MMK_L_x @MMK_R_o -68;
-		pos @MMK_L_x @MMK_R_x 74;
-		pos @MMK_L_x @MMK_R_z 34;
-		pos @MMK_L_y @MMK_R_A -170;
-		pos @MMK_L_y @MMK_R_a -80;
-		pos @MMK_L_y @MMK_R_g -108;
-		pos @MMK_L_y @MMK_R_idotless -24;
-		pos @MMK_L_y @MMK_R_o -82;
-		pos @MMK_L_y @MMK_R_s -50;
-		pos @MMK_L_y @MMK_R_z -18;
-		pos @MMK_L_z @MMK_R_a -30;
-		pos @MMK_L_z @MMK_R_g -40;
-		pos @MMK_L_z @MMK_R_idotless -16;
-		pos @MMK_L_z @MMK_R_o -68;
-		pos @MMK_L_z @MMK_R_v -18;
-		pos @MMK_L_z @MMK_R_x 32;
-		pos @MMK_L_z @MMK_R_y -20;
-		pos @MMK_L_dollar.ss01 @MMK_R_A -40;
-		pos @MMK_L_equalinferior @MMK_R_A -80;
-		pos @MMK_L_integral @MMK_R_A -120;
-		pos @MMK_L_ordfeminine @MMK_R_A -160;
-		pos @MMK_L_plus @MMK_R_A -120;
-		pos @MMK_L_plusinferior @MMK_R_A -40;
-		pos @MMK_L_sterling @MMK_R_O -40;
-		pos @MMK_L_dotaccentcomb @MMK_R_A -80;
-	} kern_latn;
-	lookupflag 0;
-	script latn;
-	lookup kern_latn;
-	lookupflag 0;
-### close feature 'kern' ###
-} kern;
-
-### feature:-1:mark ###
 feature mark {
 	lookup mark_DFLT_center {
 		lookupflag 0;
@@ -1874,7 +971,6 @@ feature mark {
 ### close feature 'mark' ###
 } mark;
 
-### feature:-1:mkmk ###
 feature mkmk {
 ### open feature 'mkmk' ###
 	lookup mkmk_DFLT_bottom {
@@ -1919,9 +1015,3 @@ feature mkmk {
 ### close feature 'mkmk' ###
 } mkmk;
 
-table GDEF {
-	LigatureCaretByPos Q_U 1496;
-	LigatureCaretByPos fi 506;
-	LigatureCaretByPos fl 630;
-;
-} GDEF;

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fi" format="2">
-  <advance width="1012"/>
+  <advance width="1166"/>
   <unicode hex="FB01"/>
   <anchor x="792" y="0" name="bottom_1"/>
   <anchor x="506" y="0" name="caret_1"/>
@@ -8,25 +8,6 @@
   <anchor x="792" y="950" name="top_1"/>
   <outline>
     <component base="f" identifier="0F48C1FD"/>
-    <component base="idotless" xOffset="572" identifier="42D7C30A"/>
+    <component base="idotless" xOffset="726" identifier="42D7C30A"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-20 15:22:47 +0000</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>0F48C1FD</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>42D7C30A</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

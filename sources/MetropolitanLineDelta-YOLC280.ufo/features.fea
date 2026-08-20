@@ -467,7 +467,6 @@ feature locl {
 ### open feature 'locl' ###
 script latn;
 
-
 language CAT;
 lookup puntvolat {
 	sub l periodcentered' l by periodcentered.loclCAT;
@@ -1911,4 +1910,5 @@ table GDEF {
 	LigatureCaretByPos Q_U 1496;
 	LigatureCaretByPos fi 506;
 	LigatureCaretByPos fl 630;
+
 } GDEF;
