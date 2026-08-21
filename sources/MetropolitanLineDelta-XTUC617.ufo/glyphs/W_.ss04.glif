@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.ss04" format="2">
+  <advance width="1752"/>
+  <anchor x="916" y="0" name="bottom"/>
+  <anchor x="918" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="654" y="1400" type="line"/>
+      <point x="1122" y="0" type="line"/>
+      <point x="1326" y="0" type="line"/>
+      <point x="1728" y="1400" type="line"/>
+      <point x="1518" y="1400" type="line"/>
+      <point x="1234" y="332" type="line"/>
+      <point x="870" y="1400" type="line"/>
+      <point x="654" y="1400" type="line"/>
+      <point x="654" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="936" y="830" type="line"/>
+      <point x="830" y="1126" type="line"/>
+      <point x="590" y="332" type="line"/>
+      <point x="242" y="1400" type="line"/>
+      <point x="24" y="1400" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="686" y="0" type="line"/>
+      <point x="936" y="830" type="line"/>
+      <point x="936" y="830" type="line"/>
+    </contour>
+  </outline>
+</glyph>
