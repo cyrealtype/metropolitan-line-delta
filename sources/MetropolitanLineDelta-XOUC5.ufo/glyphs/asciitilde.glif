@@ -5,7 +5,7 @@
   <anchor x="410" y="374" name="_top"/>
   <anchor x="410" y="742" name="top"/>
   <outline>
-    <component base="tilde" identifier="42FFB8BD"/>
+    <component base="tilde" yOffset="-576"/>
   </outline>
   <lib>
     <dict>
