@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="2">
   <advance width="1580"/>
   <unicode hex="00D8"/>
@@ -9,6 +9,7 @@
   <anchor x="-190" y="1444" name="topleft"/>
   <anchor x="1540" y="1400" name="topright"/>
   <outline>
+    <component base="O" xOffset="-337"/>
     <contour>
       <point x="492" y="-116" type="line"/>
       <point x="578" y="60" type="line"/>
@@ -25,6 +26,5 @@
       <point x="492" y="-116" type="line"/>
       <point x="492" y="-116" type="line"/>
     </contour>
-    <component base="O"/>
   </outline>
 </glyph>

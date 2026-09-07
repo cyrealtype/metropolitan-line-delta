@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi" format="2">
   <advance width="1012"/>
   <unicode hex="FB01"/>
@@ -7,26 +7,26 @@
   <anchor x="892" y="0" name="ogonek_1"/>
   <anchor x="792" y="950" name="top_1"/>
   <outline>
-    <component base="f" identifier="0562A485"/>
-    <component base="idotless" xOffset="572" identifier="2C1A6922"/>
+    <component base="f"/>
+    <component base="idotless" xOffset="572"/>
   </outline>
   <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2026-08-20 17:29:07 +0000</string>
+  <key>public.objectLibs</key>
+  <dict>
+    <key>0562A485</key>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-20 17:29:07 +0000</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>0562A485</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>2C1A6922</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <key>com.schriftgestaltung.alignment</key>
+      <integer>-1</integer>
     </dict>
+    <key>2C1A6922</key>
+    <dict>
+      <key>com.schriftgestaltung.alignment</key>
+      <integer>-1</integer>
+    </dict>
+  </dict>
+  </dict>
   </lib>
 </glyph>

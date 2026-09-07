@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb.i" format="2">
   <anchor x="344" y="950" name="_top"/>
   <anchor x="344" y="1318" name="top"/>
@@ -15,9 +15,9 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>0</integer>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <integer>0</integer>
+  </dict>
   </lib>
 </glyph>

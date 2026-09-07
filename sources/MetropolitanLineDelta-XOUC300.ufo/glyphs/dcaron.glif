@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
   <advance width="1368"/>
   <unicode hex="010F"/>
@@ -7,26 +7,26 @@
   <anchor x="556" y="950" name="top"/>
   <anchor x="1168" y="1400" name="topright"/>
   <outline>
-    <component base="d" identifier="5E6F2B43"/>
-    <component base="caroncomb.alt" xOffset="994" identifier="5930364C"/>
+    <component base="d"/>
+    <component base="caroncomb.alt" xOffset="994"/>
   </outline>
   <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2026-08-20 17:29:07 +0000</string>
+  <key>public.objectLibs</key>
+  <dict>
+    <key>5930364C</key>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-20 17:29:07 +0000</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>5930364C</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>5E6F2B43</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
+      <key>com.schriftgestaltung.alignment</key>
+      <integer>-1</integer>
     </dict>
+    <key>5E6F2B43</key>
+    <dict>
+      <key>com.schriftgestaltung.alignment</key>
+      <integer>-1</integer>
+    </dict>
+  </dict>
+  </dict>
   </lib>
 </glyph>

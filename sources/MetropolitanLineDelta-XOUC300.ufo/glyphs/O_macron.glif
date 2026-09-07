@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omacron" format="2">
   <advance width="1580"/>
   <unicode hex="014C"/>
@@ -9,13 +9,13 @@
   <anchor x="-190" y="1444" name="topleft"/>
   <anchor x="1540" y="1400" name="topright"/>
   <outline>
-    <component base="O"/>
+    <component base="O" xOffset="-337"/>
     <component base="macroncomb.case" xOffset="442"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-20 17:29:07 +0000</string>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.lastChange</key>
+  <string>2026-08-20 17:29:07 +0000</string>
+  </dict>
   </lib>
 </glyph>

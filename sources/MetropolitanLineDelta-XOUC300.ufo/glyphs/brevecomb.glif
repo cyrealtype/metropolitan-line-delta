@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb" format="2">
   <unicode hex="0306"/>
   <anchor x="390" y="950" name="_top"/>
@@ -28,9 +28,9 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>0</integer>
-    </dict>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <integer>0</integer>
+  </dict>
   </lib>
 </glyph>
