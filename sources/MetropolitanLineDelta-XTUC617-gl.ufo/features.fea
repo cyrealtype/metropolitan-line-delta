@@ -1,0 +1,17 @@
+@Uppercase = [ 
+### open class 'Uppercase' ###
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+### close class 'Uppercase' ###
+ ];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+
+# Prefix: Prefix
+### class:0:Uppercase ###
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+### close prefix 'Languagesystems' ###
+
+### feature:-1:kern ###
+
