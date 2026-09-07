@@ -7,20 +7,12 @@
       <string>glyphs</string>
     </array>
     <array>
-      <string>{400, 72,5, 110, 100, 110, 110, 100, 280}</string>
-      <string>glyphs.{400, 72,5, 110, 100, 110, 110, 100, 280}</string>
+      <string>30 Jun 26 at 01:01</string>
+      <string>glyphs.30 J_un 26 at 0101</string>
     </array>
     <array>
-      <string>{400, 72,5, 110, 100, 110, 5, 100, 100}</string>
-      <string>glyphs.{400, 72,5, 110, 100, 110, 5, 100, 100}</string>
-    </array>
-    <array>
-      <string>{400, 72,5, 110, 100, 110, 300, 100, 100}</string>
-      <string>glyphs.{400, 72,5, 110, 100, 110, 300, 100, 100}</string>
-    </array>
-    <array>
-      <string>{400, 72,5, 110, 100, 110, 300, 100, 100}.background</string>
-      <string>glyphs.{400, 72,5, 110, 100, 110, 300, 100, 100}.background</string>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
     </array>
   </array>
 </plist>
