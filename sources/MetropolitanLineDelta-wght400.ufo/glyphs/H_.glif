@@ -1,31 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="1354" />
-  <unicode hex="0048" />
-  <anchor x="678" y="0" name="bottom" />
-  <anchor x="678" y="1120" name="center" />
-  <anchor x="678" y="1400" name="top" />
-  <anchor x="100" y="1400" name="topleft" />
+  <advance width="1354"/>
+  <unicode hex="0048"/>
+  <guideline x="210" y="0" angle="90"/>
+  <anchor x="678" y="0" name="bottom"/>
+  <anchor x="678" y="1120" name="center"/>
+  <anchor x="678" y="1400" name="top"/>
+  <anchor x="100" y="1400" name="topleft"/>
   <outline>
     <contour>
-      <point x="100" y="0" type="line" />
-      <point x="320" y="0" type="line" />
-      <point x="320" y="622" type="line" />
-      <point x="1034" y="622" type="line" />
-      <point x="1034" y="0" type="line" />
-      <point x="1254" y="0" type="line" />
-      <point x="1254" y="1400" type="line" />
-      <point x="1034" y="1400" type="line" />
-      <point x="1034" y="822" type="line" />
-      <point x="320" y="822" type="line" />
-      <point x="320" y="1400" type="line" />
-      <point x="100" y="1400" type="line" />
+      <point x="1034" y="1400" type="line"/>
+      <point x="1034" y="0" type="line"/>
+      <point x="1254" y="0" type="line"/>
+      <point x="1254" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1144" y="622" type="line"/>
+      <point x="1144" y="822" type="line"/>
+      <point x="210" y="822" type="line"/>
+      <point x="210" y="622" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-07 08:48:57 +0000</string>
     </dict>
   </lib>
 </glyph>

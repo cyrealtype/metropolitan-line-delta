@@ -7,6 +7,12 @@
   <anchor x="202" y="1676" name="top"/>
   <outline>
     <component base="h"/>
-    <component base="circumflexcomb" xOffset="-184" yOffset="358"/>
+    <component base="circumflexcomb" xOffset="-186" yOffset="450"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-07 10:39:44 +0000</string>
+    </dict>
+  </lib>
 </glyph>

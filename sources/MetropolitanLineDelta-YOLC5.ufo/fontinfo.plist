@@ -12,10 +12,6 @@
     <integer>-450</integer>
     <key>familyName</key>
     <string>Metropolitan Line Delta</string>
-    <key>guidelines</key>
-    <array/>
-    <key>italicAngle</key>
-    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2026/07/08 12:27:20</string>
     <key>openTypeHheaAscender</key>

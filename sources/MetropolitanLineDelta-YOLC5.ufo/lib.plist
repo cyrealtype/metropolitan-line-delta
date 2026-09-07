@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>com.schriftgestaltung.DisplayStrings</key>
+    <array>
+      <string>o</string>
+    </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>4004</string>
     <key>com.schriftgestaltung.axes</key>
@@ -79,28 +83,28 @@
             <key>input</key>
             <dict>
               <key>XOPQ</key>
-              <real>5.0</real>
+              <integer>5</integer>
             </dict>
             <key>output</key>
             <dict>
               <key>XOLC</key>
-              <real>5.0</real>
+              <integer>5</integer>
               <key>XOUC</key>
-              <real>5.0</real>
+              <integer>5</integer>
             </dict>
           </dict>
           <dict>
             <key>input</key>
             <dict>
               <key>XOPQ</key>
-              <real>300.0</real>
+              <integer>300</integer>
             </dict>
             <key>output</key>
             <dict>
               <key>XOLC</key>
-              <real>300.0</real>
+              <integer>300</integer>
               <key>XOUC</key>
-              <real>300.0</real>
+              <integer>300</integer>
             </dict>
           </dict>
         </array>
@@ -162,13 +166,13 @@
             <key>Axis</key>
             <string>Proportional spacing</string>
             <key>Location</key>
-            <real>5.0</real>
+            <integer>5</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>X stem uppercase</string>
             <key>Location</key>
-            <real>5.0</real>
+            <integer>5</integer>
           </dict>
         </array>
       </dict>
@@ -181,31 +185,31 @@
             <key>Axis</key>
             <string>Weight</string>
             <key>Location</key>
-            <real>1000.0</real>
+            <integer>1000</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>Thick Stroke</string>
             <key>Location</key>
-            <real>300.0</real>
+            <integer>300</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>Thin Stroke</string>
             <key>Location</key>
-            <real>280.0</real>
+            <integer>280</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>x stem lowercase</string>
             <key>Location</key>
-            <real>300.0</real>
+            <integer>300</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>y opaque lowercase</string>
             <key>Location</key>
-            <real>280.0</real>
+            <integer>280</integer>
           </dict>
         </array>
       </dict>

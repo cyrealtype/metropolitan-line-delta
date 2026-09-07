@@ -8,25 +8,6 @@
   <anchor x="792" y="950" name="top_1"/>
   <outline>
     <component base="f" identifier="1BB17498"/>
-    <component base="idotless" xOffset="572" identifier="513F5833"/>
+    <component base="idotless" xOffset="726" identifier="513F5833"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-08-20 17:29:07 +0000</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>1BB17498</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>513F5833</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

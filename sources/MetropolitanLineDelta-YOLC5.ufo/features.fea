@@ -1,10 +1,23 @@
-### Class Definitions ###
-@Uppercase = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z];
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ];
 
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 
+# Prefix: Prefix
+### Class Definitions ###
+
 ### Basic Features ###
+
+
+
+
+table GDEF {
+	LigatureCaretByPos Q_U 1496;
+	LigatureCaretByPos fi 506;
+	LigatureCaretByPos fl 630;
+} GDEF;
+
 feature aalt {
 	feature locl;
 	feature subs;
@@ -86,6 +99,8 @@ feature liga {
 } liga;
 
 feature ss01 {
+featureNames {
+};
 	featureNames { name "Alternate glyphs"; };
 	sub G by G.ss01;
 	sub H by H.ss01;
@@ -98,23 +113,24 @@ feature ss01 {
 } ss01;
 
 feature ss02 {
+featureNames {
+};
 	featureNames { name "Alternate set 2"; };
 	sub W by W.ss02;
 	sub g by g.ss02;
 } ss02;
 
 feature ss03 {
+featureNames {
+};
 	featureNames { name "Alternate set 3"; };
 	sub W by W.ss03;
 } ss03;
 
 feature ss04 {
+featureNames {
+};
 	featureNames { name "Alternate set 4"; };
 	sub W by W.ss04;
 } ss04;
 
-table GDEF {
-	LigatureCaretByPos Q_U 1496;
-	LigatureCaretByPos fi 506;
-	LigatureCaretByPos fl 630;
-} GDEF;
