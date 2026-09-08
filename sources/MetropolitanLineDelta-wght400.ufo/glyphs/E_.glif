@@ -2,24 +2,33 @@
 <glyph name="E" format="2">
   <advance width="1028"/>
   <unicode hex="0045"/>
+  <guideline x="210" y="1300" angle="90"/>
   <anchor x="514" y="0" name="bottom"/>
   <anchor x="840" y="0" name="ogonek"/>
   <anchor x="520" y="1400" name="top"/>
   <anchor x="100" y="1400" name="topleft"/>
   <outline>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="980" y="0" type="line"/>
-      <point x="980" y="200" type="line"/>
-      <point x="320" y="200" type="line"/>
-      <point x="320" y="650" type="line"/>
+      <point x="210" y="850" type="line"/>
+      <point x="210" y="650" type="line"/>
       <point x="786" y="650" type="line"/>
       <point x="786" y="850" type="line"/>
-      <point x="320" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="200" type="line"/>
       <point x="320" y="1200" type="line"/>
       <point x="940" y="1200" type="line"/>
       <point x="940" y="1400" type="line"/>
       <point x="100" y="1400" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="980" y="0" type="line"/>
+      <point x="980" y="200" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 07:37:30 +0000</string>
+    </dict>
+  </lib>
 </glyph>

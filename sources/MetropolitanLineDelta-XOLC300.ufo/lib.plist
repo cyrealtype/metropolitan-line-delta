@@ -4,41 +4,117 @@
   <dict>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>nop</string>
+      <string>O</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>4004</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>7545BC3B-F138-4F5F-A774-4C4064C81FEF</string>
+    <string>EBD81559-9846-4979-80C4-6DC661617968</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>4</integer>
-    <key>com.schriftgestaltung.master.name</key>
-    <string>XOLC300</string>
     <key>com.schriftgestaltung.useGlyphOrder</key>
     <false/>
     <key>com.schriftgestaltung.useNiceNames</key>
     <true/>
     <key>public.glyphOrder</key>
     <array>
+      <string>A</string>
+      <string>B</string>
+      <string>C</string>
+      <string>D</string>
+      <string>E</string>
+      <string>F</string>
+      <string>G</string>
+      <string>H</string>
+      <string>I</string>
+      <string>J</string>
+      <string>K</string>
+      <string>L</string>
+      <string>M</string>
+      <string>N</string>
+      <string>O</string>
+      <string>P</string>
+      <string>Q</string>
+      <string>R</string>
+      <string>S</string>
+      <string>T</string>
+      <string>U</string>
+      <string>V</string>
+      <string>W</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Z</string>
+      <string>a</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+      <string>e</string>
+      <string>f</string>
+      <string>g</string>
+      <string>h</string>
+      <string>i</string>
+      <string>j</string>
+      <string>k</string>
+      <string>l</string>
+      <string>m</string>
       <string>n</string>
       <string>o</string>
       <string>p</string>
-      <string>h</string>
+      <string>q</string>
+      <string>r</string>
+      <string>s</string>
+      <string>t</string>
+      <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>.notdef</string>
+      <string>period</string>
+      <string>comma</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>exclam</string>
+      <string>question</string>
+      <string>asterisk</string>
+      <string>numbersign</string>
+      <string>slash</string>
+      <string>backslash</string>
+      <string>hyphen</string>
+      <string>underscore</string>
+      <string>parenleft</string>
+      <string>parenright</string>
+      <string>braceleft</string>
+      <string>braceright</string>
+      <string>bracketleft</string>
+      <string>bracketright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
+      <string>at</string>
+      <string>ampersand</string>
+      <string>bar</string>
+      <string>dollar</string>
+      <string>plus</string>
+      <string>equal</string>
+      <string>greater</string>
+      <string>less</string>
+      <string>asciitilde</string>
+      <string>asciicircum</string>
+      <string>percent</string>
+      <string>grave</string>
     </array>
-    <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
-    <dict>
-      <key>ascender</key>
-      <integer>32</integer>
-      <key>baseline</key>
-      <integer>-32</integer>
-      <key>capHeight</key>
-      <integer>32</integer>
-      <key>descender</key>
-      <integer>-32</integer>
-      <key>xHeight</key>
-      <integer>32</integer>
-    </dict>
   </dict>
 </plist>

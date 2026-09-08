@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
   <advance width="1628"/>
   <unicode hex="004D"/>
@@ -18,8 +18,6 @@
       <point x="814" y="800" type="line"/>
       <point x="324" y="1400" type="line"/>
       <point x="100" y="1400" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

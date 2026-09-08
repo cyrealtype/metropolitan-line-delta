@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y" format="2">
   <advance width="1190"/>
   <unicode hex="0059"/>
+  <guideline x="299" y="329" angle="0"/>
+  <guideline x="299" y="0" angle="90"/>
   <anchor x="596" y="0" name="bottom"/>
   <anchor x="598" y="1400" name="top"/>
   <anchor x="20" y="1400" name="topleft"/>
@@ -16,8 +18,6 @@
       <point x="246" y="1400" type="line"/>
       <point x="14" y="1400" type="line"/>
       <point x="488" y="634" type="line"/>
-      <point x="488" y="0" type="line"/>
-      <point x="488" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

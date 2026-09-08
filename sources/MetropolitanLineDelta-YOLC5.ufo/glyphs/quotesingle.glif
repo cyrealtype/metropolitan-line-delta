@@ -10,8 +10,6 @@
       <point x="280" y="1200" type="line"/>
       <point x="280" y="1400" type="line"/>
       <point x="80" y="1400" type="line"/>
-      <point x="80" y="1200" type="line"/>
-      <point x="80" y="1200" type="line"/>
     </contour>
   </outline>
 </glyph>

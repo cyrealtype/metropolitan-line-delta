@@ -1,136 +1,17 @@
-@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ];
+@Uppercase = [ 
+### open class 'Uppercase' ###
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+### close class 'Uppercase' ###
+ ];
 
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
-languagesystem latn dflt;
 
 # Prefix: Prefix
-### Class Definitions ###
+### class:0:Uppercase ###
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+### close prefix 'Languagesystems' ###
 
-### Basic Features ###
-
-
-
-
-table GDEF {
-	LigatureCaretByPos Q_U 1496;
-	LigatureCaretByPos fi 506;
-	LigatureCaretByPos fl 630;
-} GDEF;
-
-feature aalt {
-	feature locl;
-	feature subs;
-	feature sups;
-	feature ordn;
-	feature case;
-	feature ss01;
-	feature ss02;
-	feature ss03;
-	feature ss04;
-} aalt;
-
-feature ccmp {
-	# Decompose fi and fl ligatures
-	sub fi by f i;
-	sub fl by f l;
-} ccmp;
-
-feature locl {
-	script latn;
-	language CAT;
-	# Catalan punt volat
-	sub l periodcentered' l by periodcentered.loclCAT;
-	sub L periodcentered' L by periodcentered.loclCAT.case;
-} locl;
-
-feature subs {
-	sub a by ainferior;
-	sub e by einferior;
-	sub o by oinferior;
-	sub x by xinferior;
-	sub zero by zeroinferior;
-	sub one by oneinferior;
-	sub two by twoinferior;
-	sub three by threeinferior;
-	sub four by fourinferior;
-	sub five by fiveinferior;
-	sub six by sixinferior;
-	sub seven by seveninferior;
-	sub eight by eightinferior;
-	sub nine by nineinferior;
-} subs;
-
-feature sups {
-	sub zero by zerosuperior;
-	sub one by onesuperior;
-	sub two by twosuperior;
-	sub three by threesuperior;
-	sub four by foursuperior;
-	sub five by fivesuperior;
-	sub six by sixsuperior;
-	sub seven by sevensuperior;
-	sub eight by eightsuperior;
-	sub nine by ninesuperior;
-} sups;
-
-feature ordn {
-	sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-	sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-	sub N o period by numero;
-} ordn;
-
-feature case {
-	sub dieresiscomb by dieresiscomb.case;
-	sub dotaccentcomb by dotaccentcomb.case;
-	sub gravecomb by gravecomb.case;
-	sub acutecomb by acutecomb.case;
-	sub circumflexcomb by circumflexcomb.case;
-	sub caroncomb by caroncomb.case;
-	sub brevecomb by brevecomb.case;
-	sub ringcomb by ringcomb.case;
-	sub tildecomb by tildecomb.case;
-	sub macroncomb by macroncomb.case;
-} case;
-
-feature liga {
-	sub f i by fi;
-	sub f l by fl;
-} liga;
-
-feature ss01 {
-featureNames {
-};
-	featureNames { name "Alternate glyphs"; };
-	sub G by G.ss01;
-	sub H by H.ss01;
-	sub K by K.ss01;
-	sub W by W.ss01;
-	sub X by X.ss01;
-	sub a by a.ss01;
-	sub g by g.ss01;
-	sub q by q.ss01;
-} ss01;
-
-feature ss02 {
-featureNames {
-};
-	featureNames { name "Alternate set 2"; };
-	sub W by W.ss02;
-	sub g by g.ss02;
-} ss02;
-
-feature ss03 {
-featureNames {
-};
-	featureNames { name "Alternate set 3"; };
-	sub W by W.ss03;
-} ss03;
-
-feature ss04 {
-featureNames {
-};
-	featureNames { name "Alternate set 4"; };
-	sub W by W.ss04;
-} ss04;
+### feature:-1:kern ###
 

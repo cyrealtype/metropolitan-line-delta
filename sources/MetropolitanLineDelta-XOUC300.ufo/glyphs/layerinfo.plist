@@ -1,21 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-  <key>lib</key>
   <dict>
-    <key>com.fontlab.layer.name</key>
-    <string>XOUC300</string>
-    <key>com.fontlab.layer.opacity</key>
-    <integer>1</integer>
-    <key>com.fontlab.layer.visible</key>
-    <true/>
-    <key>com.fontlab.layer.locked</key>
-    <false/>
-    <key>com.fontlab.layer.service</key>
-    <false/>
-    <key>com.fontlab.layer.wireframe</key>
-    <false/>
+    <key>lib</key>
+    <dict>
+      <key>GSOffsetHorizontal</key>
+      <integer>30</integer>
+      <key>GSOffsetMakeStroke</key>
+      <integer>1</integer>
+      <key>GSOffsetPosition</key>
+      <integer>1</integer>
+      <key>GSOffsetVertical</key>
+      <integer>30</integer>
+      <key>KernOnIndependentPairs</key>
+      <array>
+        <string>z n</string>
+        <string>U H</string>
+        <string>m n</string>
+        <string>u n</string>
+        <string>h n</string>
+      </array>
+      <key>KernOnModels</key>
+      <array>
+        <string>F J</string>
+        <string>P J</string>
+        <string>L V</string>
+        <string>A Y</string>
+        <string>A V</string>
+        <string>R Y</string>
+        <string>R V</string>
+        <string>W J</string>
+        <string>l y</string>
+        <string>R W</string>
+        <string>l w</string>
+        <string>Y C</string>
+        <string>R G</string>
+        <string>y g</string>
+        <string>y a</string>
+        <string>k a</string>
+        <string>R J</string>
+        <string>a y</string>
+        <string>a v</string>
+        <string>k t</string>
+        <string>s y</string>
+        <string>y s</string>
+        <string>k g</string>
+        <string>k u</string>
+        <string>l o</string>
+        <string>g a</string>
+        <string>a g</string>
+        <string>y l</string>
+        <string>d j</string>
+        <string>f n</string>
+        <string>t f</string>
+        <string>Z H</string>
+        <string>H N</string>
+        <string>T F</string>
+        <string>r v</string>
+        <string>g g</string>
+        <string>g j</string>
+      </array>
+    </dict>
   </dict>
-</dict>
 </plist>

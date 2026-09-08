@@ -8,20 +8,20 @@
   <anchor x="100" y="1400" name="topleft"/>
   <outline>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="980" y="0" type="line"/>
-      <point x="980" y="200" type="line"/>
-      <point x="320" y="200" type="line"/>
-      <point x="320" y="650" type="line"/>
+      <point x="210" y="850" type="line"/>
+      <point x="210" y="650" type="line"/>
       <point x="786" y="650" type="line"/>
       <point x="786" y="850" type="line"/>
-      <point x="320" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="200" type="line"/>
       <point x="320" y="1200" type="line"/>
       <point x="940" y="1200" type="line"/>
       <point x="940" y="1400" type="line"/>
       <point x="100" y="1400" type="line"/>
       <point x="100" y="0" type="line"/>
-      <point x="100" y="0" type="line"/>
+      <point x="980" y="0" type="line"/>
+      <point x="980" y="200" type="line"/>
     </contour>
   </outline>
 </glyph>

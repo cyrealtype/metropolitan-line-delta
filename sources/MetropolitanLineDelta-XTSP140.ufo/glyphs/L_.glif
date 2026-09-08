@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="960"/>
+  <advance width="1396"/>
   <unicode hex="004C"/>
   <anchor x="518" y="0" name="bottom"/>
   <anchor x="594" y="764" name="center"/>
@@ -8,14 +8,12 @@
   <anchor x="672" y="1400" name="topright"/>
   <outline>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="936" y="0" type="line"/>
-      <point x="936" y="200" type="line"/>
-      <point x="320" y="200" type="line"/>
-      <point x="320" y="1400" type="line"/>
-      <point x="100" y="1400" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="0" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="1116" y="0" type="line"/>
+      <point x="1116" y="200" type="line"/>
+      <point x="500" y="200" type="line"/>
+      <point x="500" y="1400" type="line"/>
+      <point x="280" y="1400" type="line"/>
     </contour>
   </outline>
 </glyph>

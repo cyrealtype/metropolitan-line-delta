@@ -3,10 +3,12 @@
   <advance width="2114"/>
   <unicode hex="0048"/>
   <guideline x="590" y="0" angle="90"/>
-  <anchor x="1058" y="0" name="bottom"/>
-  <anchor x="1058" y="1120" name="center"/>
-  <anchor x="1058" y="1400" name="top"/>
+  <guideline x="1714" y="1400" angle="90"/>
+  <guideline x="400" y="1400" angle="90"/>
   <anchor x="480" y="1400" name="topleft"/>
+  <anchor x="1058" y="1400" name="top"/>
+  <anchor x="1058" y="1120" name="center"/>
+  <anchor x="1058" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="1414" y="1400" type="line"/>
@@ -21,16 +23,16 @@
       <point x="100" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1524" y="622" type="line"/>
-      <point x="1524" y="822" type="line"/>
-      <point x="590" y="822" type="line"/>
-      <point x="590" y="622" type="line"/>
+      <point x="1714" y="622" type="line"/>
+      <point x="1714" y="822" type="line"/>
+      <point x="400" y="823" type="line"/>
+      <point x="400" y="623" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-09-07 10:48:16 +0000</string>
+      <string>2026-09-08 07:16:06 +0000</string>
     </dict>
   </lib>
 </glyph>
