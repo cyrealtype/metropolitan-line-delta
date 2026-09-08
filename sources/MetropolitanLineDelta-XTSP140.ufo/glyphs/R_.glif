@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R" format="2">
-  <advance width="1518"/>
+  <advance width="1458"/>
   <unicode hex="0052"/>
-  <anchor x="598" y="0" name="bottom"/>
-  <anchor x="444" y="1400" name="top"/>
+  <guideline x="605" y="499" angle="90"/>
+  <anchor x="738" y="0" name="bottom"/>
+  <anchor x="584" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="240" y="0" type="line"/>
@@ -36,4 +37,10 @@
       <point x="770" y="794"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

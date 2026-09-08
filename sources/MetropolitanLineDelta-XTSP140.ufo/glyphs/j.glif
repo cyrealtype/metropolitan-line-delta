@@ -1,11 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-  <advance width="424"/>
+  <advance width="704"/>
   <unicode hex="006A"/>
-  <anchor x="222" y="-450" name="bottom"/>
-  <anchor x="222" y="1256" name="top"/>
   <outline>
-    <component base="jdotless"/>
-    <component base="dotaccentcomb" xOffset="20"/>
+    <contour>
+      <point x="144" y="-470" type="curve" smooth="yes"/>
+      <point x="370" y="-470"/>
+      <point x="462" y="-310"/>
+      <point x="462" y="0" type="curve"/>
+      <point x="462" y="950" type="line"/>
+      <point x="262" y="950" type="line"/>
+      <point x="262" y="0" type="line" smooth="yes"/>
+      <point x="262" y="-190"/>
+      <point x="208" y="-268"/>
+      <point x="102" y="-268" type="curve" smooth="yes"/>
+      <point x="90" y="-268"/>
+      <point x="78" y="-268"/>
+      <point x="66" y="-266" type="curve"/>
+      <point x="66" y="-464" type="line"/>
+      <point x="94" y="-468"/>
+      <point x="120" y="-470"/>
+    </contour>
+    <contour>
+      <point x="362" y="1076" type="line"/>
+      <point x="502" y="1216" type="line"/>
+      <point x="362" y="1358" type="line"/>
+      <point x="222" y="1216" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

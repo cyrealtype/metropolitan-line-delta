@@ -1,12 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="440"/>
+  <advance width="720"/>
   <unicode hex="0069"/>
-  <anchor x="220" y="0" name="bottom"/>
-  <anchor x="320" y="0" name="ogonek"/>
-  <anchor x="220" y="1256" name="top"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="18"/>
+    <contour>
+      <point x="260" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="950" type="line"/>
+      <point x="260" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="1076" type="line"/>
+      <point x="500" y="1216" type="line"/>
+      <point x="360" y="1358" type="line"/>
+      <point x="220" y="1216" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

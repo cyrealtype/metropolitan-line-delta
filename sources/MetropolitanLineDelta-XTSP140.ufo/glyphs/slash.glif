@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="slash" format="2">
-  <advance width="616"/>
+  <advance width="896"/>
   <unicode hex="002F"/>
+  <guideline x="140" y="-203" angle="0"/>
   <outline>
     <contour>
-      <point x="408" y="1480" type="line"/>
-      <point x="2" y="-326" type="line"/>
-      <point x="222" y="-326" type="line"/>
-      <point x="614" y="1480" type="line"/>
-      <point x="408" y="1480" type="line"/>
-      <point x="408" y="1480" type="line"/>
+      <point x="548" y="1480" type="line"/>
+      <point x="142" y="-326" type="line"/>
+      <point x="362" y="-326" type="line"/>
+      <point x="754" y="1480" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

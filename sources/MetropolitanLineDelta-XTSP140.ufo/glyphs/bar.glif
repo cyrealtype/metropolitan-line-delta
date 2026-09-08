@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar" format="2">
-  <advance width="400"/>
+  <advance width="680"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="100" y="-325" type="line"/>
-      <point x="300" y="-325" type="line"/>
-      <point x="300" y="1481" type="line"/>
-      <point x="100" y="1481" type="line"/>
-      <point x="100" y="-325" type="line"/>
-      <point x="100" y="-325" type="line"/>
+      <point x="240" y="-325" type="line"/>
+      <point x="440" y="-325" type="line"/>
+      <point x="440" y="1481" type="line"/>
+      <point x="240" y="1481" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

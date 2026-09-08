@@ -1,19 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="1396"/>
+  <advance width="1240"/>
   <unicode hex="004C"/>
-  <anchor x="518" y="0" name="bottom"/>
-  <anchor x="594" y="764" name="center"/>
-  <anchor x="210" y="1400" name="top"/>
-  <anchor x="672" y="1400" name="topright"/>
+  <anchor x="658" y="0" name="bottom"/>
+  <anchor x="734" y="764" name="center"/>
+  <anchor x="350" y="1400" name="top"/>
+  <anchor x="812" y="1400" name="topright"/>
   <outline>
     <contour>
-      <point x="280" y="0" type="line"/>
-      <point x="1116" y="0" type="line"/>
-      <point x="1116" y="200" type="line"/>
-      <point x="500" y="200" type="line"/>
-      <point x="500" y="1400" type="line"/>
-      <point x="280" y="1400" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="1076" y="0" type="line"/>
+      <point x="1076" y="200" type="line"/>
+      <point x="460" y="200" type="line"/>
+      <point x="460" y="1400" type="line"/>
+      <point x="240" y="1400" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

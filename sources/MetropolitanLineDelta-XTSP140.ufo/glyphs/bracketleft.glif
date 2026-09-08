@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketleft" format="2">
-  <advance width="576"/>
+  <advance width="856"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="140" y="1480" type="line"/>
-      <point x="140" y="-326" type="line"/>
-      <point x="516" y="-326" type="line"/>
-      <point x="516" y="-136" type="line"/>
-      <point x="330" y="-136" type="line"/>
-      <point x="330" y="1290" type="line"/>
-      <point x="516" y="1290" type="line"/>
-      <point x="516" y="1480" type="line"/>
-      <point x="140" y="1480" type="line"/>
-      <point x="140" y="1480" type="line"/>
+      <point x="280" y="1480" type="line"/>
+      <point x="280" y="-326" type="line"/>
+      <point x="656" y="-326" type="line"/>
+      <point x="656" y="-136" type="line"/>
+      <point x="470" y="-136" type="line"/>
+      <point x="470" y="1290" type="line"/>
+      <point x="656" y="1290" type="line"/>
+      <point x="656" y="1480" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

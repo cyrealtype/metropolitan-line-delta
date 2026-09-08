@@ -1,21 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
-  <advance width="1256"/>
+  <advance width="1536"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="1216" y="588" type="line"/>
-      <point x="426" y="588" type="line"/>
-      <point x="438" y="572" type="line"/>
-      <point x="785" y="960" type="line"/>
-      <point x="772" y="970" type="line"/>
-      <point x="772" y="0" type="line"/>
-      <point x="992" y="0" type="line"/>
-      <point x="992" y="1470" type="line"/>
-      <point x="30" y="398" type="line"/>
-      <point x="1216" y="398" type="line"/>
-      <point x="1216" y="588" type="line"/>
-      <point x="1216" y="588" type="line"/>
+      <point x="1356" y="588" type="line"/>
+      <point x="566" y="588" type="line"/>
+      <point x="578" y="572" type="line"/>
+      <point x="925" y="960" type="line"/>
+      <point x="912" y="970" type="line"/>
+      <point x="912" y="0" type="line"/>
+      <point x="1132" y="0" type="line"/>
+      <point x="1132" y="1470" type="line"/>
+      <point x="170" y="398" type="line"/>
+      <point x="1356" y="398" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,12 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="440"/>
+  <advance width="300"/>
   <unicode hex="0069"/>
-  <anchor x="220" y="0" name="bottom"/>
-  <anchor x="320" y="0" name="ogonek"/>
-  <anchor x="220" y="1256" name="top"/>
   <outline>
-    <component base="idotless"/>
-    <component base="dotaccentcomb" xOffset="18"/>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="950" type="line"/>
+      <point x="50" y="950" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="1076" type="line"/>
+      <point x="290" y="1216" type="line"/>
+      <point x="150" y="1358" type="line"/>
+      <point x="10" y="1216" type="line"/>
+    </contour>
   </outline>
 </glyph>

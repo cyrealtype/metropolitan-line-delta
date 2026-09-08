@@ -1,24 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="1264"/>
+  <advance width="1544"/>
   <unicode hex="004B"/>
-  <anchor x="636" y="0" name="bottom"/>
-  <anchor x="634" y="1400" name="top"/>
+  <guideline x="746" y="187" angle="90"/>
+  <guideline x="300" y="700" angle="90"/>
+  <anchor x="776" y="0" name="bottom"/>
+  <anchor x="774" y="1400" name="top"/>
   <outline>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="320" y="0" type="line"/>
-      <point x="320" y="664" type="line"/>
-      <point x="952" y="0" type="line"/>
-      <point x="1240" y="0" type="line"/>
-      <point x="520" y="764" type="line"/>
-      <point x="1240" y="1400" type="line"/>
-      <point x="948" y="1400" type="line"/>
-      <point x="320" y="846" type="line"/>
-      <point x="320" y="1400" type="line"/>
-      <point x="100" y="1400" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="664" type="line"/>
+      <point x="1092" y="0" type="line"/>
+      <point x="1380" y="0" type="line"/>
+      <point x="660" y="764" type="line"/>
+      <point x="1380" y="1400" type="line"/>
+      <point x="1088" y="1400" type="line"/>
+      <point x="460" y="846" type="line"/>
+      <point x="460" y="1400" type="line"/>
+      <point x="240" y="1400" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

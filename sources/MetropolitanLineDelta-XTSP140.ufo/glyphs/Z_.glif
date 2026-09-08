@@ -1,22 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z" format="2">
-  <advance width="1340"/>
+  <advance width="1620"/>
   <unicode hex="005A"/>
-  <anchor x="678" y="0" name="bottom"/>
-  <anchor x="696" y="700" name="center"/>
-  <anchor x="708" y="1400" name="top"/>
+  <guideline x="576" y="101" angle="180"/>
+  <guideline x="193" y="650" angle="270"/>
+  <guideline x="785" y="51" angle="90"/>
+  <anchor x="818" y="0" name="bottom"/>
+  <anchor x="836" y="700" name="center"/>
+  <anchor x="848" y="1400" name="top"/>
   <outline>
     <contour>
-      <point x="66" y="0" type="line"/>
-      <point x="1290" y="0" type="line"/>
-      <point x="1290" y="200" type="line"/>
-      <point x="454" y="200" type="line"/>
-      <point x="1310" y="1400" type="line"/>
-      <point x="106" y="1400" type="line"/>
-      <point x="106" y="1200" type="line"/>
-      <point x="924" y="1200" type="line"/>
-      <point x="66" y="0" type="line"/>
-      <point x="66" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="1430" y="0" type="line"/>
+      <point x="1430" y="200" type="line"/>
+      <point x="594" y="200" type="line"/>
+      <point x="1450" y="1400" type="line"/>
+      <point x="246" y="1400" type="line"/>
+      <point x="246" y="1200" type="line"/>
+      <point x="1064" y="1200" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

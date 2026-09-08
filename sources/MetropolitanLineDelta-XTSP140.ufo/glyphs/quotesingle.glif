@@ -1,17 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotesingle" format="2">
-  <advance width="360"/>
+  <advance width="640"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="80" y="1200" type="line"/>
-      <point x="146" y="914" type="line"/>
-      <point x="218" y="914" type="line"/>
-      <point x="280" y="1200" type="line"/>
-      <point x="280" y="1400" type="line"/>
-      <point x="80" y="1400" type="line"/>
-      <point x="80" y="1200" type="line"/>
-      <point x="80" y="1200" type="line"/>
+      <point x="220" y="1200" type="line"/>
+      <point x="286" y="914" type="line"/>
+      <point x="358" y="914" type="line"/>
+      <point x="420" y="1200" type="line"/>
+      <point x="420" y="1400" type="line"/>
+      <point x="220" y="1400" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

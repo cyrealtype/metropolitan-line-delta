@@ -2,10 +2,11 @@
 <glyph name="t" format="2">
   <advance width="776"/>
   <unicode hex="0074"/>
-  <anchor x="516" y="0" name="bottom"/>
-  <anchor x="400" y="582" name="center"/>
-  <anchor x="340" y="1140" name="top"/>
-  <anchor x="860" y="1400" name="topright"/>
+  <guideline x="367" y="72" angle="90"/>
+  <anchor x="484" y="0" name="bottom"/>
+  <anchor x="368" y="582" name="center"/>
+  <anchor x="308" y="1140" name="top"/>
+  <anchor x="828" y="1400" name="topright"/>
   <outline>
     <contour>
       <point x="766" y="950" type="line"/>

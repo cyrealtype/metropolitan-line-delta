@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave" format="2">
-  <advance width="504"/>
+  <advance width="784"/>
   <unicode hex="0060"/>
-  <anchor x="310" y="950" name="_top"/>
-  <anchor x="236" y="1318" name="top"/>
   <outline>
-    <component base="gravecomb"/>
+    <contour>
+      <point x="406" y="1114" type="line"/>
+      <point x="584" y="1114" type="line"/>
+      <point x="380" y="1420" type="line"/>
+      <point x="140" y="1420" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

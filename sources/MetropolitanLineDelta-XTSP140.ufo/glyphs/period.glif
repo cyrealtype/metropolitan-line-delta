@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="period" format="2">
-  <advance width="440"/>
+  <advance width="720"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
-      <point x="120" y="0" type="line"/>
-      <point x="320" y="0" type="line"/>
-      <point x="320" y="194" type="line"/>
-      <point x="120" y="194" type="line"/>
-      <point x="120" y="0" type="line"/>
-      <point x="120" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="194" type="line"/>
+      <point x="260" y="194" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,29 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="1714"/>
+  <advance width="1634"/>
   <unicode hex="0048"/>
-  <anchor x="678" y="0" name="bottom"/>
-  <anchor x="678" y="1120" name="center"/>
-  <anchor x="678" y="1400" name="top"/>
-  <anchor x="100" y="1400" name="topleft"/>
+  <guideline x="350" y="0" angle="90"/>
+  <anchor x="817" y="0" name="bottom"/>
+  <anchor x="817" y="1120" name="center"/>
+  <anchor x="817" y="1400" name="top"/>
+  <anchor x="240" y="1400" name="topleft"/>
   <outline>
     <contour>
-      <point x="1214" y="1400" type="line"/>
-      <point x="1214" y="0" type="line"/>
-      <point x="1434" y="0" type="line"/>
-      <point x="1434" y="1400" type="line"/>
+      <point x="1174" y="1400" type="line"/>
+      <point x="1174" y="0" type="line"/>
+      <point x="1394" y="0" type="line"/>
+      <point x="1394" y="1400" type="line"/>
     </contour>
     <contour>
-      <point x="500" y="0" type="line"/>
-      <point x="500" y="1400" type="line"/>
-      <point x="280" y="1400" type="line"/>
-      <point x="280" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="1400" type="line"/>
+      <point x="240" y="1400" type="line"/>
+      <point x="240" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1324" y="622" type="line"/>
-      <point x="1324" y="822" type="line"/>
-      <point x="390" y="822" type="line"/>
-      <point x="390" y="622" type="line"/>
+      <point x="1284" y="622" type="line"/>
+      <point x="1284" y="822" type="line"/>
+      <point x="350" y="822" type="line"/>
+      <point x="350" y="622" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

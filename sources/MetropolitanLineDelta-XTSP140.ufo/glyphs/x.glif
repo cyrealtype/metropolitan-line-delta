@@ -1,33 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="x" format="2">
-  <advance width="980"/>
+  <advance width="1260"/>
   <unicode hex="0078"/>
-  <anchor x="494" y="0" name="bottom"/>
-  <anchor x="498" y="950" name="top"/>
+  <guideline x="448" y="238" angle="53.2267"/>
+  <guideline x="323" y="238" angle="53.1494"/>
+  <anchor x="634" y="0" name="bottom"/>
+  <anchor x="638" y="950" name="top"/>
   <outline>
     <contour>
-      <point x="726" y="0" type="line"/>
-      <point x="976" y="0" type="line"/>
-      <point x="264" y="950" type="line"/>
-      <point x="16" y="950" type="line"/>
-      <point x="726" y="0" type="line"/>
-      <point x="726" y="0" type="line"/>
+      <point x="866" y="0" type="line"/>
+      <point x="1116" y="0" type="line"/>
+      <point x="404" y="950" type="line"/>
+      <point x="156" y="950" type="line"/>
     </contour>
     <contour>
-      <point x="10" y="0" type="line"/>
-      <point x="260" y="0" type="line"/>
-      <point x="504" y="338" type="line"/>
-      <point x="390" y="504" type="line"/>
-      <point x="10" y="0" type="line"/>
-      <point x="10" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="644" y="338" type="line"/>
+      <point x="530" y="504" type="line"/>
     </contour>
     <contour>
-      <point x="608" y="450" type="line"/>
-      <point x="980" y="950" type="line"/>
-      <point x="732" y="950" type="line"/>
-      <point x="494" y="614" type="line"/>
-      <point x="608" y="450" type="line"/>
-      <point x="608" y="450" type="line"/>
+      <point x="748" y="450" type="line"/>
+      <point x="1120" y="950" type="line"/>
+      <point x="872" y="950" type="line"/>
+      <point x="634" y="614" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

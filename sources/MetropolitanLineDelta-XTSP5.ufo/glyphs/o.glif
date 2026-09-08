@@ -2,6 +2,8 @@
 <glyph name="o" format="2">
   <advance width="996"/>
   <unicode hex="006F"/>
+  <guideline x="223" y="238" angle="90.1157"/>
+  <guideline x="224" y="238" angle="180.1169"/>
   <anchor x="498" y="0" name="bottom"/>
   <anchor x="498" y="476" name="center"/>
   <anchor x="736" y="42" name="ogonek"/>

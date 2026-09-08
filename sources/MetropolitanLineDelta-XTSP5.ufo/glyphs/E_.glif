@@ -2,10 +2,11 @@
 <glyph name="E" format="2">
   <advance width="900"/>
   <unicode hex="0045"/>
-  <anchor x="514" y="0" name="bottom"/>
-  <anchor x="840" y="0" name="ogonek"/>
-  <anchor x="520" y="1400" name="top"/>
-  <anchor x="100" y="1400" name="topleft"/>
+  <guideline x="120" y="1300" angle="90"/>
+  <anchor x="424" y="0" name="bottom"/>
+  <anchor x="750" y="0" name="ogonek"/>
+  <anchor x="430" y="1400" name="top"/>
+  <anchor x="10" y="1400" name="topleft"/>
   <outline>
     <contour>
       <point x="120" y="850" type="line"/>

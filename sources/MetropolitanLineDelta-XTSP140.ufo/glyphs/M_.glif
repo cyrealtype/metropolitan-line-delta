@@ -1,25 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
-  <advance width="1628"/>
+  <advance width="1908"/>
   <unicode hex="004D"/>
-  <anchor x="814" y="0" name="bottom"/>
-  <anchor x="814" y="1400" name="top"/>
+  <anchor x="954" y="0" name="bottom"/>
+  <anchor x="954" y="1400" name="top"/>
   <outline>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="320" y="0" type="line"/>
-      <point x="320" y="1080" type="line"/>
-      <point x="814" y="480" type="line"/>
-      <point x="1308" y="1080" type="line"/>
-      <point x="1308" y="0" type="line"/>
-      <point x="1528" y="0" type="line"/>
-      <point x="1528" y="1400" type="line"/>
-      <point x="1304" y="1400" type="line"/>
-      <point x="814" y="800" type="line"/>
-      <point x="324" y="1400" type="line"/>
-      <point x="100" y="1400" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="1080" type="line"/>
+      <point x="954" y="480" type="line"/>
+      <point x="1448" y="1080" type="line"/>
+      <point x="1448" y="0" type="line"/>
+      <point x="1668" y="0" type="line"/>
+      <point x="1668" y="1400" type="line"/>
+      <point x="1444" y="1400" type="line"/>
+      <point x="954" y="800" type="line"/>
+      <point x="464" y="1400" type="line"/>
+      <point x="240" y="1400" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:29:11 +0000</string>
+    </dict>
+  </lib>
 </glyph>

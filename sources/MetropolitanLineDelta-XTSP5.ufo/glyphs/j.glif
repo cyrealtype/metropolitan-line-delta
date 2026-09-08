@@ -1,11 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-  <advance width="424"/>
+  <advance width="456"/>
   <unicode hex="006A"/>
-  <anchor x="222" y="-450" name="bottom"/>
-  <anchor x="222" y="1256" name="top"/>
   <outline>
-    <component base="jdotless"/>
-    <component base="dotaccentcomb" xOffset="20"/>
+    <contour>
+      <point x="88" y="-470" type="curve" smooth="yes"/>
+      <point x="314" y="-470"/>
+      <point x="406" y="-310"/>
+      <point x="406" y="0" type="curve"/>
+      <point x="406" y="950" type="line"/>
+      <point x="206" y="950" type="line"/>
+      <point x="206" y="0" type="line" smooth="yes"/>
+      <point x="206" y="-190"/>
+      <point x="152" y="-268"/>
+      <point x="46" y="-268" type="curve" smooth="yes"/>
+      <point x="34" y="-268"/>
+      <point x="22" y="-268"/>
+      <point x="10" y="-266" type="curve"/>
+      <point x="10" y="-464" type="line"/>
+      <point x="38" y="-468"/>
+      <point x="64" y="-470"/>
+    </contour>
+    <contour>
+      <point x="306" y="1076" type="line"/>
+      <point x="446" y="1216" type="line"/>
+      <point x="306" y="1358" type="line"/>
+      <point x="166" y="1216" type="line"/>
+    </contour>
   </outline>
 </glyph>
