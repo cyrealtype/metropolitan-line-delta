@@ -1,14 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-  <advance width="1580"/>
+  <advance width="620"/>
   <unicode hex="0051"/>
   <outline>
-    <contour>
-      <point x="1404" y="-30" type="line"/>
-      <point x="1536" y="118" type="line"/>
-      <point x="1084" y="512" type="line"/>
-      <point x="954" y="364" type="line"/>
-    </contour>
     <component base="O"/>
+    <contour>
+      <point x="654" y="-30" type="line"/>
+      <point x="786" y="118" type="line"/>
+      <point x="334" y="512" type="line"/>
+      <point x="204" y="364" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-08 08:42:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

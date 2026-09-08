@@ -105,9 +105,9 @@
           <dimension name="YOLC" xvalue="220"/>
           <dimension name="STUI" xvalue="92"/>
           <dimension name="STUO" xvalue="92"/>
-          <dimension name="XTRA" xvalue="357"/>
-          <dimension name="XTUC" xvalue="357"/>
-          <dimension name="XTLC" xvalue="357"/>
+          <dimension name="XTRA" xvalue="290"/>
+          <dimension name="XTUC" xvalue="290"/>
+          <dimension name="XTLC" xvalue="290"/>
         </output>
       </mapping>
     </mappings>
