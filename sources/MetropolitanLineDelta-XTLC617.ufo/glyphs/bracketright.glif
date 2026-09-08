@@ -2,10 +2,9 @@
 <glyph name="bracketright" format="2">
   <advance width="576"/>
   <unicode hex="005D"/>
+  <guideline x="0" y="-203" angle="0"/>
   <outline>
     <contour>
-      <point x="436" y="1480" type="line"/>
-      <point x="436" y="1480" type="line"/>
       <point x="436" y="1480" type="line"/>
       <point x="60" y="1480" type="line"/>
       <point x="60" y="1290" type="line"/>

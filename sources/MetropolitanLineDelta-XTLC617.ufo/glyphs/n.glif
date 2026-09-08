@@ -2,32 +2,31 @@
 <glyph name="n" format="2">
   <advance width="1646"/>
   <unicode hex="006E"/>
-  <anchor x="800" y="0" name="bottom"/>
-  <anchor x="850" y="950" name="top"/>
+  <guideline x="834" y="0" angle="90"/>
+  <anchor x="834" y="0" name="bottom"/>
+  <anchor x="874" y="950" name="top"/>
   <outline>
     <contour>
       <point x="102" y="0" type="line"/>
       <point x="302" y="0" type="line"/>
       <point x="302" y="692" type="line"/>
-      <point x="467" y="745"/>
-      <point x="525" y="780"/>
+      <point x="399" y="742"/>
+      <point x="575" y="780"/>
       <point x="830" y="780" type="curve" smooth="yes"/>
-      <point x="1281" y="780"/>
-      <point x="1366" y="701"/>
-      <point x="1366" y="548" type="curve" smooth="yes"/>
+      <point x="1175" y="780"/>
+      <point x="1366" y="690"/>
+      <point x="1366" y="538" type="curve" smooth="yes"/>
       <point x="1366" y="0" type="line"/>
       <point x="1566" y="0" type="line"/>
       <point x="1566" y="548" type="line" smooth="yes"/>
       <point x="1566" y="812"/>
-      <point x="1416" y="970"/>
+      <point x="1301" y="970"/>
       <point x="874" y="970" type="curve" smooth="yes"/>
-      <point x="565" y="970"/>
-      <point x="491" y="941"/>
+      <point x="638" y="970"/>
+      <point x="445" y="940"/>
       <point x="302" y="890" type="curve"/>
       <point x="302" y="950" type="line"/>
       <point x="102" y="950" type="line"/>
-      <point x="102" y="0" type="line"/>
-      <point x="102" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,6 +2,7 @@
 <glyph name="w" format="2">
   <advance width="1558"/>
   <unicode hex="0077"/>
+  <guideline x="717" y="475" angle="180"/>
   <anchor x="780" y="0" name="bottom"/>
   <anchor x="780" y="950" name="top"/>
   <outline>
@@ -21,8 +22,6 @@
       <point x="506" y="222" type="line"/>
       <point x="242" y="950" type="line"/>
       <point x="24" y="950" type="line"/>
-      <point x="370" y="0" type="line"/>
-      <point x="370" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

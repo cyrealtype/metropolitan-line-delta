@@ -14,10 +14,10 @@
     <axis tag="XTRA" name="XTRA" minimum="30" maximum="617" default="357">
       <labelname xml:lang="en">X Transparency</labelname>
     </axis>
-    <axis tag="XTUC" name="XTUC" minimum="30" maximum="617" default="357">
+    <axis tag="XTUC" name="XTUC" minimum="10" maximum="617" default="357">
       <labelname xml:lang="en">X Transparency Uppercase</labelname>
     </axis>
-    <axis tag="XTLC" name="XTLC" minimum="30" maximum="617" default="357">
+    <axis tag="XTLC" name="XTLC" minimum="10" maximum="617" default="357">
       <labelname xml:lang="en">X Transparency Lowercase</labelname>
     </axis>
     <mappings description="Horizontal stroke">
@@ -374,7 +374,7 @@
         <dimension name="XTLC" xvalue="357"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-XTUC30.ufo" name="XTUC30" familyname="Metropolitan Line Delta" stylename="XTUC30">
+    <source filename="MetropolitanLineDelta-XTUC10.ufo" name="XTUC10" familyname="Metropolitan Line Delta" stylename="XTUC10">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -387,7 +387,7 @@
         <dimension name="STUI" xvalue="92"/>
         <dimension name="STUO" xvalue="92"/>
         <dimension name="XTRA" xvalue="357"/>
-        <dimension name="XTUC" xvalue="30"/>
+        <dimension name="XTUC" xvalue="10"/>
         <dimension name="XTLC" xvalue="357"/>
       </location>
     </source>
@@ -408,7 +408,7 @@
         <dimension name="XTLC" xvalue="357"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-XTLC30.ufo" name="XTLC30" familyname="Metropolitan Line Delta" stylename="XTLC30">
+    <source filename="MetropolitanLineDelta-XTLC10.ufo" name="XTLC10" familyname="Metropolitan Line Delta" stylename="XTLC10">
       <location>
         <dimension name="Weight" xvalue="400"/>
         <dimension name="XTSP" xvalue="72.5"/>
@@ -422,7 +422,7 @@
         <dimension name="STUO" xvalue="92"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
-        <dimension name="XTLC" xvalue="30"/>
+        <dimension name="XTLC" xvalue="10"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTLC617.ufo" name="XTLC617" familyname="Metropolitan Line Delta" stylename="XTLC617">

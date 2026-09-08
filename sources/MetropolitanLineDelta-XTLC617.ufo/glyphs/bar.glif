@@ -8,8 +8,6 @@
       <point x="300" y="-325" type="line"/>
       <point x="300" y="1481" type="line"/>
       <point x="100" y="1481" type="line"/>
-      <point x="100" y="-325" type="line"/>
-      <point x="100" y="-325" type="line"/>
     </contour>
   </outline>
 </glyph>

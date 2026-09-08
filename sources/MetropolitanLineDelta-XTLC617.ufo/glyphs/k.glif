@@ -17,8 +17,6 @@
       <point x="302" y="614" type="line"/>
       <point x="302" y="1400" type="line"/>
       <point x="102" y="1400" type="line"/>
-      <point x="102" y="0" type="line"/>
-      <point x="102" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

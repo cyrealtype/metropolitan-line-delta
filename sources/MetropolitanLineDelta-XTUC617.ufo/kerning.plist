@@ -7,18 +7,6 @@
       <key>public.kern2.A</key>
       <integer>-160</integer>
     </dict>
-    <key>bullet</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-80</integer>
-    </dict>
-    <key>endash</key>
-    <dict>
-      <key>public.kern2.nine</key>
-      <integer>-40</integer>
-      <key>public.kern2.seven</key>
-      <integer>-120</integer>
-    </dict>
     <key>hyphen</key>
     <dict>
       <key>public.kern2.five</key>
@@ -41,10 +29,6 @@
     <dict>
       <key>asterisk</key>
       <integer>-160</integer>
-      <key>bullet</key>
-      <integer>-80</integer>
-      <key>doublequestion</key>
-      <integer>-120</integer>
       <key>numbersign</key>
       <integer>-80</integer>
       <key>public.kern2.J</key>
@@ -61,14 +45,8 @@
       <integer>-194</integer>
       <key>public.kern2.a</key>
       <integer>-50</integer>
-      <key>public.kern2.dollar.ss01</key>
-      <integer>-40</integer>
-      <key>public.kern2.dotaccentcomb</key>
-      <integer>-80</integer>
       <key>public.kern2.eight</key>
       <integer>-120</integer>
-      <key>public.kern2.equalinferior</key>
-      <integer>-80</integer>
       <key>public.kern2.exclam</key>
       <integer>-40</integer>
       <key>public.kern2.five</key>
@@ -81,14 +59,10 @@
       <integer>-80</integer>
       <key>public.kern2.o</key>
       <integer>-70</integer>
-      <key>public.kern2.ordfeminine</key>
-      <integer>-160</integer>
       <key>public.kern2.percent</key>
       <integer>-80</integer>
       <key>public.kern2.plus</key>
       <integer>-120</integer>
-      <key>public.kern2.plusinferior</key>
-      <integer>-40</integer>
       <key>public.kern2.s</key>
       <integer>-10</integer>
       <key>public.kern2.seven</key>
@@ -109,8 +83,6 @@
       <integer>-120</integer>
       <key>question</key>
       <integer>-120</integer>
-      <key>questionexclamation</key>
-      <integer>-160</integer>
       <key>quotedbl</key>
       <integer>-80</integer>
       <key>quotesingle</key>
@@ -684,16 +656,6 @@
       <key>public.kern2.y</key>
       <integer>-14</integer>
     </dict>
-    <key>public.kern1.dollar.ss01</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-40</integer>
-    </dict>
-    <key>public.kern1.dotaccentcomb</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-80</integer>
-    </dict>
     <key>public.kern1.e</key>
     <dict>
       <key>public.kern2.A</key>
@@ -749,11 +711,6 @@
       <integer>-120</integer>
       <key>quotesingle</key>
       <integer>-160</integer>
-    </dict>
-    <key>public.kern1.equalinferior</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-80</integer>
     </dict>
     <key>public.kern1.f</key>
     <dict>
@@ -869,11 +826,6 @@
       <integer>-28</integer>
       <key>public.kern2.z</key>
       <integer>-16</integer>
-    </dict>
-    <key>public.kern1.integral</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-120</integer>
     </dict>
     <key>public.kern1.jdotless</key>
     <dict>
@@ -1018,11 +970,6 @@
       <key>public.kern2.seven</key>
       <integer>0</integer>
     </dict>
-    <key>public.kern1.ordfeminine</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-160</integer>
-    </dict>
     <key>public.kern1.period</key>
     <dict>
       <key>public.kern2.O</key>
@@ -1047,11 +994,6 @@
       <key>public.kern2.A</key>
       <integer>-120</integer>
     </dict>
-    <key>public.kern1.plusinferior</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-40</integer>
-    </dict>
     <key>public.kern1.q</key>
     <dict>
       <key>public.kern2.H</key>
@@ -1066,11 +1008,6 @@
       <integer>-12</integer>
       <key>public.kern2.s</key>
       <integer>-16</integer>
-    </dict>
-    <key>public.kern1.q.alt</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>30</integer>
     </dict>
     <key>public.kern1.question</key>
     <dict>
@@ -1178,27 +1115,6 @@
       <integer>-120</integer>
       <key>quotesingle</key>
       <integer>-120</integer>
-    </dict>
-    <key>public.kern1.sterling</key>
-    <dict>
-      <key>public.kern2.O</key>
-      <integer>-40</integer>
-      <key>public.kern2.eight</key>
-      <integer>-80</integer>
-      <key>public.kern2.five</key>
-      <integer>-40</integer>
-      <key>public.kern2.four</key>
-      <integer>-160</integer>
-      <key>public.kern2.nine</key>
-      <integer>-160</integer>
-      <key>public.kern2.one</key>
-      <integer>-40</integer>
-      <key>public.kern2.seven</key>
-      <integer>-160</integer>
-      <key>public.kern2.six</key>
-      <integer>-80</integer>
-      <key>public.kern2.three</key>
-      <integer>-80</integer>
     </dict>
     <key>public.kern1.t</key>
     <dict>
@@ -1367,11 +1283,6 @@
       <key>public.kern2.A</key>
       <integer>-80</integer>
     </dict>
-    <key>quotesinglbase</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>80</integer>
-    </dict>
     <key>quotesingle</key>
     <dict>
       <key>public.kern2.A</key>
@@ -1392,11 +1303,6 @@
       <integer>-120</integer>
       <key>public.kern2.three</key>
       <integer>-40</integer>
-    </dict>
-    <key>tcaron</key>
-    <dict>
-      <key>public.kern2.A</key>
-      <integer>-110</integer>
     </dict>
   </dict>
 </plist>
