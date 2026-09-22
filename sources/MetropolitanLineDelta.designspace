@@ -98,11 +98,11 @@
         <output>
           <dimension name="YOPQ" xvalue="188"/>
           <dimension name="XTSP" xvalue="50"/>
-          <dimension name="XOPQ" xvalue="230"/>
-          <dimension name="XOUC" xvalue="230"/>
-          <dimension name="XOLC" xvalue="230"/>
-          <dimension name="YOUC" xvalue="220"/>
-          <dimension name="YOLC" xvalue="220"/>
+          <dimension name="XOPQ" xvalue="280"/>
+          <dimension name="XOUC" xvalue="280"/>
+          <dimension name="XOLC" xvalue="280"/>
+          <dimension name="YOUC" xvalue="280"/>
+          <dimension name="YOLC" xvalue="280"/>
           <dimension name="STUI" xvalue="92"/>
           <dimension name="STUO" xvalue="92"/>
           <dimension name="XTRA" xvalue="290"/>
