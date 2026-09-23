@@ -9,36 +9,36 @@
       <point x="100" y="0" type="line"/>
       <point x="320" y="0" type="line"/>
       <point x="320" y="1390" type="line"/>
-      <point x="472" y="1390" type="line" smooth="yes"/>
-      <point x="604" y="1390"/>
-      <point x="706" y="1216"/>
-      <point x="706" y="996" type="curve" smooth="yes"/>
-      <point x="706" y="833"/>
-      <point x="630" y="697"/>
-      <point x="534" y="697" type="curve" smooth="yes"/>
-      <point x="210" y="697" type="line"/>
-      <point x="210" y="687" type="line"/>
-      <point x="518" y="687" type="line" smooth="yes"/>
-      <point x="740" y="687"/>
-      <point x="930" y="824"/>
-      <point x="930" y="998" type="curve" smooth="yes"/>
-      <point x="930" y="1224"/>
-      <point x="730" y="1400"/>
-      <point x="496" y="1400" type="curve" smooth="yes"/>
+      <point x="448" y="1390" type="line" smooth="yes"/>
+      <point x="592" y="1390"/>
+      <point x="706" y="1240"/>
+      <point x="706" y="1049" type="curve" smooth="yes"/>
+      <point x="706" y="854"/>
+      <point x="592" y="701"/>
+      <point x="448" y="701" type="curve" smooth="yes"/>
+      <point x="210" y="701" type="line"/>
+      <point x="210" y="691" type="line"/>
+      <point x="448" y="691" type="line" smooth="yes"/>
+      <point x="718" y="691"/>
+      <point x="930" y="849"/>
+      <point x="930" y="1049" type="curve" smooth="yes"/>
+      <point x="930" y="1246"/>
+      <point x="718" y="1400"/>
+      <point x="448" y="1400" type="curve" smooth="yes"/>
       <point x="100" y="1400" type="line"/>
     </contour>
     <contour>
       <point x="894" y="0" type="line"/>
       <point x="1138" y="0" type="line"/>
-      <point x="646" y="716" type="line"/>
-      <point x="567" y="692" type="line"/>
-      <point x="414" y="692" type="line"/>
+      <point x="636" y="731" type="line"/>
+      <point x="504" y="696" type="line"/>
+      <point x="411" y="696" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-09-23 08:05:28 +0000</string>
+      <string>2026-09-23 09:24:48 +0000</string>
     </dict>
   </lib>
 </glyph>

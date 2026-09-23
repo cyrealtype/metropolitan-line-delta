@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>4004</string>
+    <string>4107</string>
     <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
@@ -114,28 +114,28 @@
             <key>input</key>
             <dict>
               <key>XOPQ</key>
-              <real>5.0</real>
+              <integer>5</integer>
             </dict>
             <key>output</key>
             <dict>
               <key>XOLC</key>
-              <real>5.0</real>
+              <integer>5</integer>
               <key>XOUC</key>
-              <real>5.0</real>
+              <integer>5</integer>
             </dict>
           </dict>
           <dict>
             <key>input</key>
             <dict>
               <key>XOPQ</key>
-              <real>300.0</real>
+              <integer>300</integer>
             </dict>
             <key>output</key>
             <dict>
               <key>XOLC</key>
-              <real>300.0</real>
+              <integer>300</integer>
               <key>XOUC</key>
-              <real>300.0</real>
+              <integer>300</integer>
             </dict>
           </dict>
         </array>
@@ -155,37 +155,37 @@
             <key>Axis</key>
             <string>Weight</string>
             <key>Location</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>Thick Stroke</string>
             <key>Location</key>
-            <real>5.0</real>
+            <integer>5</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>Thin Stroke</string>
             <key>Location</key>
-            <real>5.0</real>
+            <integer>5</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>STUI</string>
             <key>Location</key>
-            <real>2.0</real>
+            <integer>2</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>STUO</string>
             <key>Location</key>
-            <real>2.0</real>
+            <integer>2</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>Counter Width</string>
             <key>Location</key>
-            <real>10.0</real>
+            <integer>10</integer>
           </dict>
         </array>
       </dict>
@@ -198,37 +198,37 @@
             <key>Axis</key>
             <string>Weight</string>
             <key>Location</key>
-            <real>1000.0</real>
+            <integer>1000</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>Thick Stroke</string>
             <key>Location</key>
-            <real>300.0</real>
+            <integer>300</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>Thin Stroke</string>
             <key>Location</key>
-            <real>280.0</real>
+            <integer>280</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>STUI</string>
             <key>Location</key>
-            <real>700.0</real>
+            <integer>700</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>STUO</string>
             <key>Location</key>
-            <real>700.0</real>
+            <integer>700</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>Counter Width</string>
             <key>Location</key>
-            <real>617.0</real>
+            <integer>617</integer>
           </dict>
         </array>
       </dict>

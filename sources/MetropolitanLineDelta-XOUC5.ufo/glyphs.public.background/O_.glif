@@ -2,11 +2,11 @@
 <glyph name="O" format="2">
   <advance width="1152"/>
   <anchor x="576" y="0" name="bottom"/>
+  <anchor x="576" y="700" name="center"/>
   <anchor x="932" y="64" name="ogonek"/>
   <anchor x="576" y="1400" name="top"/>
-  <anchor x="1116" y="1400" name="topright"/>
   <anchor x="36" y="1444" name="topleft"/>
-  <anchor x="576" y="700" name="center"/>
+  <anchor x="1116" y="1400" name="topright"/>
   <outline>
     <contour>
       <point x="576" y="-20" type="curve" smooth="yes"/>
