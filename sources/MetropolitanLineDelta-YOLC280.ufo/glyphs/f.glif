@@ -12,13 +12,13 @@
     </contour>
     <contour>
       <point x="376" y="0" type="line"/>
-      <point x="376" y="1050" type="line" smooth="yes"/>
-      <point x="376" y="1172"/>
-      <point x="440" y="1230"/>
-      <point x="534" y="1230" type="curve" smooth="yes"/>
-      <point x="582" y="1230"/>
-      <point x="626" y="1222"/>
-      <point x="700" y="1184" type="curve"/>
+      <point x="376" y="880" type="line" smooth="yes"/>
+      <point x="376" y="1002"/>
+      <point x="440" y="1060"/>
+      <point x="534" y="1060" type="curve" smooth="yes"/>
+      <point x="582" y="1060"/>
+      <point x="626" y="1052"/>
+      <point x="700" y="1014" type="curve"/>
       <point x="700" y="1380" type="line"/>
       <point x="642" y="1404"/>
       <point x="578" y="1420"/>
