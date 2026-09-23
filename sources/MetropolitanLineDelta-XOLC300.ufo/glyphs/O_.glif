@@ -5,11 +5,11 @@
   <guideline x="395" y="351" angle="180"/>
   <guideline x="395" y="351" angle="90"/>
   <anchor x="790" y="0" name="bottom"/>
-  <anchor x="790" y="700" name="center"/>
   <anchor x="1146" y="64" name="ogonek"/>
   <anchor x="790" y="1400" name="top"/>
-  <anchor x="-190" y="1444" name="topleft"/>
   <anchor x="1540" y="1400" name="topright"/>
+  <anchor x="36" y="1400" name="topleft"/>
+  <anchor x="790" y="700" name="center"/>
   <outline>
     <contour>
       <point x="790" y="-20" type="curve" smooth="yes"/>
@@ -27,17 +27,23 @@
     </contour>
     <contour>
       <point x="790" y="184" type="curve" smooth="yes"/>
-      <point x="494" y="184"/>
+      <point x="493" y="184"/>
       <point x="260" y="412"/>
       <point x="260" y="702" type="curve" smooth="yes"/>
       <point x="260" y="992"/>
-      <point x="494" y="1220"/>
+      <point x="493" y="1220"/>
       <point x="790" y="1220" type="curve" smooth="yes"/>
-      <point x="1086" y="1220"/>
+      <point x="1087" y="1220"/>
       <point x="1320" y="992"/>
       <point x="1320" y="702" type="curve" smooth="yes"/>
       <point x="1320" y="412"/>
-      <point x="1086" y="184"/>
+      <point x="1087" y="184"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 04:18:48 +0000</string>
+    </dict>
+  </lib>
 </glyph>
