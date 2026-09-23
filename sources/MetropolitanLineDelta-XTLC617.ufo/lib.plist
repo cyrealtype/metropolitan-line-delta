@@ -144,7 +144,7 @@
         <key>name</key>
         <string>Variable Font Origin</string>
         <key>value</key>
-        <string>25989AB2-E937-488F-846D-4DF57D6EE5FB</string>
+        <string>29B8C930-F693-4A37-B96B-207FFEBD7B57</string>
       </dict>
       <dict>
         <key>name</key>
@@ -233,8 +233,16 @@
         </array>
       </dict>
     </array>
+    <key>com.schriftgestaltung.font.userData</key>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>B9C0A635-E135-4E79-9ACE-EB1DA6CBE179</key>
+        <dict/>
+      </dict>
+    </dict>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>C2702757-D0E7-407A-97F5-CA9F63E2DD64</string>
+    <string>F5D9FF65-19D6-4C37-B864-A405CA485AC3</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>4</integer>
     <key>com.schriftgestaltung.master.name</key>

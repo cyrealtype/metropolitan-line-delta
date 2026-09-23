@@ -163,7 +163,6 @@
     <key>public.kern1.n</key>
     <array>
       <string>a</string>
-      <string>h</string>
       <string>m</string>
       <string>n</string>
     </array>
@@ -280,7 +279,6 @@
       <string>P</string>
       <string>R</string>
       <string>b</string>
-      <string>h</string>
       <string>k</string>
       <string>l</string>
       <string>bar</string>

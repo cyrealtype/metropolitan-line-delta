@@ -34,7 +34,7 @@
 @MMK_L_jdotless = [j];
 @MMK_L_k = [k];
 @MMK_L_l = [l];
-@MMK_L_n = [a h m n];
+@MMK_L_n = [a m n];
 @MMK_L_nine = [nine];
 @MMK_L_o = [b o p];
 @MMK_L_one = [one];
@@ -57,7 +57,7 @@
 @MMK_L_y = [y];
 @MMK_L_z = [z];
 @MMK_R_A = [A];
-@MMK_R_H = [B D E F H K L M N P R b h k l bar];
+@MMK_R_H = [B D E F H K L M N P R b k l bar];
 @MMK_R_I = [I];
 @MMK_R_J = [J];
 @MMK_R_O = [C G O Q zero];
@@ -104,11 +104,14 @@
 ### class:0:Uppercase ###
 @Uppercase = [
 ### open class 'Uppercase' ###
+
+### open class 'Uppercase' ###
  
 ### open class 'Uppercase' ###
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 ### close class 'Uppercase' ###
  
+### close class 'Uppercase' ###
 ### close class 'Uppercase' ###
 ];
 
@@ -123,6 +126,16 @@ languagesystem DFLT dflt;
 ### prefix:-1:Languagesystems ###
 ### open prefix 'Languagesystems' ###
 ### close prefix 'Languagesystems' ###
+
+### prefix:-1:Prefix ###
+### open prefix 'Prefix' ###
+### class:0:Uppercase ###
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+### close prefix 'Languagesystems' ###
+
+### feature:-1:kern ###
+### close prefix 'Prefix' ###
 
 ### feature:-1:kern ###
 ### close prefix 'Prefix' ###
