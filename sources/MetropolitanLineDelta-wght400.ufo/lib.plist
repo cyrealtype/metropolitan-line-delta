@@ -340,5 +340,18 @@
       <string>percent</string>
       <string>grave</string>
     </array>
+    <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
+    <dict>
+      <key>ascender</key>
+      <integer>32</integer>
+      <key>baseline</key>
+      <integer>-32</integer>
+      <key>capHeight</key>
+      <integer>32</integer>
+      <key>descender</key>
+      <integer>-32</integer>
+      <key>xHeight</key>
+      <integer>32</integer>
+    </dict>
   </dict>
 </plist>
