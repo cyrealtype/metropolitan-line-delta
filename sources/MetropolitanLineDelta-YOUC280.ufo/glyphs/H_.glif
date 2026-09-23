@@ -4,10 +4,6 @@
   <unicode hex="0048"/>
   <guideline x="210" y="0" angle="90"/>
   <guideline x="1144" y="0" angle="90"/>
-  <anchor x="677" y="0" name="bottom"/>
-  <anchor x="677" y="1120" name="center"/>
-  <anchor x="677" y="1400" name="top"/>
-  <anchor x="100" y="1400" name="topleft"/>
   <outline>
     <contour>
       <point x="1034" y="1400" type="line"/>
@@ -28,4 +24,10 @@
       <point x="210" y="442" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 08:05:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>

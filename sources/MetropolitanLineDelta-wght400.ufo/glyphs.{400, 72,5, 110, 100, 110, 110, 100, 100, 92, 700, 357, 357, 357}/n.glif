@@ -2,8 +2,6 @@
 <glyph name="n" format="2">
   <advance width="1046"/>
   <unicode hex="006E"/>
-  <anchor x="523" y="0" name="bottom"/>
-  <anchor x="573" y="950" name="top"/>
   <outline>
     <contour>
       <point x="302" y="950" type="line"/>
@@ -32,6 +30,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 08:05:06 +0000</string>
       <key>com.schriftgestaltung.attr</key>
       <dict>
         <key>coordinates</key>
@@ -52,7 +52,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>C1EDD32E-FC15-4A81-A580-35F317D40B00</string>
+      <string>6B5A019E-B5EA-4A51-BEE0-0453F7561F7D</string>
     </dict>
   </lib>
 </glyph>

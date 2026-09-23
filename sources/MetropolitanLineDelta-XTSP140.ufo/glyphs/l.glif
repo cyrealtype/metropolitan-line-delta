@@ -2,10 +2,6 @@
 <glyph name="l" format="2">
   <advance width="950"/>
   <unicode hex="006C"/>
-  <anchor x="476" y="0" name="bottom"/>
-  <anchor x="654" y="714" name="center"/>
-  <anchor x="342" y="1400" name="top"/>
-  <anchor x="644" y="1400" name="topright"/>
   <outline>
     <contour>
       <point x="588" y="-20" type="curve" smooth="yes"/>
@@ -26,4 +22,10 @@
       <point x="388" y="-20"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 08:05:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>

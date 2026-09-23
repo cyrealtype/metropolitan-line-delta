@@ -2,11 +2,6 @@
 <glyph name="o" format="2">
   <advance width="1100"/>
   <unicode hex="006F"/>
-  <anchor x="550" y="0" name="bottom"/>
-  <anchor x="550" y="476" name="center"/>
-  <anchor x="788" y="42" name="ogonek"/>
-  <anchor x="550" y="950" name="top"/>
-  <anchor x="796" y="902" name="topright"/>
   <outline>
     <contour>
       <point x="550" y="-20" type="curve" smooth="yes"/>
@@ -39,6 +34,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 08:05:06 +0000</string>
       <key>com.schriftgestaltung.attr</key>
       <dict>
         <key>coordinates</key>
@@ -59,7 +56,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>CC01CF59-AB07-4ADC-A689-E903E9557C48</string>
+      <string>0C6679EC-91B9-4D32-8E35-3BF7D7F37B8B</string>
     </dict>
   </lib>
 </glyph>

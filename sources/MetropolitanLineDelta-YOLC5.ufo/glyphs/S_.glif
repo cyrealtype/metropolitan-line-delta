@@ -4,8 +4,6 @@
   <unicode hex="0053"/>
   <guideline x="81" y="529" angle="0"/>
   <guideline x="229" y="92" angle="90.548"/>
-  <anchor x="452" y="0" name="bottom"/>
-  <anchor x="456" y="1400" name="top"/>
   <outline>
     <contour>
       <point x="458" y="-20" type="curve" smooth="yes"/>
@@ -48,4 +46,10 @@
       <point x="248" y="-20"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 08:05:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>

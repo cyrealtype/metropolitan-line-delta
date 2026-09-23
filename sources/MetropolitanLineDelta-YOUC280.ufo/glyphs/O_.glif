@@ -4,12 +4,6 @@
   <unicode hex="004F"/>
   <guideline x="395" y="351" angle="180"/>
   <guideline x="395" y="351" angle="90"/>
-  <anchor x="790" y="2" name="bottom"/>
-  <anchor x="1146" y="66" name="ogonek"/>
-  <anchor x="790" y="1402" name="top"/>
-  <anchor x="1540" y="1402" name="topright"/>
-  <anchor x="36" y="1402" name="topleft"/>
-  <anchor x="790" y="702" name="center"/>
   <outline>
     <contour>
       <point x="790" y="-18" type="curve" smooth="yes"/>
@@ -40,4 +34,10 @@
       <point x="1087" y="560"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 08:05:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>

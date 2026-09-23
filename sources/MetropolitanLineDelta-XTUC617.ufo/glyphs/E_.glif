@@ -2,10 +2,6 @@
 <glyph name="E" format="2">
   <advance width="1028"/>
   <unicode hex="0045"/>
-  <anchor x="514" y="0" name="bottom"/>
-  <anchor x="840" y="0" name="ogonek"/>
-  <anchor x="520" y="1400" name="top"/>
-  <anchor x="100" y="1400" name="topleft"/>
   <outline>
     <contour>
       <point x="210" y="850" type="line"/>
@@ -24,4 +20,10 @@
       <point x="980" y="200" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 08:05:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>

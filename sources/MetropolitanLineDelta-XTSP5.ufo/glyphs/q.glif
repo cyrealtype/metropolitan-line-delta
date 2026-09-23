@@ -2,8 +2,6 @@
 <glyph name="q" format="2">
   <advance width="966"/>
   <unicode hex="0071"/>
-  <anchor x="504" y="0" name="bottom"/>
-  <anchor x="504" y="950" name="top"/>
   <outline>
     <contour>
       <point x="956" y="-450" type="line"/>
@@ -40,4 +38,10 @@
       <point x="600" y="170"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-23 08:05:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>
