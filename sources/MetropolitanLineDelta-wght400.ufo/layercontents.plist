@@ -7,12 +7,12 @@
       <string>glyphs</string>
     </array>
     <array>
-      <string>public.background</string>
-      <string>glyphs.public.background</string>
-    </array>
-    <array>
       <string>{400, 72,5, 110, 100, 110, 110, 100, 100, 700, 92, 357, 357, 357}</string>
       <string>glyphs.{400, 72,5, 110, 100, 110, 110, 100, 100, 700, 92, 357, 357, 357}</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
     </array>
     <array>
       <string>{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 2, 357, 357, 357}</string>
