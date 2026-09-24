@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="1092"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="566" y="0" type="line" smooth="yes"/>
+      <point x="838" y="0"/>
+      <point x="1052" y="190"/>
+      <point x="1052" y="447" type="curve" smooth="yes"/>
+      <point x="1052" y="583"/>
+      <point x="938" y="744"/>
+      <point x="792" y="798" type="curve"/>
+      <point x="856" y="856"/>
+      <point x="906" y="959"/>
+      <point x="906" y="1022" type="curve" smooth="yes"/>
+      <point x="906" y="1238"/>
+      <point x="719" y="1400"/>
+      <point x="480" y="1400" type="curve" smooth="yes"/>
+      <point x="100" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="534" type="line"/>
+      <point x="568" y="534" type="line" smooth="yes"/>
+      <point x="714" y="534"/>
+      <point x="828" y="489"/>
+      <point x="828" y="447" type="curve" smooth="yes"/>
+      <point x="828" y="392"/>
+      <point x="714" y="360"/>
+      <point x="568" y="360" type="curve" smooth="yes"/>
+      <point x="320" y="360" type="line"/>
+      <point x="320" y="1068" type="line"/>
+      <point x="480" y="1068" type="line" smooth="yes"/>
+      <point x="593" y="1068"/>
+      <point x="682" y="1052"/>
+      <point x="682" y="1022" type="curve" smooth="yes"/>
+      <point x="682" y="1000"/>
+      <point x="593" y="974"/>
+      <point x="480" y="974" type="curve" smooth="yes"/>
+      <point x="210" y="974" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-24 13:51:47 +0000</string>
+      <key>com.schriftgestaltung.attr</key>
+      <dict>
+        <key>coordinates</key>
+        <array>
+          <real>400.0</real>
+          <real>72.5</real>
+          <real>110.0</real>
+          <real>100.0</real>
+          <real>110.0</real>
+          <real>110.0</real>
+          <real>100.0</real>
+          <real>100.0</real>
+          <real>92.0</real>
+          <real>92.0</real>
+          <real>357.0</real>
+          <real>357.0</real>
+          <real>357.0</real>
+          <real>225.0</real>
+          <real>450.0</real>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>A3BB4939-86C5-417D-BFFB-6FD03FA537DE</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

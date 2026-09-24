@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="988"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="210" y="810" type="line"/>
+      <point x="210" y="690" type="line"/>
+      <point x="786" y="690" type="line"/>
+      <point x="786" y="810" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="1200" type="line"/>
+      <point x="940" y="1200" type="line"/>
+      <point x="940" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-24 13:32:26 +0000</string>
+      <key>com.schriftgestaltung.attr</key>
+      <dict>
+        <key>coordinates</key>
+        <array>
+          <real>400.0</real>
+          <real>72.5</real>
+          <real>110.0</real>
+          <real>100.0</real>
+          <real>110.0</real>
+          <real>110.0</real>
+          <real>100.0</real>
+          <real>100.0</real>
+          <real>92.0</real>
+          <real>92.0</real>
+          <real>357.0</real>
+          <real>357.0</real>
+          <real>357.0</real>
+          <real>60.0</real>
+          <real>450.0</real>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>15B6585D-B730-48F5-9350-CC613F85AA6F</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
