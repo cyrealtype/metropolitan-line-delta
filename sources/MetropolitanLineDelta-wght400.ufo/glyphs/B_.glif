@@ -2,9 +2,6 @@
 <glyph name="B" format="2">
   <advance width="1092"/>
   <unicode hex="0042"/>
-  <guideline x="568" y="432" angle="0"/>
-  <guideline x="480" y="1032" angle="0"/>
-  <guideline x="210" y="764" angle="0"/>
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
