@@ -2,6 +2,7 @@
 <glyph name="r" format="2">
   <advance width="744"/>
   <unicode hex="0072"/>
+  <guideline x="152" y="238" angle="269.8794"/>
   <outline>
     <contour>
       <point x="302" y="950" type="line"/>
@@ -31,6 +32,11 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2026-09-23 08:05:06 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Regular</key>
+        <string>XTLC617</string>
+      </dict>
     </dict>
   </lib>
 </glyph>

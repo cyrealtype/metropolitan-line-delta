@@ -14,5 +14,21 @@
       <string>bg</string>
       <string>glyphs.bg</string>
     </array>
+    <array>
+      <string>bg#1</string>
+      <string>glyphs.bg#1</string>
+    </array>
+    <array>
+      <string>bg#2</string>
+      <string>glyphs.bg#2</string>
+    </array>
+    <array>
+      <string>bg#3</string>
+      <string>glyphs.bg#3</string>
+    </array>
+    <array>
+      <string>bg#4</string>
+      <string>glyphs.bg#4</string>
+    </array>
   </array>
 </plist>
