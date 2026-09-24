@@ -26,25 +26,5 @@
       <string>{400, 72,5, 110, 100, 110, 110, 100, 100, 2, 92, 357, 357, 357}</string>
       <string>glyphs.{400, 72,5, 110, 100, 110, 110, 100, 100, 2, 92, 357, 357, 357}</string>
     </array>
-    <array>
-      <string>bg</string>
-      <string>glyphs.bg</string>
-    </array>
-    <array>
-      <string>bg#1</string>
-      <string>glyphs.bg#1</string>
-    </array>
-    <array>
-      <string>bg#2</string>
-      <string>glyphs.bg#2</string>
-    </array>
-    <array>
-      <string>bg#3</string>
-      <string>glyphs.bg#3</string>
-    </array>
-    <array>
-      <string>bg#4</string>
-      <string>glyphs.bg#4</string>
-    </array>
   </array>
 </plist>

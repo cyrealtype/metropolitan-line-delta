@@ -441,23 +441,6 @@
         <dimension name="XTLC" xvalue="10"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_YOBM200.ufo" name="38523c42" familyname="Metropolitan Line Delta" stylename="YOBM200">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="XTSP" xvalue="72.5"/>
-        <dimension name="XOPQ" xvalue="110"/>
-        <dimension name="YOPQ" xvalue="100"/>
-        <dimension name="XOUC" xvalue="110"/>
-        <dimension name="XOLC" xvalue="110"/>
-        <dimension name="YOUC" xvalue="100"/>
-        <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="XTRA" xvalue="357"/>
-        <dimension name="XTUC" xvalue="357"/>
-        <dimension name="XTLC" xvalue="357"/>
-      </location>
-    </source>
     <source filename="MetropolitanLineDelta-XTLC617.ufo" name="XTLC617" familyname="Metropolitan Line Delta" stylename="XTLC617">
       <location>
         <dimension name="Weight" xvalue="400"/>
