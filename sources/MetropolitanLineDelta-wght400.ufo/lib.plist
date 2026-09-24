@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>4107</string>
+    <string>4108</string>
     <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
@@ -14,43 +14,43 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Proportional spacing</string>
+        <string>XTSP</string>
         <key>tag</key>
         <string>XTSP</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>Thick Stroke</string>
+        <string>XOPQ</string>
         <key>tag</key>
         <string>XOPQ</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>Thin Stroke</string>
+        <string>YOPQ</string>
         <key>tag</key>
         <string>YOPQ</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>X stem uppercase</string>
+        <string>XOUC</string>
         <key>tag</key>
         <string>XOUC</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>x stem lowercase</string>
+        <string>XOLC</string>
         <key>tag</key>
         <string>XOLC</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>Y opaque uppercase</string>
+        <string>YOUC</string>
         <key>tag</key>
         <string>YOUC</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>y opaque lowercase</string>
+        <string>YOLC</string>
         <key>tag</key>
         <string>YOLC</string>
       </dict>
@@ -68,21 +68,45 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Counter Width</string>
+        <string>XTRA</string>
         <key>tag</key>
         <string>XTRA</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>x transparent uppercase</string>
+        <string>XTUC</string>
         <key>tag</key>
         <string>XTUC</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>x transparent lowercase</string>
+        <string>XTLC</string>
         <key>tag</key>
         <string>XTLC</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>B9F9</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>6EF7</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>4461</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>3A81</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.axesValues</key>
@@ -100,6 +124,10 @@
       <integer>357</integer>
       <integer>357</integer>
       <integer>357</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
@@ -144,7 +172,7 @@
         <key>name</key>
         <string>Variable Font Origin</string>
         <key>value</key>
-        <string>DEB416F9-8F15-4E96-A9F8-47E44C20FAF2</string>
+        <string>m001</string>
       </dict>
       <dict>
         <key>name</key>
@@ -189,54 +217,9 @@
           </dict>
         </array>
       </dict>
-      <dict>
-        <key>name</key>
-        <string>Virtual Master</string>
-        <key>value</key>
-        <array>
-          <dict>
-            <key>Axis</key>
-            <string>Weight</string>
-            <key>Location</key>
-            <integer>1000</integer>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>Thick Stroke</string>
-            <key>Location</key>
-            <integer>300</integer>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>Thin Stroke</string>
-            <key>Location</key>
-            <integer>280</integer>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>STUI</string>
-            <key>Location</key>
-            <integer>700</integer>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>STUO</string>
-            <key>Location</key>
-            <integer>700</integer>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>Counter Width</string>
-            <key>Location</key>
-            <integer>617</integer>
-          </dict>
-        </array>
-      </dict>
     </array>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>DEB416F9-8F15-4E96-A9F8-47E44C20FAF2</string>
     <key>com.schriftgestaltung.formatVersion</key>
-    <integer>4</integer>
+    <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
     <false/>
     <key>com.schriftgestaltung.useNiceNames</key>
@@ -340,18 +323,5 @@
       <string>percent</string>
       <string>grave</string>
     </array>
-    <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
-    <dict>
-      <key>ascender</key>
-      <integer>32</integer>
-      <key>baseline</key>
-      <integer>-32</integer>
-      <key>capHeight</key>
-      <integer>32</integer>
-      <key>descender</key>
-      <integer>-32</integer>
-      <key>xHeight</key>
-      <integer>32</integer>
-    </dict>
   </dict>
 </plist>
