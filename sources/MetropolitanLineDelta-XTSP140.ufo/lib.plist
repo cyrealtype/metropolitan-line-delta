@@ -14,69 +14,53 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Proportional spacing</string>
+        <string>XTSP</string>
         <key>tag</key>
         <string>XTSP</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
-        <string>Thick Stroke</string>
+        <string>XOPQ</string>
         <key>tag</key>
         <string>XOPQ</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
-        <string>Thin Stroke</string>
+        <string>YOPQ</string>
         <key>tag</key>
         <string>YOPQ</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
-        <string>X stem uppercase</string>
+        <string>XOUC</string>
         <key>tag</key>
         <string>XOUC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
-        <string>x stem lowercase</string>
+        <string>XOLC</string>
         <key>tag</key>
         <string>XOLC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
-        <string>Y opaque uppercase</string>
+        <string>YOUC</string>
         <key>tag</key>
         <string>YOUC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
-        <string>y opaque lowercase</string>
+        <string>YOLC</string>
         <key>tag</key>
         <string>YOLC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>STUI</string>
         <key>tag</key>
         <string>STUI</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>STUO</string>
         <key>tag</key>
@@ -84,37 +68,57 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Counter Width</string>
+        <string>XTRA</string>
         <key>tag</key>
         <string>XTRA</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>x transparent uppercase</string>
+        <string>XTUC</string>
         <key>tag</key>
         <string>XTUC</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>x transparent lowercase</string>
+        <string>XTLC</string>
         <key>tag</key>
         <string>XTLC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>YOMB</string>
         <key>tag</key>
         <string>YOMB</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
-        <string>Descender Depth</string>
+        <string>YTDE</string>
         <key>tag</key>
         <string>YTDE</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>6E44</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>5461</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>997A</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>4CDB</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.axesValues</key>
@@ -134,6 +138,10 @@
       <integer>357</integer>
       <integer>100</integer>
       <integer>450</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
@@ -148,28 +156,28 @@
             <key>input</key>
             <dict>
               <key>XOPQ</key>
-              <real>5.0</real>
+              <integer>5</integer>
             </dict>
             <key>output</key>
             <dict>
               <key>XOLC</key>
-              <real>5.0</real>
+              <integer>5</integer>
               <key>XOUC</key>
-              <real>5.0</real>
+              <integer>5</integer>
             </dict>
           </dict>
           <dict>
             <key>input</key>
             <dict>
               <key>XOPQ</key>
-              <real>300.0</real>
+              <integer>300</integer>
             </dict>
             <key>output</key>
             <dict>
               <key>XOLC</key>
-              <real>300.0</real>
+              <integer>300</integer>
               <key>XOUC</key>
-              <real>300.0</real>
+              <integer>300</integer>
             </dict>
           </dict>
         </array>
@@ -178,7 +186,7 @@
         <key>name</key>
         <string>Variable Font Origin</string>
         <key>value</key>
-        <string>2B9812E7-CF83-40BF-B65B-CD65350EF077</string>
+        <string>m001</string>
       </dict>
       <dict>
         <key>name</key>
@@ -223,85 +231,11 @@
           </dict>
         </array>
       </dict>
-      <dict>
-        <key>name</key>
-        <string>Virtual Master</string>
-        <key>value</key>
-        <array>
-          <dict>
-            <key>Axis</key>
-            <string>YOMB</string>
-            <key>Location</key>
-            <real>60.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>Descender Depth</string>
-            <key>Location</key>
-            <real>300.0</real>
-          </dict>
-        </array>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>Virtual Master</string>
-        <key>value</key>
-        <array>
-          <dict>
-            <key>Axis</key>
-            <string>Weight</string>
-            <key>Location</key>
-            <real>1000.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>Thick Stroke</string>
-            <key>Location</key>
-            <real>300.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>Thin Stroke</string>
-            <key>Location</key>
-            <real>280.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>STUI</string>
-            <key>Location</key>
-            <real>700.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>STUO</string>
-            <key>Location</key>
-            <real>700.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>Counter Width</string>
-            <key>Location</key>
-            <real>617.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>YOMB</string>
-            <key>Location</key>
-            <real>225.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>Descender Depth</string>
-            <key>Location</key>
-            <real>660.0</real>
-          </dict>
-        </array>
-      </dict>
     </array>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>C11865CD-3346-48DD-856D-66CBBF34D0F9</string>
+    <string>m006</string>
     <key>com.schriftgestaltung.formatVersion</key>
-    <integer>4</integer>
+    <integer>3</integer>
     <key>com.schriftgestaltung.master.name</key>
     <string>XTSP140</string>
     <key>com.schriftgestaltung.useGlyphOrder</key>

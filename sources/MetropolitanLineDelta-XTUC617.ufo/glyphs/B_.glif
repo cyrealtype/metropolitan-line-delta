@@ -2,7 +2,7 @@
 <glyph name="B" format="2">
   <advance width="1401"/>
   <unicode hex="0042"/>
-  <guideline x="200" y="100" angle="90"/>
+  <guideline x="210" y="1300" angle="90"/>
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
@@ -22,7 +22,7 @@
       <point x="100" y="1400" type="line"/>
     </contour>
     <contour>
-      <point x="200" y="664" type="line"/>
+      <point x="210" y="664" type="line"/>
       <point x="700" y="664" type="line" smooth="yes"/>
       <point x="945" y="664"/>
       <point x="1137" y="562"/>
@@ -30,8 +30,8 @@
       <point x="1137" y="302"/>
       <point x="945" y="200"/>
       <point x="700" y="200" type="curve" smooth="yes"/>
-      <point x="300" y="200" type="line"/>
-      <point x="300" y="1200" type="line"/>
+      <point x="320" y="200" type="line"/>
+      <point x="320" y="1200" type="line"/>
       <point x="558" y="1200" type="line" smooth="yes"/>
       <point x="763" y="1200"/>
       <point x="924" y="1126"/>
@@ -39,13 +39,13 @@
       <point x="924" y="938"/>
       <point x="763" y="864"/>
       <point x="558" y="864" type="curve" smooth="yes"/>
-      <point x="200" y="864" type="line"/>
+      <point x="210" y="864" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-09-24 14:27:55 +0000</string>
+      <string>2026-10-08 11:53:09 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

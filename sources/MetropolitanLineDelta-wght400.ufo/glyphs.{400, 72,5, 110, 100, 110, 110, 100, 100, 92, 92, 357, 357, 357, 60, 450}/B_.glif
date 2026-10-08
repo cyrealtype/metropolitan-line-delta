@@ -46,30 +46,30 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-09-24 14:27:55 +0000</string>
+      <string>2026-10-08 11:53:09 +0000</string>
       <key>com.schriftgestaltung.attr</key>
       <dict>
         <key>coordinates</key>
         <array>
-          <real>400.0</real>
+          <integer>400</integer>
           <real>72.5</real>
-          <real>110.0</real>
-          <real>100.0</real>
-          <real>110.0</real>
-          <real>110.0</real>
-          <real>100.0</real>
-          <real>100.0</real>
-          <real>92.0</real>
-          <real>92.0</real>
-          <real>357.0</real>
-          <real>357.0</real>
-          <real>357.0</real>
-          <real>60.0</real>
-          <real>450.0</real>
+          <integer>110</integer>
+          <integer>100</integer>
+          <integer>110</integer>
+          <integer>110</integer>
+          <integer>100</integer>
+          <integer>100</integer>
+          <integer>92</integer>
+          <integer>92</integer>
+          <integer>357</integer>
+          <integer>357</integer>
+          <integer>357</integer>
+          <integer>60</integer>
+          <integer>450</integer>
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>C5D36F50-B623-4963-A354-35A649326B08</string>
+      <string>3E769EED-6C40-4A04-9D8D-C14084A245C8</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

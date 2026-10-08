@@ -26,25 +26,25 @@
       <dict>
         <key>coordinates</key>
         <array>
-          <real>400.0</real>
+          <integer>400</integer>
           <real>72.5</real>
-          <real>110.0</real>
-          <real>100.0</real>
-          <real>110.0</real>
-          <real>110.0</real>
-          <real>100.0</real>
-          <real>100.0</real>
-          <real>92.0</real>
-          <real>92.0</real>
-          <real>357.0</real>
-          <real>357.0</real>
-          <real>357.0</real>
-          <real>60.0</real>
-          <real>450.0</real>
+          <integer>110</integer>
+          <integer>100</integer>
+          <integer>110</integer>
+          <integer>110</integer>
+          <integer>100</integer>
+          <integer>100</integer>
+          <integer>92</integer>
+          <integer>92</integer>
+          <integer>357</integer>
+          <integer>357</integer>
+          <integer>357</integer>
+          <integer>60</integer>
+          <integer>450</integer>
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>15B6585D-B730-48F5-9350-CC613F85AA6F</string>
+      <string>01F3AE4E-FAF5-4F0E-A7A8-9404E307C136</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

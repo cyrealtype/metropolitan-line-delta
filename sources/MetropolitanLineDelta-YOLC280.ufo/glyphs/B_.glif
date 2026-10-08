@@ -2,6 +2,7 @@
 <glyph name="B" format="2">
   <advance width="1092"/>
   <unicode hex="0042"/>
+  <guideline x="480" y="1032" angle="0"/>
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
@@ -44,7 +45,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-09-24 14:27:55 +0000</string>
+      <string>2026-10-08 11:53:09 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>
