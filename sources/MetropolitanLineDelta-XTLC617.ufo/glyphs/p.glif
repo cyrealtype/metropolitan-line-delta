@@ -18,21 +18,21 @@
       <point x="1619" y="752"/>
       <point x="1283" y="970"/>
       <point x="855" y="970" type="curve" smooth="yes"/>
-      <point x="447" y="970"/>
-      <point x="122" y="751"/>
-      <point x="122" y="475" type="curve" smooth="yes"/>
-      <point x="122" y="473" type="line"/>
-      <point x="122" y="196"/>
-      <point x="444" y="-20"/>
+      <point x="441" y="970"/>
+      <point x="112" y="751"/>
+      <point x="112" y="475" type="curve" smooth="yes"/>
+      <point x="112" y="473" type="line"/>
+      <point x="112" y="196"/>
+      <point x="438" y="-20"/>
     </contour>
     <contour>
       <point x="855" y="170" type="curve" smooth="yes"/>
-      <point x="535" y="170"/>
-      <point x="282" y="304"/>
-      <point x="282" y="473" type="curve"/>
-      <point x="282" y="475" type="line"/>
-      <point x="284" y="646"/>
-      <point x="535" y="780"/>
+      <point x="504" y="170"/>
+      <point x="227" y="304"/>
+      <point x="227" y="473" type="curve"/>
+      <point x="227" y="475" type="line"/>
+      <point x="229" y="646"/>
+      <point x="504" y="780"/>
       <point x="855" y="780" type="curve" smooth="yes"/>
       <point x="1170" y="780"/>
       <point x="1419" y="645"/>
@@ -44,7 +44,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-09-24 14:42:00 +0000</string>
+      <string>2026-10-08 11:08:09 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

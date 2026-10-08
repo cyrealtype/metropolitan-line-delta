@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="p" format="2">
-  <advance width="584"/>
+  <advance width="583"/>
+  <guideline x="312" y="475" angle="180"/>
   <outline>
     <contour>
       <point x="302" y="-450" type="line"/>
