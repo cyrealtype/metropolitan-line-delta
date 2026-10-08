@@ -7,8 +7,8 @@
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
-      <point x="300" y="0" type="line"/>
-      <point x="300" y="1200" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="1200" type="line"/>
       <point x="536" y="1200" type="line" smooth="yes"/>
       <point x="786" y="1200"/>
       <point x="982" y="1111"/>
@@ -16,8 +16,8 @@
       <point x="982" y="885"/>
       <point x="786" y="796"/>
       <point x="536" y="796" type="curve" smooth="yes"/>
-      <point x="200" y="796" type="line"/>
-      <point x="200" y="596" type="line"/>
+      <point x="210" y="796" type="line"/>
+      <point x="210" y="596" type="line"/>
       <point x="536" y="596" type="line" smooth="yes"/>
       <point x="911" y="596"/>
       <point x="1206" y="773"/>
@@ -31,14 +31,13 @@
       <point x="1168" y="0" type="line"/>
       <point x="1414" y="0" type="line"/>
       <point x="913" y="696" type="line"/>
-      <point x="758" y="696" type="line"/>
       <point x="659" y="696" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-10-08 11:09:48 +0000</string>
+      <string>2026-10-08 11:58:22 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>
