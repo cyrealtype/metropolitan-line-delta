@@ -98,27 +98,33 @@
       </dict>
       <dict>
         <key>name</key>
-        <string></string>
+        <string>INKT</string>
         <key>tag</key>
-        <string>6A19</string>
+        <string>INKT</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>7161</string>
+        <string>85A7</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>442A</string>
+        <string>205D</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>1192</string>
+        <string>D827</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>0DC9</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.axesValues</key>
@@ -138,6 +144,7 @@
       <integer>357</integer>
       <integer>100</integer>
       <integer>450</integer>
+      <integer>0</integer>
       <integer>0</integer>
       <integer>0</integer>
       <integer>0</integer>
@@ -233,7 +240,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>m011</string>
+    <string>m013</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.master.name</key>
@@ -341,18 +348,5 @@
       <string>percent</string>
       <string>grave</string>
     </array>
-    <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
-    <dict>
-      <key>ascender</key>
-      <integer>32</integer>
-      <key>baseline</key>
-      <integer>-32</integer>
-      <key>capHeight</key>
-      <integer>32</integer>
-      <key>descender</key>
-      <integer>-32</integer>
-      <key>xHeight</key>
-      <integer>32</integer>
-    </dict>
   </dict>
 </plist>

@@ -158,7 +158,47 @@
         <dimension name="XTLC" xvalue="357"/>
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
+        <dimension name="INKT" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-INKT-20.ufo" name="INKT-20" familyname="Metropolitan Line Delta" stylename="INKT-20">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="XTRA" xvalue="357"/>
+        <dimension name="XTUC" xvalue="357"/>
+        <dimension name="XTLC" xvalue="357"/>
+        <dimension name="YOMB" xvalue="100"/>
+        <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="-20"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-INKT33.ufo" name="INKT33" familyname="Metropolitan Line Delta" stylename="INKT33">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="92"/>
+        <dimension name="STUO" xvalue="92"/>
+        <dimension name="XTRA" xvalue="357"/>
+        <dimension name="XTUC" xvalue="357"/>
+        <dimension name="XTLC" xvalue="357"/>
+        <dimension name="YOMB" xvalue="100"/>
+        <dimension name="YTDE" xvalue="450"/>
+        <dimension name="INKT" xvalue="33"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_YTDE660.ufo" name="74e4e9c2" familyname="Metropolitan Line Delta" stylename="YTDE660" layer="public.default">
@@ -618,6 +658,7 @@
         <axis-subset name="XTRA"/>
         <axis-subset name="XTUC"/>
         <axis-subset name="XTLC"/>
+        <axis-subset name="INKT"/>
       </axis-subsets>
     </variable-font>
   </variable-fonts>
