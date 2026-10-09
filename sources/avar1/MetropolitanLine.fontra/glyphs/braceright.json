@@ -1,0 +1,47 @@
+{
+"name": "braceright",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "braceleft",
+"transformation": {
+"translateX": 577,
+"translateY": 1,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 576
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "braceleft",
+"transformation": {
+"translateX": 577,
+"translateY": 1,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 576
+}
+}
+}
+}

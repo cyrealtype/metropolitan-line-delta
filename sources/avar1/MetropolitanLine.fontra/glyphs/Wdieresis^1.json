@@ -1,0 +1,73 @@
+{
+"name": "Wdieresis",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "W"
+},
+{
+"name": "dieresiscomb.case",
+"transformation": {
+"translateX": 622
+}
+}
+],
+"xAdvance": 1992,
+"anchors": [
+{
+"name": "bottom",
+"x": 996,
+"y": 0
+},
+{
+"name": "top",
+"x": 998,
+"y": 1676
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "W"
+},
+{
+"name": "dieresiscomb.case",
+"transformation": {
+"translateX": 622
+}
+}
+],
+"xAdvance": 1992,
+"anchors": [
+{
+"name": "bottom",
+"x": 996,
+"y": 0
+},
+{
+"name": "top",
+"x": 998,
+"y": 1676
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,85 @@
+{
+"name": "hbar",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "h"
+},
+{
+"name": "strokeshortcomb",
+"transformation": {
+"translateX": -60,
+"translateY": 330
+}
+}
+],
+"xAdvance": 1046,
+"anchors": [
+{
+"name": "bottom",
+"x": 534,
+"y": 0
+},
+{
+"name": "center",
+"x": 338,
+"y": 1190
+},
+{
+"name": "top",
+"x": 202,
+"y": 1308
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "h"
+},
+{
+"name": "strokeshortcomb",
+"transformation": {
+"translateX": -60,
+"translateY": 330
+}
+}
+],
+"xAdvance": 1046,
+"anchors": [
+{
+"name": "bottom",
+"x": 534,
+"y": 0
+},
+{
+"name": "center",
+"x": 338,
+"y": 1190
+},
+{
+"name": "top",
+"x": 202,
+"y": 1308
+}
+]
+}
+}
+}
+}

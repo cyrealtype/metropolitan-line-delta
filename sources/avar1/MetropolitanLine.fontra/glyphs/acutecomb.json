@@ -1,0 +1,69 @@
+{
+"name": "acutecomb",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "gravecomb",
+"transformation": {
+"translateX": 444,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 134,
+"y": 950
+},
+{
+"name": "top",
+"x": 266,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "gravecomb",
+"transformation": {
+"translateX": 444,
+"scaleX": -1
+}
+}
+],
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 134,
+"y": 950
+},
+{
+"name": "top",
+"x": 266,
+"y": 1318
+}
+]
+}
+}
+}
+}

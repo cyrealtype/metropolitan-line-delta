@@ -1,0 +1,83 @@
+{
+"name": "atilde",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "a"
+},
+{
+"name": "tildecomb",
+"transformation": {
+"translateX": 48
+}
+}
+],
+"xAdvance": 916,
+"anchors": [
+{
+"name": "bottom",
+"x": 458,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 834,
+"y": 0
+},
+{
+"name": "top",
+"x": 458,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "a"
+},
+{
+"name": "tildecomb",
+"transformation": {
+"translateX": 48
+}
+}
+],
+"xAdvance": 916,
+"anchors": [
+{
+"name": "bottom",
+"x": 458,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 834,
+"y": 0
+},
+{
+"name": "top",
+"x": 458,
+"y": 1318
+}
+]
+}
+}
+}
+}

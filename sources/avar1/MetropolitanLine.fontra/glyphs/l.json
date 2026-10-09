@@ -1,0 +1,241 @@
+{
+"name": "l",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 448,
+"y": -20,
+"smooth": true
+},
+{
+"x": 499,
+"y": -20,
+"type": "quad"
+},
+{
+"x": 592,
+"y": 3,
+"type": "quad"
+},
+{
+"x": 646,
+"y": 28
+},
+{
+"x": 646,
+"y": 222
+},
+{
+"x": 558,
+"y": 172,
+"type": "quad"
+},
+{
+"x": 472,
+"y": 172,
+"smooth": true
+},
+{
+"x": 390,
+"y": 172,
+"type": "quad"
+},
+{
+"x": 302,
+"y": 265,
+"type": "quad"
+},
+{
+"x": 302,
+"y": 350,
+"smooth": true
+},
+{
+"x": 302,
+"y": 1400
+},
+{
+"x": 102,
+"y": 1400
+},
+{
+"x": 102,
+"y": 296,
+"smooth": true
+},
+{
+"x": 102,
+"y": 205,
+"type": "quad"
+},
+{
+"x": 191,
+"y": 61,
+"type": "quad"
+},
+{
+"x": 349,
+"y": -20,
+"type": "quad"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 670,
+"anchors": [
+{
+"name": "bottom",
+"x": 336,
+"y": 0
+},
+{
+"name": "center",
+"x": 514,
+"y": 714
+},
+{
+"name": "top",
+"x": 202,
+"y": 1400
+},
+{
+"name": "topright",
+"x": 504,
+"y": 1400
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 448,
+"y": -20,
+"smooth": true
+},
+{
+"x": 499,
+"y": -20,
+"type": "quad"
+},
+{
+"x": 592,
+"y": 3,
+"type": "quad"
+},
+{
+"x": 646,
+"y": 28
+},
+{
+"x": 646,
+"y": 222
+},
+{
+"x": 558,
+"y": 172,
+"type": "quad"
+},
+{
+"x": 472,
+"y": 172,
+"smooth": true
+},
+{
+"x": 390,
+"y": 172,
+"type": "quad"
+},
+{
+"x": 302,
+"y": 265,
+"type": "quad"
+},
+{
+"x": 302,
+"y": 350,
+"smooth": true
+},
+{
+"x": 302,
+"y": 1400
+},
+{
+"x": 102,
+"y": 1400
+},
+{
+"x": 102,
+"y": 296,
+"smooth": true
+},
+{
+"x": 102,
+"y": 205,
+"type": "quad"
+},
+{
+"x": 191,
+"y": 61,
+"type": "quad"
+},
+{
+"x": 349,
+"y": -20,
+"type": "quad"
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 670,
+"anchors": [
+{
+"name": "bottom",
+"x": 336,
+"y": 0
+},
+{
+"name": "center",
+"x": 514,
+"y": 714
+},
+{
+"name": "top",
+"x": 202,
+"y": 1400
+},
+{
+"name": "topright",
+"x": 504,
+"y": 1400
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q.ss01" format="2">
+  <advance width="1100"/>
+  <anchor x="550" y="0" name="bottom"/>
+  <anchor x="550" y="476" name="center"/>
+  <anchor x="788" y="42" name="ogonek"/>
+  <anchor x="550" y="950" name="top"/>
+  <anchor x="796" y="902" name="topright"/>
+  <outline>
+    <contour>
+      <point x="813" y="70" type="line"/>
+      <point x="1381.8311780654412" y="-295.0"/>
+      <point x="1693.0" y="-295.0" type="qcurve" smooth="yes"/>
+      <point x="1847.999995" y="-295.0"/>
+      <point x="1972" y="-214" type="qcurve"/>
+      <point x="1972.0" y="-370.0" type="line"/>
+      <point x="1839.3684257894738" y="-478.0"/>
+      <point x="1638.0" y="-478.0" type="qcurve" smooth="yes"/>
+      <point x="1500.9999883750015" y="-478.0"/>
+      <point x="1368.0" y="-438.0" type="qcurve" smooth="yes"/>
+      <point x="1168.560416281786" y="-378.01817293169796"/>
+      <point x="870.0" y="-203.0" type="qcurve" smooth="yes"/>
+      <point x="717.6127060637057" y="-114.87241098044387"/>
+      <point x="656.0" y="-87.0" type="qcurve" smooth="yes"/>
+      <point x="595.2537475022342" y="-60.73135260080433"/>
+      <point x="496.0" y="-32.0" type="qcurve" smooth="yes"/>
+      <point x="367.92081633075367" y="4.871275295723045"/>
+      <point x="310" y="42" type="qcurve"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

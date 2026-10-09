@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.ss01" format="2">
+  <advance width="1434"/>
+  <anchor x="718" y="0" name="bottom"/>
+  <anchor x="718" y="1120" name="center"/>
+  <anchor x="718" y="1400" name="top"/>
+  <anchor x="100" y="1400" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="622" type="line"/>
+      <point x="1114" y="622" type="line"/>
+      <point x="1114" y="0" type="line"/>
+      <point x="1334" y="0" type="line"/>
+      <point x="1334" y="1400" type="line"/>
+      <point x="1114" y="1400" type="line"/>
+      <point x="1114" y="822" type="line"/>
+      <point x="320" y="822" type="line"/>
+      <point x="320" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

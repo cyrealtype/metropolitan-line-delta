@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="1152"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="576.0" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="436.0" y="-20.0"/>
+      <point x="328.0" y="65.5" type="qcurve" smooth="yes"/>
+      <point x="100.0" y="246.0"/>
+      <point x="100.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="100.0" y="929.0000083606551"/>
+      <point x="161.0" y="1092.0" type="qcurve" smooth="yes"/>
+      <point x="285.24539558658586" y="1424.0"/>
+      <point x="576.0" y="1424.0" type="qcurve" smooth="yes"/>
+      <point x="713.999993609467" y="1424.0"/>
+      <point x="822.0" y="1339.5" type="qcurve" smooth="yes"/>
+      <point x="1052.0" y="1159.546290972222"/>
+      <point x="1052.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="1052.0" y="477.000005"/>
+      <point x="992.0" y="314.0" type="qcurve" smooth="yes"/>
+      <point x="869.0552128382701" y="-20.0"/>
+    </contour>
+    <contour>
+      <point x="576.0" y="184.0" type="qcurve" smooth="yes"/>
+      <point x="653.0" y="184.0"/>
+      <point x="710.0" y="248.5" type="qcurve" smooth="yes"/>
+      <point x="828.0" y="382.0263157894737"/>
+      <point x="828.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="828.0" y="855.9999808196693"/>
+      <point x="797.5" y="973.0" type="qcurve" smooth="yes"/>
+      <point x="733.1111058333335" y="1220.0"/>
+      <point x="576.0" y="1220.0" type="qcurve" smooth="yes"/>
+      <point x="499.0000043846158" y="1220.0"/>
+      <point x="442.0" y="1155.0" type="qcurve" smooth="yes"/>
+      <point x="324.0" y="1020.4385913157894"/>
+      <point x="324.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="324.0" y="548.0000142622974"/>
+      <point x="354.5" y="430.5" type="qcurve" smooth="yes"/>
+      <point x="418.48511026627426" y="184.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

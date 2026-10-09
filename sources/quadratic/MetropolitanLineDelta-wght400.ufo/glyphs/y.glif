@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <advance width="1154"/>
+  <unicode hex="0079"/>
+  <anchor x="560" y="-450" name="bottom"/>
+  <anchor x="562" y="950" name="top"/>
+  <outline>
+    <contour>
+      <point x="162.0" y="-472.0" type="qcurve" smooth="yes"/>
+      <point x="129.9999700000149" y="-472.0"/>
+      <point x="80" y="-462" type="qcurve"/>
+      <point x="80.0" y="-256.0" type="line"/>
+      <point x="116.99998650000668" y="-266.0"/>
+      <point x="146.0" y="-266.0" type="qcurve" smooth="yes"/>
+      <point x="270.9902937619004" y="-266.0"/>
+      <point x="376" y="-58" type="qcurve" smooth="yes"/>
+      <point x="896" y="950" type="line"/>
+      <point x="1134" y="950" type="line"/>
+      <point x="560.0" y="-138.0" type="line" smooth="yes"/>
+      <point x="382.9397613996952" y="-472.0"/>
+    </contour>
+    <contour>
+      <point x="518" y="22" type="line"/>
+      <point x="518" y="22" type="line"/>
+      <point x="518" y="22" type="line"/>
+      <point x="24" y="950" type="line"/>
+      <point x="270" y="950" type="line"/>
+      <point x="636" y="230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

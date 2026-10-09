@@ -1,0 +1,159 @@
+{
+"name": "hungarumlautcomb.case",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 50,
+"y": 1532
+},
+{
+"x": 188,
+"y": 1532
+},
+{
+"x": 336,
+"y": 1804
+},
+{
+"x": 136,
+"y": 1804
+},
+{
+"x": 50,
+"y": 1532
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 308,
+"y": 1532
+},
+{
+"x": 446,
+"y": 1532
+},
+{
+"x": 594,
+"y": 1804
+},
+{
+"x": 394,
+"y": 1804
+},
+{
+"x": 308,
+"y": 1532
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 288,
+"y": 1400
+},
+{
+"name": "top",
+"x": 312,
+"y": 1718
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 50,
+"y": 1532
+},
+{
+"x": 188,
+"y": 1532
+},
+{
+"x": 336,
+"y": 1804
+},
+{
+"x": 136,
+"y": 1804
+},
+{
+"x": 50,
+"y": 1532
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 308,
+"y": 1532
+},
+{
+"x": 446,
+"y": 1532
+},
+{
+"x": 594,
+"y": 1804
+},
+{
+"x": 394,
+"y": 1804
+},
+{
+"x": 308,
+"y": 1532
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 288,
+"y": 1400
+},
+{
+"name": "top",
+"x": 312,
+"y": 1718
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,95 @@
+{
+"name": "lacute",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "l"
+},
+{
+"name": "acutecomb",
+"transformation": {
+"translateX": 68,
+"translateY": 450
+}
+}
+],
+"xAdvance": 670,
+"anchors": [
+{
+"name": "bottom",
+"x": 336,
+"y": 0
+},
+{
+"name": "center",
+"x": 514,
+"y": 714
+},
+{
+"name": "top",
+"x": 334,
+"y": 1768
+},
+{
+"name": "topright",
+"x": 504,
+"y": 1400
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "l"
+},
+{
+"name": "acutecomb",
+"transformation": {
+"translateX": 68,
+"translateY": 450
+}
+}
+],
+"xAdvance": 670,
+"anchors": [
+{
+"name": "bottom",
+"x": 336,
+"y": 0
+},
+{
+"name": "center",
+"x": 514,
+"y": 714
+},
+{
+"name": "top",
+"x": 334,
+"y": 1768
+},
+{
+"name": "topright",
+"x": 504,
+"y": 1400
+}
+]
+}
+}
+}
+}

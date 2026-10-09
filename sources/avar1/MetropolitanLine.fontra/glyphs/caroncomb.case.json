@@ -1,0 +1,133 @@
+{
+"name": "caroncomb.case",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 718,
+"y": 1806
+},
+{
+"x": 520,
+"y": 1806
+},
+{
+"x": 316,
+"y": 1614
+},
+{
+"x": 458,
+"y": 1614
+},
+{
+"x": 252,
+"y": 1806
+},
+{
+"x": 54,
+"y": 1806
+},
+{
+"x": 386,
+"y": 1492
+},
+{
+"x": 718,
+"y": 1806
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 386,
+"y": 1400
+},
+{
+"name": "top",
+"x": 386,
+"y": 1718
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 718,
+"y": 1806
+},
+{
+"x": 520,
+"y": 1806
+},
+{
+"x": 316,
+"y": 1614
+},
+{
+"x": 458,
+"y": 1614
+},
+{
+"x": 252,
+"y": 1806
+},
+{
+"x": 54,
+"y": 1806
+},
+{
+"x": 386,
+"y": 1492
+},
+{
+"x": 718,
+"y": 1806
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 386,
+"y": 1400
+},
+{
+"name": "top",
+"x": 386,
+"y": 1718
+}
+]
+}
+}
+}
+}

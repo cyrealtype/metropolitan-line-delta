@@ -1,0 +1,73 @@
+{
+"name": "ygrave",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "y"
+},
+{
+"name": "gravecomb",
+"transformation": {
+"translateX": 252
+}
+}
+],
+"xAdvance": 1154,
+"anchors": [
+{
+"name": "bottom",
+"x": 560,
+"y": -450
+},
+{
+"name": "top",
+"x": 488,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "y"
+},
+{
+"name": "gravecomb",
+"transformation": {
+"translateX": 252
+}
+}
+],
+"xAdvance": 1154,
+"anchors": [
+{
+"name": "bottom",
+"x": 560,
+"y": -450
+},
+{
+"name": "top",
+"x": 488,
+"y": 1318
+}
+]
+}
+}
+}
+}

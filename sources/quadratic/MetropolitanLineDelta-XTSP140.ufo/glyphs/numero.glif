@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="2175"/>
+  <unicode hex="2116"/>
+  <anchor x="758" y="0" name="bottom"/>
+  <anchor x="758" y="1400" name="top"/>
+  <outline>
+    <component base="N" identifier="F2CB5956"/>
+    <component base="ordmasculine" xOffset="1521" yOffset="-2" identifier="8D7209ED"/>
+    <component base="hyphen" xOffset="1437" yOffset="120" identifier="9662DA75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 22:14:30 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8D7209ED</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9662DA75</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F2CB5956</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

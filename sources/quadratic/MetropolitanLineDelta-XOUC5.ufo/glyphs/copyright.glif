@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="copyright" format="2">
+  <advance width="1580"/>
+  <unicode hex="00A9"/>
+  <anchor x="823.788" y="326" name="bottom"/>
+  <anchor x="818.886" y="1071.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="790.0" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="582.5" y="-20.0"/>
+      <point x="410.0" y="76.0" type="qcurve" smooth="yes"/>
+      <point x="36.0" y="284.1391304347826"/>
+      <point x="36.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="36.0" y="899.6716417910447"/>
+      <point x="137.0" y="1067.0" type="qcurve" smooth="yes"/>
+      <point x="354.44545454545454" y="1424.0"/>
+      <point x="790.0" y="1424.0" type="qcurve" smooth="yes"/>
+      <point x="998.5" y="1424.0"/>
+      <point x="1171.0" y="1328.0" type="qcurve" smooth="yes"/>
+      <point x="1544.0" y="1120.4173913043478"/>
+      <point x="1544.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="1544.0" y="502.17910447761193"/>
+      <point x="1444.0" y="338.0" type="qcurve" smooth="yes"/>
+      <point x="1226.9321266968325" y="-20.0"/>
+    </contour>
+    <contour>
+      <point x="790.0" y="122.0" type="qcurve" smooth="yes"/>
+      <point x="952.6078431372549" y="122.0"/>
+      <point x="1090.0" y="199.0" type="qcurve" smooth="yes"/>
+      <point x="1384.0" y="366.30386740331494"/>
+      <point x="1384.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="1384.0" y="862.3396226415094"/>
+      <point x="1305.0" y="995.0" type="qcurve" smooth="yes"/>
+      <point x="1134.7457627118645" y="1282.0"/>
+      <point x="790.0" y="1282.0" type="qcurve" smooth="yes"/>
+      <point x="627.3921568627451" y="1282.0"/>
+      <point x="490.0" y="1205.0" type="qcurve" smooth="yes"/>
+      <point x="196.0" y="1037.6961325966852"/>
+      <point x="196.0" y="702.0" type="qcurve" smooth="yes"/>
+      <point x="196.0" y="541.6603773584906"/>
+      <point x="275.0" y="409.0" type="qcurve" smooth="yes"/>
+      <point x="445.2542372881356" y="121.99999999999999"/>
+    </contour>
+    <component base="c" xScale="0.817" yScale="0.785" xOffset="363" yOffset="326"/>
+  </outline>
+</glyph>

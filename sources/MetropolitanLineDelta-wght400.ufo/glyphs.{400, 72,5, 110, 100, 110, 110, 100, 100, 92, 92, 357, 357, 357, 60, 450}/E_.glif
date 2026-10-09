@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="1028"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="210" y="810" type="line"/>
+      <point x="210" y="690" type="line"/>
+      <point x="786" y="690" type="line"/>
+      <point x="786" y="810" type="line"/>
+    </contour>
+    <contour>
+      <point x="320" y="200" type="line"/>
+      <point x="320" y="1200" type="line"/>
+      <point x="940" y="1200" type="line"/>
+      <point x="940" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="980" y="0" type="line"/>
+      <point x="980" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-24 14:18:18 +0000</string>
+      <key>com.schriftgestaltung.attr</key>
+      <dict>
+        <key>coordinates</key>
+        <array>
+          <integer>400</integer>
+          <real>72.5</real>
+          <integer>110</integer>
+          <integer>100</integer>
+          <integer>110</integer>
+          <integer>110</integer>
+          <integer>100</integer>
+          <integer>100</integer>
+          <integer>92</integer>
+          <integer>92</integer>
+          <integer>357</integer>
+          <integer>357</integer>
+          <integer>357</integer>
+          <integer>60</integer>
+          <integer>450</integer>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>59324944-5FF5-40DE-B7A7-7AB980B683AF</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

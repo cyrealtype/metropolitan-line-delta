@@ -1,0 +1,101 @@
+{
+"name": "seven",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 776,
+"y": 1200
+},
+{
+"x": 228,
+"y": 0
+},
+{
+"x": 454,
+"y": 0
+},
+{
+"x": 1086,
+"y": 1400
+},
+{
+"x": 160,
+"y": 1400
+},
+{
+"x": 160,
+"y": 1200
+},
+{
+"x": 776,
+"y": 1200
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 1166
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 776,
+"y": 1200
+},
+{
+"x": 228,
+"y": 0
+},
+{
+"x": 454,
+"y": 0
+},
+{
+"x": 1086,
+"y": 1400
+},
+{
+"x": 160,
+"y": 1400
+},
+{
+"x": 160,
+"y": 1200
+},
+{
+"x": 776,
+"y": 1200
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 1166
+}
+}
+}
+}

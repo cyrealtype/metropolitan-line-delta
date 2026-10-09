@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.i" format="2">
+  <anchor x="340" y="950" name="_top"/>
+  <anchor x="340" y="1318" name="top"/>
+  <outline>
+    <contour>
+      <point x="446.0" y="1120.0" type="qcurve" smooth="yes"/>
+      <point x="392.5652093950858" y="1120.0"/>
+      <point x="319.0" y="1167.0" type="qcurve" smooth="yes"/>
+      <point x="258.5500124312486" y="1206.0"/>
+      <point x="222.0" y="1206.0" type="qcurve" smooth="yes"/>
+      <point x="169.99999999999994" y="1206.0"/>
+      <point x="128" y="1164" type="qcurve"/>
+      <point x="60.0" y="1286.0" type="line"/>
+      <point x="128.69388105581032" y="1388.0"/>
+      <point x="226.0" y="1388.0" type="qcurve" smooth="yes"/>
+      <point x="270.2631489819931" y="1388.0"/>
+      <point x="338.0" y="1349.0" type="qcurve" smooth="yes"/>
+      <point x="399.6666666666667" y="1312.0"/>
+      <point x="442.0" y="1312.0" type="qcurve" smooth="yes"/>
+      <point x="504.0" y="1312.0"/>
+      <point x="558" y="1366" type="qcurve"/>
+      <point x="618.0" y="1220.0" type="line"/>
+      <point x="531.7254852941177" y="1120.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

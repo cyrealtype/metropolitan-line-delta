@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="2010"/>
+  <unicode hex="00C6"/>
+  <anchor x="882" y="0" name="bottom"/>
+  <anchor x="600" y="0" name="ogonek"/>
+  <anchor x="1022" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="1022" y="0" type="line"/>
+      <point x="1862" y="0" type="line"/>
+      <point x="1862" y="200" type="line"/>
+      <point x="1242" y="200" type="line"/>
+      <point x="1242" y="650" type="line"/>
+      <point x="1668" y="650" type="line"/>
+      <point x="1668" y="850" type="line"/>
+      <point x="1242" y="850" type="line"/>
+      <point x="1242" y="1200" type="line"/>
+      <point x="1822" y="1200" type="line"/>
+      <point x="1822" y="1400" type="line"/>
+      <point x="1022" y="1400" type="line"/>
+      <point x="1022" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="350" type="line"/>
+      <point x="1076" y="350" type="line"/>
+      <point x="1076" y="540" type="line"/>
+      <point x="506" y="540" type="line"/>
+      <point x="418" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="1114" y="1400" type="line"/>
+      <point x="878" y="1400" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="1114" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="950" y="1400" type="line"/>
+      <point x="950" y="1200" type="line"/>
+      <point x="1242" y="1200" type="line"/>
+      <point x="1242" y="1400" type="line"/>
+      <point x="950" y="1400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="716"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="690" y="1378" type="curve"/>
+      <point x="690" y="1400" type="line"/>
+      <point x="579.33333" y="1400"/>
+      <point x="476.66667" y="1351.5"/>
+      <point x="418" y="1269.5" type="curve" smooth="yes"/>
+      <point x="388.66667" y="1228.5"/>
+      <point x="374" y="1182"/>
+      <point x="374" y="1130" type="curve" smooth="yes"/>
+      <point x="374" y="962" type="line"/>
+      <point x="574" y="962" type="line"/>
+      <point x="574" y="1130" type="line" smooth="yes"/>
+      <point x="574" y="1280.66667"/>
+      <point x="616.66667" y="1354"/>
+    </contour>
+    <contour>
+      <point x="330" y="1378" type="curve"/>
+      <point x="330" y="1400" type="line"/>
+      <point x="152.36486" y="1400"/>
+      <point x="16" y="1280.78981"/>
+      <point x="16" y="1130" type="curve" smooth="yes"/>
+      <point x="16" y="914" type="line"/>
+      <point x="216" y="914" type="line"/>
+      <point x="216" y="1130" type="line" smooth="yes"/>
+      <point x="216" y="1280.66667"/>
+      <point x="255.33333" y="1352.66667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,73 @@
+{
+"name": "caroncomb",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "circumflexcomb",
+"transformation": {
+"translateX": 770,
+"translateY": 2534,
+"scaleX": -1,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 384,
+"y": 950
+},
+{
+"name": "top",
+"x": 384,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "circumflexcomb",
+"transformation": {
+"translateX": 770,
+"translateY": 2534,
+"scaleX": -1,
+"scaleY": -1
+}
+}
+],
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 384,
+"y": 950
+},
+{
+"name": "top",
+"x": 384,
+"y": 1318
+}
+]
+}
+}
+}
+}

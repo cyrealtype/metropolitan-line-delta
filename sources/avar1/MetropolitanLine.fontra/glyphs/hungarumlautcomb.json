@@ -1,0 +1,159 @@
+{
+"name": "hungarumlautcomb",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 300,
+"y": 1114
+},
+{
+"x": 438,
+"y": 1114
+},
+{
+"x": 604,
+"y": 1420
+},
+{
+"x": 404,
+"y": 1420
+},
+{
+"x": 300,
+"y": 1114
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 40,
+"y": 1114
+},
+{
+"x": 178,
+"y": 1114
+},
+{
+"x": 344,
+"y": 1420
+},
+{
+"x": 144,
+"y": 1420
+},
+{
+"x": 40,
+"y": 1114
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 288,
+"y": 950
+},
+{
+"name": "top",
+"x": 438,
+"y": 1318
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 300,
+"y": 1114
+},
+{
+"x": 438,
+"y": 1114
+},
+{
+"x": 604,
+"y": 1420
+},
+{
+"x": 404,
+"y": 1420
+},
+{
+"x": 300,
+"y": 1114
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 40,
+"y": 1114
+},
+{
+"x": 178,
+"y": 1114
+},
+{
+"x": 344,
+"y": 1420
+},
+{
+"x": 144,
+"y": 1420
+},
+{
+"x": 40,
+"y": 1114
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 288,
+"y": 950
+},
+{
+"name": "top",
+"x": 438,
+"y": 1318
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb.case" format="2">
+  <advance width="200"/>
+  <anchor x="346" y="1400" name="_top"/>
+  <anchor x="344" y="1718" name="top"/>
+  <outline>
+    <contour>
+      <point x="344" y="1462" type="qcurve" smooth="yes"/>
+      <point x="395" y="1462"/>
+      <point x="480" y="1512"/>
+      <point x="530" y="1597"/>
+      <point x="530" y="1648" type="qcurve" smooth="yes"/>
+      <point x="530" y="1699"/>
+      <point x="481" y="1783"/>
+      <point x="395" y="1832"/>
+      <point x="344" y="1832" type="qcurve" smooth="yes"/>
+      <point x="293" y="1832"/>
+      <point x="209" y="1783"/>
+      <point x="160" y="1699"/>
+      <point x="160" y="1648" type="qcurve" smooth="yes"/>
+      <point x="160" y="1597"/>
+      <point x="209" y="1511"/>
+      <point x="293" y="1462"/>
+    </contour>
+    <contour>
+      <point x="344" y="1560" type="qcurve" smooth="yes"/>
+      <point x="310" y="1560"/>
+      <point x="264" y="1610"/>
+      <point x="264" y="1648" type="qcurve" smooth="yes"/>
+      <point x="264" y="1687"/>
+      <point x="309" y="1738"/>
+      <point x="344" y="1738" type="qcurve" smooth="yes"/>
+      <point x="379" y="1738"/>
+      <point x="426" y="1687"/>
+      <point x="426" y="1648" type="qcurve" smooth="yes"/>
+      <point x="426" y="1611"/>
+      <point x="379" y="1560"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+  <integer>490</integer>
+  </dict>
+  </lib>
+</glyph>

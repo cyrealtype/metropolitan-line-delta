@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="1090"/>
+  <unicode hex="013D"/>
+  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="624" y="764" name="center"/>
+  <anchor x="240" y="1400" name="top"/>
+  <anchor x="702" y="1400" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="caroncomb.alt" xOffset="428"/>
+  </outline>
+</glyph>

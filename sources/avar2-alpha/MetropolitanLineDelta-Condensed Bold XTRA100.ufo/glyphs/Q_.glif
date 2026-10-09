@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <advance width="1780"/>
+  <unicode hex="0051"/>
+  <anchor x="890" y="0" name="bottom"/>
+  <anchor x="890" y="700" name="center"/>
+  <anchor x="1246" y="64" name="ogonek"/>
+  <anchor x="890" y="1400" name="top"/>
+  <anchor x="189" y="1444" name="topleft"/>
+  <anchor x="1640" y="1400" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="1504" y="-30" type="line"/>
+      <point x="1636" y="118" type="line"/>
+      <point x="1184" y="512" type="line"/>
+      <point x="1054" y="364" type="line"/>
+      <point x="1504" y="-30" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+  <string>PC</string>
+  </dict>
+  </lib>
+</glyph>

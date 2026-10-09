@@ -1,0 +1,61 @@
+{
+"name": "dieresis",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "dieresiscomb"
+}
+],
+"xAdvance": 750,
+"anchors": [
+{
+"name": "_top",
+"x": 376,
+"y": 950
+},
+{
+"name": "top",
+"x": 376,
+"y": 1256
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "dieresiscomb"
+}
+],
+"xAdvance": 750,
+"anchors": [
+{
+"name": "_top",
+"x": 376,
+"y": 950
+},
+{
+"name": "top",
+"x": 376,
+"y": 1256
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ninferior" format="2">
+  <advance width="570"/>
+  <unicode hex="2099"/>
+  <outline>
+    <contour>
+      <point x="52" y="-180" type="line"/>
+      <point x="226" y="-180" type="line"/>
+      <point x="226" y="94" type="line"/>
+      <point x="248" y="118"/>
+      <point x="271.66667" y="130"/>
+      <point x="297" y="130" type="curve" smooth="yes"/>
+      <point x="333" y="130"/>
+      <point x="356" y="105.33333"/>
+      <point x="356" y="64" type="curve" smooth="yes"/>
+      <point x="356" y="-180" type="line"/>
+      <point x="530" y="-180" type="line"/>
+      <point x="530" y="108" type="line" smooth="yes"/>
+      <point x="530" y="222.97722"/>
+      <point x="450.1714" y="302"/>
+      <point x="330" y="302" type="curve" smooth="yes"/>
+      <point x="278.66667" y="302"/>
+      <point x="234" y="284.66667"/>
+      <point x="196" y="250" type="curve"/>
+      <point x="226" y="232" type="line"/>
+      <point x="226" y="294" type="line"/>
+      <point x="52" y="294" type="line"/>
+      <point x="52" y="-180" type="line"/>
+      <point x="52" y="-180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 21:57:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

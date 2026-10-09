@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zerosuperior" format="2">
+  <advance width="700"/>
+  <unicode hex="2070"/>
+  <outline>
+    <contour>
+      <point x="350.0" y="800.0" type="qcurve" smooth="yes"/>
+      <point x="86.0" y="800.0"/>
+      <point x="86.0" y="1180.0" type="qcurve" smooth="yes"/>
+      <point x="86.0" y="1301.7391304347825"/>
+      <point x="120.0" y="1386.0" type="qcurve" smooth="yes"/>
+      <point x="188.47826086956522" y="1561.0"/>
+      <point x="350.0" y="1561.0" type="qcurve" smooth="yes"/>
+      <point x="426.3103448275862" y="1561.0"/>
+      <point x="487.0" y="1517.0" type="qcurve" smooth="yes"/>
+      <point x="614.0" y="1420.5443037974683"/>
+      <point x="614.0" y="1180.0" type="qcurve" smooth="yes"/>
+      <point x="614.0" y="800.0"/>
+    </contour>
+    <contour>
+      <point x="350.0" y="978.0" type="qcurve" smooth="yes"/>
+      <point x="429.0" y="978.0"/>
+      <point x="429.0" y="1182.0" type="qcurve" smooth="yes"/>
+      <point x="429.0" y="1387.0"/>
+      <point x="350.0" y="1387.0" type="qcurve" smooth="yes"/>
+      <point x="271.0" y="1387.0"/>
+      <point x="271.0" y="1182.0" type="qcurve" smooth="yes"/>
+      <point x="271.0" y="978.0"/>
+    </contour>
+  </outline>
+</glyph>

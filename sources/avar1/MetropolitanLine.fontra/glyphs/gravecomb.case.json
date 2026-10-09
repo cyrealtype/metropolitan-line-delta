@@ -1,0 +1,109 @@
+{
+"name": "gravecomb.case",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 254,
+"y": 1532
+},
+{
+"x": 432,
+"y": 1532
+},
+{
+"x": 250,
+"y": 1804
+},
+{
+"x": 10,
+"y": 1804
+},
+{
+"x": 254,
+"y": 1532
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 310,
+"y": 1400
+},
+{
+"name": "top",
+"x": 236,
+"y": 1718
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 254,
+"y": 1532
+},
+{
+"x": 432,
+"y": 1532
+},
+{
+"x": 250,
+"y": 1804
+},
+{
+"x": 10,
+"y": 1804
+},
+{
+"x": 254,
+"y": 1532
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 0,
+"anchors": [
+{
+"name": "_top",
+"x": 310,
+"y": 1400
+},
+{
+"name": "top",
+"x": 236,
+"y": 1718
+}
+]
+}
+}
+}
+}

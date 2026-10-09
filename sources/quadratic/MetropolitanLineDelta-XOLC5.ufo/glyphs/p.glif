@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="1110"/>
+  <unicode hex="0070"/>
+  <guideline x="302" y="274" angle="90"/>
+  <anchor x="556" y="0" name="bottom"/>
+  <anchor x="556" y="950" name="top"/>
+  <outline>
+    <contour>
+      <point x="292" y="-450" type="line"/>
+      <point x="292" y="-450" type="line"/>
+      <point x="292" y="-450" type="line"/>
+      <point x="292" y="950" type="line"/>
+      <point x="302" y="950" type="line"/>
+      <point x="302.0" y="898.0" type="line"/>
+      <point x="419.0" y="970.0"/>
+      <point x="556.0" y="970.0" type="qcurve" smooth="yes"/>
+      <point x="662.0000105343502" y="970.0"/>
+      <point x="734.5" y="904.5" type="qcurve" smooth="yes"/>
+      <point x="858.0" y="792.9241460370984"/>
+      <point x="858.0" y="484.0" type="qcurve" smooth="yes"/>
+      <point x="858.0" y="323.0"/>
+      <point x="832.5" y="218.0" type="qcurve" smooth="yes"/>
+      <point x="774.7" y="-20.000000000000014"/>
+      <point x="558.0" y="-20.0" type="qcurve" smooth="yes"/>
+      <point x="420.99999499999996" y="-20.0"/>
+      <point x="302" y="52" type="qcurve"/>
+      <point x="302" y="-450" type="line"/>
+    </contour>
+    <contour>
+      <point x="548.0" y="170.0" type="qcurve" smooth="yes"/>
+      <point x="633.999995" y="170.0"/>
+      <point x="702.5" y="210.5" type="qcurve" smooth="yes"/>
+      <point x="848.0" y="296.52555058487405"/>
+      <point x="848.0" y="482.0" type="qcurve" smooth="yes"/>
+      <point x="848.0" y="562.9999950000001"/>
+      <point x="809.0" y="631.5" type="qcurve" smooth="yes"/>
+      <point x="724.4525516588523" y="780.0"/>
+      <point x="548.0" y="780.0" type="qcurve" smooth="yes"/>
+      <point x="400.57142857142856" y="780.0"/>
+      <point x="302" y="688" type="qcurve"/>
+      <point x="302.0" y="274.0" type="line"/>
+      <point x="393.26530547271966" y="170.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-08-14 22:01:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

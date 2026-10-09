@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kinferior" format="2">
+  <advance width="808"/>
+  <unicode hex="2096"/>
+  <outline>
+    <contour>
+      <point x="152" y="-180" type="line"/>
+      <point x="325" y="-180" type="line"/>
+      <point x="325" y="-32" type="line"/>
+      <point x="451" y="-180" type="line"/>
+      <point x="692" y="-181" type="line"/>
+      <point x="428" y="81" type="line"/>
+      <point x="684" y="294" type="line"/>
+      <point x="429" y="295" type="line"/>
+      <point x="325" y="185" type="line"/>
+      <point x="325" y="501" type="line"/>
+      <point x="152" y="501" type="line"/>
+      <point x="152" y="-180" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -7,7 +7,7 @@ Metropolitan Line Delta — avar2
     <source media="(prefers-color-scheme: light)" srcset="./documentation/cover.svg">
     <img alt="open source version of Edward Johnston's Typeface for London Underground" src="./documentation/cover.svg">
   </picture>
-Metropolitan Line Delta is an avar2 version of Metropolitan Line.
+Metropolitan Line Delta is an avar2 version of Metropolitan Line. This is a work-in-progress.
 
 Metropolitan Line is an open-source revival of Edward Johnston’s timeless typeface for the London Underground of 1916. Designed by Alexei Vanyashin and Michael Voronin in 2026, it is based on Railway Sans, digitized by Justin Howes in 1994 and published by Greg Fleming in 2012. 
   <picture>
@@ -32,15 +32,26 @@ See [typotech.blogspot.co.uk web archive](https://web.archive.org/web/2013042219
 
 ## Building
 
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
+To build the fonts 
 
-If you want to build fonts manually on your own computer:
+1. Create and activate a virtual environment:
 
-- `make build` will produce font files.
-- `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
-- `make proof` will generate HTML proof files.
+```bash
+python3 -m venv tools/metropolitanline-delta-env
+source tools/metropolitanline-delta-env/bin/activate
+pip install -r requirements.txt
+```
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://cyrealtype.github.io/metropolitan-line`.
+2. Build
+
+```bash
+./sources/build-MetropolitanLineDelta.sh`
+```
+The build script:
+1. Compiles the variable font from UFO masters using fontmake
+2. Applies a non-linear weight curve via avar 1.0 table
+
+
 
 ## Copyright
 

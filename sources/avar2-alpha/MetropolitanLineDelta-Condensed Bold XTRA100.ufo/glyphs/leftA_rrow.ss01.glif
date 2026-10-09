@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftArrow.ss01" format="2">
+  <advance width="6238"/>
+  <outline>
+    <contour>
+      <point x="3846" y="474" type="qcurve"/>
+      <point x="6136" y="474" type="line"/>
+      <point x="6136" y="674" type="line"/>
+      <point x="3846" y="674" type="line"/>
+      <point x="3816" y="843"/>
+      <point x="3608" y="1126"/>
+      <point x="3291" y="1292"/>
+      <point x="3106" y="1292" type="qcurve" smooth="yes"/>
+      <point x="2931" y="1292"/>
+      <point x="2622" y="1125"/>
+      <point x="2415" y="842"/>
+      <point x="2386" y="674" type="qcurve"/>
+      <point x="1118" y="674" type="line"/>
+      <point x="1366" y="952" type="line"/>
+      <point x="100" y="576" type="line"/>
+      <point x="1370" y="202" type="line"/>
+      <point x="1118" y="474" type="line"/>
+      <point x="2386" y="474" type="line"/>
+      <point x="2415" y="295"/>
+      <point x="2621" y="22"/>
+      <point x="2929" y="-128"/>
+      <point x="3106" y="-128" type="qcurve" smooth="yes"/>
+      <point x="3295" y="-128"/>
+      <point x="3611" y="22"/>
+      <point x="3817" y="296"/>
+    </contour>
+    <contour>
+      <point x="3106" y="52" type="qcurve" smooth="yes"/>
+      <point x="2969" y="52"/>
+      <point x="2730" y="195"/>
+      <point x="2586" y="434"/>
+      <point x="2586" y="572" type="qcurve" smooth="yes"/>
+      <point x="2586" y="709"/>
+      <point x="2729" y="949"/>
+      <point x="2969" y="1092"/>
+      <point x="3106" y="1092" type="qcurve" smooth="yes"/>
+      <point x="3232" y="1092"/>
+      <point x="3458" y="983"/>
+      <point x="3617" y="792"/>
+      <point x="3646" y="674" type="qcurve"/>
+      <point x="3104" y="674" type="line"/>
+      <point x="3104" y="474" type="line"/>
+      <point x="3646" y="474" type="line"/>
+      <point x="3617" y="354"/>
+      <point x="3459" y="161"/>
+      <point x="3234" y="52"/>
+    </contour>
+    <contour>
+      <point x="4650" y="574" type="line"/>
+      <point x="4994" y="202" type="line"/>
+      <point x="5274" y="202" type="line"/>
+      <point x="4922" y="576" type="line"/>
+      <point x="5274" y="946" type="line"/>
+      <point x="4994" y="946" type="line"/>
+      <point x="4650" y="574" type="line"/>
+    </contour>
+    <contour>
+      <point x="5082" y="574" type="line"/>
+      <point x="5426" y="202" type="line"/>
+      <point x="5706" y="202" type="line"/>
+      <point x="5354" y="576" type="line"/>
+      <point x="5706" y="946" type="line"/>
+      <point x="5426" y="946" type="line"/>
+      <point x="5082" y="574" type="line"/>
+    </contour>
+    <contour>
+      <point x="5514" y="574" type="line"/>
+      <point x="5858" y="202" type="line"/>
+      <point x="6138" y="202" type="line"/>
+      <point x="5786" y="576" type="line"/>
+      <point x="6138" y="946" type="line"/>
+      <point x="5858" y="946" type="line"/>
+      <point x="5514" y="574" type="line"/>
+    </contour>
+  </outline>
+</glyph>

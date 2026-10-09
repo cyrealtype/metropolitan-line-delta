@@ -1,0 +1,99 @@
+{
+"name": "bullet",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 40,
+"y": 600
+},
+{
+"x": 238,
+"y": 402
+},
+{
+"x": 436,
+"y": 600
+},
+{
+"x": 238,
+"y": 798
+},
+{
+"x": 40,
+"y": 600
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 476,
+"anchors": [
+{
+"name": "center",
+"x": 238,
+"y": 600
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 110,
+"y": 600
+},
+{
+"x": 308,
+"y": 402
+},
+{
+"x": 506,
+"y": 600
+},
+{
+"x": 308,
+"y": 798
+},
+{
+"x": 110,
+"y": 600
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 616,
+"anchors": [
+{
+"name": "center",
+"x": 308,
+"y": 600
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,235 @@
+{
+"name": "hinferior",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 52,
+"y": -180
+},
+{
+"x": 226,
+"y": -180
+},
+{
+"x": 226,
+"y": 94
+},
+{
+"x": 259,
+"y": 130,
+"type": "quad"
+},
+{
+"x": 297,
+"y": 130,
+"smooth": true
+},
+{
+"x": 324,
+"y": 130,
+"type": "quad"
+},
+{
+"x": 356,
+"y": 95,
+"type": "quad"
+},
+{
+"x": 356,
+"y": 64,
+"smooth": true
+},
+{
+"x": 356,
+"y": -180
+},
+{
+"x": 530,
+"y": -180
+},
+{
+"x": 530,
+"y": 108,
+"smooth": true
+},
+{
+"x": 530,
+"y": 167,
+"type": "quad"
+},
+{
+"x": 478,
+"y": 255,
+"type": "quad"
+},
+{
+"x": 387,
+"y": 302,
+"type": "quad"
+},
+{
+"x": 330,
+"y": 302,
+"smooth": true
+},
+{
+"x": 253,
+"y": 302,
+"type": "quad"
+},
+{
+"x": 196,
+"y": 250
+},
+{
+"x": 226,
+"y": 232
+},
+{
+"x": 226,
+"y": 501
+},
+{
+"x": 52,
+"y": 501
+},
+{
+"x": 52,
+"y": -180
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 570
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 52,
+"y": -180
+},
+{
+"x": 226,
+"y": -180
+},
+{
+"x": 226,
+"y": 94
+},
+{
+"x": 259,
+"y": 130,
+"type": "quad"
+},
+{
+"x": 297,
+"y": 130,
+"smooth": true
+},
+{
+"x": 324,
+"y": 130,
+"type": "quad"
+},
+{
+"x": 356,
+"y": 95,
+"type": "quad"
+},
+{
+"x": 356,
+"y": 64,
+"smooth": true
+},
+{
+"x": 356,
+"y": -180
+},
+{
+"x": 530,
+"y": -180
+},
+{
+"x": 530,
+"y": 108,
+"smooth": true
+},
+{
+"x": 530,
+"y": 167,
+"type": "quad"
+},
+{
+"x": 478,
+"y": 255,
+"type": "quad"
+},
+{
+"x": 387,
+"y": 302,
+"type": "quad"
+},
+{
+"x": 330,
+"y": 302,
+"smooth": true
+},
+{
+"x": 253,
+"y": 302,
+"type": "quad"
+},
+{
+"x": 196,
+"y": 250
+},
+{
+"x": 226,
+"y": 232
+},
+{
+"x": 226,
+"y": 501
+},
+{
+"x": 52,
+"y": 501
+},
+{
+"x": 52,
+"y": -180
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 570
+}
+}
+}
+}

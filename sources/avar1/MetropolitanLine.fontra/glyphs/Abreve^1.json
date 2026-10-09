@@ -1,0 +1,83 @@
+{
+"name": "Abreve",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"components": [
+{
+"name": "A"
+},
+{
+"name": "brevecomb.case",
+"transformation": {
+"translateX": 286
+}
+}
+],
+"xAdvance": 1354,
+"anchors": [
+{
+"name": "bottom",
+"x": 676,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 1330,
+"y": 0
+},
+{
+"name": "top",
+"x": 676,
+"y": 1718
+}
+]
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"components": [
+{
+"name": "A"
+},
+{
+"name": "brevecomb.case",
+"transformation": {
+"translateX": 286
+}
+}
+],
+"xAdvance": 1354,
+"anchors": [
+{
+"name": "bottom",
+"x": 676,
+"y": 0
+},
+{
+"name": "ogonek",
+"x": 1330,
+"y": 0
+},
+{
+"name": "top",
+"x": 676,
+"y": 1718
+}
+]
+}
+}
+}
+}

@@ -1,0 +1,101 @@
+{
+"name": "guilsinglright",
+"sources": [
+{
+"name": "",
+"layerName": "Metropolitan Line Regular",
+"locationBase": "Metropolitan Line Regular"
+},
+{
+"name": "",
+"layerName": "Metropolitan Line Bold",
+"locationBase": "Metropolitan Line Bold"
+}
+],
+"layers": {
+"Metropolitan Line Bold": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 60,
+"y": 202
+},
+{
+"x": 340,
+"y": 202
+},
+{
+"x": 684,
+"y": 574
+},
+{
+"x": 340,
+"y": 946
+},
+{
+"x": 60,
+"y": 946
+},
+{
+"x": 412,
+"y": 576
+},
+{
+"x": 60,
+"y": 202
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 697
+}
+},
+"Metropolitan Line Regular": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 60,
+"y": 202
+},
+{
+"x": 340,
+"y": 202
+},
+{
+"x": 684,
+"y": 574
+},
+{
+"x": 340,
+"y": 946
+},
+{
+"x": 60,
+"y": 946
+},
+{
+"x": 412,
+"y": 576
+},
+{
+"x": 60,
+"y": 202
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 697
+}
+}
+}
+}
