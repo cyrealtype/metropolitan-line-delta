@@ -21,11 +21,11 @@
       <point x="766" y="0" type="line"/>
       <point x="966" y="0" type="line"/>
       <point x="966" y="548" type="line" smooth="yes"/>
-      <point x="966" y="970"/>
-      <point x="966" y="970"/>
+      <point x="966" y="812"/>
+      <point x="816" y="970"/>
       <point x="574" y="970" type="curve" smooth="yes"/>
-      <point x="366" y="970"/>
-      <point x="366" y="970"/>
+      <point x="443" y="970"/>
+      <point x="328" y="928"/>
     </contour>
   </outline>
   <lib>
@@ -59,7 +59,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>301E454D-49BF-433C-9ED8-6CA151BD23F7</string>
+      <string>30E3B995-A208-469B-8B02-B123A1A6CB4B</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

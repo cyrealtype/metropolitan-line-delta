@@ -17,6 +17,7 @@
     <axis tag="YOMB" name="YOMB" minimum="60" maximum="225" default="100" hidden="1"/>
     <axis tag="YTDE" name="YTDE" minimum="300" maximum="660" default="450" hidden="1"/>
     <axis tag="INKT" name="INKT" minimum="-20" maximum="33" default="0" hidden="1"/>
+    <axis tag="YTLC" name="YTLC" minimum="405" maximum="585" default="475" hidden="1"/>
     <mappings description="Horizontal stroke">
       <mapping description="min">
         <input>
@@ -159,6 +160,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-INKT-20.ufo" name="INKT-20" familyname="Metropolitan Line Delta" stylename="INKT-20">
@@ -179,6 +181,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="-20"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-INKT33.ufo" name="INKT33" familyname="Metropolitan Line Delta" stylename="INKT33">
@@ -199,6 +202,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="33"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_YTDE660.ufo" name="74e4e9c2" familyname="Metropolitan Line Delta" stylename="YTDE660" layer="public.default">
@@ -219,6 +223,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="660"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_YOMB225.ufo" name="::fontra001" familyname="Metropolitan Line Delta" stylename="YOMB225" layer="public.default">
@@ -239,6 +244,7 @@
         <dimension name="YOMB" xvalue="225"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_YOMB60.ufo" name="::fontra002" familyname="Metropolitan Line Delta" stylename="YOMB100" layer="public.default">
@@ -259,6 +265,7 @@
         <dimension name="YOMB" xvalue="60"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_YTDE300.ufo" name="377609ac" familyname="Metropolitan Line Delta" stylename="YTDE300">
@@ -279,6 +286,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="300"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_STUI700.ufo" name="STUI700" familyname="Metropolitan Line Delta" stylename="STUI700">
@@ -299,6 +307,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_STUO2.ufo" name="STUO2" familyname="Metropolitan Line Delta" stylename="STUO2">
@@ -319,6 +328,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_STUO700.ufo" name="STUO700" familyname="Metropolitan Line Delta" stylename="STUO700">
@@ -339,6 +349,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-YOLC280.ufo" name="YOLC280" familyname="Metropolitan Line Delta" stylename="YOLC280">
@@ -359,6 +370,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XOLC5.ufo" name="XOLC5" familyname="Metropolitan Line Delta" stylename="XOLC5">
@@ -379,6 +391,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XOLC300.ufo" name="XOLC300" familyname="Metropolitan Line Delta" stylename="XOLC300">
@@ -399,6 +412,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTSP5.ufo" name="XTSP5" familyname="Metropolitan Line Delta" stylename="XTSP5">
@@ -419,6 +433,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTSP140.ufo" name="XTSP140" familyname="Metropolitan Line Delta" stylename="XTSP140">
@@ -439,6 +454,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XOUC5.ufo" name="XOUC5" familyname="Metropolitan Line Delta" stylename="XOUC5">
@@ -459,6 +475,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XOUC300.ufo" name="XOUC300" familyname="Metropolitan Line Delta" stylename="XOUC300">
@@ -479,6 +496,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-YOUC5.ufo" name="YOUC5" familyname="Metropolitan Line Delta" stylename="YOUC5">
@@ -499,6 +517,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-YOLC5.ufo" name="YOLC5" familyname="Metropolitan Line Delta" stylename="YOLC5">
@@ -519,6 +538,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta_STUI2.ufo" name="STUI2" familyname="Metropolitan Line Delta" stylename="STUI2">
@@ -539,6 +559,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-YOUC280.ufo" name="YOUC280" familyname="Metropolitan Line Delta" stylename="YOUC280">
@@ -559,6 +580,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTUC10.ufo" name="XTUC10" familyname="Metropolitan Line Delta" stylename="XTUC10">
@@ -579,6 +601,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTUC617.ufo" name="XTUC617" familyname="Metropolitan Line Delta" stylename="XTUC617">
@@ -599,6 +622,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTLC10.ufo" name="XTLC10" familyname="Metropolitan Line Delta" stylename="XTLC10">
@@ -619,6 +643,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
     <source filename="MetropolitanLineDelta-XTLC617.ufo" name="XTLC617" familyname="Metropolitan Line Delta" stylename="XTLC617">
@@ -639,6 +664,7 @@
         <dimension name="YOMB" xvalue="100"/>
         <dimension name="YTDE" xvalue="450"/>
         <dimension name="INKT" xvalue="0"/>
+        <dimension name="YTLC" xvalue="0"/>
       </location>
     </source>
   </sources>
