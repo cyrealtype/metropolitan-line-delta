@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="B" format="2">
   <advance width="1092"/>
+  <unicode hex="0042"/>
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
@@ -40,4 +41,14 @@
       <point x="210" y="824" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-08 12:15:49 +0000</string>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>4942798B-5931-4F3A-947B-C849E6858776</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -12,6 +12,10 @@
     <integer>-450</integer>
     <key>familyName</key>
     <string>Metropolitan Line</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2026/09/07 08:29:24</string>
     <key>openTypeHheaAscender</key>
@@ -71,7 +75,7 @@
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>styleName</key>
-    <string>Regular</string>
+    <string>YTLC585</string>
     <key>unitsPerEm</key>
     <integer>2000</integer>
     <key>versionMajor</key>
@@ -79,6 +83,6 @@
     <key>versionMinor</key>
     <integer>3</integer>
     <key>xHeight</key>
-    <integer>950</integer>
+    <integer>1170</integer>
   </dict>
 </plist>
