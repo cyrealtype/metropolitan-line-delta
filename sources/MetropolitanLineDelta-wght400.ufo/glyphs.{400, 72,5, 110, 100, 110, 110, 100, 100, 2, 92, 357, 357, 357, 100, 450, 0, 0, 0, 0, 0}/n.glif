@@ -12,11 +12,11 @@
     <contour>
       <point x="202" y="790" type="curve"/>
       <point x="202" y="574" type="line"/>
-      <point x="321" y="738"/>
-      <point x="409" y="780"/>
+      <point x="277" y="677"/>
+      <point x="441" y="780"/>
       <point x="530" y="780" type="curve" smooth="yes"/>
-      <point x="682" y="780"/>
-      <point x="766" y="690"/>
+      <point x="648" y="780"/>
+      <point x="766" y="659"/>
       <point x="766" y="538" type="curve" smooth="yes"/>
       <point x="766" y="0" type="line"/>
       <point x="966" y="0" type="line"/>
@@ -31,7 +31,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-09-24 15:23:01 +0000</string>
+      <string>2026-10-08 15:41:22 +0000</string>
       <key>com.schriftgestaltung.attr</key>
       <dict>
         <key>coordinates</key>
@@ -59,7 +59,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>FF318A52-F2CC-43C7-A481-F22539769704</string>
+      <string>25A001D6-CE1D-4611-A3D5-7BB6BE122AFF</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

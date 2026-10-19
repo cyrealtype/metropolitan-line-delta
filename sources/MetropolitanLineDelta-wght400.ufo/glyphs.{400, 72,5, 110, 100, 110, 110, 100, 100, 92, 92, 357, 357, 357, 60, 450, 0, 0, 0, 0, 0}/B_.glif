@@ -26,18 +26,18 @@
       <point x="210" y="704" type="line"/>
       <point x="568" y="704" type="line" smooth="yes"/>
       <point x="714" y="704"/>
-      <point x="828" y="592"/>
-      <point x="828" y="432" type="curve" smooth="yes"/>
-      <point x="828" y="302"/>
+      <point x="828" y="593"/>
+      <point x="828" y="452" type="curve" smooth="yes"/>
+      <point x="828" y="311"/>
       <point x="714" y="200"/>
       <point x="568" y="200" type="curve" smooth="yes"/>
       <point x="320" y="200" type="line"/>
       <point x="320" y="1200" type="line"/>
       <point x="480" y="1200" type="line" smooth="yes"/>
       <point x="593" y="1200"/>
-      <point x="682" y="1126"/>
-      <point x="682" y="1032" type="curve" smooth="yes"/>
-      <point x="682" y="908"/>
+      <point x="682" y="1117"/>
+      <point x="682" y="1012" type="curve" smooth="yes"/>
+      <point x="682" y="907"/>
       <point x="593" y="824"/>
       <point x="480" y="824" type="curve" smooth="yes"/>
       <point x="210" y="824" type="line"/>
@@ -74,7 +74,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>1D42ABC3-9758-4D71-80CD-9D76AE34C0BE</string>
+      <string>940D7DA2-0E66-488D-A328-46E5EF84265C</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

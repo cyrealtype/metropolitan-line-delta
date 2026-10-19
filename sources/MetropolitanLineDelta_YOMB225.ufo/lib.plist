@@ -2,12 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>com.schriftgestaltung.DisplayStrings</key>
-    <array>
-      <string>o</string>
-    </array>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>4004</string>
+    <string>4108</string>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.fontMasterID</key>

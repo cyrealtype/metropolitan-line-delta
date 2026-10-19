@@ -12,10 +12,6 @@
     <integer>-450</integer>
     <key>familyName</key>
     <string>Metropolitan Line Delta</string>
-    <key>guidelines</key>
-    <array/>
-    <key>italicAngle</key>
-    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2026/08/20 17:47:44</string>
     <key>openTypeNameDesigner</key>
@@ -38,6 +34,8 @@
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
+    <key>postscriptFontName</key>
+    <string>MetropolitanLineDelta-STUI2</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
