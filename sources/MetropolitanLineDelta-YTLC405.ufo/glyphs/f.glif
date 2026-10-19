@@ -5,10 +5,10 @@
   <guideline x="350" y="653" angle="90"/>
   <outline>
     <contour>
-      <point x="700" y="950" type="line"/>
-      <point x="16" y="950" type="line"/>
-      <point x="16" y="770" type="line"/>
-      <point x="700" y="770" type="line"/>
+      <point x="700" y="810" type="line"/>
+      <point x="16" y="810" type="line"/>
+      <point x="16" y="630" type="line"/>
+      <point x="700" y="630" type="line"/>
     </contour>
     <contour>
       <point x="376" y="0" type="line"/>
@@ -32,7 +32,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-10-19 20:52:58 +0000</string>
+      <string>2026-10-19 22:48:21 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>
