@@ -212,8 +212,6 @@
     </dict>
     <key>public.kern1.H</key>
     <dict>
-      <key>public.kern2.H</key>
-      <integer>20</integer>
       <key>public.kern2.I</key>
       <integer>-14</integer>
       <key>public.kern2.S</key>

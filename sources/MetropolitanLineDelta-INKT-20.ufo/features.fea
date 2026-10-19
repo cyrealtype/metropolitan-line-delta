@@ -3436,7 +3436,6 @@ feature kern {
 		pos @MMK_L_F @MMK_R_x -120;
 		pos @MMK_L_F @MMK_R_y -120;
 		pos @MMK_L_F @MMK_R_z -140;
-		pos @MMK_L_H @MMK_R_H 20;
 		pos @MMK_L_H @MMK_R_I -14;
 		pos @MMK_L_H @MMK_R_S 26;
 		pos @MMK_L_H @MMK_R_Z -24;
