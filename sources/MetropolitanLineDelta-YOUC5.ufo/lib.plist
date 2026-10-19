@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>4108</string>
+    <string>4201</string>
     <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
@@ -106,25 +106,25 @@
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>85A7</string>
+        <string>0267</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>205D</string>
+        <string>538D</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>D827</string>
+        <string>DDD5</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>0DC9</string>
+        <string>E9F2</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.axesValues</key>
