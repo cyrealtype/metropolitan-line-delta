@@ -212,8 +212,6 @@
     </dict>
     <key>public.kern1.H</key>
     <dict>
-      <key>public.kern2.H</key>
-      <integer>20</integer>
       <key>public.kern2.I</key>
       <integer>-14</integer>
       <key>public.kern2.S</key>
@@ -369,7 +367,7 @@
       <key>public.kern2.U</key>
       <integer>-114</integer>
       <key>public.kern2.V</key>
-      <integer>-198</integer>
+      <integer>-90</integer>
       <key>public.kern2.Y</key>
       <integer>-198</integer>
       <key>public.kern2.Z</key>
@@ -505,7 +503,7 @@
       <key>public.kern2.a</key>
       <integer>-240</integer>
       <key>public.kern2.f</key>
-      <integer>-80</integer>
+      <integer>-50</integer>
       <key>public.kern2.g</key>
       <integer>-200</integer>
       <key>public.kern2.idotless</key>

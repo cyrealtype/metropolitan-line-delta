@@ -3436,7 +3436,6 @@ feature kern {
 		pos @MMK_L_F @MMK_R_x -120;
 		pos @MMK_L_F @MMK_R_y -120;
 		pos @MMK_L_F @MMK_R_z -140;
-		pos @MMK_L_H @MMK_R_H 20;
 		pos @MMK_L_H @MMK_R_I -14;
 		pos @MMK_L_H @MMK_R_S 26;
 		pos @MMK_L_H @MMK_R_Z -24;
@@ -3505,7 +3504,7 @@ feature kern {
 		pos @MMK_L_R @MMK_R_S -42;
 		pos @MMK_L_R @MMK_R_T -174;
 		pos @MMK_L_R @MMK_R_U -114;
-		pos @MMK_L_R @MMK_R_V -198;
+		pos @MMK_L_R @MMK_R_V -90;
 		pos @MMK_L_R @MMK_R_Y -198;
 		pos @MMK_L_R @MMK_R_Z -42;
 		pos @MMK_L_R @MMK_R_a -80;
@@ -3566,7 +3565,7 @@ feature kern {
 		pos @MMK_L_V @MMK_R_X -40;
 		pos @MMK_L_V @MMK_R_Z -14;
 		pos @MMK_L_V @MMK_R_a -240;
-		pos @MMK_L_V @MMK_R_f -80;
+		pos @MMK_L_V @MMK_R_f -50;
 		pos @MMK_L_V @MMK_R_g -200;
 		pos @MMK_L_V @MMK_R_idotless -80;
 		pos @MMK_L_V @MMK_R_jdotless -40;
