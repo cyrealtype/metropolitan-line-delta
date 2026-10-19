@@ -4,7 +4,8 @@
 .storedFileType = com.schriftgestaltung.glyphs;
 .storedFormatVersion = 3;
 DisplayStrings = (
-BTEFHLOQRWfhnoprt,
+"BTEFHLOQRWfhnoprt ",
+n,
 );
 axes = (
 {
@@ -11870,7 +11871,6 @@ width = 1028;
 },
 );
 unicode = 69;
-changeCount = 5;
 },
 {
 color = 4;
@@ -12856,7 +12856,6 @@ width = 988;
 },
 );
 unicode = 70;
-changeCount = 9;
 },
 {
 glyphname = G;
@@ -16046,7 +16045,6 @@ width = 960;
 },
 );
 unicode = 76;
-changeCount = 5;
 },
 {
 glyphname = M;
@@ -35805,43 +35803,9 @@ color = 4;
 glyphname = n;
 kernLeft = n;
 kernRight = n;
-lastChange = "2026-10-08 15:41:22 +0000";
+lastChange = "2026-10-19 22:18:06 +0000";
 layers = (
 {
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(102,950,l),
-(102,0,l),
-(302,0,l),
-(302,950,l),
-);
-},
-{
-closed = 1;
-nodes = (
-(302,692,l),
-(344,742,o),
-(420,780,o),
-(530,780,cs),
-(682,780,o),
-(766,690,o),
-(766,538,cs),
-(766,0,l),
-(966,0,l),
-(966,548,ls),
-(966,812,o),
-(816,970,o),
-(574,970,cs),
-(462,970,o),
-(370,940,o),
-(302,890,c),
-);
-},
-);
-};
 guides = (
 {
 angle = 90;
@@ -38857,6 +38821,7 @@ width = 1646;
 },
 );
 unicode = 110;
+changeCount = 22;
 },
 {
 color = 4;
@@ -38866,6 +38831,7 @@ kernRight = o;
 lastChange = "2026-10-09 21:00:27 +0000";
 layers = (
 {
+.lastUpdate = 814140998.092;
 guides = (
 {
 angle = 90.1157;
