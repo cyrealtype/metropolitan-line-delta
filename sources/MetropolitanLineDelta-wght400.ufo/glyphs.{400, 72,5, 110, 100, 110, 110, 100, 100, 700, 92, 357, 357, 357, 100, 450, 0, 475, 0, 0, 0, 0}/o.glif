@@ -39,7 +39,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-10-19 22:45:21 +0000</string>
+      <string>2026-10-22 11:06:24 +0000</string>
       <key>com.schriftgestaltung.attr</key>
       <dict>
         <key>coordinates</key>
@@ -68,7 +68,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>3C4B23BB-8257-4BE5-B965-C1E2BC8F4C30</string>
+      <string>520CA464-51F9-4914-BE61-009B46916F71</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

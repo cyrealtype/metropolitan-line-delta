@@ -10,7 +10,7 @@
       <point x="527" y="-20"/>
       <point x="658" y="198"/>
       <point x="658" y="473" type="curve"/>
-      <point x="658" y="475" type="line"/>
+      <point x="658" y="475" type="line" smooth="yes"/>
       <point x="658" y="753"/>
       <point x="527" y="970"/>
       <point x="360" y="970" type="curve" smooth="yes"/>
@@ -41,7 +41,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-10-19 22:45:21 +0000</string>
+      <string>2026-10-22 11:06:24 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

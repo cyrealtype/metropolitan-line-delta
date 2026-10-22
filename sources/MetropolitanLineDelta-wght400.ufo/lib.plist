@@ -112,25 +112,25 @@
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>FECE</string>
+        <string>AB98</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>F6CB</string>
+        <string>FA38</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>DF66</string>
+        <string>0455</string>
       </dict>
       <dict>
         <key>name</key>
         <string></string>
         <key>tag</key>
-        <string>EA51</string>
+        <string>9D70</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.axesValues</key>
@@ -351,18 +351,5 @@
       <string>percent</string>
       <string>grave</string>
     </array>
-    <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
-    <dict>
-      <key>ascender</key>
-      <integer>32</integer>
-      <key>baseline</key>
-      <integer>-32</integer>
-      <key>capHeight</key>
-      <integer>32</integer>
-      <key>descender</key>
-      <integer>-32</integer>
-      <key>xHeight</key>
-      <integer>32</integer>
-    </dict>
   </dict>
 </plist>
