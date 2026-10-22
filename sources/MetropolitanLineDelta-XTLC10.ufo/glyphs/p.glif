@@ -13,9 +13,12 @@
     <contour>
       <point x="306" y="-20" type="curve" smooth="yes"/>
       <point x="425" y="-20"/>
-      <point x="521" y="197"/>
-      <point x="521" y="474" type="curve" smooth="yes"/>
-      <point x="521" y="752"/>
+      <point x="521" y="196"/>
+      <point x="521" y="473" type="curve" smooth="yes"/>
+      <point x="521" y="473"/>
+      <point x="521" y="475"/>
+      <point x="521" y="475" type="curve" smooth="yes"/>
+      <point x="521" y="753"/>
       <point x="425" y="970"/>
       <point x="306" y="970" type="curve" smooth="yes"/>
       <point x="197" y="970"/>
@@ -35,16 +38,19 @@
       <point x="262" y="780"/>
       <point x="306" y="780" type="curve" smooth="yes"/>
       <point x="315" y="780"/>
-      <point x="322" y="645"/>
-      <point x="322" y="474" type="curve" smooth="yes"/>
-      <point x="322" y="304"/>
+      <point x="322" y="646"/>
+      <point x="322" y="475" type="curve" smooth="yes"/>
+      <point x="322" y="475"/>
+      <point x="322" y="473"/>
+      <point x="322" y="473" type="curve" smooth="yes"/>
+      <point x="322" y="303"/>
       <point x="315" y="170"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-10-08 11:08:09 +0000</string>
+      <string>2026-10-22 11:12:28 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>
