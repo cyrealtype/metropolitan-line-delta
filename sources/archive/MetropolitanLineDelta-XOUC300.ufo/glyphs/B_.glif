@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="1872"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="1346" y="0" type="line" smooth="yes"/>
+      <point x="1618" y="0"/>
+      <point x="1832" y="190"/>
+      <point x="1832" y="432" type="curve" smooth="yes"/>
+      <point x="1832" y="583"/>
+      <point x="1718" y="744"/>
+      <point x="1572" y="798" type="curve"/>
+      <point x="1636" y="856"/>
+      <point x="1686" y="959"/>
+      <point x="1686" y="1032" type="curve" smooth="yes"/>
+      <point x="1686" y="1238"/>
+      <point x="1499" y="1400"/>
+      <point x="1260" y="1400" type="curve" smooth="yes"/>
+      <point x="100" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="664" type="line"/>
+      <point x="948" y="664" type="line" smooth="yes"/>
+      <point x="1094" y="664"/>
+      <point x="1208" y="562"/>
+      <point x="1208" y="432" type="curve" smooth="yes"/>
+      <point x="1208" y="302"/>
+      <point x="1094" y="200"/>
+      <point x="948" y="200" type="curve" smooth="yes"/>
+      <point x="700" y="200" type="line"/>
+      <point x="700" y="1200" type="line"/>
+      <point x="860" y="1200" type="line" smooth="yes"/>
+      <point x="973" y="1200"/>
+      <point x="1062" y="1126"/>
+      <point x="1062" y="1032" type="curve" smooth="yes"/>
+      <point x="1062" y="938"/>
+      <point x="973" y="864"/>
+      <point x="860" y="864" type="curve" smooth="yes"/>
+      <point x="400" y="864" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-10-08 12:15:49 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

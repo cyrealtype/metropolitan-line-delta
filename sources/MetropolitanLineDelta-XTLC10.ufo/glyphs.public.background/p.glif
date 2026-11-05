@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="p" format="2">
   <advance width="583"/>
+  <unicode hex="0070"/>
   <guideline x="312" y="475" angle="180"/>
   <outline>
     <contour>
