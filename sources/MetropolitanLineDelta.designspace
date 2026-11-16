@@ -2,7 +2,7 @@
 <designspace format="5.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="1" maximum="1000" default="400"/>
-    <axis tag="XTSP" name="XTSP" minimum="5" maximum="140" default="72.5" hidden="1"/>
+    <axis tag="XTSP" name="XTSP" minimum="5" maximum="140" default="72.5"/>
     <axis tag="XOPQ" name="XOPQ" minimum="5" maximum="300" default="110" hidden="1"/>
     <axis tag="YOPQ" name="YOPQ" minimum="5" maximum="280" default="100" hidden="1"/>
     <axis tag="XOUC" name="XOUC" minimum="5" maximum="300" default="110" hidden="1"/>

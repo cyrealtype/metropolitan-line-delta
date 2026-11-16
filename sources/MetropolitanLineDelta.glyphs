@@ -2,7 +2,8 @@
 .appVersion = "4202";
 .formatVersion = 3;
 DisplayStrings = (
-o
+B,
+n
 );
 axes = (
 {
@@ -8345,7 +8346,7 @@ color = 4;
 glyphname = B;
 kernLeft = H;
 kernRight = B;
-lastChange = "2026-10-08 12:15:49 +0000";
+lastChange = "2026-11-16 18:12:52 +0000";
 layers = (
 {
 guides = (
@@ -10404,7 +10405,7 @@ nodes = (
 (682,1032,cs),
 (682,938,o),
 (593,864,o),
-(500,864,cs),
+(480,864,cs),
 (210,864,l),
 (210,664,l)
 );
