@@ -3,7 +3,8 @@
 .formatVersion = 3;
 DisplayStrings = (
 B,
-n
+n,
+BHOT
 );
 axes = (
 {
@@ -27146,7 +27147,7 @@ color = 4;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2026-10-19 20:46:21 +0000";
+lastChange = "2026-11-16 21:37:57 +0000";
 layers = (
 {
 guides = (
@@ -27587,8 +27588,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1112,1200,l),
-(1112,1400,l),
+(1612,1200,l),
+(1612,1400,l),
 (40,1400,l),
 (40,1200,l)
 );
@@ -27596,14 +27597,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(466,1300,l),
-(466,0,l),
-(686,0,l),
-(686,1300,l)
+(716,1300,l),
+(716,0,l),
+(936,0,l),
+(936,1300,l)
 );
 }
 );
-width = 1152;
+width = 1652;
 },
 {
 layerId = m017;

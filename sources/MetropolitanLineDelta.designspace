@@ -194,16 +194,13 @@
     <mappings description="width min">
       <mapping description="width min">
         <input>
-          <dimension name="XTRA" xvalue="357"/>
           <dimension name="width" xvalue="50"/>
-          <dimension name="XTUC" xvalue="357"/>
-          <dimension name="XTLC" xvalue="357"/>
         </input>
         <output>
           <dimension name="XTRA" xvalue="10"/>
-          <dimension name="width" xvalue="50"/>
           <dimension name="XTUC" xvalue="10"/>
           <dimension name="XTLC" xvalue="10"/>
+          <dimension name="width" xvalue="50"/>
         </output>
       </mapping>
     </mappings>
@@ -211,9 +208,6 @@
       <mapping description="width max">
         <input>
           <dimension name="width" xvalue="200"/>
-          <dimension name="XTRA" xvalue="357"/>
-          <dimension name="XTUC" xvalue="357"/>
-          <dimension name="XTLC" xvalue="357"/>
         </input>
         <output>
           <dimension name="width" xvalue="200"/>
