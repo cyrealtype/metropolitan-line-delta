@@ -380,75 +380,6 @@
         <dimension name="YTLC" xvalue="475"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta_STUI700.ufo" name="STUI700" familyname="Metropolitan Line Delta" stylename="STUI700">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="XTSP" xvalue="72.5"/>
-        <dimension name="XOPQ" xvalue="110"/>
-        <dimension name="YOPQ" xvalue="100"/>
-        <dimension name="XOUC" xvalue="110"/>
-        <dimension name="XOLC" xvalue="110"/>
-        <dimension name="YOUC" xvalue="100"/>
-        <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="700"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="XTRA" xvalue="357"/>
-        <dimension name="XTUC" xvalue="357"/>
-        <dimension name="XTLC" xvalue="357"/>
-        <dimension name="YOMB" xvalue="100"/>
-        <dimension name="YTDE" xvalue="450"/>
-        <dimension name="INKT" xvalue="0"/>
-        <dimension name="optical" xvalue="14"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="YTLC" xvalue="475"/>
-      </location>
-    </source>
-    <source filename="MetropolitanLineDelta_STUO2.ufo" name="STUO2" familyname="Metropolitan Line Delta" stylename="STUO2">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="XTSP" xvalue="72.5"/>
-        <dimension name="XOPQ" xvalue="110"/>
-        <dimension name="YOPQ" xvalue="100"/>
-        <dimension name="XOUC" xvalue="110"/>
-        <dimension name="XOLC" xvalue="110"/>
-        <dimension name="YOUC" xvalue="100"/>
-        <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="2"/>
-        <dimension name="XTRA" xvalue="357"/>
-        <dimension name="XTUC" xvalue="357"/>
-        <dimension name="XTLC" xvalue="357"/>
-        <dimension name="YOMB" xvalue="100"/>
-        <dimension name="YTDE" xvalue="450"/>
-        <dimension name="INKT" xvalue="0"/>
-        <dimension name="optical" xvalue="14"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="YTLC" xvalue="475"/>
-      </location>
-    </source>
-    <source filename="MetropolitanLineDelta_STUO700.ufo" name="STUO700" familyname="Metropolitan Line Delta" stylename="STUO700">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="XTSP" xvalue="72.5"/>
-        <dimension name="XOPQ" xvalue="110"/>
-        <dimension name="YOPQ" xvalue="100"/>
-        <dimension name="XOUC" xvalue="110"/>
-        <dimension name="XOLC" xvalue="110"/>
-        <dimension name="YOUC" xvalue="100"/>
-        <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="700"/>
-        <dimension name="XTRA" xvalue="357"/>
-        <dimension name="XTUC" xvalue="357"/>
-        <dimension name="XTLC" xvalue="357"/>
-        <dimension name="YOMB" xvalue="100"/>
-        <dimension name="YTDE" xvalue="450"/>
-        <dimension name="INKT" xvalue="0"/>
-        <dimension name="optical" xvalue="14"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="YTLC" xvalue="475"/>
-      </location>
-    </source>
     <source filename="MetropolitanLineDelta-YOLC280.ufo" name="YOLC280" familyname="Metropolitan Line Delta" stylename="YOLC280">
       <location>
         <dimension name="Weight" xvalue="400"/>
@@ -644,29 +575,6 @@
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="5"/>
         <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
-        <dimension name="XTRA" xvalue="357"/>
-        <dimension name="XTUC" xvalue="357"/>
-        <dimension name="XTLC" xvalue="357"/>
-        <dimension name="YOMB" xvalue="100"/>
-        <dimension name="YTDE" xvalue="450"/>
-        <dimension name="INKT" xvalue="0"/>
-        <dimension name="optical" xvalue="14"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="YTLC" xvalue="475"/>
-      </location>
-    </source>
-    <source filename="MetropolitanLineDelta_STUI2.ufo" name="STUI2" familyname="Metropolitan Line Delta" stylename="STUI2">
-      <location>
-        <dimension name="Weight" xvalue="400"/>
-        <dimension name="XTSP" xvalue="72.5"/>
-        <dimension name="XOPQ" xvalue="110"/>
-        <dimension name="YOPQ" xvalue="100"/>
-        <dimension name="XOUC" xvalue="110"/>
-        <dimension name="XOLC" xvalue="110"/>
-        <dimension name="YOUC" xvalue="100"/>
-        <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="2"/>
         <dimension name="STUO" xvalue="92"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
