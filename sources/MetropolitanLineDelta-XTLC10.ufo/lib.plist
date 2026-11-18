@@ -8,155 +8,153 @@
     <array>
       <dict>
         <key>name</key>
-        <string>opsz</string>
-        <key>tag</key>
-        <string>opsz</string>
-      </dict>
-      <dict>
-        <key>name</key>
         <string>wght</string>
         <key>tag</key>
         <string>wght</string>
       </dict>
       <dict>
         <key>name</key>
-        <string>wdth</string>
+        <string>opsz</string>
+        <key>tag</key>
+        <string>opsz</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>width</string>
         <key>tag</key>
         <string>wdth</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>XTSP</string>
         <key>tag</key>
         <string>XTSP</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>XOPQ</string>
         <key>tag</key>
         <string>XOPQ</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>YOPQ</string>
         <key>tag</key>
         <string>YOPQ</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>XOUC</string>
         <key>tag</key>
         <string>XOUC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>XOLC</string>
         <key>tag</key>
         <string>XOLC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>YOUC</string>
         <key>tag</key>
         <string>YOUC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>YOLC</string>
         <key>tag</key>
         <string>YOLC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>STUI</string>
         <key>tag</key>
         <string>STUI</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>STUO</string>
         <key>tag</key>
         <string>STUO</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>XTRA</string>
         <key>tag</key>
         <string>XTRA</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>XTUC</string>
         <key>tag</key>
         <string>XTUC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>XTLC</string>
         <key>tag</key>
         <string>XTLC</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>YOMB</string>
         <key>tag</key>
         <string>YOMB</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>YTDE</string>
         <key>tag</key>
         <string>YTDE</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>INKT</string>
         <key>tag</key>
         <string>INKT</string>
       </dict>
       <dict>
-        <key>hidden</key>
-        <true/>
         <key>name</key>
         <string>YTLC</string>
         <key>tag</key>
         <string>YTLC</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>37CD</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>2223</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>8422</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>51D9</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string></string>
+        <key>tag</key>
+        <string>DC6C</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.axesValues</key>
     <array>
-      <integer>14</integer>
       <integer>400</integer>
+      <integer>14</integer>
       <integer>100</integer>
       <real>72.5</real>
       <integer>110</integer>
@@ -174,6 +172,11 @@
       <integer>450</integer>
       <integer>0</integer>
       <integer>475</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
@@ -265,59 +268,23 @@
             <key>Axis</key>
             <string>opsz</string>
             <key>Location</key>
-            <real>8.0</real>
+            <integer>8</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>wght</string>
             <key>Location</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>wdth</string>
             <key>Location</key>
-            <real>50.0</real>
-          </dict>
-        </array>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>Virtual Master</string>
-        <key>value</key>
-        <array>
-          <dict>
-            <key>Axis</key>
-            <string>opsz</string>
-            <key>Location</key>
-            <real>144.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>wght</string>
-            <key>Location</key>
-            <real>1000.0</real>
-          </dict>
-          <dict>
-            <key>Axis</key>
-            <string>wdth</string>
-            <key>Location</key>
-            <real>200.0</real>
+            <integer>50</integer>
           </dict>
         </array>
       </dict>
     </array>
-    <key>com.schriftgestaltung.font.userData</key>
-    <dict>
-      <key>MoveOnAxisHiddenAxes</key>
-      <array>
-        <string>INKT</string>
-        <string>XTSP</string>
-        <string>YOMB</string>
-        <string>wdth</string>
-        <string>wght</string>
-      </array>
-    </dict>
     <key>com.schriftgestaltung.fontMasterID</key>
     <string>m016</string>
     <key>com.schriftgestaltung.formatVersion</key>
