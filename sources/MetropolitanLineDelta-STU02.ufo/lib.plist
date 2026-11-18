@@ -267,9 +267,57 @@
             <key>Location</key>
             <real>8.0</real>
           </dict>
+          <dict>
+            <key>Axis</key>
+            <string>wght</string>
+            <key>Location</key>
+            <real>1.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>wdth</string>
+            <key>Location</key>
+            <real>50.0</real>
+          </dict>
+        </array>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Virtual Master</string>
+        <key>value</key>
+        <array>
+          <dict>
+            <key>Axis</key>
+            <string>opsz</string>
+            <key>Location</key>
+            <real>144.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>wght</string>
+            <key>Location</key>
+            <real>1000.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>wdth</string>
+            <key>Location</key>
+            <real>200.0</real>
+          </dict>
         </array>
       </dict>
     </array>
+    <key>com.schriftgestaltung.font.userData</key>
+    <dict>
+      <key>MoveOnAxisHiddenAxes</key>
+      <array>
+        <string>INKT</string>
+        <string>XTSP</string>
+        <string>YOMB</string>
+        <string>wdth</string>
+        <string>wght</string>
+      </array>
+    </dict>
     <key>com.schriftgestaltung.fontMasterID</key>
     <string>m020</string>
     <key>com.schriftgestaltung.formatVersion</key>
