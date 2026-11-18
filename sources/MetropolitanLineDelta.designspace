@@ -9,8 +9,8 @@
     <axis tag="XOLC" name="XOLC" minimum="5" maximum="300" default="110" hidden="1"/>
     <axis tag="YOUC" name="YOUC" minimum="5" maximum="280" default="100" hidden="1"/>
     <axis tag="YOLC" name="YOLC" minimum="5" maximum="280" default="100" hidden="1"/>
-    <axis tag="STUI" name="STUI" minimum="2" maximum="700" default="92" hidden="1"/>
-    <axis tag="STUO" name="STUO" minimum="2" maximum="700" default="92" hidden="1"/>
+    <axis tag="STUI" name="STUI" minimum="2" maximum="552" default="10" hidden="1"/>
+    <axis tag="STUO" name="STUO" minimum="2" maximum="552" default="10" hidden="1"/>
     <axis tag="XTRA" name="XTRA" minimum="10" maximum="617" default="357" hidden="1"/>
     <axis tag="XTUC" name="XTUC" minimum="10" maximum="617" default="357" hidden="1"/>
     <axis tag="XTLC" name="XTLC" minimum="10" maximum="617" default="357" hidden="1"/>
