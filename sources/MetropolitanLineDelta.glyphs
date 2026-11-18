@@ -1,9 +1,6 @@
 {
 .appVersion = "4203";
 .formatVersion = 3;
-DisplayStrings = (
-on
-);
 axes = (
 {
 default = 400;
