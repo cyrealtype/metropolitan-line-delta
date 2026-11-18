@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o" format="2">
   <advance width="1728"/>
+  <unicode hex="006F"/>
   <guideline x="863" y="475" angle="90"/>
   <outline>
     <contour>
