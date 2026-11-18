@@ -216,6 +216,31 @@
           <dimension name="INKT" xvalue="0"/>
         </output>
       </mapping>
+      <mapping description="wght1-wdth50">
+        <input>
+          <dimension name="opsz" xvalue="14"/>
+          <dimension name="wght" xvalue="1"/>
+          <dimension name="width" xvalue="50"/>
+        </input>
+        <output>
+          <dimension name="XTSP" xvalue="18"/>
+          <dimension name="XOPQ" xvalue="5"/>
+          <dimension name="YOPQ" xvalue="5"/>
+          <dimension name="XOUC" xvalue="5"/>
+          <dimension name="XOLC" xvalue="5"/>
+          <dimension name="YOUC" xvalue="5"/>
+          <dimension name="YOLC" xvalue="5"/>
+          <dimension name="STUI" xvalue="470"/>
+          <dimension name="STUO" xvalue="350"/>
+          <dimension name="XTRA" xvalue="10"/>
+          <dimension name="XTUC" xvalue="10"/>
+          <dimension name="XTLC" xvalue="10"/>
+          <dimension name="YOMB" xvalue="100"/>
+          <dimension name="YTDE" xvalue="450"/>
+          <dimension name="INKT" xvalue="0"/>
+          <dimension name="YTLC" xvalue="475"/>
+        </output>
+      </mapping>
     </mappings>
   </axes>
   <sources>
