@@ -9,8 +9,8 @@
     <axis tag="XOLC" name="XOLC" minimum="5" maximum="300" default="110" hidden="1"/>
     <axis tag="YOUC" name="YOUC" minimum="5" maximum="280" default="100" hidden="1"/>
     <axis tag="YOLC" name="YOLC" minimum="5" maximum="280" default="100" hidden="1"/>
-    <axis tag="STUI" name="STUI" minimum="2" maximum="552" default="10" hidden="1"/>
-    <axis tag="STUO" name="STUO" minimum="2" maximum="552" default="10" hidden="1"/>
+    <axis tag="STUI" name="STUI" minimum="2" maximum="552" default="8" hidden="1"/>
+    <axis tag="STUO" name="STUO" minimum="2" maximum="552" default="8" hidden="1"/>
     <axis tag="XTRA" name="XTRA" minimum="10" maximum="617" default="357" hidden="1"/>
     <axis tag="XTUC" name="XTUC" minimum="10" maximum="617" default="357" hidden="1"/>
     <axis tag="XTLC" name="XTLC" minimum="10" maximum="617" default="357" hidden="1"/>
@@ -91,8 +91,8 @@
           <dimension name="YOPQ" xvalue="100"/>
           <dimension name="XTSP" xvalue="72.5"/>
           <dimension name="YOLC" xvalue="100"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STUI" xvalue="8"/>
+          <dimension name="STUO" xvalue="8"/>
           <dimension name="XTRA" xvalue="357"/>
           <dimension name="XTUC" xvalue="357"/>
           <dimension name="XTLC" xvalue="357"/>
@@ -111,8 +111,8 @@
           <dimension name="XOLC" xvalue="280"/>
           <dimension name="YOUC" xvalue="280"/>
           <dimension name="YOLC" xvalue="280"/>
-          <dimension name="STUI" xvalue="92"/>
-          <dimension name="STUO" xvalue="92"/>
+          <dimension name="STUI" xvalue="8"/>
+          <dimension name="STUO" xvalue="8"/>
           <dimension name="XTRA" xvalue="290"/>
           <dimension name="XTUC" xvalue="290"/>
           <dimension name="XTLC" xvalue="290"/>
@@ -229,8 +229,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -252,8 +252,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -275,8 +275,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -298,8 +298,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -321,8 +321,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -344,8 +344,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -367,8 +367,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -390,8 +390,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="280"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -413,8 +413,8 @@
         <dimension name="XOLC" xvalue="5"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -436,8 +436,8 @@
         <dimension name="XOLC" xvalue="300"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -459,8 +459,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -482,8 +482,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -505,8 +505,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -528,8 +528,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -551,8 +551,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="5"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -574,8 +574,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="5"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -597,8 +597,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="280"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -620,8 +620,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="10"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -643,8 +643,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="617"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -666,8 +666,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="10"/>
@@ -689,8 +689,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="617"/>
@@ -712,8 +712,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -735,8 +735,8 @@
         <dimension name="XOLC" xvalue="110"/>
         <dimension name="YOUC" xvalue="100"/>
         <dimension name="YOLC" xvalue="100"/>
-        <dimension name="STUI" xvalue="92"/>
-        <dimension name="STUO" xvalue="92"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="8"/>
         <dimension name="XTRA" xvalue="357"/>
         <dimension name="XTUC" xvalue="357"/>
         <dimension name="XTLC" xvalue="357"/>
@@ -746,6 +746,98 @@
         <dimension name="optical" xvalue="14"/>
         <dimension name="width" xvalue="100"/>
         <dimension name="YTLC" xvalue="585"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-STU02.ufo" name="STUO2" familyname="Metropolitan Line Delta" stylename="STUO2">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="2"/>
+        <dimension name="XTRA" xvalue="357"/>
+        <dimension name="XTUC" xvalue="357"/>
+        <dimension name="XTLC" xvalue="357"/>
+        <dimension name="YOMB" xvalue="100"/>
+        <dimension name="YTDE" xvalue="450"/>
+        <dimension name="INKT" xvalue="0"/>
+        <dimension name="optical" xvalue="14"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="YTLC" xvalue="475"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-STUI2.ufo" name="STUI2" familyname="Metropolitan Line Delta" stylename="STUI2">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="2"/>
+        <dimension name="STUO" xvalue="8"/>
+        <dimension name="XTRA" xvalue="357"/>
+        <dimension name="XTUC" xvalue="357"/>
+        <dimension name="XTLC" xvalue="357"/>
+        <dimension name="YOMB" xvalue="100"/>
+        <dimension name="YTDE" xvalue="450"/>
+        <dimension name="INKT" xvalue="0"/>
+        <dimension name="optical" xvalue="14"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="YTLC" xvalue="475"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-STUI552.ufo" name="STUI552" familyname="Metropolitan Line Delta" stylename="STUI552">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="552"/>
+        <dimension name="STUO" xvalue="8"/>
+        <dimension name="XTRA" xvalue="357"/>
+        <dimension name="XTUC" xvalue="357"/>
+        <dimension name="XTLC" xvalue="357"/>
+        <dimension name="YOMB" xvalue="100"/>
+        <dimension name="YTDE" xvalue="450"/>
+        <dimension name="INKT" xvalue="0"/>
+        <dimension name="optical" xvalue="14"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="YTLC" xvalue="475"/>
+      </location>
+    </source>
+    <source filename="MetropolitanLineDelta-STUO552.ufo" name="STUO552" familyname="Metropolitan Line Delta" stylename="STUO552">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="XTSP" xvalue="72.5"/>
+        <dimension name="XOPQ" xvalue="110"/>
+        <dimension name="YOPQ" xvalue="100"/>
+        <dimension name="XOUC" xvalue="110"/>
+        <dimension name="XOLC" xvalue="110"/>
+        <dimension name="YOUC" xvalue="100"/>
+        <dimension name="YOLC" xvalue="100"/>
+        <dimension name="STUI" xvalue="8"/>
+        <dimension name="STUO" xvalue="552"/>
+        <dimension name="XTRA" xvalue="357"/>
+        <dimension name="XTUC" xvalue="357"/>
+        <dimension name="XTLC" xvalue="357"/>
+        <dimension name="YOMB" xvalue="100"/>
+        <dimension name="YTDE" xvalue="450"/>
+        <dimension name="INKT" xvalue="0"/>
+        <dimension name="optical" xvalue="14"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="YTLC" xvalue="475"/>
       </location>
     </source>
   </sources>
