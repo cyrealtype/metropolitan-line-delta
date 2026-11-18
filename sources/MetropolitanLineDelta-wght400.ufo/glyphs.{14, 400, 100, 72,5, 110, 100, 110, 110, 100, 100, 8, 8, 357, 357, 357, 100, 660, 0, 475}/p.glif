@@ -4,10 +4,10 @@
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="302" y="-300" type="line"/>
+      <point x="302" y="-660" type="line"/>
       <point x="302" y="950" type="line"/>
       <point x="102" y="950" type="line"/>
-      <point x="102" y="-300" type="line"/>
+      <point x="102" y="-660" type="line"/>
     </contour>
     <contour>
       <point x="560" y="-20" type="curve" smooth="yes"/>
@@ -54,7 +54,9 @@
       <dict>
         <key>coordinates</key>
         <array>
+          <integer>14</integer>
           <integer>400</integer>
+          <integer>100</integer>
           <real>72.5</real>
           <integer>110</integer>
           <integer>100</integer>
@@ -68,24 +70,13 @@
           <integer>357</integer>
           <integer>357</integer>
           <integer>100</integer>
-          <integer>300</integer>
+          <integer>660</integer>
           <integer>0</integer>
-          <integer>14</integer>
-          <integer>100</integer>
           <integer>475</integer>
-          <integer>0</integer>
-          <integer>0</integer>
-          <integer>0</integer>
-          <integer>0</integer>
-          <integer>0</integer>
-          <integer>0</integer>
-          <integer>0</integer>
-          <integer>0</integer>
-          <integer>0</integer>
         </array>
       </dict>
       <key>com.schriftgestaltung.layerId</key>
-      <string>E253B75B-7865-4C45-8C61-FB1B9F173E6E</string>
+      <string>1B00CD56-FE66-4A33-8B11-8C1AA92E290B</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

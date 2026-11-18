@@ -60,10 +60,13 @@
         </output>
       </mapping>
     </mappings>
-    <mappings description="Weight">
+    <mappings description="">
       <mapping description="Light">
         <input>
           <dimension name="Weight" xvalue="1"/>
+          <dimension name="wght" xvalue="1"/>
+          <dimension name="opsz" xvalue="14"/>
+          <dimension name="width" xvalue="100"/>
         </input>
         <output>
           <dimension name="XOPQ" xvalue="5"/>
@@ -73,15 +76,16 @@
           <dimension name="XOLC" xvalue="5"/>
           <dimension name="YOUC" xvalue="5"/>
           <dimension name="YOLC" xvalue="5"/>
-          <dimension name="XTRA" xvalue="357"/>
-          <dimension name="XTUC" xvalue="357"/>
-          <dimension name="XTLC" xvalue="357"/>
-          <dimension name="YOMB" xvalue="100"/>
+          <dimension name="wght" xvalue="1"/>
+          <dimension name="opsz" xvalue="14"/>
         </output>
       </mapping>
       <mapping description="Regular">
         <input>
           <dimension name="Weight" xvalue="400"/>
+          <dimension name="wght" xvalue="400"/>
+          <dimension name="opsz" xvalue="14"/>
+          <dimension name="width" xvalue="100"/>
         </input>
         <output>
           <dimension name="XOUC" xvalue="110"/>
@@ -97,29 +101,33 @@
           <dimension name="XTUC" xvalue="357"/>
           <dimension name="XTLC" xvalue="357"/>
           <dimension name="YOMB" xvalue="100"/>
+          <dimension name="opsz" xvalue="14"/>
+          <dimension name="width" xvalue="100"/>
+          <dimension name="wght" xvalue="400"/>
         </output>
       </mapping>
       <mapping description="Black">
         <input>
           <dimension name="Weight" xvalue="1000"/>
+          <dimension name="wght" xvalue="1000"/>
+          <dimension name="opsz" xvalue="14"/>
+          <dimension name="width" xvalue="100"/>
         </input>
         <output>
-          <dimension name="YOPQ" xvalue="188"/>
           <dimension name="XTSP" xvalue="50"/>
           <dimension name="XOPQ" xvalue="280"/>
-          <dimension name="XOUC" xvalue="280"/>
-          <dimension name="XOLC" xvalue="280"/>
-          <dimension name="YOUC" xvalue="280"/>
-          <dimension name="YOLC" xvalue="280"/>
-          <dimension name="STUI" xvalue="8"/>
-          <dimension name="STUO" xvalue="8"/>
-          <dimension name="XTRA" xvalue="290"/>
-          <dimension name="XTUC" xvalue="290"/>
-          <dimension name="XTLC" xvalue="290"/>
-          <dimension name="YOMB" xvalue="68"/>
-          <dimension name="YTDE" xvalue="450"/>
-          <dimension name="INKT" xvalue="0"/>
-          <dimension name="YTLC" xvalue="475"/>
+          <dimension name="XOUC" xvalue="270"/>
+          <dimension name="XOLC" xvalue="240"/>
+          <dimension name="YOUC" xvalue="240"/>
+          <dimension name="YOLC" xvalue="240"/>
+          <dimension name="XTRA" xvalue="170"/>
+          <dimension name="XTUC" xvalue="170"/>
+          <dimension name="XTLC" xvalue="170"/>
+          <dimension name="YOMB" xvalue="60"/>
+          <dimension name="wght" xvalue="1000"/>
+          <dimension name="opsz" xvalue="14"/>
+          <dimension name="width" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="260"/>
         </output>
       </mapping>
     </mappings>

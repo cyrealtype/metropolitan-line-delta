@@ -1,550 +1,119 @@
 {
 .appVersion = "4203";
 .formatVersion = 3;
+DisplayStrings = (
+"L TO"
+);
 axes = (
 {
+default = 14;
+name = opsz;
+tag = opsz;
+},
+{
 default = 400;
-name = Weight;
+name = wght;
 tag = wght;
 },
 {
+default = 100;
+name = wdth;
+tag = wdth;
+},
+{
 default = 72.5;
+hidden = 1;
 name = XTSP;
 tag = XTSP;
 },
 {
 default = 110;
+hidden = 1;
 name = XOPQ;
 tag = XOPQ;
 },
 {
 default = 100;
+hidden = 1;
 name = YOPQ;
 tag = YOPQ;
 },
 {
 default = 110;
+hidden = 1;
 name = XOUC;
 tag = XOUC;
 },
 {
 default = 110;
+hidden = 1;
 name = XOLC;
 tag = XOLC;
 },
 {
 default = 100;
+hidden = 1;
 name = YOUC;
 tag = YOUC;
 },
 {
 default = 100;
+hidden = 1;
 name = YOLC;
 tag = YOLC;
 },
 {
 default = 8;
+hidden = 1;
 name = STUI;
 tag = STUI;
 },
 {
 default = 8;
+hidden = 1;
 name = STUO;
 tag = STUO;
 },
 {
 default = 357;
+hidden = 1;
 name = XTRA;
 tag = XTRA;
 },
 {
 default = 357;
+hidden = 1;
 name = XTUC;
 tag = XTUC;
 },
 {
 default = 357;
+hidden = 1;
 name = XTLC;
 tag = XTLC;
 },
 {
 default = 100;
+hidden = 1;
 name = YOMB;
 tag = YOMB;
 },
 {
 default = 450;
+hidden = 1;
 name = YTDE;
 tag = YTDE;
 },
 {
+hidden = 1;
 name = INKT;
 tag = INKT;
 },
 {
-default = 14;
-name = optical;
-tag = opsz;
-},
-{
-default = 100;
-name = width;
-tag = wdth;
-},
-{
 default = 475;
+hidden = 1;
 name = YTLC;
 tag = YTLC;
-},
-{
-name = "";
-tag = 4ACC;
-},
-{
-name = "";
-tag = E2F8;
-},
-{
-name = "";
-tag = 8AB2;
-},
-{
-name = "";
-tag = B8B6;
-},
-{
-name = "";
-tag = "4114";
-},
-{
-name = "";
-tag = BDD9;
-},
-{
-name = "";
-tag = EDC9;
-},
-{
-name = "";
-tag = D4DC;
-},
-{
-name = "";
-tag = 2C6B;
-}
-);
-classes = (
-{
-code = A;
-name = MMK_L_A;
-},
-{
-code = B;
-name = MMK_L_B;
-},
-{
-code = "C G";
-name = MMK_L_C;
-},
-{
-code = E;
-name = MMK_L_E;
-},
-{
-code = F;
-name = MMK_L_F;
-},
-{
-code = "H M N bar";
-name = MMK_L_H;
-},
-{
-code = I;
-name = MMK_L_I;
-},
-{
-code = K;
-name = MMK_L_K;
-},
-{
-code = L;
-name = MMK_L_L;
-},
-{
-code = "D O Q zero";
-name = MMK_L_O;
-},
-{
-code = P;
-name = MMK_L_P;
-},
-{
-code = R;
-name = MMK_L_R;
-},
-{
-code = "S dollar";
-name = MMK_L_S;
-},
-{
-code = T;
-name = MMK_L_T;
-},
-{
-code = "J U";
-name = MMK_L_U;
-},
-{
-code = "V W";
-name = MMK_L_V;
-},
-{
-code = X;
-name = MMK_L_X;
-},
-{
-code = Y;
-name = MMK_L_Y;
-},
-{
-code = Z;
-name = MMK_L_Z;
-},
-{
-code = ampersand;
-name = MMK_L_ampersand;
-},
-{
-code = asciicircum;
-name = MMK_L_asterisk;
-},
-{
-code = at;
-name = MMK_L_at;
-},
-{
-code = c;
-name = MMK_L_c;
-},
-{
-code = d;
-name = MMK_L_d;
-},
-{
-code = e;
-name = MMK_L_e;
-},
-{
-code = eight;
-name = MMK_L_eight;
-},
-{
-code = exclam;
-name = MMK_L_exclam;
-},
-{
-code = f;
-name = MMK_L_f;
-},
-{
-code = five;
-name = MMK_L_five;
-},
-{
-code = four;
-name = MMK_L_four;
-},
-{
-code = g;
-name = MMK_L_g;
-},
-{
-code = grave;
-name = MMK_L_gravecomb;
-},
-{
-code = i;
-name = MMK_L_idotless;
-},
-{
-code = j;
-name = MMK_L_jdotless;
-},
-{
-code = k;
-name = MMK_L_k;
-},
-{
-code = l;
-name = MMK_L_l;
-},
-{
-code = "a m n";
-name = MMK_L_n;
-},
-{
-code = nine;
-name = MMK_L_nine;
-},
-{
-code = "b o p";
-name = MMK_L_o;
-},
-{
-code = one;
-name = MMK_L_one;
-},
-{
-code = percent;
-name = MMK_L_percent;
-},
-{
-code = "period comma";
-name = MMK_L_period;
-},
-{
-code = "plus equal greater less";
-name = MMK_L_plus;
-},
-{
-code = q;
-name = MMK_L_q;
-},
-{
-code = question;
-name = MMK_L_question;
-},
-{
-code = r;
-name = MMK_L_r;
-},
-{
-code = s;
-name = MMK_L_s;
-},
-{
-code = seven;
-name = MMK_L_seven;
-},
-{
-code = six;
-name = MMK_L_six;
-},
-{
-code = t;
-name = MMK_L_t;
-},
-{
-code = three;
-name = MMK_L_three;
-},
-{
-code = asciitilde;
-name = MMK_L_tildecomb;
-},
-{
-code = two;
-name = MMK_L_two;
-},
-{
-code = u;
-name = MMK_L_u;
-},
-{
-code = "v w";
-name = MMK_L_v;
-},
-{
-code = x;
-name = MMK_L_x;
-},
-{
-code = y;
-name = MMK_L_y;
-},
-{
-code = z;
-name = MMK_L_z;
-},
-{
-code = A;
-name = MMK_R_A;
-},
-{
-code = "B D E F H K L M N P R b k l bar";
-name = MMK_R_H;
-},
-{
-code = I;
-name = MMK_R_I;
-},
-{
-code = J;
-name = MMK_R_J;
-},
-{
-code = "C G O Q zero";
-name = MMK_R_O;
-},
-{
-code = "S dollar";
-name = MMK_R_S;
-},
-{
-code = T;
-name = MMK_R_T;
-},
-{
-code = U;
-name = MMK_R_U;
-},
-{
-code = "V W";
-name = MMK_R_V;
-},
-{
-code = X;
-name = MMK_R_X;
-},
-{
-code = Y;
-name = MMK_R_Y;
-},
-{
-code = Z;
-name = MMK_R_Z;
-},
-{
-code = a;
-name = MMK_R_a;
-},
-{
-code = ampersand;
-name = MMK_R_ampersand;
-},
-{
-code = asciicircum;
-name = MMK_R_asterisk;
-},
-{
-code = at;
-name = MMK_R_at;
-},
-{
-code = eight;
-name = MMK_R_eight;
-},
-{
-code = exclam;
-name = MMK_R_exclam;
-},
-{
-code = f;
-name = MMK_R_f;
-},
-{
-code = five;
-name = MMK_R_five;
-},
-{
-code = four;
-name = MMK_R_four;
-},
-{
-code = g;
-name = MMK_R_g;
-},
-{
-code = grave;
-name = MMK_R_gravecomb;
-},
-{
-code = i;
-name = MMK_R_idotless;
-},
-{
-code = j;
-name = MMK_R_jdotless;
-},
-{
-code = "m n p r";
-name = MMK_R_n;
-},
-{
-code = nine;
-name = MMK_R_nine;
-},
-{
-code = "c d e o q";
-name = MMK_R_o;
-},
-{
-code = one;
-name = MMK_R_one;
-},
-{
-code = percent;
-name = MMK_R_percent;
-},
-{
-code = "period comma";
-name = MMK_R_period;
-},
-{
-code = "plus equal greater less";
-name = MMK_R_plus;
-},
-{
-code = question;
-name = MMK_R_question;
-},
-{
-code = s;
-name = MMK_R_s;
-},
-{
-code = seven;
-name = MMK_R_seven;
-},
-{
-code = six;
-name = MMK_R_six;
-},
-{
-code = t;
-name = MMK_R_t;
-},
-{
-code = three;
-name = MMK_R_three;
-},
-{
-code = asciitilde;
-name = MMK_R_tilde;
-},
-{
-code = two;
-name = MMK_R_two;
-},
-{
-code = u;
-name = MMK_R_u;
-},
-{
-code = "v w";
-name = MMK_R_v;
-},
-{
-code = x;
-name = MMK_R_x;
-},
-{
-code = y;
-name = MMK_R_y;
-},
-{
-code = z;
-name = MMK_R_z;
 }
 );
 customParameters = (
@@ -601,6 +170,10 @@ Location = 2;
 {
 Axis = "Counter Width";
 Location = 10;
+},
+{
+Axis = opsz;
+Location = 8;
 }
 );
 },
@@ -636,5164 +209,16 @@ featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
 ";
-name = Languagesystems;
-},
-{
-code = "### class:0:MMK_L_A ###
-@MMK_L_A = [
-### open class 'MMK_L_A' ###
-A
-### close class 'MMK_L_A' ###
-];
-
-### class:1:MMK_L_B ###
-@MMK_L_B = [
-### open class 'MMK_L_B' ###
-B
-### close class 'MMK_L_B' ###
-];
-
-### class:2:MMK_L_C ###
-@MMK_L_C = [
-### open class 'MMK_L_C' ###
-C G
-### close class 'MMK_L_C' ###
-];
-
-### class:3:MMK_L_E ###
-@MMK_L_E = [
-### open class 'MMK_L_E' ###
-E
-### close class 'MMK_L_E' ###
-];
-
-### class:4:MMK_L_F ###
-@MMK_L_F = [
-### open class 'MMK_L_F' ###
-F
-### close class 'MMK_L_F' ###
-];
-
-### class:5:MMK_L_H ###
-@MMK_L_H = [
-### open class 'MMK_L_H' ###
-H M N bar
-### close class 'MMK_L_H' ###
-];
-
-### class:6:MMK_L_I ###
-@MMK_L_I = [
-### open class 'MMK_L_I' ###
-I
-### close class 'MMK_L_I' ###
-];
-
-### class:7:MMK_L_K ###
-@MMK_L_K = [
-### open class 'MMK_L_K' ###
-K
-### close class 'MMK_L_K' ###
-];
-
-### class:8:MMK_L_L ###
-@MMK_L_L = [
-### open class 'MMK_L_L' ###
-L
-### close class 'MMK_L_L' ###
-];
-
-### class:9:MMK_L_O ###
-@MMK_L_O = [
-### open class 'MMK_L_O' ###
-D O Q zero
-### close class 'MMK_L_O' ###
-];
-
-### class:10:MMK_L_P ###
-@MMK_L_P = [
-### open class 'MMK_L_P' ###
-P
-### close class 'MMK_L_P' ###
-];
-
-### class:11:MMK_L_R ###
-@MMK_L_R = [
-### open class 'MMK_L_R' ###
-R
-### close class 'MMK_L_R' ###
-];
-
-### class:12:MMK_L_S ###
-@MMK_L_S = [
-### open class 'MMK_L_S' ###
-S dollar
-### close class 'MMK_L_S' ###
-];
-
-### class:13:MMK_L_T ###
-@MMK_L_T = [
-### open class 'MMK_L_T' ###
-T
-### close class 'MMK_L_T' ###
-];
-
-### class:14:MMK_L_U ###
-@MMK_L_U = [
-### open class 'MMK_L_U' ###
-J U
-### close class 'MMK_L_U' ###
-];
-
-### class:15:MMK_L_V ###
-@MMK_L_V = [
-### open class 'MMK_L_V' ###
-V W
-### close class 'MMK_L_V' ###
-];
-
-### class:16:MMK_L_X ###
-@MMK_L_X = [
-### open class 'MMK_L_X' ###
-X
-### close class 'MMK_L_X' ###
-];
-
-### class:17:MMK_L_Y ###
-@MMK_L_Y = [
-### open class 'MMK_L_Y' ###
-Y
-### close class 'MMK_L_Y' ###
-];
-
-### class:18:MMK_L_Z ###
-@MMK_L_Z = [
-### open class 'MMK_L_Z' ###
-Z
-### close class 'MMK_L_Z' ###
-];
-
-### class:19:MMK_L_ampersand ###
-@MMK_L_ampersand = [
-### open class 'MMK_L_ampersand' ###
-ampersand
-### close class 'MMK_L_ampersand' ###
-];
-
-### class:20:MMK_L_asterisk ###
-@MMK_L_asterisk = [
-### open class 'MMK_L_asterisk' ###
-asciicircum
-### close class 'MMK_L_asterisk' ###
-];
-
-### class:21:MMK_L_at ###
-@MMK_L_at = [
-### open class 'MMK_L_at' ###
-at
-### close class 'MMK_L_at' ###
-];
-
-### class:22:MMK_L_c ###
-@MMK_L_c = [
-### open class 'MMK_L_c' ###
-c
-### close class 'MMK_L_c' ###
-];
-
-### class:23:MMK_L_d ###
-@MMK_L_d = [
-### open class 'MMK_L_d' ###
-d
-### close class 'MMK_L_d' ###
-];
-
-### class:24:MMK_L_e ###
-@MMK_L_e = [
-### open class 'MMK_L_e' ###
-e
-### close class 'MMK_L_e' ###
-];
-
-### class:25:MMK_L_eight ###
-@MMK_L_eight = [
-### open class 'MMK_L_eight' ###
-eight
-### close class 'MMK_L_eight' ###
-];
-
-### class:26:MMK_L_exclam ###
-@MMK_L_exclam = [
-### open class 'MMK_L_exclam' ###
-exclam
-### close class 'MMK_L_exclam' ###
-];
-
-### class:27:MMK_L_f ###
-@MMK_L_f = [
-### open class 'MMK_L_f' ###
-f
-### close class 'MMK_L_f' ###
-];
-
-### class:28:MMK_L_five ###
-@MMK_L_five = [
-### open class 'MMK_L_five' ###
-five
-### close class 'MMK_L_five' ###
-];
-
-### class:29:MMK_L_four ###
-@MMK_L_four = [
-### open class 'MMK_L_four' ###
-four
-### close class 'MMK_L_four' ###
-];
-
-### class:30:MMK_L_g ###
-@MMK_L_g = [
-### open class 'MMK_L_g' ###
-g
-### close class 'MMK_L_g' ###
-];
-
-### class:31:MMK_L_gravecomb ###
-@MMK_L_gravecomb = [
-### open class 'MMK_L_gravecomb' ###
-grave
-### close class 'MMK_L_gravecomb' ###
-];
-
-### class:32:MMK_L_idotless ###
-@MMK_L_idotless = [
-### open class 'MMK_L_idotless' ###
-i
-### close class 'MMK_L_idotless' ###
-];
-
-### class:33:MMK_L_jdotless ###
-@MMK_L_jdotless = [
-### open class 'MMK_L_jdotless' ###
-j
-### close class 'MMK_L_jdotless' ###
-];
-
-### class:34:MMK_L_k ###
-@MMK_L_k = [
-### open class 'MMK_L_k' ###
-k
-### close class 'MMK_L_k' ###
-];
-
-### class:35:MMK_L_l ###
-@MMK_L_l = [
-### open class 'MMK_L_l' ###
-l
-### close class 'MMK_L_l' ###
-];
-
-### class:36:MMK_L_n ###
-@MMK_L_n = [
-### open class 'MMK_L_n' ###
-a m n
-### close class 'MMK_L_n' ###
-];
-
-### class:37:MMK_L_nine ###
-@MMK_L_nine = [
-### open class 'MMK_L_nine' ###
-nine
-### close class 'MMK_L_nine' ###
-];
-
-### class:38:MMK_L_o ###
-@MMK_L_o = [
-### open class 'MMK_L_o' ###
-b o p
-### close class 'MMK_L_o' ###
-];
-
-### class:39:MMK_L_one ###
-@MMK_L_one = [
-### open class 'MMK_L_one' ###
-one
-### close class 'MMK_L_one' ###
-];
-
-### class:40:MMK_L_percent ###
-@MMK_L_percent = [
-### open class 'MMK_L_percent' ###
-percent
-### close class 'MMK_L_percent' ###
-];
-
-### class:41:MMK_L_period ###
-@MMK_L_period = [
-### open class 'MMK_L_period' ###
-period comma
-### close class 'MMK_L_period' ###
-];
-
-### class:42:MMK_L_plus ###
-@MMK_L_plus = [
-### open class 'MMK_L_plus' ###
-plus equal greater less
-### close class 'MMK_L_plus' ###
-];
-
-### class:43:MMK_L_q ###
-@MMK_L_q = [
-### open class 'MMK_L_q' ###
-q
-### close class 'MMK_L_q' ###
-];
-
-### class:44:MMK_L_question ###
-@MMK_L_question = [
-### open class 'MMK_L_question' ###
-question
-### close class 'MMK_L_question' ###
-];
-
-### class:45:MMK_L_r ###
-@MMK_L_r = [
-### open class 'MMK_L_r' ###
-r
-### close class 'MMK_L_r' ###
-];
-
-### class:46:MMK_L_s ###
-@MMK_L_s = [
-### open class 'MMK_L_s' ###
-s
-### close class 'MMK_L_s' ###
-];
-
-### class:47:MMK_L_seven ###
-@MMK_L_seven = [
-### open class 'MMK_L_seven' ###
-seven
-### close class 'MMK_L_seven' ###
-];
-
-### class:48:MMK_L_six ###
-@MMK_L_six = [
-### open class 'MMK_L_six' ###
-six
-### close class 'MMK_L_six' ###
-];
-
-### class:49:MMK_L_t ###
-@MMK_L_t = [
-### open class 'MMK_L_t' ###
-t
-### close class 'MMK_L_t' ###
-];
-
-### class:50:MMK_L_three ###
-@MMK_L_three = [
-### open class 'MMK_L_three' ###
-three
-### close class 'MMK_L_three' ###
-];
-
-### class:51:MMK_L_tildecomb ###
-@MMK_L_tildecomb = [
-### open class 'MMK_L_tildecomb' ###
-asciitilde
-### close class 'MMK_L_tildecomb' ###
-];
-
-### class:52:MMK_L_two ###
-@MMK_L_two = [
-### open class 'MMK_L_two' ###
-two
-### close class 'MMK_L_two' ###
-];
-
-### class:53:MMK_L_u ###
-@MMK_L_u = [
-### open class 'MMK_L_u' ###
-u
-### close class 'MMK_L_u' ###
-];
-
-### class:54:MMK_L_v ###
-@MMK_L_v = [
-### open class 'MMK_L_v' ###
-v w
-### close class 'MMK_L_v' ###
-];
-
-### class:55:MMK_L_x ###
-@MMK_L_x = [
-### open class 'MMK_L_x' ###
-x
-### close class 'MMK_L_x' ###
-];
-
-### class:56:MMK_L_y ###
-@MMK_L_y = [
-### open class 'MMK_L_y' ###
-y
-### close class 'MMK_L_y' ###
-];
-
-### class:57:MMK_L_z ###
-@MMK_L_z = [
-### open class 'MMK_L_z' ###
-z
-### close class 'MMK_L_z' ###
-];
-
-### class:58:MMK_R_A ###
-@MMK_R_A = [
-### open class 'MMK_R_A' ###
-A
-### close class 'MMK_R_A' ###
-];
-
-### class:59:MMK_R_H ###
-@MMK_R_H = [
-### open class 'MMK_R_H' ###
-B D E F H K L M N P R b k l bar
-### close class 'MMK_R_H' ###
-];
-
-### class:60:MMK_R_I ###
-@MMK_R_I = [
-### open class 'MMK_R_I' ###
-I
-### close class 'MMK_R_I' ###
-];
-
-### class:61:MMK_R_J ###
-@MMK_R_J = [
-### open class 'MMK_R_J' ###
-J
-### close class 'MMK_R_J' ###
-];
-
-### class:62:MMK_R_O ###
-@MMK_R_O = [
-### open class 'MMK_R_O' ###
-C G O Q zero
-### close class 'MMK_R_O' ###
-];
-
-### class:63:MMK_R_S ###
-@MMK_R_S = [
-### open class 'MMK_R_S' ###
-S dollar
-### close class 'MMK_R_S' ###
-];
-
-### class:64:MMK_R_T ###
-@MMK_R_T = [
-### open class 'MMK_R_T' ###
-T
-### close class 'MMK_R_T' ###
-];
-
-### class:65:MMK_R_U ###
-@MMK_R_U = [
-### open class 'MMK_R_U' ###
-U
-### close class 'MMK_R_U' ###
-];
-
-### class:66:MMK_R_V ###
-@MMK_R_V = [
-### open class 'MMK_R_V' ###
-V W
-### close class 'MMK_R_V' ###
-];
-
-### class:67:MMK_R_X ###
-@MMK_R_X = [
-### open class 'MMK_R_X' ###
-X
-### close class 'MMK_R_X' ###
-];
-
-### class:68:MMK_R_Y ###
-@MMK_R_Y = [
-### open class 'MMK_R_Y' ###
-Y
-### close class 'MMK_R_Y' ###
-];
-
-### class:69:MMK_R_Z ###
-@MMK_R_Z = [
-### open class 'MMK_R_Z' ###
-Z
-### close class 'MMK_R_Z' ###
-];
-
-### class:70:MMK_R_a ###
-@MMK_R_a = [
-### open class 'MMK_R_a' ###
-a
-### close class 'MMK_R_a' ###
-];
-
-### class:71:MMK_R_ampersand ###
-@MMK_R_ampersand = [
-### open class 'MMK_R_ampersand' ###
-ampersand
-### close class 'MMK_R_ampersand' ###
-];
-
-### class:72:MMK_R_asterisk ###
-@MMK_R_asterisk = [
-### open class 'MMK_R_asterisk' ###
-asciicircum
-### close class 'MMK_R_asterisk' ###
-];
-
-### class:73:MMK_R_at ###
-@MMK_R_at = [
-### open class 'MMK_R_at' ###
-at
-### close class 'MMK_R_at' ###
-];
-
-### class:74:MMK_R_eight ###
-@MMK_R_eight = [
-### open class 'MMK_R_eight' ###
-eight
-### close class 'MMK_R_eight' ###
-];
-
-### class:75:MMK_R_exclam ###
-@MMK_R_exclam = [
-### open class 'MMK_R_exclam' ###
-exclam
-### close class 'MMK_R_exclam' ###
-];
-
-### class:76:MMK_R_f ###
-@MMK_R_f = [
-### open class 'MMK_R_f' ###
-f
-### close class 'MMK_R_f' ###
-];
-
-### class:77:MMK_R_five ###
-@MMK_R_five = [
-### open class 'MMK_R_five' ###
-five
-### close class 'MMK_R_five' ###
-];
-
-### class:78:MMK_R_four ###
-@MMK_R_four = [
-### open class 'MMK_R_four' ###
-four
-### close class 'MMK_R_four' ###
-];
-
-### class:79:MMK_R_g ###
-@MMK_R_g = [
-### open class 'MMK_R_g' ###
-g
-### close class 'MMK_R_g' ###
-];
-
-### class:80:MMK_R_gravecomb ###
-@MMK_R_gravecomb = [
-### open class 'MMK_R_gravecomb' ###
-grave
-### close class 'MMK_R_gravecomb' ###
-];
-
-### class:81:MMK_R_idotless ###
-@MMK_R_idotless = [
-### open class 'MMK_R_idotless' ###
-i
-### close class 'MMK_R_idotless' ###
-];
-
-### class:82:MMK_R_jdotless ###
-@MMK_R_jdotless = [
-### open class 'MMK_R_jdotless' ###
-j
-### close class 'MMK_R_jdotless' ###
-];
-
-### class:83:MMK_R_n ###
-@MMK_R_n = [
-### open class 'MMK_R_n' ###
-m n p r
-### close class 'MMK_R_n' ###
-];
-
-### class:84:MMK_R_nine ###
-@MMK_R_nine = [
-### open class 'MMK_R_nine' ###
-nine
-### close class 'MMK_R_nine' ###
-];
-
-### class:85:MMK_R_o ###
-@MMK_R_o = [
-### open class 'MMK_R_o' ###
-c d e o q
-### close class 'MMK_R_o' ###
-];
-
-### class:86:MMK_R_one ###
-@MMK_R_one = [
-### open class 'MMK_R_one' ###
-one
-### close class 'MMK_R_one' ###
-];
-
-### class:87:MMK_R_percent ###
-@MMK_R_percent = [
-### open class 'MMK_R_percent' ###
-percent
-### close class 'MMK_R_percent' ###
-];
-
-### class:88:MMK_R_period ###
-@MMK_R_period = [
-### open class 'MMK_R_period' ###
-period comma
-### close class 'MMK_R_period' ###
-];
-
-### class:89:MMK_R_plus ###
-@MMK_R_plus = [
-### open class 'MMK_R_plus' ###
-plus equal greater less
-### close class 'MMK_R_plus' ###
-];
-
-### class:90:MMK_R_question ###
-@MMK_R_question = [
-### open class 'MMK_R_question' ###
-question
-### close class 'MMK_R_question' ###
-];
-
-### class:91:MMK_R_s ###
-@MMK_R_s = [
-### open class 'MMK_R_s' ###
-s
-### close class 'MMK_R_s' ###
-];
-
-### class:92:MMK_R_seven ###
-@MMK_R_seven = [
-### open class 'MMK_R_seven' ###
-seven
-### close class 'MMK_R_seven' ###
-];
-
-### class:93:MMK_R_six ###
-@MMK_R_six = [
-### open class 'MMK_R_six' ###
-six
-### close class 'MMK_R_six' ###
-];
-
-### class:94:MMK_R_t ###
-@MMK_R_t = [
-### open class 'MMK_R_t' ###
-t
-### close class 'MMK_R_t' ###
-];
-
-### class:95:MMK_R_three ###
-@MMK_R_three = [
-### open class 'MMK_R_three' ###
-three
-### close class 'MMK_R_three' ###
-];
-
-### class:96:MMK_R_tilde ###
-@MMK_R_tilde = [
-### open class 'MMK_R_tilde' ###
-asciitilde
-### close class 'MMK_R_tilde' ###
-];
-
-### class:97:MMK_R_two ###
-@MMK_R_two = [
-### open class 'MMK_R_two' ###
-two
-### close class 'MMK_R_two' ###
-];
-
-### class:98:MMK_R_u ###
-@MMK_R_u = [
-### open class 'MMK_R_u' ###
-u
-### close class 'MMK_R_u' ###
-];
-
-### class:99:MMK_R_v ###
-@MMK_R_v = [
-### open class 'MMK_R_v' ###
-v w
-### close class 'MMK_R_v' ###
-];
-
-### class:100:MMK_R_x ###
-@MMK_R_x = [
-### open class 'MMK_R_x' ###
-x
-### close class 'MMK_R_x' ###
-];
-
-### class:101:MMK_R_y ###
-@MMK_R_y = [
-### open class 'MMK_R_y' ###
-y
-### close class 'MMK_R_y' ###
-];
-
-### class:102:MMK_R_z ###
-@MMK_R_z = [
-### open class 'MMK_R_z' ###
-z
-### close class 'MMK_R_z' ###
-];
-
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:MMK_L_A ###
-@MMK_L_A = [
-### open class 'MMK_L_A' ###
-A
-### close class 'MMK_L_A' ###
-];
-
-### class:1:MMK_L_B ###
-@MMK_L_B = [
-### open class 'MMK_L_B' ###
-B
-### close class 'MMK_L_B' ###
-];
-
-### class:2:MMK_L_C ###
-@MMK_L_C = [
-### open class 'MMK_L_C' ###
-C G
-### close class 'MMK_L_C' ###
-];
-
-### class:3:MMK_L_E ###
-@MMK_L_E = [
-### open class 'MMK_L_E' ###
-E
-### close class 'MMK_L_E' ###
-];
-
-### class:4:MMK_L_F ###
-@MMK_L_F = [
-### open class 'MMK_L_F' ###
-F
-### close class 'MMK_L_F' ###
-];
-
-### class:5:MMK_L_H ###
-@MMK_L_H = [
-### open class 'MMK_L_H' ###
-H M N bar
-### close class 'MMK_L_H' ###
-];
-
-### class:6:MMK_L_I ###
-@MMK_L_I = [
-### open class 'MMK_L_I' ###
-I
-### close class 'MMK_L_I' ###
-];
-
-### class:7:MMK_L_K ###
-@MMK_L_K = [
-### open class 'MMK_L_K' ###
-K
-### close class 'MMK_L_K' ###
-];
-
-### class:8:MMK_L_L ###
-@MMK_L_L = [
-### open class 'MMK_L_L' ###
-L
-### close class 'MMK_L_L' ###
-];
-
-### class:9:MMK_L_O ###
-@MMK_L_O = [
-### open class 'MMK_L_O' ###
-D O Q zero
-### close class 'MMK_L_O' ###
-];
-
-### class:10:MMK_L_P ###
-@MMK_L_P = [
-### open class 'MMK_L_P' ###
-P
-### close class 'MMK_L_P' ###
-];
-
-### class:11:MMK_L_R ###
-@MMK_L_R = [
-### open class 'MMK_L_R' ###
-R
-### close class 'MMK_L_R' ###
-];
-
-### class:12:MMK_L_S ###
-@MMK_L_S = [
-### open class 'MMK_L_S' ###
-S dollar
-### close class 'MMK_L_S' ###
-];
-
-### class:13:MMK_L_T ###
-@MMK_L_T = [
-### open class 'MMK_L_T' ###
-T
-### close class 'MMK_L_T' ###
-];
-
-### class:14:MMK_L_U ###
-@MMK_L_U = [
-### open class 'MMK_L_U' ###
-J U
-### close class 'MMK_L_U' ###
-];
-
-### class:15:MMK_L_V ###
-@MMK_L_V = [
-### open class 'MMK_L_V' ###
-V W
-### close class 'MMK_L_V' ###
-];
-
-### class:16:MMK_L_X ###
-@MMK_L_X = [
-### open class 'MMK_L_X' ###
-X
-### close class 'MMK_L_X' ###
-];
-
-### class:17:MMK_L_Y ###
-@MMK_L_Y = [
-### open class 'MMK_L_Y' ###
-Y
-### close class 'MMK_L_Y' ###
-];
-
-### class:18:MMK_L_Z ###
-@MMK_L_Z = [
-### open class 'MMK_L_Z' ###
-Z
-### close class 'MMK_L_Z' ###
-];
-
-### class:19:MMK_L_ampersand ###
-@MMK_L_ampersand = [
-### open class 'MMK_L_ampersand' ###
-ampersand
-### close class 'MMK_L_ampersand' ###
-];
-
-### class:20:MMK_L_asterisk ###
-@MMK_L_asterisk = [
-### open class 'MMK_L_asterisk' ###
-asciicircum
-### close class 'MMK_L_asterisk' ###
-];
-
-### class:21:MMK_L_at ###
-@MMK_L_at = [
-### open class 'MMK_L_at' ###
-at
-### close class 'MMK_L_at' ###
-];
-
-### class:22:MMK_L_c ###
-@MMK_L_c = [
-### open class 'MMK_L_c' ###
-c
-### close class 'MMK_L_c' ###
-];
-
-### class:23:MMK_L_d ###
-@MMK_L_d = [
-### open class 'MMK_L_d' ###
-d
-### close class 'MMK_L_d' ###
-];
-
-### class:24:MMK_L_e ###
-@MMK_L_e = [
-### open class 'MMK_L_e' ###
-e
-### close class 'MMK_L_e' ###
-];
-
-### class:25:MMK_L_eight ###
-@MMK_L_eight = [
-### open class 'MMK_L_eight' ###
-eight
-### close class 'MMK_L_eight' ###
-];
-
-### class:26:MMK_L_exclam ###
-@MMK_L_exclam = [
-### open class 'MMK_L_exclam' ###
-exclam
-### close class 'MMK_L_exclam' ###
-];
-
-### class:27:MMK_L_f ###
-@MMK_L_f = [
-### open class 'MMK_L_f' ###
-f
-### close class 'MMK_L_f' ###
-];
-
-### class:28:MMK_L_five ###
-@MMK_L_five = [
-### open class 'MMK_L_five' ###
-five
-### close class 'MMK_L_five' ###
-];
-
-### class:29:MMK_L_four ###
-@MMK_L_four = [
-### open class 'MMK_L_four' ###
-four
-### close class 'MMK_L_four' ###
-];
-
-### class:30:MMK_L_g ###
-@MMK_L_g = [
-### open class 'MMK_L_g' ###
-g
-### close class 'MMK_L_g' ###
-];
-
-### class:31:MMK_L_gravecomb ###
-@MMK_L_gravecomb = [
-### open class 'MMK_L_gravecomb' ###
-grave
-### close class 'MMK_L_gravecomb' ###
-];
-
-### class:32:MMK_L_idotless ###
-@MMK_L_idotless = [
-### open class 'MMK_L_idotless' ###
-i
-### close class 'MMK_L_idotless' ###
-];
-
-### class:33:MMK_L_jdotless ###
-@MMK_L_jdotless = [
-### open class 'MMK_L_jdotless' ###
-j
-### close class 'MMK_L_jdotless' ###
-];
-
-### class:34:MMK_L_k ###
-@MMK_L_k = [
-### open class 'MMK_L_k' ###
-k
-### close class 'MMK_L_k' ###
-];
-
-### class:35:MMK_L_l ###
-@MMK_L_l = [
-### open class 'MMK_L_l' ###
-l
-### close class 'MMK_L_l' ###
-];
-
-### class:36:MMK_L_n ###
-@MMK_L_n = [
-### open class 'MMK_L_n' ###
-a m n
-### close class 'MMK_L_n' ###
-];
-
-### class:37:MMK_L_nine ###
-@MMK_L_nine = [
-### open class 'MMK_L_nine' ###
-nine
-### close class 'MMK_L_nine' ###
-];
-
-### class:38:MMK_L_o ###
-@MMK_L_o = [
-### open class 'MMK_L_o' ###
-b o p
-### close class 'MMK_L_o' ###
-];
-
-### class:39:MMK_L_one ###
-@MMK_L_one = [
-### open class 'MMK_L_one' ###
-one
-### close class 'MMK_L_one' ###
-];
-
-### class:40:MMK_L_percent ###
-@MMK_L_percent = [
-### open class 'MMK_L_percent' ###
-percent
-### close class 'MMK_L_percent' ###
-];
-
-### class:41:MMK_L_period ###
-@MMK_L_period = [
-### open class 'MMK_L_period' ###
-period comma
-### close class 'MMK_L_period' ###
-];
-
-### class:42:MMK_L_plus ###
-@MMK_L_plus = [
-### open class 'MMK_L_plus' ###
-plus equal greater less
-### close class 'MMK_L_plus' ###
-];
-
-### class:43:MMK_L_q ###
-@MMK_L_q = [
-### open class 'MMK_L_q' ###
-q
-### close class 'MMK_L_q' ###
-];
-
-### class:44:MMK_L_question ###
-@MMK_L_question = [
-### open class 'MMK_L_question' ###
-question
-### close class 'MMK_L_question' ###
-];
-
-### class:45:MMK_L_r ###
-@MMK_L_r = [
-### open class 'MMK_L_r' ###
-r
-### close class 'MMK_L_r' ###
-];
-
-### class:46:MMK_L_s ###
-@MMK_L_s = [
-### open class 'MMK_L_s' ###
-s
-### close class 'MMK_L_s' ###
-];
-
-### class:47:MMK_L_seven ###
-@MMK_L_seven = [
-### open class 'MMK_L_seven' ###
-seven
-### close class 'MMK_L_seven' ###
-];
-
-### class:48:MMK_L_six ###
-@MMK_L_six = [
-### open class 'MMK_L_six' ###
-six
-### close class 'MMK_L_six' ###
-];
-
-### class:49:MMK_L_t ###
-@MMK_L_t = [
-### open class 'MMK_L_t' ###
-t
-### close class 'MMK_L_t' ###
-];
-
-### class:50:MMK_L_three ###
-@MMK_L_three = [
-### open class 'MMK_L_three' ###
-three
-### close class 'MMK_L_three' ###
-];
-
-### class:51:MMK_L_tildecomb ###
-@MMK_L_tildecomb = [
-### open class 'MMK_L_tildecomb' ###
-asciitilde
-### close class 'MMK_L_tildecomb' ###
-];
-
-### class:52:MMK_L_two ###
-@MMK_L_two = [
-### open class 'MMK_L_two' ###
-two
-### close class 'MMK_L_two' ###
-];
-
-### class:53:MMK_L_u ###
-@MMK_L_u = [
-### open class 'MMK_L_u' ###
-u
-### close class 'MMK_L_u' ###
-];
-
-### class:54:MMK_L_v ###
-@MMK_L_v = [
-### open class 'MMK_L_v' ###
-v w
-### close class 'MMK_L_v' ###
-];
-
-### class:55:MMK_L_x ###
-@MMK_L_x = [
-### open class 'MMK_L_x' ###
-x
-### close class 'MMK_L_x' ###
-];
-
-### class:56:MMK_L_y ###
-@MMK_L_y = [
-### open class 'MMK_L_y' ###
-y
-### close class 'MMK_L_y' ###
-];
-
-### class:57:MMK_L_z ###
-@MMK_L_z = [
-### open class 'MMK_L_z' ###
-z
-### close class 'MMK_L_z' ###
-];
-
-### class:58:MMK_R_A ###
-@MMK_R_A = [
-### open class 'MMK_R_A' ###
-A
-### close class 'MMK_R_A' ###
-];
-
-### class:59:MMK_R_H ###
-@MMK_R_H = [
-### open class 'MMK_R_H' ###
-B D E F H K L M N P R b k l bar
-### close class 'MMK_R_H' ###
-];
-
-### class:60:MMK_R_I ###
-@MMK_R_I = [
-### open class 'MMK_R_I' ###
-I
-### close class 'MMK_R_I' ###
-];
-
-### class:61:MMK_R_J ###
-@MMK_R_J = [
-### open class 'MMK_R_J' ###
-J
-### close class 'MMK_R_J' ###
-];
-
-### class:62:MMK_R_O ###
-@MMK_R_O = [
-### open class 'MMK_R_O' ###
-C G O Q zero
-### close class 'MMK_R_O' ###
-];
-
-### class:63:MMK_R_S ###
-@MMK_R_S = [
-### open class 'MMK_R_S' ###
-S dollar
-### close class 'MMK_R_S' ###
-];
-
-### class:64:MMK_R_T ###
-@MMK_R_T = [
-### open class 'MMK_R_T' ###
-T
-### close class 'MMK_R_T' ###
-];
-
-### class:65:MMK_R_U ###
-@MMK_R_U = [
-### open class 'MMK_R_U' ###
-U
-### close class 'MMK_R_U' ###
-];
-
-### class:66:MMK_R_V ###
-@MMK_R_V = [
-### open class 'MMK_R_V' ###
-V W
-### close class 'MMK_R_V' ###
-];
-
-### class:67:MMK_R_X ###
-@MMK_R_X = [
-### open class 'MMK_R_X' ###
-X
-### close class 'MMK_R_X' ###
-];
-
-### class:68:MMK_R_Y ###
-@MMK_R_Y = [
-### open class 'MMK_R_Y' ###
-Y
-### close class 'MMK_R_Y' ###
-];
-
-### class:69:MMK_R_Z ###
-@MMK_R_Z = [
-### open class 'MMK_R_Z' ###
-Z
-### close class 'MMK_R_Z' ###
-];
-
-### class:70:MMK_R_a ###
-@MMK_R_a = [
-### open class 'MMK_R_a' ###
-a
-### close class 'MMK_R_a' ###
-];
-
-### class:71:MMK_R_ampersand ###
-@MMK_R_ampersand = [
-### open class 'MMK_R_ampersand' ###
-ampersand
-### close class 'MMK_R_ampersand' ###
-];
-
-### class:72:MMK_R_asterisk ###
-@MMK_R_asterisk = [
-### open class 'MMK_R_asterisk' ###
-asciicircum
-### close class 'MMK_R_asterisk' ###
-];
-
-### class:73:MMK_R_at ###
-@MMK_R_at = [
-### open class 'MMK_R_at' ###
-at
-### close class 'MMK_R_at' ###
-];
-
-### class:74:MMK_R_eight ###
-@MMK_R_eight = [
-### open class 'MMK_R_eight' ###
-eight
-### close class 'MMK_R_eight' ###
-];
-
-### class:75:MMK_R_exclam ###
-@MMK_R_exclam = [
-### open class 'MMK_R_exclam' ###
-exclam
-### close class 'MMK_R_exclam' ###
-];
-
-### class:76:MMK_R_f ###
-@MMK_R_f = [
-### open class 'MMK_R_f' ###
-f
-### close class 'MMK_R_f' ###
-];
-
-### class:77:MMK_R_five ###
-@MMK_R_five = [
-### open class 'MMK_R_five' ###
-five
-### close class 'MMK_R_five' ###
-];
-
-### class:78:MMK_R_four ###
-@MMK_R_four = [
-### open class 'MMK_R_four' ###
-four
-### close class 'MMK_R_four' ###
-];
-
-### class:79:MMK_R_g ###
-@MMK_R_g = [
-### open class 'MMK_R_g' ###
-g
-### close class 'MMK_R_g' ###
-];
-
-### class:80:MMK_R_gravecomb ###
-@MMK_R_gravecomb = [
-### open class 'MMK_R_gravecomb' ###
-grave
-### close class 'MMK_R_gravecomb' ###
-];
-
-### class:81:MMK_R_idotless ###
-@MMK_R_idotless = [
-### open class 'MMK_R_idotless' ###
-i
-### close class 'MMK_R_idotless' ###
-];
-
-### class:82:MMK_R_jdotless ###
-@MMK_R_jdotless = [
-### open class 'MMK_R_jdotless' ###
-j
-### close class 'MMK_R_jdotless' ###
-];
-
-### class:83:MMK_R_n ###
-@MMK_R_n = [
-### open class 'MMK_R_n' ###
-m n p r
-### close class 'MMK_R_n' ###
-];
-
-### class:84:MMK_R_nine ###
-@MMK_R_nine = [
-### open class 'MMK_R_nine' ###
-nine
-### close class 'MMK_R_nine' ###
-];
-
-### class:85:MMK_R_o ###
-@MMK_R_o = [
-### open class 'MMK_R_o' ###
-c d e o q
-### close class 'MMK_R_o' ###
-];
-
-### class:86:MMK_R_one ###
-@MMK_R_one = [
-### open class 'MMK_R_one' ###
-one
-### close class 'MMK_R_one' ###
-];
-
-### class:87:MMK_R_percent ###
-@MMK_R_percent = [
-### open class 'MMK_R_percent' ###
-percent
-### close class 'MMK_R_percent' ###
-];
-
-### class:88:MMK_R_period ###
-@MMK_R_period = [
-### open class 'MMK_R_period' ###
-period comma
-### close class 'MMK_R_period' ###
-];
-
-### class:89:MMK_R_plus ###
-@MMK_R_plus = [
-### open class 'MMK_R_plus' ###
-plus equal greater less
-### close class 'MMK_R_plus' ###
-];
-
-### class:90:MMK_R_question ###
-@MMK_R_question = [
-### open class 'MMK_R_question' ###
-question
-### close class 'MMK_R_question' ###
-];
-
-### class:91:MMK_R_s ###
-@MMK_R_s = [
-### open class 'MMK_R_s' ###
-s
-### close class 'MMK_R_s' ###
-];
-
-### class:92:MMK_R_seven ###
-@MMK_R_seven = [
-### open class 'MMK_R_seven' ###
-seven
-### close class 'MMK_R_seven' ###
-];
-
-### class:93:MMK_R_six ###
-@MMK_R_six = [
-### open class 'MMK_R_six' ###
-six
-### close class 'MMK_R_six' ###
-];
-
-### class:94:MMK_R_t ###
-@MMK_R_t = [
-### open class 'MMK_R_t' ###
-t
-### close class 'MMK_R_t' ###
-];
-
-### class:95:MMK_R_three ###
-@MMK_R_three = [
-### open class 'MMK_R_three' ###
-three
-### close class 'MMK_R_three' ###
-];
-
-### class:96:MMK_R_tilde ###
-@MMK_R_tilde = [
-### open class 'MMK_R_tilde' ###
-asciitilde
-### close class 'MMK_R_tilde' ###
-];
-
-### class:97:MMK_R_two ###
-@MMK_R_two = [
-### open class 'MMK_R_two' ###
-two
-### close class 'MMK_R_two' ###
-];
-
-### class:98:MMK_R_u ###
-@MMK_R_u = [
-### open class 'MMK_R_u' ###
-u
-### close class 'MMK_R_u' ###
-];
-
-### class:99:MMK_R_v ###
-@MMK_R_v = [
-### open class 'MMK_R_v' ###
-v w
-### close class 'MMK_R_v' ###
-];
-
-### class:100:MMK_R_x ###
-@MMK_R_x = [
-### open class 'MMK_R_x' ###
-x
-### close class 'MMK_R_x' ###
-];
-
-### class:101:MMK_R_y ###
-@MMK_R_y = [
-### open class 'MMK_R_y' ###
-y
-### close class 'MMK_R_y' ###
-];
-
-### class:102:MMK_R_z ###
-@MMK_R_z = [
-### open class 'MMK_R_z' ###
-z
-### close class 'MMK_R_z' ###
-];
-
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:MMK_L_A ###
-@MMK_L_A = [
-### open class 'MMK_L_A' ###
-A
-### close class 'MMK_L_A' ###
-];
-
-### class:1:MMK_L_B ###
-@MMK_L_B = [
-### open class 'MMK_L_B' ###
-B
-### close class 'MMK_L_B' ###
-];
-
-### class:2:MMK_L_C ###
-@MMK_L_C = [
-### open class 'MMK_L_C' ###
-C G
-### close class 'MMK_L_C' ###
-];
-
-### class:3:MMK_L_E ###
-@MMK_L_E = [
-### open class 'MMK_L_E' ###
-E
-### close class 'MMK_L_E' ###
-];
-
-### class:4:MMK_L_F ###
-@MMK_L_F = [
-### open class 'MMK_L_F' ###
-F
-### close class 'MMK_L_F' ###
-];
-
-### class:5:MMK_L_H ###
-@MMK_L_H = [
-### open class 'MMK_L_H' ###
-H M N bar
-### close class 'MMK_L_H' ###
-];
-
-### class:6:MMK_L_I ###
-@MMK_L_I = [
-### open class 'MMK_L_I' ###
-I
-### close class 'MMK_L_I' ###
-];
-
-### class:7:MMK_L_K ###
-@MMK_L_K = [
-### open class 'MMK_L_K' ###
-K
-### close class 'MMK_L_K' ###
-];
-
-### class:8:MMK_L_L ###
-@MMK_L_L = [
-### open class 'MMK_L_L' ###
-L
-### close class 'MMK_L_L' ###
-];
-
-### class:9:MMK_L_O ###
-@MMK_L_O = [
-### open class 'MMK_L_O' ###
-D O Q zero
-### close class 'MMK_L_O' ###
-];
-
-### class:10:MMK_L_P ###
-@MMK_L_P = [
-### open class 'MMK_L_P' ###
-P
-### close class 'MMK_L_P' ###
-];
-
-### class:11:MMK_L_R ###
-@MMK_L_R = [
-### open class 'MMK_L_R' ###
-R
-### close class 'MMK_L_R' ###
-];
-
-### class:12:MMK_L_S ###
-@MMK_L_S = [
-### open class 'MMK_L_S' ###
-S dollar
-### close class 'MMK_L_S' ###
-];
-
-### class:13:MMK_L_T ###
-@MMK_L_T = [
-### open class 'MMK_L_T' ###
-T
-### close class 'MMK_L_T' ###
-];
-
-### class:14:MMK_L_U ###
-@MMK_L_U = [
-### open class 'MMK_L_U' ###
-J U
-### close class 'MMK_L_U' ###
-];
-
-### class:15:MMK_L_V ###
-@MMK_L_V = [
-### open class 'MMK_L_V' ###
-V W
-### close class 'MMK_L_V' ###
-];
-
-### class:16:MMK_L_X ###
-@MMK_L_X = [
-### open class 'MMK_L_X' ###
-X
-### close class 'MMK_L_X' ###
-];
-
-### class:17:MMK_L_Y ###
-@MMK_L_Y = [
-### open class 'MMK_L_Y' ###
-Y
-### close class 'MMK_L_Y' ###
-];
-
-### class:18:MMK_L_Z ###
-@MMK_L_Z = [
-### open class 'MMK_L_Z' ###
-Z
-### close class 'MMK_L_Z' ###
-];
-
-### class:19:MMK_L_ampersand ###
-@MMK_L_ampersand = [
-### open class 'MMK_L_ampersand' ###
-ampersand
-### close class 'MMK_L_ampersand' ###
-];
-
-### class:20:MMK_L_asterisk ###
-@MMK_L_asterisk = [
-### open class 'MMK_L_asterisk' ###
-asciicircum
-### close class 'MMK_L_asterisk' ###
-];
-
-### class:21:MMK_L_at ###
-@MMK_L_at = [
-### open class 'MMK_L_at' ###
-at
-### close class 'MMK_L_at' ###
-];
-
-### class:22:MMK_L_c ###
-@MMK_L_c = [
-### open class 'MMK_L_c' ###
-c
-### close class 'MMK_L_c' ###
-];
-
-### class:23:MMK_L_d ###
-@MMK_L_d = [
-### open class 'MMK_L_d' ###
-d
-### close class 'MMK_L_d' ###
-];
-
-### class:24:MMK_L_e ###
-@MMK_L_e = [
-### open class 'MMK_L_e' ###
-e
-### close class 'MMK_L_e' ###
-];
-
-### class:25:MMK_L_eight ###
-@MMK_L_eight = [
-### open class 'MMK_L_eight' ###
-eight
-### close class 'MMK_L_eight' ###
-];
-
-### class:26:MMK_L_exclam ###
-@MMK_L_exclam = [
-### open class 'MMK_L_exclam' ###
-exclam
-### close class 'MMK_L_exclam' ###
-];
-
-### class:27:MMK_L_f ###
-@MMK_L_f = [
-### open class 'MMK_L_f' ###
-f
-### close class 'MMK_L_f' ###
-];
-
-### class:28:MMK_L_five ###
-@MMK_L_five = [
-### open class 'MMK_L_five' ###
-five
-### close class 'MMK_L_five' ###
-];
-
-### class:29:MMK_L_four ###
-@MMK_L_four = [
-### open class 'MMK_L_four' ###
-four
-### close class 'MMK_L_four' ###
-];
-
-### class:30:MMK_L_g ###
-@MMK_L_g = [
-### open class 'MMK_L_g' ###
-g
-### close class 'MMK_L_g' ###
-];
-
-### class:31:MMK_L_gravecomb ###
-@MMK_L_gravecomb = [
-### open class 'MMK_L_gravecomb' ###
-grave
-### close class 'MMK_L_gravecomb' ###
-];
-
-### class:32:MMK_L_idotless ###
-@MMK_L_idotless = [
-### open class 'MMK_L_idotless' ###
-i
-### close class 'MMK_L_idotless' ###
-];
-
-### class:33:MMK_L_jdotless ###
-@MMK_L_jdotless = [
-### open class 'MMK_L_jdotless' ###
-j
-### close class 'MMK_L_jdotless' ###
-];
-
-### class:34:MMK_L_k ###
-@MMK_L_k = [
-### open class 'MMK_L_k' ###
-k
-### close class 'MMK_L_k' ###
-];
-
-### class:35:MMK_L_l ###
-@MMK_L_l = [
-### open class 'MMK_L_l' ###
-l
-### close class 'MMK_L_l' ###
-];
-
-### class:36:MMK_L_n ###
-@MMK_L_n = [
-### open class 'MMK_L_n' ###
-a m n
-### close class 'MMK_L_n' ###
-];
-
-### class:37:MMK_L_nine ###
-@MMK_L_nine = [
-### open class 'MMK_L_nine' ###
-nine
-### close class 'MMK_L_nine' ###
-];
-
-### class:38:MMK_L_o ###
-@MMK_L_o = [
-### open class 'MMK_L_o' ###
-b o p
-### close class 'MMK_L_o' ###
-];
-
-### class:39:MMK_L_one ###
-@MMK_L_one = [
-### open class 'MMK_L_one' ###
-one
-### close class 'MMK_L_one' ###
-];
-
-### class:40:MMK_L_percent ###
-@MMK_L_percent = [
-### open class 'MMK_L_percent' ###
-percent
-### close class 'MMK_L_percent' ###
-];
-
-### class:41:MMK_L_period ###
-@MMK_L_period = [
-### open class 'MMK_L_period' ###
-period comma
-### close class 'MMK_L_period' ###
-];
-
-### class:42:MMK_L_plus ###
-@MMK_L_plus = [
-### open class 'MMK_L_plus' ###
-plus equal greater less
-### close class 'MMK_L_plus' ###
-];
-
-### class:43:MMK_L_q ###
-@MMK_L_q = [
-### open class 'MMK_L_q' ###
-q
-### close class 'MMK_L_q' ###
-];
-
-### class:44:MMK_L_question ###
-@MMK_L_question = [
-### open class 'MMK_L_question' ###
-question
-### close class 'MMK_L_question' ###
-];
-
-### class:45:MMK_L_r ###
-@MMK_L_r = [
-### open class 'MMK_L_r' ###
-r
-### close class 'MMK_L_r' ###
-];
-
-### class:46:MMK_L_s ###
-@MMK_L_s = [
-### open class 'MMK_L_s' ###
-s
-### close class 'MMK_L_s' ###
-];
-
-### class:47:MMK_L_seven ###
-@MMK_L_seven = [
-### open class 'MMK_L_seven' ###
-seven
-### close class 'MMK_L_seven' ###
-];
-
-### class:48:MMK_L_six ###
-@MMK_L_six = [
-### open class 'MMK_L_six' ###
-six
-### close class 'MMK_L_six' ###
-];
-
-### class:49:MMK_L_t ###
-@MMK_L_t = [
-### open class 'MMK_L_t' ###
-t
-### close class 'MMK_L_t' ###
-];
-
-### class:50:MMK_L_three ###
-@MMK_L_three = [
-### open class 'MMK_L_three' ###
-three
-### close class 'MMK_L_three' ###
-];
-
-### class:51:MMK_L_tildecomb ###
-@MMK_L_tildecomb = [
-### open class 'MMK_L_tildecomb' ###
-asciitilde
-### close class 'MMK_L_tildecomb' ###
-];
-
-### class:52:MMK_L_two ###
-@MMK_L_two = [
-### open class 'MMK_L_two' ###
-two
-### close class 'MMK_L_two' ###
-];
-
-### class:53:MMK_L_u ###
-@MMK_L_u = [
-### open class 'MMK_L_u' ###
-u
-### close class 'MMK_L_u' ###
-];
-
-### class:54:MMK_L_v ###
-@MMK_L_v = [
-### open class 'MMK_L_v' ###
-v w
-### close class 'MMK_L_v' ###
-];
-
-### class:55:MMK_L_x ###
-@MMK_L_x = [
-### open class 'MMK_L_x' ###
-x
-### close class 'MMK_L_x' ###
-];
-
-### class:56:MMK_L_y ###
-@MMK_L_y = [
-### open class 'MMK_L_y' ###
-y
-### close class 'MMK_L_y' ###
-];
-
-### class:57:MMK_L_z ###
-@MMK_L_z = [
-### open class 'MMK_L_z' ###
-z
-### close class 'MMK_L_z' ###
-];
-
-### class:58:MMK_R_A ###
-@MMK_R_A = [
-### open class 'MMK_R_A' ###
-A
-### close class 'MMK_R_A' ###
-];
-
-### class:59:MMK_R_H ###
-@MMK_R_H = [
-### open class 'MMK_R_H' ###
-B D E F H K L M N P R b k l bar
-### close class 'MMK_R_H' ###
-];
-
-### class:60:MMK_R_I ###
-@MMK_R_I = [
-### open class 'MMK_R_I' ###
-I
-### close class 'MMK_R_I' ###
-];
-
-### class:61:MMK_R_J ###
-@MMK_R_J = [
-### open class 'MMK_R_J' ###
-J
-### close class 'MMK_R_J' ###
-];
-
-### class:62:MMK_R_O ###
-@MMK_R_O = [
-### open class 'MMK_R_O' ###
-C G O Q zero
-### close class 'MMK_R_O' ###
-];
-
-### class:63:MMK_R_S ###
-@MMK_R_S = [
-### open class 'MMK_R_S' ###
-S dollar
-### close class 'MMK_R_S' ###
-];
-
-### class:64:MMK_R_T ###
-@MMK_R_T = [
-### open class 'MMK_R_T' ###
-T
-### close class 'MMK_R_T' ###
-];
-
-### class:65:MMK_R_U ###
-@MMK_R_U = [
-### open class 'MMK_R_U' ###
-U
-### close class 'MMK_R_U' ###
-];
-
-### class:66:MMK_R_V ###
-@MMK_R_V = [
-### open class 'MMK_R_V' ###
-V W
-### close class 'MMK_R_V' ###
-];
-
-### class:67:MMK_R_X ###
-@MMK_R_X = [
-### open class 'MMK_R_X' ###
-X
-### close class 'MMK_R_X' ###
-];
-
-### class:68:MMK_R_Y ###
-@MMK_R_Y = [
-### open class 'MMK_R_Y' ###
-Y
-### close class 'MMK_R_Y' ###
-];
-
-### class:69:MMK_R_Z ###
-@MMK_R_Z = [
-### open class 'MMK_R_Z' ###
-Z
-### close class 'MMK_R_Z' ###
-];
-
-### class:70:MMK_R_a ###
-@MMK_R_a = [
-### open class 'MMK_R_a' ###
-a
-### close class 'MMK_R_a' ###
-];
-
-### class:71:MMK_R_ampersand ###
-@MMK_R_ampersand = [
-### open class 'MMK_R_ampersand' ###
-ampersand
-### close class 'MMK_R_ampersand' ###
-];
-
-### class:72:MMK_R_asterisk ###
-@MMK_R_asterisk = [
-### open class 'MMK_R_asterisk' ###
-asciicircum
-### close class 'MMK_R_asterisk' ###
-];
-
-### class:73:MMK_R_at ###
-@MMK_R_at = [
-### open class 'MMK_R_at' ###
-at
-### close class 'MMK_R_at' ###
-];
-
-### class:74:MMK_R_eight ###
-@MMK_R_eight = [
-### open class 'MMK_R_eight' ###
-eight
-### close class 'MMK_R_eight' ###
-];
-
-### class:75:MMK_R_exclam ###
-@MMK_R_exclam = [
-### open class 'MMK_R_exclam' ###
-exclam
-### close class 'MMK_R_exclam' ###
-];
-
-### class:76:MMK_R_f ###
-@MMK_R_f = [
-### open class 'MMK_R_f' ###
-f
-### close class 'MMK_R_f' ###
-];
-
-### class:77:MMK_R_five ###
-@MMK_R_five = [
-### open class 'MMK_R_five' ###
-five
-### close class 'MMK_R_five' ###
-];
-
-### class:78:MMK_R_four ###
-@MMK_R_four = [
-### open class 'MMK_R_four' ###
-four
-### close class 'MMK_R_four' ###
-];
-
-### class:79:MMK_R_g ###
-@MMK_R_g = [
-### open class 'MMK_R_g' ###
-g
-### close class 'MMK_R_g' ###
-];
-
-### class:80:MMK_R_gravecomb ###
-@MMK_R_gravecomb = [
-### open class 'MMK_R_gravecomb' ###
-grave
-### close class 'MMK_R_gravecomb' ###
-];
-
-### class:81:MMK_R_idotless ###
-@MMK_R_idotless = [
-### open class 'MMK_R_idotless' ###
-i
-### close class 'MMK_R_idotless' ###
-];
-
-### class:82:MMK_R_jdotless ###
-@MMK_R_jdotless = [
-### open class 'MMK_R_jdotless' ###
-j
-### close class 'MMK_R_jdotless' ###
-];
-
-### class:83:MMK_R_n ###
-@MMK_R_n = [
-### open class 'MMK_R_n' ###
-m n p r
-### close class 'MMK_R_n' ###
-];
-
-### class:84:MMK_R_nine ###
-@MMK_R_nine = [
-### open class 'MMK_R_nine' ###
-nine
-### close class 'MMK_R_nine' ###
-];
-
-### class:85:MMK_R_o ###
-@MMK_R_o = [
-### open class 'MMK_R_o' ###
-c d e o q
-### close class 'MMK_R_o' ###
-];
-
-### class:86:MMK_R_one ###
-@MMK_R_one = [
-### open class 'MMK_R_one' ###
-one
-### close class 'MMK_R_one' ###
-];
-
-### class:87:MMK_R_percent ###
-@MMK_R_percent = [
-### open class 'MMK_R_percent' ###
-percent
-### close class 'MMK_R_percent' ###
-];
-
-### class:88:MMK_R_period ###
-@MMK_R_period = [
-### open class 'MMK_R_period' ###
-period comma
-### close class 'MMK_R_period' ###
-];
-
-### class:89:MMK_R_plus ###
-@MMK_R_plus = [
-### open class 'MMK_R_plus' ###
-plus equal greater less
-### close class 'MMK_R_plus' ###
-];
-
-### class:90:MMK_R_question ###
-@MMK_R_question = [
-### open class 'MMK_R_question' ###
-question
-### close class 'MMK_R_question' ###
-];
-
-### class:91:MMK_R_s ###
-@MMK_R_s = [
-### open class 'MMK_R_s' ###
-s
-### close class 'MMK_R_s' ###
-];
-
-### class:92:MMK_R_seven ###
-@MMK_R_seven = [
-### open class 'MMK_R_seven' ###
-seven
-### close class 'MMK_R_seven' ###
-];
-
-### class:93:MMK_R_six ###
-@MMK_R_six = [
-### open class 'MMK_R_six' ###
-six
-### close class 'MMK_R_six' ###
-];
-
-### class:94:MMK_R_t ###
-@MMK_R_t = [
-### open class 'MMK_R_t' ###
-t
-### close class 'MMK_R_t' ###
-];
-
-### class:95:MMK_R_three ###
-@MMK_R_three = [
-### open class 'MMK_R_three' ###
-three
-### close class 'MMK_R_three' ###
-];
-
-### class:96:MMK_R_tilde ###
-@MMK_R_tilde = [
-### open class 'MMK_R_tilde' ###
-asciitilde
-### close class 'MMK_R_tilde' ###
-];
-
-### class:97:MMK_R_two ###
-@MMK_R_two = [
-### open class 'MMK_R_two' ###
-two
-### close class 'MMK_R_two' ###
-];
-
-### class:98:MMK_R_u ###
-@MMK_R_u = [
-### open class 'MMK_R_u' ###
-u
-### close class 'MMK_R_u' ###
-];
-
-### class:99:MMK_R_v ###
-@MMK_R_v = [
-### open class 'MMK_R_v' ###
-v w
-### close class 'MMK_R_v' ###
-];
-
-### class:100:MMK_R_x ###
-@MMK_R_x = [
-### open class 'MMK_R_x' ###
-x
-### close class 'MMK_R_x' ###
-];
-
-### class:101:MMK_R_y ###
-@MMK_R_y = [
-### open class 'MMK_R_y' ###
-y
-### close class 'MMK_R_y' ###
-];
-
-### class:102:MMK_R_z ###
-@MMK_R_z = [
-### open class 'MMK_R_z' ###
-z
-### close class 'MMK_R_z' ###
-];
-
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:MMK_L_A ###
-@MMK_L_A = [
-### open class 'MMK_L_A' ###
-A
-### close class 'MMK_L_A' ###
-];
-
-### class:1:MMK_L_B ###
-@MMK_L_B = [
-### open class 'MMK_L_B' ###
-B
-### close class 'MMK_L_B' ###
-];
-
-### class:2:MMK_L_C ###
-@MMK_L_C = [
-### open class 'MMK_L_C' ###
-C G
-### close class 'MMK_L_C' ###
-];
-
-### class:3:MMK_L_E ###
-@MMK_L_E = [
-### open class 'MMK_L_E' ###
-E
-### close class 'MMK_L_E' ###
-];
-
-### class:4:MMK_L_F ###
-@MMK_L_F = [
-### open class 'MMK_L_F' ###
-F
-### close class 'MMK_L_F' ###
-];
-
-### class:5:MMK_L_H ###
-@MMK_L_H = [
-### open class 'MMK_L_H' ###
-H M N bar
-### close class 'MMK_L_H' ###
-];
-
-### class:6:MMK_L_I ###
-@MMK_L_I = [
-### open class 'MMK_L_I' ###
-I
-### close class 'MMK_L_I' ###
-];
-
-### class:7:MMK_L_K ###
-@MMK_L_K = [
-### open class 'MMK_L_K' ###
-K
-### close class 'MMK_L_K' ###
-];
-
-### class:8:MMK_L_L ###
-@MMK_L_L = [
-### open class 'MMK_L_L' ###
-L
-### close class 'MMK_L_L' ###
-];
-
-### class:9:MMK_L_O ###
-@MMK_L_O = [
-### open class 'MMK_L_O' ###
-D O Q zero
-### close class 'MMK_L_O' ###
-];
-
-### class:10:MMK_L_P ###
-@MMK_L_P = [
-### open class 'MMK_L_P' ###
-P
-### close class 'MMK_L_P' ###
-];
-
-### class:11:MMK_L_R ###
-@MMK_L_R = [
-### open class 'MMK_L_R' ###
-R
-### close class 'MMK_L_R' ###
-];
-
-### class:12:MMK_L_S ###
-@MMK_L_S = [
-### open class 'MMK_L_S' ###
-S dollar
-### close class 'MMK_L_S' ###
-];
-
-### class:13:MMK_L_T ###
-@MMK_L_T = [
-### open class 'MMK_L_T' ###
-T
-### close class 'MMK_L_T' ###
-];
-
-### class:14:MMK_L_U ###
-@MMK_L_U = [
-### open class 'MMK_L_U' ###
-J U
-### close class 'MMK_L_U' ###
-];
-
-### class:15:MMK_L_V ###
-@MMK_L_V = [
-### open class 'MMK_L_V' ###
-V W
-### close class 'MMK_L_V' ###
-];
-
-### class:16:MMK_L_X ###
-@MMK_L_X = [
-### open class 'MMK_L_X' ###
-X
-### close class 'MMK_L_X' ###
-];
-
-### class:17:MMK_L_Y ###
-@MMK_L_Y = [
-### open class 'MMK_L_Y' ###
-Y
-### close class 'MMK_L_Y' ###
-];
-
-### class:18:MMK_L_Z ###
-@MMK_L_Z = [
-### open class 'MMK_L_Z' ###
-Z
-### close class 'MMK_L_Z' ###
-];
-
-### class:19:MMK_L_ampersand ###
-@MMK_L_ampersand = [
-### open class 'MMK_L_ampersand' ###
-ampersand
-### close class 'MMK_L_ampersand' ###
-];
-
-### class:20:MMK_L_asterisk ###
-@MMK_L_asterisk = [
-### open class 'MMK_L_asterisk' ###
-asciicircum
-### close class 'MMK_L_asterisk' ###
-];
-
-### class:21:MMK_L_at ###
-@MMK_L_at = [
-### open class 'MMK_L_at' ###
-at
-### close class 'MMK_L_at' ###
-];
-
-### class:22:MMK_L_c ###
-@MMK_L_c = [
-### open class 'MMK_L_c' ###
-c
-### close class 'MMK_L_c' ###
-];
-
-### class:23:MMK_L_d ###
-@MMK_L_d = [
-### open class 'MMK_L_d' ###
-d
-### close class 'MMK_L_d' ###
-];
-
-### class:24:MMK_L_e ###
-@MMK_L_e = [
-### open class 'MMK_L_e' ###
-e
-### close class 'MMK_L_e' ###
-];
-
-### class:25:MMK_L_eight ###
-@MMK_L_eight = [
-### open class 'MMK_L_eight' ###
-eight
-### close class 'MMK_L_eight' ###
-];
-
-### class:26:MMK_L_exclam ###
-@MMK_L_exclam = [
-### open class 'MMK_L_exclam' ###
-exclam
-### close class 'MMK_L_exclam' ###
-];
-
-### class:27:MMK_L_f ###
-@MMK_L_f = [
-### open class 'MMK_L_f' ###
-f
-### close class 'MMK_L_f' ###
-];
-
-### class:28:MMK_L_five ###
-@MMK_L_five = [
-### open class 'MMK_L_five' ###
-five
-### close class 'MMK_L_five' ###
-];
-
-### class:29:MMK_L_four ###
-@MMK_L_four = [
-### open class 'MMK_L_four' ###
-four
-### close class 'MMK_L_four' ###
-];
-
-### class:30:MMK_L_g ###
-@MMK_L_g = [
-### open class 'MMK_L_g' ###
-g
-### close class 'MMK_L_g' ###
-];
-
-### class:31:MMK_L_gravecomb ###
-@MMK_L_gravecomb = [
-### open class 'MMK_L_gravecomb' ###
-grave
-### close class 'MMK_L_gravecomb' ###
-];
-
-### class:32:MMK_L_idotless ###
-@MMK_L_idotless = [
-### open class 'MMK_L_idotless' ###
-i
-### close class 'MMK_L_idotless' ###
-];
-
-### class:33:MMK_L_jdotless ###
-@MMK_L_jdotless = [
-### open class 'MMK_L_jdotless' ###
-j
-### close class 'MMK_L_jdotless' ###
-];
-
-### class:34:MMK_L_k ###
-@MMK_L_k = [
-### open class 'MMK_L_k' ###
-k
-### close class 'MMK_L_k' ###
-];
-
-### class:35:MMK_L_l ###
-@MMK_L_l = [
-### open class 'MMK_L_l' ###
-l
-### close class 'MMK_L_l' ###
-];
-
-### class:36:MMK_L_n ###
-@MMK_L_n = [
-### open class 'MMK_L_n' ###
-a m n
-### close class 'MMK_L_n' ###
-];
-
-### class:37:MMK_L_nine ###
-@MMK_L_nine = [
-### open class 'MMK_L_nine' ###
-nine
-### close class 'MMK_L_nine' ###
-];
-
-### class:38:MMK_L_o ###
-@MMK_L_o = [
-### open class 'MMK_L_o' ###
-b o p
-### close class 'MMK_L_o' ###
-];
-
-### class:39:MMK_L_one ###
-@MMK_L_one = [
-### open class 'MMK_L_one' ###
-one
-### close class 'MMK_L_one' ###
-];
-
-### class:40:MMK_L_percent ###
-@MMK_L_percent = [
-### open class 'MMK_L_percent' ###
-percent
-### close class 'MMK_L_percent' ###
-];
-
-### class:41:MMK_L_period ###
-@MMK_L_period = [
-### open class 'MMK_L_period' ###
-period comma
-### close class 'MMK_L_period' ###
-];
-
-### class:42:MMK_L_plus ###
-@MMK_L_plus = [
-### open class 'MMK_L_plus' ###
-plus equal greater less
-### close class 'MMK_L_plus' ###
-];
-
-### class:43:MMK_L_q ###
-@MMK_L_q = [
-### open class 'MMK_L_q' ###
-q
-### close class 'MMK_L_q' ###
-];
-
-### class:44:MMK_L_question ###
-@MMK_L_question = [
-### open class 'MMK_L_question' ###
-question
-### close class 'MMK_L_question' ###
-];
-
-### class:45:MMK_L_r ###
-@MMK_L_r = [
-### open class 'MMK_L_r' ###
-r
-### close class 'MMK_L_r' ###
-];
-
-### class:46:MMK_L_s ###
-@MMK_L_s = [
-### open class 'MMK_L_s' ###
-s
-### close class 'MMK_L_s' ###
-];
-
-### class:47:MMK_L_seven ###
-@MMK_L_seven = [
-### open class 'MMK_L_seven' ###
-seven
-### close class 'MMK_L_seven' ###
-];
-
-### class:48:MMK_L_six ###
-@MMK_L_six = [
-### open class 'MMK_L_six' ###
-six
-### close class 'MMK_L_six' ###
-];
-
-### class:49:MMK_L_t ###
-@MMK_L_t = [
-### open class 'MMK_L_t' ###
-t
-### close class 'MMK_L_t' ###
-];
-
-### class:50:MMK_L_three ###
-@MMK_L_three = [
-### open class 'MMK_L_three' ###
-three
-### close class 'MMK_L_three' ###
-];
-
-### class:51:MMK_L_tildecomb ###
-@MMK_L_tildecomb = [
-### open class 'MMK_L_tildecomb' ###
-asciitilde
-### close class 'MMK_L_tildecomb' ###
-];
-
-### class:52:MMK_L_two ###
-@MMK_L_two = [
-### open class 'MMK_L_two' ###
-two
-### close class 'MMK_L_two' ###
-];
-
-### class:53:MMK_L_u ###
-@MMK_L_u = [
-### open class 'MMK_L_u' ###
-u
-### close class 'MMK_L_u' ###
-];
-
-### class:54:MMK_L_v ###
-@MMK_L_v = [
-### open class 'MMK_L_v' ###
-v w
-### close class 'MMK_L_v' ###
-];
-
-### class:55:MMK_L_x ###
-@MMK_L_x = [
-### open class 'MMK_L_x' ###
-x
-### close class 'MMK_L_x' ###
-];
-
-### class:56:MMK_L_y ###
-@MMK_L_y = [
-### open class 'MMK_L_y' ###
-y
-### close class 'MMK_L_y' ###
-];
-
-### class:57:MMK_L_z ###
-@MMK_L_z = [
-### open class 'MMK_L_z' ###
-z
-### close class 'MMK_L_z' ###
-];
-
-### class:58:MMK_R_A ###
-@MMK_R_A = [
-### open class 'MMK_R_A' ###
-A
-### close class 'MMK_R_A' ###
-];
-
-### class:59:MMK_R_H ###
-@MMK_R_H = [
-### open class 'MMK_R_H' ###
-B D E F H K L M N P R b k l bar
-### close class 'MMK_R_H' ###
-];
-
-### class:60:MMK_R_I ###
-@MMK_R_I = [
-### open class 'MMK_R_I' ###
-I
-### close class 'MMK_R_I' ###
-];
-
-### class:61:MMK_R_J ###
-@MMK_R_J = [
-### open class 'MMK_R_J' ###
-J
-### close class 'MMK_R_J' ###
-];
-
-### class:62:MMK_R_O ###
-@MMK_R_O = [
-### open class 'MMK_R_O' ###
-C G O Q zero
-### close class 'MMK_R_O' ###
-];
-
-### class:63:MMK_R_S ###
-@MMK_R_S = [
-### open class 'MMK_R_S' ###
-S dollar
-### close class 'MMK_R_S' ###
-];
-
-### class:64:MMK_R_T ###
-@MMK_R_T = [
-### open class 'MMK_R_T' ###
-T
-### close class 'MMK_R_T' ###
-];
-
-### class:65:MMK_R_U ###
-@MMK_R_U = [
-### open class 'MMK_R_U' ###
-U
-### close class 'MMK_R_U' ###
-];
-
-### class:66:MMK_R_V ###
-@MMK_R_V = [
-### open class 'MMK_R_V' ###
-V W
-### close class 'MMK_R_V' ###
-];
-
-### class:67:MMK_R_X ###
-@MMK_R_X = [
-### open class 'MMK_R_X' ###
-X
-### close class 'MMK_R_X' ###
-];
-
-### class:68:MMK_R_Y ###
-@MMK_R_Y = [
-### open class 'MMK_R_Y' ###
-Y
-### close class 'MMK_R_Y' ###
-];
-
-### class:69:MMK_R_Z ###
-@MMK_R_Z = [
-### open class 'MMK_R_Z' ###
-Z
-### close class 'MMK_R_Z' ###
-];
-
-### class:70:MMK_R_a ###
-@MMK_R_a = [
-### open class 'MMK_R_a' ###
-a
-### close class 'MMK_R_a' ###
-];
-
-### class:71:MMK_R_ampersand ###
-@MMK_R_ampersand = [
-### open class 'MMK_R_ampersand' ###
-ampersand
-### close class 'MMK_R_ampersand' ###
-];
-
-### class:72:MMK_R_asterisk ###
-@MMK_R_asterisk = [
-### open class 'MMK_R_asterisk' ###
-asciicircum
-### close class 'MMK_R_asterisk' ###
-];
-
-### class:73:MMK_R_at ###
-@MMK_R_at = [
-### open class 'MMK_R_at' ###
-at
-### close class 'MMK_R_at' ###
-];
-
-### class:74:MMK_R_eight ###
-@MMK_R_eight = [
-### open class 'MMK_R_eight' ###
-eight
-### close class 'MMK_R_eight' ###
-];
-
-### class:75:MMK_R_exclam ###
-@MMK_R_exclam = [
-### open class 'MMK_R_exclam' ###
-exclam
-### close class 'MMK_R_exclam' ###
-];
-
-### class:76:MMK_R_f ###
-@MMK_R_f = [
-### open class 'MMK_R_f' ###
-f
-### close class 'MMK_R_f' ###
-];
-
-### class:77:MMK_R_five ###
-@MMK_R_five = [
-### open class 'MMK_R_five' ###
-five
-### close class 'MMK_R_five' ###
-];
-
-### class:78:MMK_R_four ###
-@MMK_R_four = [
-### open class 'MMK_R_four' ###
-four
-### close class 'MMK_R_four' ###
-];
-
-### class:79:MMK_R_g ###
-@MMK_R_g = [
-### open class 'MMK_R_g' ###
-g
-### close class 'MMK_R_g' ###
-];
-
-### class:80:MMK_R_gravecomb ###
-@MMK_R_gravecomb = [
-### open class 'MMK_R_gravecomb' ###
-grave
-### close class 'MMK_R_gravecomb' ###
-];
-
-### class:81:MMK_R_idotless ###
-@MMK_R_idotless = [
-### open class 'MMK_R_idotless' ###
-i
-### close class 'MMK_R_idotless' ###
-];
-
-### class:82:MMK_R_jdotless ###
-@MMK_R_jdotless = [
-### open class 'MMK_R_jdotless' ###
-j
-### close class 'MMK_R_jdotless' ###
-];
-
-### class:83:MMK_R_n ###
-@MMK_R_n = [
-### open class 'MMK_R_n' ###
-m n p r
-### close class 'MMK_R_n' ###
-];
-
-### class:84:MMK_R_nine ###
-@MMK_R_nine = [
-### open class 'MMK_R_nine' ###
-nine
-### close class 'MMK_R_nine' ###
-];
-
-### class:85:MMK_R_o ###
-@MMK_R_o = [
-### open class 'MMK_R_o' ###
-c d e o q
-### close class 'MMK_R_o' ###
-];
-
-### class:86:MMK_R_one ###
-@MMK_R_one = [
-### open class 'MMK_R_one' ###
-one
-### close class 'MMK_R_one' ###
-];
-
-### class:87:MMK_R_percent ###
-@MMK_R_percent = [
-### open class 'MMK_R_percent' ###
-percent
-### close class 'MMK_R_percent' ###
-];
-
-### class:88:MMK_R_period ###
-@MMK_R_period = [
-### open class 'MMK_R_period' ###
-period comma
-### close class 'MMK_R_period' ###
-];
-
-### class:89:MMK_R_plus ###
-@MMK_R_plus = [
-### open class 'MMK_R_plus' ###
-plus equal greater less
-### close class 'MMK_R_plus' ###
-];
-
-### class:90:MMK_R_question ###
-@MMK_R_question = [
-### open class 'MMK_R_question' ###
-question
-### close class 'MMK_R_question' ###
-];
-
-### class:91:MMK_R_s ###
-@MMK_R_s = [
-### open class 'MMK_R_s' ###
-s
-### close class 'MMK_R_s' ###
-];
-
-### class:92:MMK_R_seven ###
-@MMK_R_seven = [
-### open class 'MMK_R_seven' ###
-seven
-### close class 'MMK_R_seven' ###
-];
-
-### class:93:MMK_R_six ###
-@MMK_R_six = [
-### open class 'MMK_R_six' ###
-six
-### close class 'MMK_R_six' ###
-];
-
-### class:94:MMK_R_t ###
-@MMK_R_t = [
-### open class 'MMK_R_t' ###
-t
-### close class 'MMK_R_t' ###
-];
-
-### class:95:MMK_R_three ###
-@MMK_R_three = [
-### open class 'MMK_R_three' ###
-three
-### close class 'MMK_R_three' ###
-];
-
-### class:96:MMK_R_tilde ###
-@MMK_R_tilde = [
-### open class 'MMK_R_tilde' ###
-asciitilde
-### close class 'MMK_R_tilde' ###
-];
-
-### class:97:MMK_R_two ###
-@MMK_R_two = [
-### open class 'MMK_R_two' ###
-two
-### close class 'MMK_R_two' ###
-];
-
-### class:98:MMK_R_u ###
-@MMK_R_u = [
-### open class 'MMK_R_u' ###
-u
-### close class 'MMK_R_u' ###
-];
-
-### class:99:MMK_R_v ###
-@MMK_R_v = [
-### open class 'MMK_R_v' ###
-v w
-### close class 'MMK_R_v' ###
-];
-
-### class:100:MMK_R_x ###
-@MMK_R_x = [
-### open class 'MMK_R_x' ###
-x
-### close class 'MMK_R_x' ###
-];
-
-### class:101:MMK_R_y ###
-@MMK_R_y = [
-### open class 'MMK_R_y' ###
-y
-### close class 'MMK_R_y' ###
-];
-
-### class:102:MMK_R_z ###
-@MMK_R_z = [
-### open class 'MMK_R_z' ###
-z
-### close class 'MMK_R_z' ###
-];
-
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:MMK_L_A ###
-@MMK_L_A = [
-### open class 'MMK_L_A' ###
-A
-### close class 'MMK_L_A' ###
-];
-
-### class:1:MMK_L_B ###
-@MMK_L_B = [
-### open class 'MMK_L_B' ###
-B
-### close class 'MMK_L_B' ###
-];
-
-### class:2:MMK_L_C ###
-@MMK_L_C = [
-### open class 'MMK_L_C' ###
-C G
-### close class 'MMK_L_C' ###
-];
-
-### class:3:MMK_L_E ###
-@MMK_L_E = [
-### open class 'MMK_L_E' ###
-E
-### close class 'MMK_L_E' ###
-];
-
-### class:4:MMK_L_F ###
-@MMK_L_F = [
-### open class 'MMK_L_F' ###
-F
-### close class 'MMK_L_F' ###
-];
-
-### class:5:MMK_L_H ###
-@MMK_L_H = [
-### open class 'MMK_L_H' ###
-H M N bar
-### close class 'MMK_L_H' ###
-];
-
-### class:6:MMK_L_I ###
-@MMK_L_I = [
-### open class 'MMK_L_I' ###
-I
-### close class 'MMK_L_I' ###
-];
-
-### class:7:MMK_L_K ###
-@MMK_L_K = [
-### open class 'MMK_L_K' ###
-K
-### close class 'MMK_L_K' ###
-];
-
-### class:8:MMK_L_L ###
-@MMK_L_L = [
-### open class 'MMK_L_L' ###
-L
-### close class 'MMK_L_L' ###
-];
-
-### class:9:MMK_L_O ###
-@MMK_L_O = [
-### open class 'MMK_L_O' ###
-D O Q zero
-### close class 'MMK_L_O' ###
-];
-
-### class:10:MMK_L_P ###
-@MMK_L_P = [
-### open class 'MMK_L_P' ###
-P
-### close class 'MMK_L_P' ###
-];
-
-### class:11:MMK_L_R ###
-@MMK_L_R = [
-### open class 'MMK_L_R' ###
-R
-### close class 'MMK_L_R' ###
-];
-
-### class:12:MMK_L_S ###
-@MMK_L_S = [
-### open class 'MMK_L_S' ###
-S dollar
-### close class 'MMK_L_S' ###
-];
-
-### class:13:MMK_L_T ###
-@MMK_L_T = [
-### open class 'MMK_L_T' ###
-T
-### close class 'MMK_L_T' ###
-];
-
-### class:14:MMK_L_U ###
-@MMK_L_U = [
-### open class 'MMK_L_U' ###
-J U
-### close class 'MMK_L_U' ###
-];
-
-### class:15:MMK_L_V ###
-@MMK_L_V = [
-### open class 'MMK_L_V' ###
-V W
-### close class 'MMK_L_V' ###
-];
-
-### class:16:MMK_L_X ###
-@MMK_L_X = [
-### open class 'MMK_L_X' ###
-X
-### close class 'MMK_L_X' ###
-];
-
-### class:17:MMK_L_Y ###
-@MMK_L_Y = [
-### open class 'MMK_L_Y' ###
-Y
-### close class 'MMK_L_Y' ###
-];
-
-### class:18:MMK_L_Z ###
-@MMK_L_Z = [
-### open class 'MMK_L_Z' ###
-Z
-### close class 'MMK_L_Z' ###
-];
-
-### class:19:MMK_L_ampersand ###
-@MMK_L_ampersand = [
-### open class 'MMK_L_ampersand' ###
-ampersand
-### close class 'MMK_L_ampersand' ###
-];
-
-### class:20:MMK_L_asterisk ###
-@MMK_L_asterisk = [
-### open class 'MMK_L_asterisk' ###
-asciicircum
-### close class 'MMK_L_asterisk' ###
-];
-
-### class:21:MMK_L_at ###
-@MMK_L_at = [
-### open class 'MMK_L_at' ###
-at
-### close class 'MMK_L_at' ###
-];
-
-### class:22:MMK_L_c ###
-@MMK_L_c = [
-### open class 'MMK_L_c' ###
-c
-### close class 'MMK_L_c' ###
-];
-
-### class:23:MMK_L_d ###
-@MMK_L_d = [
-### open class 'MMK_L_d' ###
-d
-### close class 'MMK_L_d' ###
-];
-
-### class:24:MMK_L_e ###
-@MMK_L_e = [
-### open class 'MMK_L_e' ###
-e
-### close class 'MMK_L_e' ###
-];
-
-### class:25:MMK_L_eight ###
-@MMK_L_eight = [
-### open class 'MMK_L_eight' ###
-eight
-### close class 'MMK_L_eight' ###
-];
-
-### class:26:MMK_L_exclam ###
-@MMK_L_exclam = [
-### open class 'MMK_L_exclam' ###
-exclam
-### close class 'MMK_L_exclam' ###
-];
-
-### class:27:MMK_L_f ###
-@MMK_L_f = [
-### open class 'MMK_L_f' ###
-f
-### close class 'MMK_L_f' ###
-];
-
-### class:28:MMK_L_five ###
-@MMK_L_five = [
-### open class 'MMK_L_five' ###
-five
-### close class 'MMK_L_five' ###
-];
-
-### class:29:MMK_L_four ###
-@MMK_L_four = [
-### open class 'MMK_L_four' ###
-four
-### close class 'MMK_L_four' ###
-];
-
-### class:30:MMK_L_g ###
-@MMK_L_g = [
-### open class 'MMK_L_g' ###
-g
-### close class 'MMK_L_g' ###
-];
-
-### class:31:MMK_L_gravecomb ###
-@MMK_L_gravecomb = [
-### open class 'MMK_L_gravecomb' ###
-grave
-### close class 'MMK_L_gravecomb' ###
-];
-
-### class:32:MMK_L_idotless ###
-@MMK_L_idotless = [
-### open class 'MMK_L_idotless' ###
-i
-### close class 'MMK_L_idotless' ###
-];
-
-### class:33:MMK_L_jdotless ###
-@MMK_L_jdotless = [
-### open class 'MMK_L_jdotless' ###
-j
-### close class 'MMK_L_jdotless' ###
-];
-
-### class:34:MMK_L_k ###
-@MMK_L_k = [
-### open class 'MMK_L_k' ###
-k
-### close class 'MMK_L_k' ###
-];
-
-### class:35:MMK_L_l ###
-@MMK_L_l = [
-### open class 'MMK_L_l' ###
-l
-### close class 'MMK_L_l' ###
-];
-
-### class:36:MMK_L_n ###
-@MMK_L_n = [
-### open class 'MMK_L_n' ###
-a m n
-### close class 'MMK_L_n' ###
-];
-
-### class:37:MMK_L_nine ###
-@MMK_L_nine = [
-### open class 'MMK_L_nine' ###
-nine
-### close class 'MMK_L_nine' ###
-];
-
-### class:38:MMK_L_o ###
-@MMK_L_o = [
-### open class 'MMK_L_o' ###
-b o p
-### close class 'MMK_L_o' ###
-];
-
-### class:39:MMK_L_one ###
-@MMK_L_one = [
-### open class 'MMK_L_one' ###
-one
-### close class 'MMK_L_one' ###
-];
-
-### class:40:MMK_L_percent ###
-@MMK_L_percent = [
-### open class 'MMK_L_percent' ###
-percent
-### close class 'MMK_L_percent' ###
-];
-
-### class:41:MMK_L_period ###
-@MMK_L_period = [
-### open class 'MMK_L_period' ###
-period comma
-### close class 'MMK_L_period' ###
-];
-
-### class:42:MMK_L_plus ###
-@MMK_L_plus = [
-### open class 'MMK_L_plus' ###
-plus equal greater less
-### close class 'MMK_L_plus' ###
-];
-
-### class:43:MMK_L_q ###
-@MMK_L_q = [
-### open class 'MMK_L_q' ###
-q
-### close class 'MMK_L_q' ###
-];
-
-### class:44:MMK_L_question ###
-@MMK_L_question = [
-### open class 'MMK_L_question' ###
-question
-### close class 'MMK_L_question' ###
-];
-
-### class:45:MMK_L_r ###
-@MMK_L_r = [
-### open class 'MMK_L_r' ###
-r
-### close class 'MMK_L_r' ###
-];
-
-### class:46:MMK_L_s ###
-@MMK_L_s = [
-### open class 'MMK_L_s' ###
-s
-### close class 'MMK_L_s' ###
-];
-
-### class:47:MMK_L_seven ###
-@MMK_L_seven = [
-### open class 'MMK_L_seven' ###
-seven
-### close class 'MMK_L_seven' ###
-];
-
-### class:48:MMK_L_six ###
-@MMK_L_six = [
-### open class 'MMK_L_six' ###
-six
-### close class 'MMK_L_six' ###
-];
-
-### class:49:MMK_L_t ###
-@MMK_L_t = [
-### open class 'MMK_L_t' ###
-t
-### close class 'MMK_L_t' ###
-];
-
-### class:50:MMK_L_three ###
-@MMK_L_three = [
-### open class 'MMK_L_three' ###
-three
-### close class 'MMK_L_three' ###
-];
-
-### class:51:MMK_L_tildecomb ###
-@MMK_L_tildecomb = [
-### open class 'MMK_L_tildecomb' ###
-asciitilde
-### close class 'MMK_L_tildecomb' ###
-];
-
-### class:52:MMK_L_two ###
-@MMK_L_two = [
-### open class 'MMK_L_two' ###
-two
-### close class 'MMK_L_two' ###
-];
-
-### class:53:MMK_L_u ###
-@MMK_L_u = [
-### open class 'MMK_L_u' ###
-u
-### close class 'MMK_L_u' ###
-];
-
-### class:54:MMK_L_v ###
-@MMK_L_v = [
-### open class 'MMK_L_v' ###
-v w
-### close class 'MMK_L_v' ###
-];
-
-### class:55:MMK_L_x ###
-@MMK_L_x = [
-### open class 'MMK_L_x' ###
-x
-### close class 'MMK_L_x' ###
-];
-
-### class:56:MMK_L_y ###
-@MMK_L_y = [
-### open class 'MMK_L_y' ###
-y
-### close class 'MMK_L_y' ###
-];
-
-### class:57:MMK_L_z ###
-@MMK_L_z = [
-### open class 'MMK_L_z' ###
-z
-### close class 'MMK_L_z' ###
-];
-
-### class:58:MMK_R_A ###
-@MMK_R_A = [
-### open class 'MMK_R_A' ###
-A
-### close class 'MMK_R_A' ###
-];
-
-### class:59:MMK_R_H ###
-@MMK_R_H = [
-### open class 'MMK_R_H' ###
-B D E F H K L M N P R b k l bar
-### close class 'MMK_R_H' ###
-];
-
-### class:60:MMK_R_I ###
-@MMK_R_I = [
-### open class 'MMK_R_I' ###
-I
-### close class 'MMK_R_I' ###
-];
-
-### class:61:MMK_R_J ###
-@MMK_R_J = [
-### open class 'MMK_R_J' ###
-J
-### close class 'MMK_R_J' ###
-];
-
-### class:62:MMK_R_O ###
-@MMK_R_O = [
-### open class 'MMK_R_O' ###
-C G O Q zero
-### close class 'MMK_R_O' ###
-];
-
-### class:63:MMK_R_S ###
-@MMK_R_S = [
-### open class 'MMK_R_S' ###
-S dollar
-### close class 'MMK_R_S' ###
-];
-
-### class:64:MMK_R_T ###
-@MMK_R_T = [
-### open class 'MMK_R_T' ###
-T
-### close class 'MMK_R_T' ###
-];
-
-### class:65:MMK_R_U ###
-@MMK_R_U = [
-### open class 'MMK_R_U' ###
-U
-### close class 'MMK_R_U' ###
-];
-
-### class:66:MMK_R_V ###
-@MMK_R_V = [
-### open class 'MMK_R_V' ###
-V W
-### close class 'MMK_R_V' ###
-];
-
-### class:67:MMK_R_X ###
-@MMK_R_X = [
-### open class 'MMK_R_X' ###
-X
-### close class 'MMK_R_X' ###
-];
-
-### class:68:MMK_R_Y ###
-@MMK_R_Y = [
-### open class 'MMK_R_Y' ###
-Y
-### close class 'MMK_R_Y' ###
-];
-
-### class:69:MMK_R_Z ###
-@MMK_R_Z = [
-### open class 'MMK_R_Z' ###
-Z
-### close class 'MMK_R_Z' ###
-];
-
-### class:70:MMK_R_a ###
-@MMK_R_a = [
-### open class 'MMK_R_a' ###
-a
-### close class 'MMK_R_a' ###
-];
-
-### class:71:MMK_R_ampersand ###
-@MMK_R_ampersand = [
-### open class 'MMK_R_ampersand' ###
-ampersand
-### close class 'MMK_R_ampersand' ###
-];
-
-### class:72:MMK_R_asterisk ###
-@MMK_R_asterisk = [
-### open class 'MMK_R_asterisk' ###
-asciicircum
-### close class 'MMK_R_asterisk' ###
-];
-
-### class:73:MMK_R_at ###
-@MMK_R_at = [
-### open class 'MMK_R_at' ###
-at
-### close class 'MMK_R_at' ###
-];
-
-### class:74:MMK_R_eight ###
-@MMK_R_eight = [
-### open class 'MMK_R_eight' ###
-eight
-### close class 'MMK_R_eight' ###
-];
-
-### class:75:MMK_R_exclam ###
-@MMK_R_exclam = [
-### open class 'MMK_R_exclam' ###
-exclam
-### close class 'MMK_R_exclam' ###
-];
-
-### class:76:MMK_R_f ###
-@MMK_R_f = [
-### open class 'MMK_R_f' ###
-f
-### close class 'MMK_R_f' ###
-];
-
-### class:77:MMK_R_five ###
-@MMK_R_five = [
-### open class 'MMK_R_five' ###
-five
-### close class 'MMK_R_five' ###
-];
-
-### class:78:MMK_R_four ###
-@MMK_R_four = [
-### open class 'MMK_R_four' ###
-four
-### close class 'MMK_R_four' ###
-];
-
-### class:79:MMK_R_g ###
-@MMK_R_g = [
-### open class 'MMK_R_g' ###
-g
-### close class 'MMK_R_g' ###
-];
-
-### class:80:MMK_R_gravecomb ###
-@MMK_R_gravecomb = [
-### open class 'MMK_R_gravecomb' ###
-grave
-### close class 'MMK_R_gravecomb' ###
-];
-
-### class:81:MMK_R_idotless ###
-@MMK_R_idotless = [
-### open class 'MMK_R_idotless' ###
-i
-### close class 'MMK_R_idotless' ###
-];
-
-### class:82:MMK_R_jdotless ###
-@MMK_R_jdotless = [
-### open class 'MMK_R_jdotless' ###
-j
-### close class 'MMK_R_jdotless' ###
-];
-
-### class:83:MMK_R_n ###
-@MMK_R_n = [
-### open class 'MMK_R_n' ###
-m n p r
-### close class 'MMK_R_n' ###
-];
-
-### class:84:MMK_R_nine ###
-@MMK_R_nine = [
-### open class 'MMK_R_nine' ###
-nine
-### close class 'MMK_R_nine' ###
-];
-
-### class:85:MMK_R_o ###
-@MMK_R_o = [
-### open class 'MMK_R_o' ###
-c d e o q
-### close class 'MMK_R_o' ###
-];
-
-### class:86:MMK_R_one ###
-@MMK_R_one = [
-### open class 'MMK_R_one' ###
-one
-### close class 'MMK_R_one' ###
-];
-
-### class:87:MMK_R_percent ###
-@MMK_R_percent = [
-### open class 'MMK_R_percent' ###
-percent
-### close class 'MMK_R_percent' ###
-];
-
-### class:88:MMK_R_period ###
-@MMK_R_period = [
-### open class 'MMK_R_period' ###
-period comma
-### close class 'MMK_R_period' ###
-];
-
-### class:89:MMK_R_plus ###
-@MMK_R_plus = [
-### open class 'MMK_R_plus' ###
-plus equal greater less
-### close class 'MMK_R_plus' ###
-];
-
-### class:90:MMK_R_question ###
-@MMK_R_question = [
-### open class 'MMK_R_question' ###
-question
-### close class 'MMK_R_question' ###
-];
-
-### class:91:MMK_R_s ###
-@MMK_R_s = [
-### open class 'MMK_R_s' ###
-s
-### close class 'MMK_R_s' ###
-];
-
-### class:92:MMK_R_seven ###
-@MMK_R_seven = [
-### open class 'MMK_R_seven' ###
-seven
-### close class 'MMK_R_seven' ###
-];
-
-### class:93:MMK_R_six ###
-@MMK_R_six = [
-### open class 'MMK_R_six' ###
-six
-### close class 'MMK_R_six' ###
-];
-
-### class:94:MMK_R_t ###
-@MMK_R_t = [
-### open class 'MMK_R_t' ###
-t
-### close class 'MMK_R_t' ###
-];
-
-### class:95:MMK_R_three ###
-@MMK_R_three = [
-### open class 'MMK_R_three' ###
-three
-### close class 'MMK_R_three' ###
-];
-
-### class:96:MMK_R_tilde ###
-@MMK_R_tilde = [
-### open class 'MMK_R_tilde' ###
-asciitilde
-### close class 'MMK_R_tilde' ###
-];
-
-### class:97:MMK_R_two ###
-@MMK_R_two = [
-### open class 'MMK_R_two' ###
-two
-### close class 'MMK_R_two' ###
-];
-
-### class:98:MMK_R_u ###
-@MMK_R_u = [
-### open class 'MMK_R_u' ###
-u
-### close class 'MMK_R_u' ###
-];
-
-### class:99:MMK_R_v ###
-@MMK_R_v = [
-### open class 'MMK_R_v' ###
-v w
-### close class 'MMK_R_v' ###
-];
-
-### class:100:MMK_R_x ###
-@MMK_R_x = [
-### open class 'MMK_R_x' ###
-x
-### close class 'MMK_R_x' ###
-];
-
-### class:101:MMK_R_y ###
-@MMK_R_y = [
-### open class 'MMK_R_y' ###
-y
-### close class 'MMK_R_y' ###
-];
-
-### class:102:MMK_R_z ###
-@MMK_R_z = [
-### open class 'MMK_R_z' ###
-z
-### close class 'MMK_R_z' ###
-];
-
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:MMK_L_A ###
-@MMK_L_A = [
-### open class 'MMK_L_A' ###
-A
-### close class 'MMK_L_A' ###
-];
-
-### class:1:MMK_L_B ###
-@MMK_L_B = [
-### open class 'MMK_L_B' ###
-B
-### close class 'MMK_L_B' ###
-];
-
-### class:2:MMK_L_C ###
-@MMK_L_C = [
-### open class 'MMK_L_C' ###
-C G
-### close class 'MMK_L_C' ###
-];
-
-### class:3:MMK_L_E ###
-@MMK_L_E = [
-### open class 'MMK_L_E' ###
-E
-### close class 'MMK_L_E' ###
-];
-
-### class:4:MMK_L_F ###
-@MMK_L_F = [
-### open class 'MMK_L_F' ###
-F
-### close class 'MMK_L_F' ###
-];
-
-### class:5:MMK_L_H ###
-@MMK_L_H = [
-### open class 'MMK_L_H' ###
-H M N bar
-### close class 'MMK_L_H' ###
-];
-
-### class:6:MMK_L_I ###
-@MMK_L_I = [
-### open class 'MMK_L_I' ###
-I
-### close class 'MMK_L_I' ###
-];
-
-### class:7:MMK_L_K ###
-@MMK_L_K = [
-### open class 'MMK_L_K' ###
-K
-### close class 'MMK_L_K' ###
-];
-
-### class:8:MMK_L_L ###
-@MMK_L_L = [
-### open class 'MMK_L_L' ###
-L
-### close class 'MMK_L_L' ###
-];
-
-### class:9:MMK_L_O ###
-@MMK_L_O = [
-### open class 'MMK_L_O' ###
-D O Q zero
-### close class 'MMK_L_O' ###
-];
-
-### class:10:MMK_L_P ###
-@MMK_L_P = [
-### open class 'MMK_L_P' ###
-P
-### close class 'MMK_L_P' ###
-];
-
-### class:11:MMK_L_R ###
-@MMK_L_R = [
-### open class 'MMK_L_R' ###
-R
-### close class 'MMK_L_R' ###
-];
-
-### class:12:MMK_L_S ###
-@MMK_L_S = [
-### open class 'MMK_L_S' ###
-S dollar
-### close class 'MMK_L_S' ###
-];
-
-### class:13:MMK_L_T ###
-@MMK_L_T = [
-### open class 'MMK_L_T' ###
-T
-### close class 'MMK_L_T' ###
-];
-
-### class:14:MMK_L_U ###
-@MMK_L_U = [
-### open class 'MMK_L_U' ###
-J U
-### close class 'MMK_L_U' ###
-];
-
-### class:15:MMK_L_V ###
-@MMK_L_V = [
-### open class 'MMK_L_V' ###
-V W
-### close class 'MMK_L_V' ###
-];
-
-### class:16:MMK_L_X ###
-@MMK_L_X = [
-### open class 'MMK_L_X' ###
-X
-### close class 'MMK_L_X' ###
-];
-
-### class:17:MMK_L_Y ###
-@MMK_L_Y = [
-### open class 'MMK_L_Y' ###
-Y
-### close class 'MMK_L_Y' ###
-];
-
-### class:18:MMK_L_Z ###
-@MMK_L_Z = [
-### open class 'MMK_L_Z' ###
-Z
-### close class 'MMK_L_Z' ###
-];
-
-### class:19:MMK_L_ampersand ###
-@MMK_L_ampersand = [
-### open class 'MMK_L_ampersand' ###
-ampersand
-### close class 'MMK_L_ampersand' ###
-];
-
-### class:20:MMK_L_asterisk ###
-@MMK_L_asterisk = [
-### open class 'MMK_L_asterisk' ###
-asciicircum
-### close class 'MMK_L_asterisk' ###
-];
-
-### class:21:MMK_L_at ###
-@MMK_L_at = [
-### open class 'MMK_L_at' ###
-at
-### close class 'MMK_L_at' ###
-];
-
-### class:22:MMK_L_c ###
-@MMK_L_c = [
-### open class 'MMK_L_c' ###
-c
-### close class 'MMK_L_c' ###
-];
-
-### class:23:MMK_L_d ###
-@MMK_L_d = [
-### open class 'MMK_L_d' ###
-d
-### close class 'MMK_L_d' ###
-];
-
-### class:24:MMK_L_e ###
-@MMK_L_e = [
-### open class 'MMK_L_e' ###
-e
-### close class 'MMK_L_e' ###
-];
-
-### class:25:MMK_L_eight ###
-@MMK_L_eight = [
-### open class 'MMK_L_eight' ###
-eight
-### close class 'MMK_L_eight' ###
-];
-
-### class:26:MMK_L_exclam ###
-@MMK_L_exclam = [
-### open class 'MMK_L_exclam' ###
-exclam
-### close class 'MMK_L_exclam' ###
-];
-
-### class:27:MMK_L_f ###
-@MMK_L_f = [
-### open class 'MMK_L_f' ###
-f
-### close class 'MMK_L_f' ###
-];
-
-### class:28:MMK_L_five ###
-@MMK_L_five = [
-### open class 'MMK_L_five' ###
-five
-### close class 'MMK_L_five' ###
-];
-
-### class:29:MMK_L_four ###
-@MMK_L_four = [
-### open class 'MMK_L_four' ###
-four
-### close class 'MMK_L_four' ###
-];
-
-### class:30:MMK_L_g ###
-@MMK_L_g = [
-### open class 'MMK_L_g' ###
-g
-### close class 'MMK_L_g' ###
-];
-
-### class:31:MMK_L_gravecomb ###
-@MMK_L_gravecomb = [
-### open class 'MMK_L_gravecomb' ###
-grave
-### close class 'MMK_L_gravecomb' ###
-];
-
-### class:32:MMK_L_idotless ###
-@MMK_L_idotless = [
-### open class 'MMK_L_idotless' ###
-i
-### close class 'MMK_L_idotless' ###
-];
-
-### class:33:MMK_L_jdotless ###
-@MMK_L_jdotless = [
-### open class 'MMK_L_jdotless' ###
-j
-### close class 'MMK_L_jdotless' ###
-];
-
-### class:34:MMK_L_k ###
-@MMK_L_k = [
-### open class 'MMK_L_k' ###
-k
-### close class 'MMK_L_k' ###
-];
-
-### class:35:MMK_L_l ###
-@MMK_L_l = [
-### open class 'MMK_L_l' ###
-l
-### close class 'MMK_L_l' ###
-];
-
-### class:36:MMK_L_n ###
-@MMK_L_n = [
-### open class 'MMK_L_n' ###
-a m n
-### close class 'MMK_L_n' ###
-];
-
-### class:37:MMK_L_nine ###
-@MMK_L_nine = [
-### open class 'MMK_L_nine' ###
-nine
-### close class 'MMK_L_nine' ###
-];
-
-### class:38:MMK_L_o ###
-@MMK_L_o = [
-### open class 'MMK_L_o' ###
-b o p
-### close class 'MMK_L_o' ###
-];
-
-### class:39:MMK_L_one ###
-@MMK_L_one = [
-### open class 'MMK_L_one' ###
-one
-### close class 'MMK_L_one' ###
-];
-
-### class:40:MMK_L_percent ###
-@MMK_L_percent = [
-### open class 'MMK_L_percent' ###
-percent
-### close class 'MMK_L_percent' ###
-];
-
-### class:41:MMK_L_period ###
-@MMK_L_period = [
-### open class 'MMK_L_period' ###
-period comma
-### close class 'MMK_L_period' ###
-];
-
-### class:42:MMK_L_plus ###
-@MMK_L_plus = [
-### open class 'MMK_L_plus' ###
-plus equal greater less
-### close class 'MMK_L_plus' ###
-];
-
-### class:43:MMK_L_q ###
-@MMK_L_q = [
-### open class 'MMK_L_q' ###
-q
-### close class 'MMK_L_q' ###
-];
-
-### class:44:MMK_L_question ###
-@MMK_L_question = [
-### open class 'MMK_L_question' ###
-question
-### close class 'MMK_L_question' ###
-];
-
-### class:45:MMK_L_r ###
-@MMK_L_r = [
-### open class 'MMK_L_r' ###
-r
-### close class 'MMK_L_r' ###
-];
-
-### class:46:MMK_L_s ###
-@MMK_L_s = [
-### open class 'MMK_L_s' ###
-s
-### close class 'MMK_L_s' ###
-];
-
-### class:47:MMK_L_seven ###
-@MMK_L_seven = [
-### open class 'MMK_L_seven' ###
-seven
-### close class 'MMK_L_seven' ###
-];
-
-### class:48:MMK_L_six ###
-@MMK_L_six = [
-### open class 'MMK_L_six' ###
-six
-### close class 'MMK_L_six' ###
-];
-
-### class:49:MMK_L_t ###
-@MMK_L_t = [
-### open class 'MMK_L_t' ###
-t
-### close class 'MMK_L_t' ###
-];
-
-### class:50:MMK_L_three ###
-@MMK_L_three = [
-### open class 'MMK_L_three' ###
-three
-### close class 'MMK_L_three' ###
-];
-
-### class:51:MMK_L_tildecomb ###
-@MMK_L_tildecomb = [
-### open class 'MMK_L_tildecomb' ###
-asciitilde
-### close class 'MMK_L_tildecomb' ###
-];
-
-### class:52:MMK_L_two ###
-@MMK_L_two = [
-### open class 'MMK_L_two' ###
-two
-### close class 'MMK_L_two' ###
-];
-
-### class:53:MMK_L_u ###
-@MMK_L_u = [
-### open class 'MMK_L_u' ###
-u
-### close class 'MMK_L_u' ###
-];
-
-### class:54:MMK_L_v ###
-@MMK_L_v = [
-### open class 'MMK_L_v' ###
-v w
-### close class 'MMK_L_v' ###
-];
-
-### class:55:MMK_L_x ###
-@MMK_L_x = [
-### open class 'MMK_L_x' ###
-x
-### close class 'MMK_L_x' ###
-];
-
-### class:56:MMK_L_y ###
-@MMK_L_y = [
-### open class 'MMK_L_y' ###
-y
-### close class 'MMK_L_y' ###
-];
-
-### class:57:MMK_L_z ###
-@MMK_L_z = [
-### open class 'MMK_L_z' ###
-z
-### close class 'MMK_L_z' ###
-];
-
-### class:58:MMK_R_A ###
-@MMK_R_A = [
-### open class 'MMK_R_A' ###
-A
-### close class 'MMK_R_A' ###
-];
-
-### class:59:MMK_R_H ###
-@MMK_R_H = [
-### open class 'MMK_R_H' ###
-B D E F H K L M N P R b k l bar
-### close class 'MMK_R_H' ###
-];
-
-### class:60:MMK_R_I ###
-@MMK_R_I = [
-### open class 'MMK_R_I' ###
-I
-### close class 'MMK_R_I' ###
-];
-
-### class:61:MMK_R_J ###
-@MMK_R_J = [
-### open class 'MMK_R_J' ###
-J
-### close class 'MMK_R_J' ###
-];
-
-### class:62:MMK_R_O ###
-@MMK_R_O = [
-### open class 'MMK_R_O' ###
-C G O Q zero
-### close class 'MMK_R_O' ###
-];
-
-### class:63:MMK_R_S ###
-@MMK_R_S = [
-### open class 'MMK_R_S' ###
-S dollar
-### close class 'MMK_R_S' ###
-];
-
-### class:64:MMK_R_T ###
-@MMK_R_T = [
-### open class 'MMK_R_T' ###
-T
-### close class 'MMK_R_T' ###
-];
-
-### class:65:MMK_R_U ###
-@MMK_R_U = [
-### open class 'MMK_R_U' ###
-U
-### close class 'MMK_R_U' ###
-];
-
-### class:66:MMK_R_V ###
-@MMK_R_V = [
-### open class 'MMK_R_V' ###
-V W
-### close class 'MMK_R_V' ###
-];
-
-### class:67:MMK_R_X ###
-@MMK_R_X = [
-### open class 'MMK_R_X' ###
-X
-### close class 'MMK_R_X' ###
-];
-
-### class:68:MMK_R_Y ###
-@MMK_R_Y = [
-### open class 'MMK_R_Y' ###
-Y
-### close class 'MMK_R_Y' ###
-];
-
-### class:69:MMK_R_Z ###
-@MMK_R_Z = [
-### open class 'MMK_R_Z' ###
-Z
-### close class 'MMK_R_Z' ###
-];
-
-### class:70:MMK_R_a ###
-@MMK_R_a = [
-### open class 'MMK_R_a' ###
-a
-### close class 'MMK_R_a' ###
-];
-
-### class:71:MMK_R_ampersand ###
-@MMK_R_ampersand = [
-### open class 'MMK_R_ampersand' ###
-ampersand
-### close class 'MMK_R_ampersand' ###
-];
-
-### class:72:MMK_R_asterisk ###
-@MMK_R_asterisk = [
-### open class 'MMK_R_asterisk' ###
-asciicircum
-### close class 'MMK_R_asterisk' ###
-];
-
-### class:73:MMK_R_at ###
-@MMK_R_at = [
-### open class 'MMK_R_at' ###
-at
-### close class 'MMK_R_at' ###
-];
-
-### class:74:MMK_R_eight ###
-@MMK_R_eight = [
-### open class 'MMK_R_eight' ###
-eight
-### close class 'MMK_R_eight' ###
-];
-
-### class:75:MMK_R_exclam ###
-@MMK_R_exclam = [
-### open class 'MMK_R_exclam' ###
-exclam
-### close class 'MMK_R_exclam' ###
-];
-
-### class:76:MMK_R_f ###
-@MMK_R_f = [
-### open class 'MMK_R_f' ###
-f
-### close class 'MMK_R_f' ###
-];
-
-### class:77:MMK_R_five ###
-@MMK_R_five = [
-### open class 'MMK_R_five' ###
-five
-### close class 'MMK_R_five' ###
-];
-
-### class:78:MMK_R_four ###
-@MMK_R_four = [
-### open class 'MMK_R_four' ###
-four
-### close class 'MMK_R_four' ###
-];
-
-### class:79:MMK_R_g ###
-@MMK_R_g = [
-### open class 'MMK_R_g' ###
-g
-### close class 'MMK_R_g' ###
-];
-
-### class:80:MMK_R_gravecomb ###
-@MMK_R_gravecomb = [
-### open class 'MMK_R_gravecomb' ###
-grave
-### close class 'MMK_R_gravecomb' ###
-];
-
-### class:81:MMK_R_idotless ###
-@MMK_R_idotless = [
-### open class 'MMK_R_idotless' ###
-i
-### close class 'MMK_R_idotless' ###
-];
-
-### class:82:MMK_R_jdotless ###
-@MMK_R_jdotless = [
-### open class 'MMK_R_jdotless' ###
-j
-### close class 'MMK_R_jdotless' ###
-];
-
-### class:83:MMK_R_n ###
-@MMK_R_n = [
-### open class 'MMK_R_n' ###
-m n p r
-### close class 'MMK_R_n' ###
-];
-
-### class:84:MMK_R_nine ###
-@MMK_R_nine = [
-### open class 'MMK_R_nine' ###
-nine
-### close class 'MMK_R_nine' ###
-];
-
-### class:85:MMK_R_o ###
-@MMK_R_o = [
-### open class 'MMK_R_o' ###
-c d e o q
-### close class 'MMK_R_o' ###
-];
-
-### class:86:MMK_R_one ###
-@MMK_R_one = [
-### open class 'MMK_R_one' ###
-one
-### close class 'MMK_R_one' ###
-];
-
-### class:87:MMK_R_percent ###
-@MMK_R_percent = [
-### open class 'MMK_R_percent' ###
-percent
-### close class 'MMK_R_percent' ###
-];
-
-### class:88:MMK_R_period ###
-@MMK_R_period = [
-### open class 'MMK_R_period' ###
-period comma
-### close class 'MMK_R_period' ###
-];
-
-### class:89:MMK_R_plus ###
-@MMK_R_plus = [
-### open class 'MMK_R_plus' ###
-plus equal greater less
-### close class 'MMK_R_plus' ###
-];
-
-### class:90:MMK_R_question ###
-@MMK_R_question = [
-### open class 'MMK_R_question' ###
-question
-### close class 'MMK_R_question' ###
-];
-
-### class:91:MMK_R_s ###
-@MMK_R_s = [
-### open class 'MMK_R_s' ###
-s
-### close class 'MMK_R_s' ###
-];
-
-### class:92:MMK_R_seven ###
-@MMK_R_seven = [
-### open class 'MMK_R_seven' ###
-seven
-### close class 'MMK_R_seven' ###
-];
-
-### class:93:MMK_R_six ###
-@MMK_R_six = [
-### open class 'MMK_R_six' ###
-six
-### close class 'MMK_R_six' ###
-];
-
-### class:94:MMK_R_t ###
-@MMK_R_t = [
-### open class 'MMK_R_t' ###
-t
-### close class 'MMK_R_t' ###
-];
-
-### class:95:MMK_R_three ###
-@MMK_R_three = [
-### open class 'MMK_R_three' ###
-three
-### close class 'MMK_R_three' ###
-];
-
-### class:96:MMK_R_tilde ###
-@MMK_R_tilde = [
-### open class 'MMK_R_tilde' ###
-asciitilde
-### close class 'MMK_R_tilde' ###
-];
-
-### class:97:MMK_R_two ###
-@MMK_R_two = [
-### open class 'MMK_R_two' ###
-two
-### close class 'MMK_R_two' ###
-];
-
-### class:98:MMK_R_u ###
-@MMK_R_u = [
-### open class 'MMK_R_u' ###
-u
-### close class 'MMK_R_u' ###
-];
-
-### class:99:MMK_R_v ###
-@MMK_R_v = [
-### open class 'MMK_R_v' ###
-v w
-### close class 'MMK_R_v' ###
-];
-
-### class:100:MMK_R_x ###
-@MMK_R_x = [
-### open class 'MMK_R_x' ###
-x
-### close class 'MMK_R_x' ###
-];
-
-### class:101:MMK_R_y ###
-@MMK_R_y = [
-### open class 'MMK_R_y' ###
-y
-### close class 'MMK_R_y' ###
-];
-
-### class:102:MMK_R_z ###
-@MMK_R_z = [
-### open class 'MMK_R_z' ###
-z
-### close class 'MMK_R_z' ###
-];
-
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:Uppercase ###
-@Uppercase = [
-### open class 'Uppercase' ###
-
-### open class 'Uppercase' ###
-
-### open class 'Uppercase' ###
-
-### open class 'Uppercase' ###
-
-### open class 'Uppercase' ###
- 
-### open class 'Uppercase' ###
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-### close class 'Uppercase' ###
- 
-### close class 'Uppercase' ###
-### close class 'Uppercase' ###
-### close class 'Uppercase' ###
-### close class 'Uppercase' ###
-### close class 'Uppercase' ###
-];
-
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:MMK_L_A ###
-### class:1:MMK_L_B ###
-### class:2:MMK_L_C ###
-### class:3:MMK_L_E ###
-### class:4:MMK_L_F ###
-### class:5:MMK_L_H ###
-### class:6:MMK_L_I ###
-### class:7:MMK_L_K ###
-### class:8:MMK_L_L ###
-### class:9:MMK_L_O ###
-### class:10:MMK_L_P ###
-### class:11:MMK_L_R ###
-### class:12:MMK_L_S ###
-### class:13:MMK_L_T ###
-### class:14:MMK_L_U ###
-### class:15:MMK_L_V ###
-### class:16:MMK_L_X ###
-### class:17:MMK_L_Y ###
-### class:18:MMK_L_Z ###
-### class:19:MMK_L_ampersand ###
-### class:20:MMK_L_asterisk ###
-### class:21:MMK_L_at ###
-### class:22:MMK_L_c ###
-### class:23:MMK_L_d ###
-### class:24:MMK_L_e ###
-### class:25:MMK_L_eight ###
-### class:26:MMK_L_exclam ###
-### class:27:MMK_L_f ###
-### class:28:MMK_L_five ###
-### class:29:MMK_L_four ###
-### class:30:MMK_L_g ###
-### class:31:MMK_L_gravecomb ###
-### class:32:MMK_L_idotless ###
-### class:33:MMK_L_jdotless ###
-### class:34:MMK_L_k ###
-### class:35:MMK_L_l ###
-### class:36:MMK_L_n ###
-### class:37:MMK_L_nine ###
-### class:38:MMK_L_o ###
-### class:39:MMK_L_one ###
-### class:40:MMK_L_percent ###
-### class:41:MMK_L_period ###
-### class:42:MMK_L_plus ###
-### class:43:MMK_L_q ###
-### class:44:MMK_L_question ###
-### class:45:MMK_L_r ###
-### class:46:MMK_L_s ###
-### class:47:MMK_L_seven ###
-### class:48:MMK_L_six ###
-### class:49:MMK_L_t ###
-### class:50:MMK_L_three ###
-### class:51:MMK_L_tildecomb ###
-### class:52:MMK_L_two ###
-### class:53:MMK_L_u ###
-### class:54:MMK_L_v ###
-### class:55:MMK_L_x ###
-### class:56:MMK_L_y ###
-### class:57:MMK_L_z ###
-### class:58:MMK_R_A ###
-### class:59:MMK_R_H ###
-### class:60:MMK_R_I ###
-### class:61:MMK_R_J ###
-### class:62:MMK_R_O ###
-### class:63:MMK_R_S ###
-### class:64:MMK_R_T ###
-### class:65:MMK_R_U ###
-### class:66:MMK_R_V ###
-### class:67:MMK_R_X ###
-### class:68:MMK_R_Y ###
-### class:69:MMK_R_Z ###
-### class:70:MMK_R_a ###
-### class:71:MMK_R_ampersand ###
-### class:72:MMK_R_asterisk ###
-### class:73:MMK_R_at ###
-### class:74:MMK_R_eight ###
-### class:75:MMK_R_exclam ###
-### class:76:MMK_R_f ###
-### class:77:MMK_R_five ###
-### class:78:MMK_R_four ###
-### class:79:MMK_R_g ###
-### class:80:MMK_R_gravecomb ###
-### class:81:MMK_R_idotless ###
-### class:82:MMK_R_jdotless ###
-### class:83:MMK_R_n ###
-### class:84:MMK_R_nine ###
-### class:85:MMK_R_o ###
-### class:86:MMK_R_one ###
-### class:87:MMK_R_percent ###
-### class:88:MMK_R_period ###
-### class:89:MMK_R_plus ###
-### class:90:MMK_R_question ###
-### class:91:MMK_R_s ###
-### class:92:MMK_R_seven ###
-### class:93:MMK_R_six ###
-### class:94:MMK_R_t ###
-### class:95:MMK_R_three ###
-### class:96:MMK_R_tilde ###
-### class:97:MMK_R_two ###
-### class:98:MMK_R_u ###
-### class:99:MMK_R_v ###
-### class:100:MMK_R_x ###
-### class:101:MMK_R_y ###
-### class:102:MMK_R_z ###
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:Uppercase ###
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:Uppercase ###
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:Uppercase ###
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:Uppercase ###
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
-### class:0:Uppercase ###
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
-### close prefix 'Languagesystems' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###
-### close prefix 'Prefix' ###
-
-### feature:-1:kern ###";
-name = Prefix;
-}
-);
-features = (
-{
-code = "### open feature 'kern' ###
-	lookup kern_DFLT {
-		lookupflag IgnoreMarks;
-		pos @MMK_L_eight @MMK_R_A -120;
-		pos @MMK_L_eight @MMK_R_O -80;
-		pos @MMK_L_eight @MMK_R_eight -120;
-		pos @MMK_L_eight @MMK_R_five -120;
-		pos @MMK_L_eight @MMK_R_four -80;
-		pos @MMK_L_eight @MMK_R_nine -160;
-		pos @MMK_L_eight @MMK_R_o -40;
-		pos @MMK_L_eight @MMK_R_one -80;
-		pos @MMK_L_eight @MMK_R_period -200;
-		pos @MMK_L_eight @MMK_R_seven -160;
-		pos @MMK_L_eight @MMK_R_six -80;
-		pos @MMK_L_eight @MMK_R_three -200;
-		pos @MMK_L_eight @MMK_R_two -120;
-		pos @MMK_L_eight hyphen -40;
-		pos @MMK_L_eight quotesingle -160;
-		pos @MMK_L_five @MMK_R_A -160;
-		pos @MMK_L_five @MMK_R_O -40;
-		pos @MMK_L_five @MMK_R_eight -120;
-		pos @MMK_L_five @MMK_R_five -40;
-		pos @MMK_L_five @MMK_R_four -80;
-		pos @MMK_L_five @MMK_R_nine -120;
-		pos @MMK_L_five @MMK_R_o -40;
-		pos @MMK_L_five @MMK_R_period -240;
-		pos @MMK_L_five @MMK_R_seven -80;
-		pos @MMK_L_five @MMK_R_six -120;
-		pos @MMK_L_five @MMK_R_three -80;
-		pos @MMK_L_five @MMK_R_two -80;
-		pos @MMK_L_five hyphen -40;
-		pos @MMK_L_five quotesingle -40;
-		pos @MMK_L_four @MMK_R_A -80;
-		pos @MMK_L_four @MMK_R_eight -40;
-		pos @MMK_L_four @MMK_R_nine -40;
-		pos @MMK_L_four @MMK_R_period -160;
-		pos @MMK_L_four @MMK_R_seven -80;
-		pos @MMK_L_four @MMK_R_three -40;
-		pos @MMK_L_four quotesingle -40;
-		pos @MMK_L_nine @MMK_R_A -200;
-		pos @MMK_L_nine @MMK_R_O -80;
-		pos @MMK_L_nine @MMK_R_eight -120;
-		pos @MMK_L_nine @MMK_R_five -160;
-		pos @MMK_L_nine @MMK_R_four -80;
-		pos @MMK_L_nine @MMK_R_nine -80;
-		pos @MMK_L_nine @MMK_R_one -40;
-		pos @MMK_L_nine @MMK_R_period -360;
-		pos @MMK_L_nine @MMK_R_seven -160;
-		pos @MMK_L_nine @MMK_R_six -120;
-		pos @MMK_L_nine @MMK_R_three -160;
-		pos @MMK_L_nine @MMK_R_two -120;
-		pos @MMK_L_nine quotesingle -40;
-		pos @MMK_L_one @MMK_R_eight -40;
-		pos @MMK_L_one @MMK_R_nine -40;
-		pos @MMK_L_seven @MMK_R_A -320;
-		pos @MMK_L_seven @MMK_R_O -80;
-		pos @MMK_L_seven @MMK_R_eight -160;
-		pos @MMK_L_seven @MMK_R_five -160;
-		pos @MMK_L_seven @MMK_R_four -240;
-		pos @MMK_L_seven @MMK_R_nine -120;
-		pos @MMK_L_seven @MMK_R_o -160;
-		pos @MMK_L_seven @MMK_R_period -480;
-		pos @MMK_L_seven @MMK_R_seven -40;
-		pos @MMK_L_seven @MMK_R_six -200;
-		pos @MMK_L_seven @MMK_R_three -80;
-		pos @MMK_L_seven @MMK_R_two -40;
-		pos @MMK_L_seven hyphen -240;
-		pos @MMK_L_six @MMK_R_A -120;
-		pos @MMK_L_six @MMK_R_O -40;
-		pos @MMK_L_six @MMK_R_eight -80;
-		pos @MMK_L_six @MMK_R_five -80;
-		pos @MMK_L_six @MMK_R_four -40;
-		pos @MMK_L_six @MMK_R_nine -120;
-		pos @MMK_L_six @MMK_R_period -160;
-		pos @MMK_L_six @MMK_R_seven -160;
-		pos @MMK_L_six @MMK_R_six -40;
-		pos @MMK_L_six @MMK_R_three -120;
-		pos @MMK_L_six @MMK_R_two -120;
-		pos @MMK_L_six quotesingle -120;
-		pos @MMK_L_three @MMK_R_A -120;
-		pos @MMK_L_three @MMK_R_O -40;
-		pos @MMK_L_three @MMK_R_eight -120;
-		pos @MMK_L_three @MMK_R_five -80;
-		pos @MMK_L_three @MMK_R_nine -120;
-		pos @MMK_L_three @MMK_R_o -40;
-		pos @MMK_L_three @MMK_R_period -200;
-		pos @MMK_L_three @MMK_R_seven -120;
-		pos @MMK_L_three @MMK_R_six -80;
-		pos @MMK_L_three @MMK_R_three -40;
-		pos @MMK_L_three @MMK_R_two -40;
-		pos @MMK_L_three hyphen -40;
-		pos @MMK_L_three quotesingle -40;
-		pos @MMK_L_two @MMK_R_A -80;
-		pos @MMK_L_two @MMK_R_O -80;
-		pos @MMK_L_two @MMK_R_eight -120;
-		pos @MMK_L_two @MMK_R_five -80;
-		pos @MMK_L_two @MMK_R_four -80;
-		pos @MMK_L_two @MMK_R_nine -120;
-		pos @MMK_L_two @MMK_R_o -80;
-		pos @MMK_L_two @MMK_R_period -160;
-		pos @MMK_L_two @MMK_R_seven -80;
-		pos @MMK_L_two @MMK_R_six -120;
-		pos @MMK_L_two @MMK_R_three -120;
-		pos @MMK_L_two hyphen -80;
-		pos @MMK_L_two quotesingle -40;
-		pos @MMK_L_period @MMK_R_O -40;
-		pos @MMK_L_period @MMK_R_eight -80;
-		pos @MMK_L_period @MMK_R_five -80;
-		pos @MMK_L_period @MMK_R_four -200;
-		pos @MMK_L_period @MMK_R_nine -160;
-		pos @MMK_L_period @MMK_R_seven -120;
-		pos @MMK_L_period @MMK_R_six -120;
-		pos @MMK_L_period @MMK_R_three -120;
-		pos @MMK_L_question @MMK_R_A -120;
-		pos asterisk @MMK_R_A -160;
-		pos hyphen @MMK_R_five -120;
-		pos hyphen @MMK_R_nine -120;
-		pos hyphen @MMK_R_seven -200;
-		pos hyphen @MMK_R_three -120;
-		pos hyphen @MMK_R_two -80;
-		pos numbersign @MMK_R_A -120;
-		pos quotedbl @MMK_R_A -80;
-		pos quotesingle @MMK_R_A -80;
-		pos quotesingle @MMK_R_O -40;
-		pos quotesingle @MMK_R_eight -160;
-		pos quotesingle @MMK_R_five -80;
-		pos quotesingle @MMK_R_four -160;
-		pos quotesingle @MMK_R_nine -40;
-		pos quotesingle @MMK_R_seven -40;
-		pos quotesingle @MMK_R_six -120;
-		pos quotesingle @MMK_R_three -40;
-		pos @MMK_L_plus @MMK_R_A -120;
-	} kern_DFLT;
-	lookup kern_latn {
-		lookupflag IgnoreMarks;
-		pos A question -120;
-		pos J A -80;
-		pos U A -80;
-		pos i l -26;
-		pos @MMK_L_A @MMK_R_J -20;
-		pos @MMK_L_A @MMK_R_O -84;
-		pos @MMK_L_A @MMK_R_T -222;
-		pos @MMK_L_A @MMK_R_U -80;
-		pos @MMK_L_A @MMK_R_V -200;
-		pos @MMK_L_A @MMK_R_Y -194;
-		pos @MMK_L_A @MMK_R_a -50;
-		pos @MMK_L_A @MMK_R_eight -120;
-		pos @MMK_L_A @MMK_R_exclam -40;
-		pos @MMK_L_A @MMK_R_five -80;
-		pos @MMK_L_A @MMK_R_four -40;
-		pos @MMK_L_A @MMK_R_g -30;
-		pos @MMK_L_A @MMK_R_nine -80;
-		pos @MMK_L_A @MMK_R_o -70;
-		pos @MMK_L_A @MMK_R_percent -80;
-		pos @MMK_L_A @MMK_R_plus -120;
-		pos @MMK_L_A @MMK_R_s -10;
-		pos @MMK_L_A @MMK_R_seven -120;
-		pos @MMK_L_A @MMK_R_six -120;
-		pos @MMK_L_A @MMK_R_t -120;
-		pos @MMK_L_A @MMK_R_three -120;
-		pos @MMK_L_A @MMK_R_two -80;
-		pos @MMK_L_A @MMK_R_u -30;
-		pos @MMK_L_A @MMK_R_v -160;
-		pos @MMK_L_A @MMK_R_y -120;
-		pos @MMK_L_A asterisk -160;
-		pos @MMK_L_A numbersign -80;
-		pos @MMK_L_A quotedbl -80;
-		pos @MMK_L_A quotesingle -80;
-		pos @MMK_L_B @MMK_R_A -32;
-		pos @MMK_L_B @MMK_R_O 12;
-		pos @MMK_L_B @MMK_R_S 28;
-		pos @MMK_L_B @MMK_R_T -96;
-		pos @MMK_L_B @MMK_R_V -114;
-		pos @MMK_L_B @MMK_R_X -68;
-		pos @MMK_L_B @MMK_R_Y -132;
-		pos @MMK_L_B @MMK_R_Z -86;
-		pos @MMK_L_C @MMK_R_A -12;
-		pos @MMK_L_C @MMK_R_O -14;
-		pos @MMK_L_C @MMK_R_S 58;
-		pos @MMK_L_C @MMK_R_V -4;
-		pos @MMK_L_C @MMK_R_X -28;
-		pos @MMK_L_C @MMK_R_Y -30;
-		pos @MMK_L_C @MMK_R_Z -44;
-		pos @MMK_L_C @MMK_R_nine -40;
-		pos @MMK_L_C @MMK_R_y -10;
-		pos @MMK_L_E @MMK_R_H -18;
-		pos @MMK_L_E @MMK_R_O -74;
-		pos @MMK_L_E @MMK_R_S 26;
-		pos @MMK_L_E @MMK_R_T 16;
-		pos @MMK_L_E @MMK_R_U -28;
-		pos @MMK_L_E @MMK_R_X 14;
-		pos @MMK_L_E @MMK_R_a -32;
-		pos @MMK_L_E @MMK_R_f -66;
-		pos @MMK_L_E @MMK_R_g -44;
-		pos @MMK_L_E @MMK_R_idotless -14;
-		pos @MMK_L_E @MMK_R_o -80;
-		pos @MMK_L_E @MMK_R_s -30;
-		pos @MMK_L_E @MMK_R_t -118;
-		pos @MMK_L_E @MMK_R_u -54;
-		pos @MMK_L_E @MMK_R_v -152;
-		pos @MMK_L_E @MMK_R_y -154;
-		pos @MMK_L_F @MMK_R_A -236;
-		pos @MMK_L_F @MMK_R_H -10;
-		pos @MMK_L_F @MMK_R_I -24;
-		pos @MMK_L_F @MMK_R_J -286;
-		pos @MMK_L_F @MMK_R_O -70;
-		pos @MMK_L_F @MMK_R_T 56;
-		pos @MMK_L_F @MMK_R_X -30;
-		pos @MMK_L_F @MMK_R_Z -20;
-		pos @MMK_L_F @MMK_R_a -150;
-		pos @MMK_L_F @MMK_R_f -40;
-		pos @MMK_L_F @MMK_R_g -160;
-		pos @MMK_L_F @MMK_R_idotless -40;
-		pos @MMK_L_F @MMK_R_jdotless -40;
-		pos @MMK_L_F @MMK_R_n -110;
-		pos @MMK_L_F @MMK_R_o -146;
-		pos @MMK_L_F @MMK_R_s -130;
-		pos @MMK_L_F @MMK_R_t -80;
-		pos @MMK_L_F @MMK_R_u -80;
-		pos @MMK_L_F @MMK_R_v -120;
-		pos @MMK_L_F @MMK_R_x -120;
-		pos @MMK_L_F @MMK_R_y -120;
-		pos @MMK_L_F @MMK_R_z -140;
-		pos @MMK_L_H @MMK_R_I -14;
-		pos @MMK_L_H @MMK_R_S 26;
-		pos @MMK_L_H @MMK_R_Z -24;
-		pos @MMK_L_I @MMK_R_H -14;
-		pos @MMK_L_I @MMK_R_I -26;
-		pos @MMK_L_I @MMK_R_J -20;
-		pos @MMK_L_I @MMK_R_O -16;
-		pos @MMK_L_I @MMK_R_U -14;
-		pos @MMK_L_I @MMK_R_Z -38;
-		pos @MMK_L_K @MMK_R_J -74;
-		pos @MMK_L_K @MMK_R_O -138;
-		pos @MMK_L_K @MMK_R_S -38;
-		pos @MMK_L_K @MMK_R_X 16;
-		pos @MMK_L_K @MMK_R_a -80;
-		pos @MMK_L_K @MMK_R_f -80;
-		pos @MMK_L_K @MMK_R_g -40;
-		pos @MMK_L_K @MMK_R_o -170;
-		pos @MMK_L_K @MMK_R_s -40;
-		pos @MMK_L_K @MMK_R_t -200;
-		pos @MMK_L_K @MMK_R_u -100;
-		pos @MMK_L_K @MMK_R_v -200;
-		pos @MMK_L_K @MMK_R_y -160;
-		pos @MMK_L_L @MMK_R_H 16;
-		pos @MMK_L_L @MMK_R_I -14;
-		pos @MMK_L_L @MMK_R_O -110;
-		pos @MMK_L_L @MMK_R_T -236;
-		pos @MMK_L_L @MMK_R_U -104;
-		pos @MMK_L_L @MMK_R_V -224;
-		pos @MMK_L_L @MMK_R_Y -252;
-		pos @MMK_L_L @MMK_R_t -80;
-		pos @MMK_L_L @MMK_R_v -160;
-		pos @MMK_L_L @MMK_R_y -120;
-		pos @MMK_L_O @MMK_R_A -84;
-		pos @MMK_L_O @MMK_R_H 18;
-		pos @MMK_L_O @MMK_R_J -84;
-		pos @MMK_L_O @MMK_R_O 8;
-		pos @MMK_L_O @MMK_R_S 14;
-		pos @MMK_L_O @MMK_R_T -98;
-		pos @MMK_L_O @MMK_R_V -82;
-		pos @MMK_L_O @MMK_R_X -136;
-		pos @MMK_L_O @MMK_R_Y -118;
-		pos @MMK_L_O @MMK_R_Z -112;
-		pos @MMK_L_O @MMK_R_eight -80;
-		pos @MMK_L_O @MMK_R_five -40;
-		pos @MMK_L_O @MMK_R_four -40;
-		pos @MMK_L_O @MMK_R_nine -80;
-		pos @MMK_L_O @MMK_R_period -160;
-		pos @MMK_L_O @MMK_R_seven -120;
-		pos @MMK_L_O @MMK_R_six -40;
-		pos @MMK_L_O @MMK_R_three -120;
-		pos @MMK_L_O @MMK_R_two -80;
-		pos @MMK_L_P @MMK_R_A -198;
-		pos @MMK_L_P @MMK_R_J -280;
-		pos @MMK_L_P @MMK_R_S 34;
-		pos @MMK_L_P @MMK_R_T -32;
-		pos @MMK_L_P @MMK_R_V -34;
-		pos @MMK_L_P @MMK_R_X -134;
-		pos @MMK_L_P @MMK_R_Y -68;
-		pos @MMK_L_P @MMK_R_Z -78;
-		pos @MMK_L_P @MMK_R_g -120;
-		pos @MMK_L_P @MMK_R_o -80;
-		pos @MMK_L_R @MMK_R_H -18;
-		pos @MMK_L_R @MMK_R_I -38;
-		pos @MMK_L_R @MMK_R_J -74;
-		pos @MMK_L_R @MMK_R_O -112;
-		pos @MMK_L_R @MMK_R_S -42;
-		pos @MMK_L_R @MMK_R_T -174;
-		pos @MMK_L_R @MMK_R_U -114;
-		pos @MMK_L_R @MMK_R_V -198;
-		pos @MMK_L_R @MMK_R_Y -198;
-		pos @MMK_L_R @MMK_R_Z -42;
-		pos @MMK_L_R @MMK_R_a -80;
-		pos @MMK_L_R @MMK_R_f -70;
-		pos @MMK_L_R @MMK_R_g -80;
-		pos @MMK_L_R @MMK_R_idotless -80;
-		pos @MMK_L_R @MMK_R_n -40;
-		pos @MMK_L_R @MMK_R_o -120;
-		pos @MMK_L_R @MMK_R_s -80;
-		pos @MMK_L_R @MMK_R_t -124;
-		pos @MMK_L_R @MMK_R_u -80;
-		pos @MMK_L_R @MMK_R_v -160;
-		pos @MMK_L_R @MMK_R_y -160;
-		pos @MMK_L_R @MMK_R_z -10;
-		pos @MMK_L_S @MMK_R_H 44;
-		pos @MMK_L_S @MMK_R_I 26;
-		pos @MMK_L_S @MMK_R_O 60;
-		pos @MMK_L_S @MMK_R_S 84;
-		pos @MMK_L_S @MMK_R_U 22;
-		pos @MMK_L_S @MMK_R_V -28;
-		pos @MMK_L_S @MMK_R_Y -62;
-		pos @MMK_L_S @MMK_R_Z -28;
-		pos @MMK_L_S @MMK_R_nine -40;
-		pos @MMK_L_S @MMK_R_seven -40;
-		pos @MMK_L_S @MMK_R_three -40;
-		pos @MMK_L_T @MMK_R_A -222;
-		pos @MMK_L_T @MMK_R_J -238;
-		pos @MMK_L_T @MMK_R_O -98;
-		pos @MMK_L_T @MMK_R_T 30;
-		pos @MMK_L_T @MMK_R_V 16;
-		pos @MMK_L_T @MMK_R_a -320;
-		pos @MMK_L_T @MMK_R_f -40;
-		pos @MMK_L_T @MMK_R_g -320;
-		pos @MMK_L_T @MMK_R_jdotless -40;
-		pos @MMK_L_T @MMK_R_n -240;
-		pos @MMK_L_T @MMK_R_o -280;
-		pos @MMK_L_T @MMK_R_s -280;
-		pos @MMK_L_T @MMK_R_t -160;
-		pos @MMK_L_T @MMK_R_u -80;
-		pos @MMK_L_T @MMK_R_v -200;
-		pos @MMK_L_T @MMK_R_x -200;
-		pos @MMK_L_T @MMK_R_y -200;
-		pos @MMK_L_T @MMK_R_z -160;
-		pos @MMK_L_U @MMK_R_A -50;
-		pos @MMK_L_U @MMK_R_I -14;
-		pos @MMK_L_U @MMK_R_J -86;
-		pos @MMK_L_U @MMK_R_O 32;
-		pos @MMK_L_U @MMK_R_S 38;
-		pos @MMK_L_U @MMK_R_V 20;
-		pos @MMK_L_U @MMK_R_X -46;
-		pos @MMK_L_U @MMK_R_Z -46;
-		pos @MMK_L_U @MMK_R_a -10;
-		pos @MMK_L_U @MMK_R_g -60;
-		pos @MMK_L_V @MMK_R_A -200;
-		pos @MMK_L_V @MMK_R_J -250;
-		pos @MMK_L_V @MMK_R_O -82;
-		pos @MMK_L_V @MMK_R_T 16;
-		pos @MMK_L_V @MMK_R_X -40;
-		pos @MMK_L_V @MMK_R_Z -14;
-		pos @MMK_L_V @MMK_R_a -240;
-		pos @MMK_L_V @MMK_R_f -80;
-		pos @MMK_L_V @MMK_R_g -200;
-		pos @MMK_L_V @MMK_R_idotless -80;
-		pos @MMK_L_V @MMK_R_jdotless -40;
-		pos @MMK_L_V @MMK_R_n -120;
-		pos @MMK_L_V @MMK_R_o -200;
-		pos @MMK_L_V @MMK_R_s -200;
-		pos @MMK_L_V @MMK_R_u -80;
-		pos @MMK_L_V @MMK_R_v -80;
-		pos @MMK_L_V @MMK_R_x -80;
-		pos @MMK_L_V @MMK_R_y -80;
-		pos @MMK_L_V @MMK_R_z -120;
-		pos @MMK_L_X @MMK_R_J -62;
-		pos @MMK_L_X @MMK_R_O -134;
-		pos @MMK_L_X @MMK_R_S -12;
-		pos @MMK_L_X @MMK_R_U -46;
-		pos @MMK_L_X @MMK_R_V -40;
-		pos @MMK_L_X @MMK_R_Y -34;
-		pos @MMK_L_X @MMK_R_g -40;
-		pos @MMK_L_X @MMK_R_n -40;
-		pos @MMK_L_X @MMK_R_o -120;
-		pos @MMK_L_X @MMK_R_s -40;
-		pos @MMK_L_X @MMK_R_t -120;
-		pos @MMK_L_X @MMK_R_u -80;
-		pos @MMK_L_X @MMK_R_v -160;
-		pos @MMK_L_X @MMK_R_y -160;
-		pos @MMK_L_Y @MMK_R_A -192;
-		pos @MMK_L_Y @MMK_R_J -252;
-		pos @MMK_L_Y @MMK_R_O -116;
-		pos @MMK_L_Y @MMK_R_X -34;
-		pos @MMK_L_Y @MMK_R_eight -80;
-		pos @MMK_L_Y @MMK_R_f -120;
-		pos @MMK_L_Y @MMK_R_five -80;
-		pos @MMK_L_Y @MMK_R_four -80;
-		pos @MMK_L_Y @MMK_R_g -320;
-		pos @MMK_L_Y @MMK_R_idotless -80;
-		pos @MMK_L_Y @MMK_R_jdotless -40;
-		pos @MMK_L_Y @MMK_R_n -200;
-		pos @MMK_L_Y @MMK_R_nine -40;
-		pos @MMK_L_Y @MMK_R_o -270;
-		pos @MMK_L_Y @MMK_R_s -280;
-		pos @MMK_L_Y @MMK_R_seven -40;
-		pos @MMK_L_Y @MMK_R_six -80;
-		pos @MMK_L_Y @MMK_R_t -200;
-		pos @MMK_L_Y @MMK_R_three -40;
-		pos @MMK_L_Y @MMK_R_two -40;
-		pos @MMK_L_Y @MMK_R_u -200;
-		pos @MMK_L_Y @MMK_R_v -160;
-		pos @MMK_L_Y @MMK_R_x -160;
-		pos @MMK_L_Y @MMK_R_y -160;
-		pos @MMK_L_Y @MMK_R_z -200;
-		pos @MMK_L_Z @MMK_R_I -14;
-		pos @MMK_L_Z @MMK_R_O -86;
-		pos @MMK_L_Z @MMK_R_S 18;
-		pos @MMK_L_Z @MMK_R_X 20;
-		pos @MMK_L_Z @MMK_R_o -40;
-		pos @MMK_L_Z @MMK_R_t -80;
-		pos @MMK_L_Z @MMK_R_v -200;
-		pos @MMK_L_Z @MMK_R_y -80;
-		pos @MMK_L_c @MMK_R_f 28;
-		pos @MMK_L_c @MMK_R_x 20;
-		pos @MMK_L_d @MMK_R_a -26;
-		pos @MMK_L_d @MMK_R_g -42;
-		pos @MMK_L_d @MMK_R_idotless -18;
-		pos @MMK_L_d @MMK_R_o -12;
-		pos @MMK_L_d @MMK_R_s -16;
-		pos @MMK_L_d @MMK_R_y -14;
-		pos @MMK_L_e @MMK_R_A -52;
-		pos @MMK_L_e @MMK_R_a -12;
-		pos @MMK_L_e @MMK_R_f -12;
-		pos @MMK_L_e @MMK_R_g -56;
-		pos @MMK_L_e @MMK_R_idotless -24;
-		pos @MMK_L_e @MMK_R_t -38;
-		pos @MMK_L_e @MMK_R_v -64;
-		pos @MMK_L_e @MMK_R_x -34;
-		pos @MMK_L_e @MMK_R_y -76;
-		pos @MMK_L_e @MMK_R_z -32;
-		pos @MMK_L_f @MMK_R_A -150;
-		pos @MMK_L_f @MMK_R_V 22;
-		pos @MMK_L_f @MMK_R_a -52;
-		pos @MMK_L_f @MMK_R_f 36;
-		pos @MMK_L_f @MMK_R_g -64;
-		pos @MMK_L_f @MMK_R_o -58;
-		pos @MMK_L_f @MMK_R_s -26;
-		pos @MMK_L_f @MMK_R_z -12;
-		pos @MMK_L_g @MMK_R_a -34;
-		pos @MMK_L_g @MMK_R_f 30;
-		pos @MMK_L_g @MMK_R_g 50;
-		pos @MMK_L_g @MMK_R_jdotless 144;
-		pos @MMK_L_g @MMK_R_o -32;
-		pos @MMK_L_g @MMK_R_x 40;
-		pos @MMK_L_idotless @MMK_R_A -20;
-		pos @MMK_L_idotless @MMK_R_H -18;
-		pos @MMK_L_idotless @MMK_R_a -40;
-		pos @MMK_L_idotless @MMK_R_g -52;
-		pos @MMK_L_idotless @MMK_R_idotless -36;
-		pos @MMK_L_idotless @MMK_R_jdotless -18;
-		pos @MMK_L_idotless @MMK_R_n -28;
-		pos @MMK_L_idotless @MMK_R_o -30;
-		pos @MMK_L_idotless @MMK_R_s -30;
-		pos @MMK_L_idotless @MMK_R_t -24;
-		pos @MMK_L_idotless @MMK_R_v -22;
-		pos @MMK_L_idotless @MMK_R_y -28;
-		pos @MMK_L_idotless @MMK_R_z -16;
-		pos @MMK_L_jdotless @MMK_R_a -32;
-		pos @MMK_L_jdotless @MMK_R_idotless -14;
-		pos @MMK_L_jdotless @MMK_R_jdotless 48;
-		pos @MMK_L_jdotless @MMK_R_s -12;
-		pos @MMK_L_k @MMK_R_H -38;
-		pos @MMK_L_k @MMK_R_a -74;
-		pos @MMK_L_k @MMK_R_g -48;
-		pos @MMK_L_k @MMK_R_o -108;
-		pos @MMK_L_k @MMK_R_s -46;
-		pos @MMK_L_k @MMK_R_t -54;
-		pos @MMK_L_k @MMK_R_u -36;
-		pos @MMK_L_k @MMK_R_v -48;
-		pos @MMK_L_k @MMK_R_x 38;
-		pos @MMK_L_k @MMK_R_y -50;
-		pos @MMK_L_l @MMK_R_A 12;
-		pos @MMK_L_l @MMK_R_H -30;
-		pos @MMK_L_l @MMK_R_f -68;
-		pos @MMK_L_l @MMK_R_g -38;
-		pos @MMK_L_l @MMK_R_idotless -16;
-		pos @MMK_L_l @MMK_R_o -34;
-		pos @MMK_L_l @MMK_R_t -130;
-		pos @MMK_L_l @MMK_R_u -30;
-		pos @MMK_L_l @MMK_R_v -156;
-		pos @MMK_L_l @MMK_R_y -158;
-		pos @MMK_L_n @MMK_R_H -12;
-		pos @MMK_L_n @MMK_R_V -186;
-		pos @MMK_L_n @MMK_R_f -18;
-		pos @MMK_L_n @MMK_R_g -30;
-		pos @MMK_L_n @MMK_R_t -38;
-		pos @MMK_L_n @MMK_R_v -72;
-		pos @MMK_L_n @MMK_R_y -80;
-		pos @MMK_L_o @MMK_R_A -70;
-		pos @MMK_L_o @MMK_R_H -12;
-		pos @MMK_L_o @MMK_R_a -22;
-		pos @MMK_L_o @MMK_R_f -38;
-		pos @MMK_L_o @MMK_R_g -42;
-		pos @MMK_L_o @MMK_R_idotless -30;
-		pos @MMK_L_o @MMK_R_jdotless -12;
-		pos @MMK_L_o @MMK_R_n -12;
-		pos @MMK_L_o @MMK_R_s -12;
-		pos @MMK_L_o @MMK_R_t -58;
-		pos @MMK_L_o @MMK_R_v -82;
-		pos @MMK_L_o @MMK_R_x -74;
-		pos @MMK_L_o @MMK_R_y -100;
-		pos @MMK_L_o @MMK_R_z -72;
-		pos @MMK_L_q @MMK_R_H -16;
-		pos @MMK_L_q @MMK_R_a -26;
-		pos @MMK_L_q @MMK_R_idotless -28;
-		pos @MMK_L_q @MMK_R_jdotless 76;
-		pos @MMK_L_q @MMK_R_o -12;
-		pos @MMK_L_q @MMK_R_s -16;
-		pos @MMK_L_r @MMK_R_A -78;
-		pos @MMK_L_r @MMK_R_a -36;
-		pos @MMK_L_r @MMK_R_f 28;
-		pos @MMK_L_r @MMK_R_g -52;
-		pos @MMK_L_r @MMK_R_o -58;
-		pos @MMK_L_r @MMK_R_v 26;
-		pos @MMK_L_r @MMK_R_y 22;
-		pos @MMK_L_s @MMK_R_A -28;
-		pos @MMK_L_s @MMK_R_H -14;
-		pos @MMK_L_s @MMK_R_f -16;
-		pos @MMK_L_s @MMK_R_g -54;
-		pos @MMK_L_s @MMK_R_idotless -30;
-		pos @MMK_L_s @MMK_R_jdotless -14;
-		pos @MMK_L_s @MMK_R_n -14;
-		pos @MMK_L_s @MMK_R_t -46;
-		pos @MMK_L_s @MMK_R_v -52;
-		pos @MMK_L_s @MMK_R_x -32;
-		pos @MMK_L_s @MMK_R_y -54;
-		pos @MMK_L_s @MMK_R_z -46;
-		pos @MMK_L_t @MMK_R_A 10;
-		pos @MMK_L_t @MMK_R_H -12;
-		pos @MMK_L_t @MMK_R_V -128;
-		pos @MMK_L_t @MMK_R_g -36;
-		pos @MMK_L_t @MMK_R_idotless -22;
-		pos @MMK_L_t @MMK_R_o -44;
-		pos @MMK_L_t @MMK_R_x 24;
-		pos @MMK_L_u @MMK_R_H -16;
-		pos @MMK_L_u @MMK_R_a -26;
-		pos @MMK_L_u @MMK_R_g -42;
-		pos @MMK_L_u @MMK_R_idotless -28;
-		pos @MMK_L_u @MMK_R_o -12;
-		pos @MMK_L_u @MMK_R_s -16;
-		pos @MMK_L_u @MMK_R_y -14;
-		pos @MMK_L_v @MMK_R_A -170;
-		pos @MMK_L_v @MMK_R_a -78;
-		pos @MMK_L_v @MMK_R_g -106;
-		pos @MMK_L_v @MMK_R_idotless -20;
-		pos @MMK_L_v @MMK_R_o -82;
-		pos @MMK_L_v @MMK_R_s -48;
-		pos @MMK_L_v @MMK_R_z -16;
-		pos @MMK_L_x @MMK_R_H 18;
-		pos @MMK_L_x @MMK_R_a -16;
-		pos @MMK_L_x @MMK_R_f 44;
-		pos @MMK_L_x @MMK_R_jdotless 18;
-		pos @MMK_L_x @MMK_R_n 18;
-		pos @MMK_L_x @MMK_R_o -68;
-		pos @MMK_L_x @MMK_R_x 74;
-		pos @MMK_L_x @MMK_R_z 34;
-		pos @MMK_L_y @MMK_R_A -170;
-		pos @MMK_L_y @MMK_R_a -80;
-		pos @MMK_L_y @MMK_R_g -108;
-		pos @MMK_L_y @MMK_R_idotless -24;
-		pos @MMK_L_y @MMK_R_o -82;
-		pos @MMK_L_y @MMK_R_s -50;
-		pos @MMK_L_y @MMK_R_z -18;
-		pos @MMK_L_z @MMK_R_a -30;
-		pos @MMK_L_z @MMK_R_g -40;
-		pos @MMK_L_z @MMK_R_idotless -16;
-		pos @MMK_L_z @MMK_R_o -68;
-		pos @MMK_L_z @MMK_R_v -18;
-		pos @MMK_L_z @MMK_R_x 32;
-		pos @MMK_L_z @MMK_R_y -20;
-	} kern_latn;
-	lookupflag 0;
-### close feature 'kern' ###";
 disabled = 1;
-tag = kern;
+name = Languagesystems;
 }
 );
 fontMaster = (
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -5809,18 +234,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -5950,7 +364,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -5966,18 +382,7 @@ axesValues = (
 100,
 450,
 -20,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -6107,7 +512,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -6123,18 +530,7 @@ axesValues = (
 100,
 450,
 33,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -6264,7 +660,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -6280,18 +678,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -6416,7 +803,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -6432,18 +821,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -6568,7 +946,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -6584,18 +964,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -6720,7 +1089,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 5,
 110,
 100,
@@ -6736,18 +1107,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -6872,7 +1232,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 140,
 110,
 100,
@@ -6888,18 +1250,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -7024,7 +1375,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -7040,18 +1393,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -7176,7 +1518,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -7192,18 +1536,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -7328,7 +1661,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -7344,18 +1679,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -7480,7 +1804,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -7496,18 +1822,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -7632,7 +1947,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -7648,18 +1965,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -7784,7 +2090,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -7800,18 +2108,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -7936,7 +2233,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -7952,18 +2251,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -8088,7 +2376,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -8104,18 +2394,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -8240,7 +2519,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -8256,18 +2537,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -8392,7 +2662,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -8408,18 +2680,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-405,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+405
 );
 customParameters = (
 {
@@ -8550,7 +2811,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -8566,18 +2829,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-585,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+585
 );
 customParameters = (
 {
@@ -8708,7 +2960,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -8724,18 +2978,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -8865,7 +3108,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -8881,18 +3126,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -9022,7 +3256,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -9038,18 +3274,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -9179,7 +3404,9 @@ KernOnModels = (
 },
 {
 axesValues = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -9195,18 +3422,7 @@ axesValues = (
 100,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 customParameters = (
 {
@@ -10157,7 +4373,9 @@ width = 1092;
 associatedMasterId = m001;
 attr = {
 coordinates = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -10173,18 +4391,7 @@ coordinates = (
 225,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 };
 background = {
@@ -10294,7 +4501,9 @@ width = 1092;
 associatedMasterId = m001;
 attr = {
 coordinates = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -10310,18 +4519,7 @@ coordinates = (
 60,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 };
 background = {
@@ -13530,7 +7728,7 @@ color = 4;
 glyphname = E;
 kernLeft = H;
 kernRight = E;
-lastChange = "2026-11-16 21:45:34 +0000";
+lastChange = "2026-11-18 19:42:14 +0000";
 layers = (
 {
 guides = (
@@ -13616,128 +7814,6 @@ nodes = (
 (786,650,l),
 (786,850,l),
 (210,850,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,1200,l),
-(940,1200,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,200,l),
-(320,200,l)
-);
-}
-);
-width = 1028;
-},
-{
-associatedMasterId = m001;
-attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-8,
-8,
-357,
-357,
-357,
-225,
-450,
-0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-};
-layerId = "2F840F14-E5DB-4957-BEF6-178E0207FD1C";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,470,l),
-(786,470,l),
-(786,920,l),
-(210,920,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,930,l),
-(940,930,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,460,l),
-(320,460,l)
-);
-}
-);
-width = 1028;
-},
-{
-associatedMasterId = m001;
-attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-8,
-8,
-357,
-357,
-357,
-60,
-450,
-0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
-);
-};
-layerId = "4AF8EBF1-BAEA-4298-9951-913084845AEF";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,690,l),
-(786,690,l),
-(786,810,l),
-(210,810,l)
 );
 },
 {
@@ -14239,342 +8315,6 @@ nodes = (
 width = 1028;
 },
 {
-associatedMasterId = m018;
-layerId = "8E2C7CDC-45FC-46B4-8249-9692FFEFECEA";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 225, 450}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,470,l),
-(786,470,l),
-(786,920,l),
-(210,920,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,930,l),
-(940,930,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,460,l),
-(320,460,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-225,
-450
-);
-};
-com.schriftgestaltung.layerId = "3C815986-7C8E-488B-A331-FF71F2591BA3";
-};
-width = 1028;
-},
-{
-associatedMasterId = m018;
-layerId = "E442A976-9648-45A7-A078-F7F801103046";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 60, 450}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,690,l),
-(786,690,l),
-(786,810,l),
-(210,810,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,1200,l),
-(940,1200,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,200,l),
-(320,200,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-60,
-450
-);
-};
-com.schriftgestaltung.layerId = "1CCEEEF7-C7DD-4E74-9D08-C1AF0E1DF2B6";
-};
-width = 1028;
-},
-{
-associatedMasterId = m018;
-layerId = "AE1D69D0-BAAF-44DC-9091-FBA76A2FE478";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 225, 450, 0, 0, 0, 0}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,470,l),
-(786,470,l),
-(786,920,l),
-(210,920,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,930,l),
-(940,930,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,460,l),
-(320,460,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-225,
-450,
-0,
-0,
-0,
-0
-);
-};
-com.schriftgestaltung.layerId = "E6FB8626-CCA5-4A0B-BFB7-866F5E27BB48";
-};
-width = 1028;
-},
-{
-associatedMasterId = m018;
-layerId = "ACF665A4-C15E-4D81-8C99-726185B50B24";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 60, 450, 0, 0, 0, 0}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,690,l),
-(786,690,l),
-(786,810,l),
-(210,810,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,1200,l),
-(940,1200,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,200,l),
-(320,200,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-60,
-450,
-0,
-0,
-0,
-0
-);
-};
-com.schriftgestaltung.layerId = "C1FEE2FA-864F-4806-9257-A62246BB6DE2";
-};
-width = 1028;
-},
-{
-associatedMasterId = m018;
-layerId = "1FD4D2CA-C18D-4363-848E-3F754FD2C3E7";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 225, 450, 0, 0, 0, 0, 0}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,470,l),
-(786,470,l),
-(786,920,l),
-(210,920,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,930,l),
-(940,930,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,460,l),
-(320,460,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-225,
-450,
-0,
-0,
-0,
-0,
-0
-);
-};
-com.schriftgestaltung.layerId = "6704BD1F-C4F2-42AA-A23F-CB95055E7BD2";
-};
-width = 1028;
-},
-{
-associatedMasterId = m018;
-layerId = "278273DB-FCBB-4701-A1A3-7E105E835D46";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 60, 450, 0, 0, 0, 0, 0}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,690,l),
-(786,690,l),
-(786,810,l),
-(210,810,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,1200,l),
-(940,1200,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,200,l),
-(320,200,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-60,
-450,
-0,
-0,
-0,
-0,
-0
-);
-};
-com.schriftgestaltung.layerId = "82EB9EBA-270D-4AAE-8974-E152C9F7F6BE";
-};
-width = 1028;
-},
-{
 guides = (
 {
 angle = 90;
@@ -14606,342 +8346,6 @@ nodes = (
 );
 }
 );
-width = 1028;
-},
-{
-associatedMasterId = m019;
-layerId = "2FBF9CA1-F9BB-4FC5-A20C-DAF1268452E1";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 225, 450}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,470,l),
-(786,470,l),
-(786,920,l),
-(210,920,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,930,l),
-(940,930,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,460,l),
-(320,460,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-225,
-450
-);
-};
-com.schriftgestaltung.layerId = "FD21C1EC-AF98-45AD-829D-B420CC3901C4";
-};
-width = 1028;
-},
-{
-associatedMasterId = m019;
-layerId = "FDABD88B-90FE-4D8B-8AFE-B3569EF74530";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 60, 450}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,690,l),
-(786,690,l),
-(786,810,l),
-(210,810,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,1200,l),
-(940,1200,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,200,l),
-(320,200,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-60,
-450
-);
-};
-com.schriftgestaltung.layerId = "BEB8C54D-D13A-4D06-9CA5-7333034AC1DD";
-};
-width = 1028;
-},
-{
-associatedMasterId = m019;
-layerId = "14CB8EDD-F6F9-4EF9-A6D7-0641FE2D6785";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 225, 450, 0, 0, 0, 0}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,470,l),
-(786,470,l),
-(786,920,l),
-(210,920,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,930,l),
-(940,930,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,460,l),
-(320,460,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-225,
-450,
-0,
-0,
-0,
-0
-);
-};
-com.schriftgestaltung.layerId = "9ADDF6B2-D90E-4DC3-81EF-048264B5F66C";
-};
-width = 1028;
-},
-{
-associatedMasterId = m019;
-layerId = "F17DC3EF-DD18-4C29-A0BF-1E197D49BC12";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 60, 450, 0, 0, 0, 0}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,690,l),
-(786,690,l),
-(786,810,l),
-(210,810,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,1200,l),
-(940,1200,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,200,l),
-(320,200,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-60,
-450,
-0,
-0,
-0,
-0
-);
-};
-com.schriftgestaltung.layerId = "E405D07D-B89A-4128-ABC2-6ECDC39FBBF1";
-};
-width = 1028;
-},
-{
-associatedMasterId = m019;
-layerId = "5249EBC3-4FF4-4876-8EBF-8B8D358BDC4E";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 225, 450, 0, 0, 0, 0, 0}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,470,l),
-(786,470,l),
-(786,920,l),
-(210,920,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,930,l),
-(940,930,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,460,l),
-(320,460,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-225,
-450,
-0,
-0,
-0,
-0,
-0
-);
-};
-com.schriftgestaltung.layerId = "09F0F967-61F7-40BA-BEC9-F931E96FDCC5";
-};
-width = 1028;
-},
-{
-associatedMasterId = m019;
-layerId = "B98EC744-6599-42BB-A763-1E30FD9B1CFD";
-name = "{400, 72,5, 110, 100, 110, 110, 100, 100, 92, 92, 357, 357, 357, 60, 450, 0, 0, 0, 0, 0}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(210,690,l),
-(786,690,l),
-(786,810,l),
-(210,810,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(320,1200,l),
-(940,1200,l),
-(940,1400,l),
-(100,1400,l),
-(100,0,l),
-(980,0,l),
-(980,200,l),
-(320,200,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.Glyphs.lastChange = "2026-11-16 21:45:34 +0000";
-com.schriftgestaltung.attr = {
-coordinates = (
-400,
-72.5,
-110,
-100,
-110,
-110,
-100,
-100,
-92,
-92,
-357,
-357,
-357,
-60,
-450,
-0,
-0,
-0,
-0,
-0
-);
-};
-com.schriftgestaltung.layerId = "B2C4F738-9D6A-457A-AFAE-7C4B8FFC44D2";
-};
 width = 1028;
 },
 {
@@ -15190,7 +8594,9 @@ width = 988;
 associatedMasterId = m001;
 attr = {
 coordinates = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -15206,18 +8612,7 @@ coordinates = (
 60,
 450,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 };
 layerId = "1931E220-5E25-4761-B811-257FDBA0FB61";
@@ -19691,7 +13086,7 @@ color = 4;
 glyphname = L;
 kernLeft = H;
 kernRight = L;
-lastChange = "2026-10-19 20:57:10 +0000";
+lastChange = "2026-11-18 20:04:19 +0000";
 layers = (
 {
 layerId = m001;
@@ -19946,8 +13341,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(440,0,l),
-(440,200,l),
+(480,0,l),
+(480,200,l),
 (320,200,l),
 (320,1400,l),
 (100,1400,l),
@@ -19955,7 +13350,7 @@ nodes = (
 );
 }
 );
-width = 464;
+width = 504;
 },
 {
 layerId = m015;
@@ -21148,7 +14543,7 @@ color = 4;
 glyphname = O;
 kernLeft = O;
 kernRight = O;
-lastChange = "2026-09-24 14:29:13 +0000";
+lastChange = "2026-11-18 19:57:35 +0000";
 layers = (
 {
 guides = (
@@ -22049,11 +15444,11 @@ width = 540;
 guides = (
 {
 angle = 180;
-pos = (595,351);
+pos = (515,351);
 },
 {
 angle = 90;
-pos = (595,351);
+pos = (515,351);
 }
 );
 layerId = m015;
@@ -22061,39 +15456,39 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1524,-20,o),
-(1944,298,o),
-(1944,702,cs),
-(1944,1106,o),
-(1524,1424,o),
-(990,1424,cs),
-(456,1424,o),
+(1399,-20,o),
+(1784,298,o),
+(1784,702,cs),
+(1784,1106,o),
+(1399,1424,o),
+(910,1424,cs),
+(421,1424,o),
 (36,1106,o),
 (36,702,cs),
 (36,298,o),
-(456,-20,o),
-(990,-20,cs)
+(421,-20,o),
+(910,-20,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(582,184,o),
+(547,184,o),
 (260,412,o),
 (260,702,cs),
 (260,992,o),
-(582,1220,o),
-(990,1220,cs),
-(1398,1220,o),
-(1720,992,o),
-(1720,702,cs),
-(1720,412,o),
-(1398,184,o),
-(990,184,cs)
+(547,1220,o),
+(910,1220,cs),
+(1273,1220,o),
+(1560,992,o),
+(1560,702,cs),
+(1560,412,o),
+(1273,184,o),
+(910,184,cs)
 );
 }
 );
-width = 1980;
+width = 1820;
 },
 {
 guides = (
@@ -27026,7 +20421,7 @@ color = 4;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2026-11-16 21:37:57 +0000";
+lastChange = "2026-11-18 20:04:28 +0000";
 layers = (
 {
 guides = (
@@ -27376,8 +20771,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(560,1200,l),
-(560,1400,l),
+(600,1200,l),
+(600,1400,l),
 (40,1400,l),
 (40,1200,l)
 );
@@ -27385,14 +20780,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(190,1300,l),
-(190,0,l),
-(410,0,l),
-(410,1300,l)
+(210,1300,l),
+(210,0,l),
+(430,0,l),
+(430,1300,l)
 );
 }
 );
-width = 600;
+width = 640;
 },
 {
 background = {
@@ -50398,7 +43793,9 @@ width = 1110;
 associatedMasterId = m001;
 attr = {
 coordinates = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -50414,18 +43811,7 @@ coordinates = (
 100,
 660,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 };
 layerId = "1B00CD56-FE66-4A33-8B11-8C1AA92E290B";
@@ -50488,7 +43874,9 @@ width = 1110;
 associatedMasterId = m001;
 attr = {
 coordinates = (
+14,
 400,
+100,
 72.5,
 110,
 100,
@@ -50504,18 +43892,7 @@ coordinates = (
 100,
 300,
 0,
-14,
-100,
-475,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0,
-0
+475
 );
 };
 layerId = "E253B75B-7865-4C45-8C61-FB1B9F173E6E";
