@@ -126,6 +126,12 @@
         <key>tag</key>
         <string>XNCT</string>
       </dict>
+      <dict>
+        <key>name</key>
+        <string>YTOS</string>
+        <key>tag</key>
+        <string>YTOS</string>
+      </dict>
     </array>
     <key>com.schriftgestaltung.axesValues</key>
     <array>
@@ -148,6 +154,7 @@
       <integer>450</integer>
       <integer>0</integer>
       <integer>475</integer>
+      <integer>10</integer>
       <integer>10</integer>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
@@ -258,7 +265,31 @@
             <key>Axis</key>
             <string>XNCT</string>
             <key>Location</key>
-            <integer>0</integer>
+            <real>0.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>width</string>
+            <key>Location</key>
+            <real>50.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>YTOS</string>
+            <key>Location</key>
+            <real>0.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>XOUC</string>
+            <key>Location</key>
+            <integer>10</integer>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>XOLC</string>
+            <key>Location</key>
+            <integer>10</integer>
           </dict>
         </array>
       </dict>
@@ -269,9 +300,21 @@
         <array>
           <dict>
             <key>Axis</key>
+            <string>wght</string>
+            <key>Location</key>
+            <real>1000.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
             <string>opsz</string>
             <key>Location</key>
-            <real>14.0</real>
+            <real>144.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>width</string>
+            <key>Location</key>
+            <real>200.0</real>
           </dict>
           <dict>
             <key>Axis</key>
@@ -281,9 +324,9 @@
           </dict>
           <dict>
             <key>Axis</key>
-            <string>wght</string>
+            <string>YTOS</string>
             <key>Location</key>
-            <real>1000.0</real>
+            <integer>20</integer>
           </dict>
         </array>
       </dict>
@@ -397,18 +440,5 @@
       <string>percent</string>
       <string>grave</string>
     </array>
-    <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
-    <dict>
-      <key>ascender</key>
-      <integer>32</integer>
-      <key>baseline</key>
-      <integer>-32</integer>
-      <key>capHeight</key>
-      <integer>32</integer>
-      <key>descender</key>
-      <integer>-32</integer>
-      <key>xHeight</key>
-      <integer>32</integer>
-    </dict>
   </dict>
 </plist>

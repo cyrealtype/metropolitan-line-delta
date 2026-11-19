@@ -2,9 +2,6 @@
 <glyph name="B" format="2">
   <advance width="1092"/>
   <unicode hex="0042"/>
-  <guideline x="321" y="760" angle="180"/>
-  <guideline x="210" y="764" angle="0"/>
-  <guideline x="752" y="798" angle="0"/>
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
@@ -12,11 +9,12 @@
       <point x="838" y="0"/>
       <point x="1052" y="190"/>
       <point x="1052" y="432" type="curve" smooth="yes"/>
-      <point x="1052" y="617"/>
-      <point x="944" y="779"/>
-      <point x="792" y="798" type="curve"/>
-      <point x="859" y="827"/>
-      <point x="906" y="931"/>
+      <point x="1052" y="628"/>
+      <point x="930" y="799"/>
+      <point x="764" y="800" type="curve"/>
+      <point x="771" y="792" type="line"/>
+      <point x="849" y="807"/>
+      <point x="906" y="918"/>
       <point x="906" y="1062" type="curve" smooth="yes"/>
       <point x="906" y="1238"/>
       <point x="719" y="1400"/>
@@ -47,7 +45,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-11-16 21:51:58 +0000</string>
+      <string>2026-11-19 09:39:43 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>
