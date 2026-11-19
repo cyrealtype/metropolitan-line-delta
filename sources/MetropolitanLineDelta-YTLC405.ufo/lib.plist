@@ -122,33 +122,9 @@
       </dict>
       <dict>
         <key>name</key>
-        <string></string>
+        <string>XNCT</string>
         <key>tag</key>
-        <string>37CD</string>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string></string>
-        <key>tag</key>
-        <string>2223</string>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string></string>
-        <key>tag</key>
-        <string>8422</string>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string></string>
-        <key>tag</key>
-        <string>51D9</string>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string></string>
-        <key>tag</key>
-        <string>DC6C</string>
+        <string>XNCT</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.axesValues</key>
@@ -172,11 +148,7 @@
       <integer>450</integer>
       <integer>0</integer>
       <integer>405</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
+      <integer>10</integer>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
@@ -250,13 +222,13 @@
             <key>Axis</key>
             <string>STUI</string>
             <key>Location</key>
-            <integer>2</integer>
+            <real>2.0</real>
           </dict>
           <dict>
             <key>Axis</key>
             <string>STUO</string>
             <key>Location</key>
-            <integer>2</integer>
+            <real>2.0</real>
           </dict>
           <dict>
             <key>Axis</key>
@@ -268,19 +240,50 @@
             <key>Axis</key>
             <string>opsz</string>
             <key>Location</key>
-            <integer>8</integer>
+            <real>8.0</real>
           </dict>
           <dict>
             <key>Axis</key>
             <string>wght</string>
             <key>Location</key>
-            <integer>1</integer>
+            <real>1.0</real>
           </dict>
           <dict>
             <key>Axis</key>
             <string>wdth</string>
             <key>Location</key>
             <integer>50</integer>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>XNCT</string>
+            <key>Location</key>
+            <integer>0</integer>
+          </dict>
+        </array>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Virtual Master</string>
+        <key>value</key>
+        <array>
+          <dict>
+            <key>Axis</key>
+            <string>opsz</string>
+            <key>Location</key>
+            <real>14.0</real>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>XNCT</string>
+            <key>Location</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>Axis</key>
+            <string>wght</string>
+            <key>Location</key>
+            <real>1000.0</real>
           </dict>
         </array>
       </dict>
@@ -394,5 +397,18 @@
       <string>percent</string>
       <string>grave</string>
     </array>
+    <key>xyz.fontra.lineMetricsHorizontalLayout.zones</key>
+    <dict>
+      <key>ascender</key>
+      <integer>32</integer>
+      <key>baseline</key>
+      <integer>-32</integer>
+      <key>capHeight</key>
+      <integer>32</integer>
+      <key>descender</key>
+      <integer>-32</integer>
+      <key>xHeight</key>
+      <integer>32</integer>
+    </dict>
   </dict>
 </plist>
