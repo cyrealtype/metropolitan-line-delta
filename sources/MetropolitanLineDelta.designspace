@@ -307,6 +307,32 @@
           <dimension name="XNCT" xvalue="10"/>
         </output>
       </mapping>
+      <mapping description="Black Wide opsz8">
+        <input>
+          <dimension name="wght" xvalue="1000"/>
+          <dimension name="opsz" xvalue="8"/>
+          <dimension name="width" xvalue="200"/>
+        </input>
+        <output>
+          <dimension name="XTSP" xvalue="64.659023"/>
+          <dimension name="XOPQ" xvalue="300"/>
+          <dimension name="YOPQ" xvalue="266"/>
+          <dimension name="XOUC" xvalue="300"/>
+          <dimension name="XOLC" xvalue="300"/>
+          <dimension name="YOUC" xvalue="280"/>
+          <dimension name="YOLC" xvalue="266"/>
+          <dimension name="STUI" xvalue="2"/>
+          <dimension name="STUO" xvalue="40"/>
+          <dimension name="XTRA" xvalue="357"/>
+          <dimension name="XTUC" xvalue="357"/>
+          <dimension name="XTLC" xvalue="357"/>
+          <dimension name="YOMB" xvalue="100"/>
+          <dimension name="YTDE" xvalue="450"/>
+          <dimension name="INKT" xvalue="0"/>
+          <dimension name="YTLC" xvalue="585"/>
+          <dimension name="XNCT" xvalue="10"/>
+        </output>
+      </mapping>
     </mappings>
   </axes>
   <sources>
