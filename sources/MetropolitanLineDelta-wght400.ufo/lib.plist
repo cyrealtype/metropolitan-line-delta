@@ -288,6 +288,8 @@
         </array>
       </dict>
     </array>
+    <key>com.schriftgestaltung.fontMasterID</key>
+    <string>ED3A6CC9-AF87-496E-9F8C-FE39ED358FD9</string>
     <key>com.schriftgestaltung.formatVersion</key>
     <integer>3</integer>
     <key>com.schriftgestaltung.useGlyphOrder</key>
