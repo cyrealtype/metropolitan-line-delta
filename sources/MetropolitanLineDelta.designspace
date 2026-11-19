@@ -282,6 +282,31 @@
           <dimension name="XNCT" xvalue="10.460645"/>
         </output>
       </mapping>
+      <mapping description="Black Cond">
+        <input>
+          <dimension name="wght" xvalue="1000"/>
+          <dimension name="opsz" xvalue="14"/>
+          <dimension name="width" xvalue="50"/>
+        </input>
+        <output>
+          <dimension name="XTSP" xvalue="37.080413"/>
+          <dimension name="XOPQ" xvalue="300"/>
+          <dimension name="YOPQ" xvalue="208"/>
+          <dimension name="XOUC" xvalue="300"/>
+          <dimension name="XOLC" xvalue="300"/>
+          <dimension name="YOUC" xvalue="280"/>
+          <dimension name="YOLC" xvalue="113.309133"/>
+          <dimension name="STUI" xvalue="312.80012"/>
+          <dimension name="STUO" xvalue="28.602243"/>
+          <dimension name="XTRA" xvalue="10"/>
+          <dimension name="XTUC" xvalue="10"/>
+          <dimension name="XTLC" xvalue="10"/>
+          <dimension name="YOMB" xvalue="100"/>
+          <dimension name="YTDE" xvalue="450"/>
+          <dimension name="INKT" xvalue="0"/>
+          <dimension name="XNCT" xvalue="10"/>
+        </output>
+      </mapping>
     </mappings>
   </axes>
   <sources>
