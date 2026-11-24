@@ -340,7 +340,7 @@
           <dimension name="XNCT" xvalue="10"/>
         </output>
       </mapping>
-      <mapping description="">
+      <mapping description="Black Wide opsz144">
         <input>
           <dimension name="wght" xvalue="1000"/>
           <dimension name="opsz" xvalue="144"/>

@@ -7,6 +7,10 @@
       <string>glyphs</string>
     </array>
     <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
       <string>{400, 14, 100, 72,5, 110, 100, 110, 110, 100, 100, 8, 8, 357, 357, 357, 225, 450, 0, 475, 0}</string>
       <string>glyphs.{400, 14, 100, 72,5, 110, 100, 110, 110, 100, 100, 8, 8, 357, 357, 357, 225, 450, 0, 475, 0}</string>
     </array>
@@ -33,10 +37,6 @@
     <array>
       <string>{400, 14, 100, 72,5, 110, 100, 110, 110, 100, 100, 8, 8, 357, 357, 357, 100, 450, 0, 475, 10, 20}</string>
       <string>glyphs.{400, 14, 100, 72,5, 110, 100, 110, 110, 100, 100, 8, 8, 357, 357, 357, 100, 450, 0, 475, 10, 20}</string>
-    </array>
-    <array>
-      <string>public.background</string>
-      <string>glyphs.public.background</string>
     </array>
     <array>
       <string>{400, 14, 100, 72,5, 110, 100, 110, 110, 100, 100, 8, 8, 357, 357, 357, 100, 450, 0, 475, 0, 10}</string>

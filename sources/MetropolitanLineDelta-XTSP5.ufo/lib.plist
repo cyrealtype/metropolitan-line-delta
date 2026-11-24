@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>4203</string>
+    <string>4204</string>
     <key>com.schriftgestaltung.axes</key>
     <array>
       <dict>
@@ -229,13 +229,13 @@
             <key>Axis</key>
             <string>STUI</string>
             <key>Location</key>
-            <real>2.0</real>
+            <integer>2</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>STUO</string>
             <key>Location</key>
-            <real>2.0</real>
+            <integer>2</integer>
           </dict>
           <dict>
             <key>Axis</key>
@@ -247,13 +247,13 @@
             <key>Axis</key>
             <string>opsz</string>
             <key>Location</key>
-            <real>8.0</real>
+            <integer>8</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>wght</string>
             <key>Location</key>
-            <real>1.0</real>
+            <integer>1</integer>
           </dict>
           <dict>
             <key>Axis</key>
@@ -265,19 +265,19 @@
             <key>Axis</key>
             <string>XNCT</string>
             <key>Location</key>
-            <real>0.0</real>
+            <integer>0</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>width</string>
             <key>Location</key>
-            <real>50.0</real>
+            <integer>50</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>YTOS</string>
             <key>Location</key>
-            <real>0.0</real>
+            <integer>0</integer>
           </dict>
           <dict>
             <key>Axis</key>
@@ -302,19 +302,19 @@
             <key>Axis</key>
             <string>wght</string>
             <key>Location</key>
-            <real>1000.0</real>
+            <integer>1000</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>opsz</string>
             <key>Location</key>
-            <real>144.0</real>
+            <integer>144</integer>
           </dict>
           <dict>
             <key>Axis</key>
             <string>width</string>
             <key>Location</key>
-            <real>200.0</real>
+            <integer>200</integer>
           </dict>
           <dict>
             <key>Axis</key>

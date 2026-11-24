@@ -34,6 +34,8 @@
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
+    <key>postscriptFontName</key>
+    <string>MetropolitanLineDelta-YOMB100</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>

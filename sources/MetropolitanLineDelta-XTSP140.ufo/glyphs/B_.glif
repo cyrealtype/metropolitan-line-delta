@@ -9,12 +9,12 @@
       <point x="978" y="0"/>
       <point x="1192" y="190"/>
       <point x="1192" y="432" type="curve" smooth="yes"/>
-      <point x="1192" y="593"/>
-      <point x="1063" y="764"/>
-      <point x="904" y="807" type="curve"/>
-      <point x="910" y="780" type="line"/>
-      <point x="984" y="832"/>
-      <point x="1046" y="951"/>
+      <point x="1192" y="701"/>
+      <point x="976" y="864"/>
+      <point x="620" y="864" type="curve"/>
+      <point x="620" y="664" type="line"/>
+      <point x="822" y="664"/>
+      <point x="1046" y="858"/>
       <point x="1046" y="1032" type="curve" smooth="yes"/>
       <point x="1046" y="1238"/>
       <point x="859" y="1400"/>
@@ -45,7 +45,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-11-19 09:39:43 +0000</string>
+      <string>2026-11-21 22:12:50 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>
