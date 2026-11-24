@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="1400" type="line"/>
+      <point x="110" y="1400" type="line"/>
+      <point x="110" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>
