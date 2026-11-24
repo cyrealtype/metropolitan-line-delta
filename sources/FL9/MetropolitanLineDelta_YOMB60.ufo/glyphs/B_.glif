@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="B" format="2">
   <advance width="1092"/>
   <unicode hex="0042"/>
+  <guideline x="0" y="989" angle="0"/>
+  <guideline x="0" y="480" angle="0"/>
   <outline>
     <contour>
       <point x="320" y="1200" type="line"/>
@@ -11,10 +13,10 @@
       <point x="682" y="1037" type="curve" smooth="yes"/>
       <point x="682" y="1029" type="line" smooth="yes"/>
       <point x="682" y="934"/>
-      <point x="604" y="823.966"/>
+      <point x="604" y="824"/>
       <point x="494" y="823.966" type="curve" smooth="yes"/>
-      <point x="320" y="823.966" type="line"/>
-      <point x="320" y="704" type="line"/>
+      <point x="210" y="824" type="line"/>
+      <point x="210" y="704" type="line"/>
       <point x="494" y="704" type="line" smooth="yes"/>
       <point x="725" y="704"/>
       <point x="906" y="845.319"/>
@@ -50,14 +52,12 @@
       <point x="320" y="200" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="989"/>
-  <guideline angle="0" x="0" y="480"/>
   <lib>
-  <dict>
-  <key>com.fontlab.caretAnchors</key>
-  <true/>
-  <key>com.schriftgestaltung.Glyphs.lastChange</key>
-  <string>2026-11-21 22:10:28 +0000</string>
-  </dict>
+    <dict>
+      <key>com.fontlab.caretAnchors</key>
+      <true/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-11-21 22:10:28 +0000</string>
+    </dict>
   </lib>
 </glyph>

@@ -16,8 +16,11 @@
       <point x="686" y="1300" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="1300"/>
   <lib>
   <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
   <key>public.markColor</key>
   <string>0.812,1,0.6,1</string>
   </dict>

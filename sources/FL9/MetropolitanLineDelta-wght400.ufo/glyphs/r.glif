@@ -26,8 +26,11 @@
       <point x="202" y="741" type="curve"/>
     </contour>
   </outline>
+  <guideline angle="269.879" x="350" y="238"/>
   <lib>
   <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
   <key>public.markColor</key>
   <string>0.812,1,0.6,1</string>
   </dict>

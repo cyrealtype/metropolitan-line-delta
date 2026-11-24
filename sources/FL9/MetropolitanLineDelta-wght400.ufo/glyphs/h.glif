@@ -30,6 +30,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
   <key>public.markColor</key>
   <string>0.812,1,0.6,1</string>
   </dict>

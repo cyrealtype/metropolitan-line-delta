@@ -44,4 +44,12 @@
       <point x="248" y="-20"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="529"/>
+  <guideline angle="90.548" x="229" y="92"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

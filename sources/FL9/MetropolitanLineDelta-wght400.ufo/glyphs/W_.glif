@@ -46,8 +46,13 @@
       <point x="486" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="590" y="0"/>
+  <guideline angle="0" x="0" y="525"/>
+  <guideline angle="0" x="0" y="824"/>
   <lib>
   <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
   <key>public.markColor</key>
   <string>0.812,1,0.6,1</string>
   </dict>
