@@ -1,0 +1,6035 @@
+{
+.formatVersion = 3;
+DisplayStrings = (
+B
+);
+axes = (
+{
+name = Width;
+tag = wdth;
+},
+{
+name = Wght;
+tag = wght;
+},
+{
+name = Opsz;
+tag = opsz;
+},
+{
+name = Xtsp;
+tag = XTSP;
+},
+{
+name = Xopq;
+tag = XOPQ;
+},
+{
+name = Yopq;
+tag = YOPQ;
+},
+{
+name = Xouc;
+tag = XOUC;
+},
+{
+name = Xolc;
+tag = XOLC;
+},
+{
+name = Youc;
+tag = YOUC;
+},
+{
+name = Yolc;
+tag = YOLC;
+},
+{
+name = Stui;
+tag = STUI;
+},
+{
+name = Stuo;
+tag = STUO;
+},
+{
+name = Xtra;
+tag = XTRA;
+},
+{
+name = Xtuc;
+tag = XTUC;
+},
+{
+name = Xtlc;
+tag = XTLC;
+},
+{
+name = Yomb;
+tag = YOMB;
+},
+{
+name = Ytde;
+tag = YTDE;
+},
+{
+name = Inkt;
+tag = INKT;
+},
+{
+name = Ytlc;
+tag = YTLC;
+},
+{
+name = Xnct;
+tag = XNCT;
+},
+{
+name = Ytos;
+tag = YTOS;
+}
+);
+familyName = "Metropolitan Line Delta";
+customParameters = (
+{
+name = glyphOrder;
+value = (
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+space,
+.notdef,
+period,
+comma,
+colon,
+semicolon,
+exclam,
+question,
+asterisk,
+numbersign,
+slash,
+backslash,
+hyphen,
+underscore,
+parenleft,
+parenright,
+braceleft,
+braceright,
+bracketleft,
+bracketright,
+quotedbl,
+quotesingle,
+at,
+ampersand,
+bar,
+dollar,
+plus,
+equal,
+greater,
+less,
+asciitilde,
+asciicircum,
+percent,
+grave
+);
+},
+{
+name = com.fontlab.glyphs3.raw.properties.compatibleFullNames.values;
+value = (
+{
+language = dflt;
+value = "Metropolitan Line";
+}
+);
+},
+{
+name = com.fontlab.glyphs3.raw.properties.copyrights.values;
+value = (
+{
+language = dflt;
+value = "Copyright 2026 The Metropolitan Line Project authors (https://github.com/cyrealtype/metropolitan-line)";
+}
+);
+},
+{
+name = com.fontlab.glyphs3.raw.properties.designers.values;
+value = (
+{
+language = dflt;
+value = "Cyreal, Alexei Vanyashin, Michael Voronin";
+}
+);
+},
+{
+name = com.fontlab.glyphs3.raw.properties.licenses.values;
+value = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+name = com.fontlab.glyphs3.raw.properties.manufacturers.values;
+value = (
+{
+language = dflt;
+value = Cyreal;
+}
+);
+},
+{
+name = com.fontlab.glyphs3.raw.properties.sampleTexts.values;
+value = (
+{
+language = dflt;
+value = Hond;
+}
+);
+},
+{
+name = "Axis Mappings 2";
+value = (
+{
+input = {
+XOPQ = 5;
+};
+output = {
+XOLC = 5;
+XOUC = 5;
+};
+},
+{
+input = {
+XOPQ = 300;
+};
+output = {
+XOLC = 300;
+XOUC = 300;
+};
+}
+);
+},
+{
+name = "Variable Font Origin";
+value = m001;
+},
+{
+name = "Virtual Master";
+value = (
+{
+Axis = wght;
+Location = 1000;
+},
+{
+Axis = opsz;
+Location = 144;
+},
+{
+Axis = width;
+Location = 200;
+},
+{
+Axis = XNCT;
+Location = 20;
+},
+{
+Axis = YTOS;
+Location = 20;
+}
+);
+},
+{
+name = compatibleFullNames;
+value = "Metropolitan Line";
+},
+{
+name = licenses;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = sampleTexts;
+value = Hond;
+},
+{
+name = vendorID;
+value = CYRE;
+}
+);
+featurePrefixes = (
+{
+code = "languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+### class:0:MMK_L_A ###
+### class:1:MMK_L_B ###
+### class:2:MMK_L_C ###
+### class:3:MMK_L_E ###
+### class:4:MMK_L_F ###
+### class:5:MMK_L_H ###
+### class:6:MMK_L_I ###
+### class:7:MMK_L_K ###
+### class:8:MMK_L_L ###
+### class:9:MMK_L_O ###
+### class:10:MMK_L_P ###
+### class:11:MMK_L_R ###
+### class:12:MMK_L_S ###
+### class:13:MMK_L_T ###
+### class:14:MMK_L_U ###
+### class:15:MMK_L_V ###
+### class:16:MMK_L_X ###
+### class:17:MMK_L_Y ###
+### class:18:MMK_L_Z ###
+### class:19:MMK_L_ampersand ###
+### class:20:MMK_L_asterisk ###
+### class:21:MMK_L_at ###
+### class:22:MMK_L_c ###
+### class:23:MMK_L_d ###
+### class:24:MMK_L_e ###
+### class:25:MMK_L_eight ###
+### class:26:MMK_L_exclam ###
+### class:27:MMK_L_f ###
+### class:28:MMK_L_five ###
+### class:29:MMK_L_four ###
+### class:30:MMK_L_g ###
+### class:31:MMK_L_gravecomb ###
+### class:32:MMK_L_idotless ###
+### class:33:MMK_L_jdotless ###
+### class:34:MMK_L_k ###
+### class:35:MMK_L_l ###
+### class:36:MMK_L_n ###
+### class:37:MMK_L_nine ###
+### class:38:MMK_L_o ###
+### class:39:MMK_L_one ###
+### class:40:MMK_L_percent ###
+### class:41:MMK_L_period ###
+### class:42:MMK_L_plus ###
+### class:43:MMK_L_q ###
+### class:44:MMK_L_question ###
+### class:45:MMK_L_r ###
+### class:46:MMK_L_s ###
+### class:47:MMK_L_seven ###
+### class:48:MMK_L_six ###
+### class:49:MMK_L_t ###
+### class:50:MMK_L_three ###
+### class:51:MMK_L_tildecomb ###
+### class:52:MMK_L_two ###
+### class:53:MMK_L_u ###
+### class:54:MMK_L_v ###
+### class:55:MMK_L_x ###
+### class:56:MMK_L_y ###
+### class:57:MMK_L_z ###
+### class:58:MMK_R_A ###
+### class:59:MMK_R_H ###
+### class:60:MMK_R_I ###
+### class:61:MMK_R_J ###
+### class:62:MMK_R_O ###
+### class:63:MMK_R_S ###
+### class:64:MMK_R_T ###
+### class:65:MMK_R_U ###
+### class:66:MMK_R_V ###
+### class:67:MMK_R_X ###
+### class:68:MMK_R_Y ###
+### class:69:MMK_R_Z ###
+### class:70:MMK_R_a ###
+### class:71:MMK_R_ampersand ###
+### class:72:MMK_R_asterisk ###
+### class:73:MMK_R_at ###
+### class:74:MMK_R_eight ###
+### class:75:MMK_R_exclam ###
+### class:76:MMK_R_f ###
+### class:77:MMK_R_five ###
+### class:78:MMK_R_four ###
+### class:79:MMK_R_g ###
+### class:80:MMK_R_gravecomb ###
+### class:81:MMK_R_idotless ###
+### class:82:MMK_R_jdotless ###
+### class:83:MMK_R_n ###
+### class:84:MMK_R_nine ###
+### class:85:MMK_R_o ###
+### class:86:MMK_R_one ###
+### class:87:MMK_R_percent ###
+### class:88:MMK_R_period ###
+### class:89:MMK_R_plus ###
+### class:90:MMK_R_question ###
+### class:91:MMK_R_s ###
+### class:92:MMK_R_seven ###
+### class:93:MMK_R_six ###
+### class:94:MMK_R_t ###
+### class:95:MMK_R_three ###
+### class:96:MMK_R_tilde ###
+### class:97:MMK_R_two ###
+### class:98:MMK_R_u ###
+### class:99:MMK_R_v ###
+### class:100:MMK_R_x ###
+### class:101:MMK_R_y ###
+### class:102:MMK_R_z ###
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+### close prefix 'Languagesystems' ###
+
+### prefix:-1:Prefix ###
+### open prefix 'Prefix' ###
+### class:0:MMK_L_A ###
+### class:1:MMK_L_B ###
+### class:2:MMK_L_C ###
+### class:3:MMK_L_E ###
+### class:4:MMK_L_F ###
+### class:5:MMK_L_H ###
+### class:6:MMK_L_I ###
+### class:7:MMK_L_K ###
+### class:8:MMK_L_L ###
+### class:9:MMK_L_O ###
+### class:10:MMK_L_P ###
+### class:11:MMK_L_R ###
+### class:12:MMK_L_S ###
+### class:13:MMK_L_T ###
+### class:14:MMK_L_U ###
+### class:15:MMK_L_V ###
+### class:16:MMK_L_X ###
+### class:17:MMK_L_Y ###
+### class:18:MMK_L_Z ###
+### class:19:MMK_L_ampersand ###
+### class:20:MMK_L_asterisk ###
+### class:21:MMK_L_at ###
+### class:22:MMK_L_c ###
+### class:23:MMK_L_d ###
+### class:24:MMK_L_e ###
+### class:25:MMK_L_eight ###
+### class:26:MMK_L_exclam ###
+### class:27:MMK_L_f ###
+### class:28:MMK_L_five ###
+### class:29:MMK_L_four ###
+### class:30:MMK_L_g ###
+### class:31:MMK_L_gravecomb ###
+### class:32:MMK_L_idotless ###
+### class:33:MMK_L_jdotless ###
+### class:34:MMK_L_k ###
+### class:35:MMK_L_l ###
+### class:36:MMK_L_n ###
+### class:37:MMK_L_nine ###
+### class:38:MMK_L_o ###
+### class:39:MMK_L_one ###
+### class:40:MMK_L_percent ###
+### class:41:MMK_L_period ###
+### class:42:MMK_L_plus ###
+### class:43:MMK_L_q ###
+### class:44:MMK_L_question ###
+### class:45:MMK_L_r ###
+### class:46:MMK_L_s ###
+### class:47:MMK_L_seven ###
+### class:48:MMK_L_six ###
+### class:49:MMK_L_t ###
+### class:50:MMK_L_three ###
+### class:51:MMK_L_tildecomb ###
+### class:52:MMK_L_two ###
+### class:53:MMK_L_u ###
+### class:54:MMK_L_v ###
+### class:55:MMK_L_x ###
+### class:56:MMK_L_y ###
+### class:57:MMK_L_z ###
+### class:58:MMK_R_A ###
+### class:59:MMK_R_H ###
+### class:60:MMK_R_I ###
+### class:61:MMK_R_J ###
+### class:62:MMK_R_O ###
+### class:63:MMK_R_S ###
+### class:64:MMK_R_T ###
+### class:65:MMK_R_U ###
+### class:66:MMK_R_V ###
+### class:67:MMK_R_X ###
+### class:68:MMK_R_Y ###
+### class:69:MMK_R_Z ###
+### class:70:MMK_R_a ###
+### class:71:MMK_R_ampersand ###
+### class:72:MMK_R_asterisk ###
+### class:73:MMK_R_at ###
+### class:74:MMK_R_eight ###
+### class:75:MMK_R_exclam ###
+### class:76:MMK_R_f ###
+### class:77:MMK_R_five ###
+### class:78:MMK_R_four ###
+### class:79:MMK_R_g ###
+### class:80:MMK_R_gravecomb ###
+### class:81:MMK_R_idotless ###
+### class:82:MMK_R_jdotless ###
+### class:83:MMK_R_n ###
+### class:84:MMK_R_nine ###
+### class:85:MMK_R_o ###
+### class:86:MMK_R_one ###
+### class:87:MMK_R_percent ###
+### class:88:MMK_R_period ###
+### class:89:MMK_R_plus ###
+### class:90:MMK_R_question ###
+### class:91:MMK_R_s ###
+### class:92:MMK_R_seven ###
+### class:93:MMK_R_six ###
+### class:94:MMK_R_t ###
+### class:95:MMK_R_three ###
+### class:96:MMK_R_tilde ###
+### class:97:MMK_R_two ###
+### class:98:MMK_R_u ###
+### class:99:MMK_R_v ###
+### class:100:MMK_R_x ###
+### class:101:MMK_R_y ###
+### class:102:MMK_R_z ###
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+### close prefix 'Languagesystems' ###
+
+### prefix:-1:Prefix ###
+### open prefix 'Prefix' ###
+### prefix:-1: ###
+### open prefix '' ###
+### close prefix '' ###
+### close prefix 'Prefix' ###
+### close prefix 'Prefix' ###
+";
+tag = Languagesystems;
+}
+);
+fontMaster = (
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "x-height";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-wght400.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "CC9109B5-4CBB-4392-A093-9EDD6B4D14D6";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+over = 20;
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+-20,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "x-height";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-INKT-20.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "FF57531D-54C6-43A1-8D48-36177692F63B";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+over = 20;
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = "INKT-20";
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+33,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "x-height";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-INKT33.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "BCA8DE1E-BC7E-4CE7-9E6F-F0A2F31D8CDD";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+over = 20;
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = INKT33;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+280,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-YOLC280.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "830BCCE9-BC37-4EE5-829B-3863CFE83941";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = YOLC280;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+5,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XOLC5.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "8DAD344B-1CFA-4E6C-9A63-31F86ED97EE0";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XOLC5;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+300,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XOLC300.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "95C8AD5A-FB3B-4C85-A9D0-07825248C5AC";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XOLC300;
+},
+{
+axesValues = (
+100,
+400,
+14,
+5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XTSP5.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "0D3EAE40-7227-412A-8CD2-058AEB717470";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XTSP5;
+},
+{
+axesValues = (
+100,
+400,
+14,
+140,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XTSP140.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "B114F03D-60CD-4096-9611-6455249B0E65";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XTSP140;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+5,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XOUC5.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "7C21F25F-E4EA-4113-8546-A0EB57D16751";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XOUC5;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+300,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XOUC300.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "97AEA17D-2762-40D7-9216-7BB190BE1390";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XOUC300;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+5,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-YOUC5.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "BF245320-5686-4CA0-9AFA-9C3C39451A70";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = YOUC5;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+5,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-YOLC5.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "84D89900-7AF8-42EA-814A-9E3E20C6A98A";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = YOLC5;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+280,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-YOUC280.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "B7418C93-C27E-4340-8F42-872FB7C6586C";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = YOUC280;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+10,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XTUC10.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "4C874A79-CE49-4311-95B0-D2AF7C4E053F";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XTUC10;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+617,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XTUC617.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "F2C6B5AE-8514-4460-A437-327CCF1CB8D3";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XTUC617;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+10,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XTLC10.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "6F6C19D6-2987-403B-979C-79CDB2F27380";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XTLC10;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+617,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-XTLC617.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "58793378-20D7-4AFD-B4D9-F1A2F842C046";
+metricValues = (
+{
+pos = 1400;
+},
+{
+pos = 0;
+},
+{
+pos = 1400;
+},
+{
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = XTLC617;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+405,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "zone 1";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-YTLC405.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "1A3F4BBE-7401-4C2A-BA99-AF544A1B97B1";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 810;
+},
+{
+over = 20;
+pos = 950;
+}
+);
+name = YTLC405;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+585,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "zone 1";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-YTLC585.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "EBF7E92B-C807-45CD-B715-3D866A3DAB4B";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+pos = 1170;
+},
+{
+over = 20;
+pos = 950;
+}
+);
+name = YTLC585;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+2,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "x-height";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-STU02.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "0FB280B1-2AA2-4D01-90B6-469C7B3E6AAD";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+over = 20;
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = STUO2;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+2,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "x-height";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-STUI2.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "D517D763-DE9B-428D-8203-9A8B498B4F06";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+over = 20;
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = STUI2;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+552,
+8,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "x-height";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-STUI552.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "3D5F61C9-CF58-42D2-9848-7516A28955D8";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+over = 20;
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = STUI552;
+},
+{
+axesValues = (
+100,
+400,
+14,
+72.5,
+110,
+100,
+110,
+110,
+100,
+100,
+8,
+552,
+357,
+357,
+357,
+100,
+450,
+0,
+475,
+10,
+10
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1400;
+},
+{
+name = typoDescender;
+value = -450;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1880;
+},
+{
+name = winDescent;
+value = 500;
+},
+{
+name = underlineThickness;
+value = 50;
+},
+{
+name = underlinePosition;
+value = -100;
+},
+{
+name = strikeoutPosition;
+value = 600;
+},
+{
+name = strikeoutSize;
+value = 100;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptXSize;
+value = 1300;
+},
+{
+name = subscriptYOffset;
+value = 150;
+},
+{
+name = subscriptYSize;
+value = 1200;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptXSize;
+value = 1300;
+},
+{
+name = superscriptYOffset;
+value = 700;
+},
+{
+name = superscriptYSize;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = "Alignment Zones";
+value = (
+{
+name = ascender;
+position = 1400;
+size = 24;
+},
+{
+name = "cap height";
+position = 1400;
+size = 24;
+},
+{
+name = "x-height";
+position = 950;
+size = 20;
+},
+{
+name = baseline;
+position = 0;
+size = -20;
+},
+{
+name = descender;
+position = -450;
+size = -20;
+}
+);
+},
+{
+name = GSOffsetHorizontal;
+value = 30;
+},
+{
+name = GSOffsetMakeStroke;
+value = 1;
+},
+{
+name = GSOffsetPosition;
+value = 1;
+},
+{
+name = GSOffsetVertical;
+value = 30;
+},
+{
+name = KernOnIndependentPairs;
+value = (
+"z n",
+"U H",
+"m n",
+"u n",
+"h n"
+);
+},
+{
+name = KernOnModels;
+value = (
+"F J",
+"P J",
+"L V",
+"A Y",
+"A V",
+"R Y",
+"R V",
+"W J",
+"l y",
+"R W",
+"l w",
+"Y C",
+"R G",
+"y g",
+"y a",
+"k a",
+"R J",
+"a y",
+"a v",
+"k t",
+"s y",
+"y s",
+"k g",
+"k u",
+"l o",
+"g a",
+"a g",
+"y l",
+"d j",
+"f n",
+"t f",
+"Z H",
+"H N",
+"T F",
+"r v",
+"g g",
+"g j"
+);
+},
+{
+name = "UFO Filename";
+value = "MetropolitanLineDelta-STUO552.ufo";
+}
+);
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "B98DAA43-B434-4597-9988-E90E53143F8E";
+metricValues = (
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = 0;
+},
+{
+over = 24;
+pos = 1400;
+},
+{
+over = -20;
+pos = -450;
+},
+{
+pos = 0;
+},
+{
+over = 20;
+pos = 950;
+},
+{
+pos = 0;
+}
+);
+name = STUO552;
+}
+);
+kerningLTR = {
+"0D3EAE40-7227-412A-8CD2-058AEB717470" = {
+};
+"0FB280B1-2AA2-4D01-90B6-469C7B3E6AAD" = {
+};
+"1A3F4BBE-7401-4C2A-BA99-AF544A1B97B1" = {
+};
+"3D5F61C9-CF58-42D2-9848-7516A28955D8" = {
+};
+"4C874A79-CE49-4311-95B0-D2AF7C4E053F" = {
+};
+"58793378-20D7-4AFD-B4D9-F1A2F842C046" = {
+};
+"6F6C19D6-2987-403B-979C-79CDB2F27380" = {
+};
+"7C21F25F-E4EA-4113-8546-A0EB57D16751" = {
+};
+"830BCCE9-BC37-4EE5-829B-3863CFE83941" = {
+};
+"84D89900-7AF8-42EA-814A-9E3E20C6A98A" = {
+};
+"8DAD344B-1CFA-4E6C-9A63-31F86ED97EE0" = {
+};
+"95C8AD5A-FB3B-4C85-A9D0-07825248C5AC" = {
+};
+"97AEA17D-2762-40D7-9216-7BB190BE1390" = {
+};
+"B114F03D-60CD-4096-9611-6455249B0E65" = {
+};
+"B7418C93-C27E-4340-8F42-872FB7C6586C" = {
+};
+"B98DAA43-B434-4597-9988-E90E53143F8E" = {
+};
+"BCA8DE1E-BC7E-4CE7-9E6F-F0A2F31D8CDD" = {
+};
+"BF245320-5686-4CA0-9AFA-9C3C39451A70" = {
+};
+"CC9109B5-4CBB-4392-A093-9EDD6B4D14D6" = {
+};
+"D517D763-DE9B-428D-8203-9A8B498B4F06" = {
+};
+"EBF7E92B-C807-45CD-B715-3D866A3DAB4B" = {
+};
+"F2C6B5AE-8514-4460-A437-327CCF1CB8D3" = {
+};
+"FF57531D-54C6-43A1-8D48-36177692F63B" = {
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = baseline;
+},
+{
+type = "cap height";
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+type = "x-height";
+},
+{
+name = "zone 1";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2026 The Metropolitan Line Project authors (https://github.com/cyrealtype/metropolitan-line)";
+}
+);
+},
+{
+key = designerURL;
+value = "https://cyreal.org";
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Cyreal, Alexei Vanyashin, Michael Voronin";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://cyreal.org";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = Cyreal;
+}
+);
+},
+{
+key = vendorID;
+value = CYRE;
+}
+);
+unitsPerEm = 2000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"CC9109B5-4CBB-4392-A093-9EDD6B4D14D6" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"FF57531D-54C6-43A1-8D48-36177692F63B" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"BCA8DE1E-BC7E-4CE7-9E6F-F0A2F31D8CDD" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"830BCCE9-BC37-4EE5-829B-3863CFE83941" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 410;
+nV = 200;
+tH = 380;
+};
+"8DAD344B-1CFA-4E6C-9A63-31F86ED97EE0" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 10;
+oH = 190;
+nV = 10;
+tH = 180;
+};
+"95C8AD5A-FB3B-4C85-A9D0-07825248C5AC" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 580;
+oH = 190;
+nV = 576;
+tH = 180;
+};
+"0D3EAE40-7227-412A-8CD2-058AEB717470" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"B114F03D-60CD-4096-9611-6455249B0E65" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"7C21F25F-E4EA-4113-8546-A0EB57D16751" = {
+HV = 220;
+HH = 200;
+OV = 10;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"97AEA17D-2762-40D7-9216-7BB190BE1390" = {
+HV = 220;
+HH = 200;
+OV = 610;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"BF245320-5686-4CA0-9AFA-9C3C39451A70" = {
+HV = 220;
+HH = 10;
+OV = 224;
+OH = 10;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"84D89900-7AF8-42EA-814A-9E3E20C6A98A" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 10;
+nV = 200;
+tH = 10;
+};
+"B7418C93-C27E-4340-8F42-872FB7C6586C" = {
+HV = 220;
+HH = 560;
+OV = 224;
+OH = 578;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"4C874A79-CE49-4311-95B0-D2AF7C4E053F" = {
+HV = 220;
+HH = 560;
+OV = 224;
+OH = 578;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"F2C6B5AE-8514-4460-A437-327CCF1CB8D3" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"6F6C19D6-2987-403B-979C-79CDB2F27380" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"58793378-20D7-4AFD-B4D9-F1A2F842C046" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"1A3F4BBE-7401-4C2A-BA99-AF544A1B97B1" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"EBF7E92B-C807-45CD-B715-3D866A3DAB4B" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"0FB280B1-2AA2-4D01-90B6-469C7B3E6AAD" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"D517D763-DE9B-428D-8203-9A8B498B4F06" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"3D5F61C9-CF58-42D2-9848-7516A28955D8" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+"B98DAA43-B434-4597-9988-E90E53143F8E" = {
+HV = 220;
+HH = 200;
+OV = 224;
+OH = 204;
+oV = 200;
+oH = 190;
+nV = 200;
+tH = 180;
+};
+};
+};
+versionMajor = 1;
+versionMinor = 3;
+}
