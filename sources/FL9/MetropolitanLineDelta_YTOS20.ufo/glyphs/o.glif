@@ -1,13 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o" format="2">
   <advance width="1100"/>
   <unicode hex="006F"/>
-  <guideline x="275" y="238" angle="90.1157"/>
-  <guideline x="276" y="238" angle="180.1169"/>
-  <guideline x="1039" y="475" angle="0"/>
-  <guideline x="262" y="646" angle="0"/>
-  <guideline x="262" y="303" angle="0"/>
-  <guideline x="550" y="475" angle="0"/>
   <outline>
     <contour>
       <point x="550" y="-40" type="curve" smooth="yes"/>
@@ -42,17 +36,25 @@
       <point x="711" y="150"/>
     </contour>
   </outline>
+  <guideline angle="90.1157" x="275" y="238"/>
+  <guideline angle="180.117" x="276" y="238"/>
+  <guideline angle="0" x="0" y="475"/>
+  <guideline angle="0" x="0" y="646"/>
+  <guideline angle="0" x="0" y="303"/>
+  <guideline angle="0" x="0" y="475"/>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.storeProduction</key>
-      <true/>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>xyz.fontra.customData</key>
-      <dict>
-        <key>fontra.glyph.locked</key>
-        <integer>1</integer>
-      </dict>
-    </dict>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.schriftgestaltung.storeProduction</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.67,0.95,0.38,1</string>
+  <key>xyz.fontra.customData</key>
+  <dict>
+    <key>fontra.glyph.locked</key>
+    <integer>1</integer>
+  </dict>
+  </dict>
   </lib>
 </glyph>
