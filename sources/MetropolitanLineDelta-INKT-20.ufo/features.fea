@@ -101,14 +101,11 @@
 @MMK_R_x = [x];
 @MMK_R_y = [y];
 @MMK_R_z = [z];
-### prefix:-1:Languagesystems ###
-### open prefix 'Languagesystems' ###
+### prefix:-1:xxxx ###
+### open prefix 'xxxx' ###
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-### close prefix 'Languagesystems' ###
 
-### prefix:-1:Prefix ###
-### open prefix 'Prefix' ###
 ### class:0:MMK_L_A ###
 ### class:1:MMK_L_B ###
 ### class:2:MMK_L_C ###
@@ -332,5 +329,5 @@ languagesystem latn dflt;
 ### close prefix '' ###
 ### close prefix 'Prefix' ###
 ### close prefix 'Prefix' ###
-### close prefix 'Prefix' ###
+### close prefix 'xxxx' ###
 

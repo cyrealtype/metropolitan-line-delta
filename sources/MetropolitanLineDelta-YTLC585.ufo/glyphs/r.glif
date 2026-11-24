@@ -2,7 +2,7 @@
 <glyph name="r" format="2">
   <advance width="744"/>
   <unicode hex="0072"/>
-  <guideline x="350" y="238" angle="269.8794"/>
+  <guideline x="350" y="238" angle="269.879"/>
   <outline>
     <contour>
       <point x="102" y="0" type="line"/>
@@ -29,8 +29,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-10-19 22:46:32 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

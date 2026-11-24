@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
   <advance width="1562"/>
-  <guideline x="1522" y="1400" angle="90"/>
   <outline>
     <contour>
       <point x="245" y="1200" type="line"/>

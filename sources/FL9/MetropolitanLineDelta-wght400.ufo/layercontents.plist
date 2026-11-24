@@ -1,14 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array>
   <array>
-    <string>public.default</string>
-    <string>glyphs</string>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>Layer7</string>
+      <string>glyphs.L_ayer7</string>
+    </array>
+    <array>
+      <string>Layer6</string>
+      <string>glyphs.L_ayer6</string>
+    </array>
+    <array>
+      <string>{-, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, 1000}</string>
+      <string>glyphs.{-, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, -, 1000}</string>
+    </array>
+    <array>
+      <string>Layer29</string>
+      <string>glyphs.L_ayer29</string>
+    </array>
+    <array>
+      <string>Layer28</string>
+      <string>glyphs.L_ayer28</string>
+    </array>
+    <array>
+      <string>#instance</string>
+      <string>glyphs.#instance</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>Layer38</string>
+      <string>glyphs.L_ayer38</string>
+    </array>
+    <array>
+      <string>Layer37</string>
+      <string>glyphs.L_ayer37</string>
+    </array>
+    <array>
+      <string>Layer12</string>
+      <string>glyphs.L_ayer12</string>
+    </array>
+    <array>
+      <string>Layer11</string>
+      <string>glyphs.L_ayer11</string>
+    </array>
   </array>
-  <array>
-    <string>public.background</string>
-    <string>glyphs.public.background</string>
-  </array>
-</array>
 </plist>

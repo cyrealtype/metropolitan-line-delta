@@ -2,10 +2,10 @@
 <glyph name="O" format="2">
   <advance width="540"/>
   <unicode hex="004F"/>
-  <guideline x="-125" y="351" angle="180"/>
-  <guideline x="-125" y="351" angle="90"/>
-  <guideline x="36" y="904" angle="90"/>
-  <guideline x="504" y="904" angle="270"/>
+  <guideline x="0" y="351" angle="0"/>
+  <guideline x="-125" y="0" angle="90"/>
+  <guideline x="36" y="0" angle="90"/>
+  <guideline x="504" y="0" angle="90"/>
   <outline>
     <contour>
       <point x="270" y="-20" type="curve" smooth="yes"/>
@@ -38,8 +38,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-11-18 19:57:35 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -3,34 +3,34 @@
   <advance width="1898"/>
   <unicode hex="0052"/>
   <guideline x="400" y="0" angle="90"/>
-  <guideline x="1106" y="1547" angle="90"/>
-  <guideline x="913" y="696" angle="0"/>
-  <guideline x="1086" y="998" angle="0"/>
+  <guideline x="1106" y="0" angle="90"/>
+  <guideline x="0" y="696" angle="0"/>
+  <guideline x="0" y="998" angle="0"/>
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
       <point x="700" y="0" type="line"/>
       <point x="700" y="1200" type="line"/>
-      <point x="828" y="1200" type="line" smooth="yes"/>
-      <point x="972" y="1200"/>
-      <point x="1086" y="1112"/>
+      <point x="828" y="1200" type="line"/>
+      <point x="980" y="1200"/>
+      <point x="1086" y="1117"/>
       <point x="1086" y="1002" type="curve"/>
       <point x="1086" y="994" type="line"/>
-      <point x="1086" y="884"/>
-      <point x="972" y="794"/>
-      <point x="828" y="794" type="curve" smooth="yes"/>
-      <point x="400" y="794" type="line"/>
-      <point x="400" y="590" type="line"/>
-      <point x="1106" y="590" type="line" smooth="yes"/>
-      <point x="1436" y="590"/>
-      <point x="1696" y="770"/>
-      <point x="1696" y="994" type="curve" smooth="yes"/>
+      <point x="1086" y="879"/>
+      <point x="980" y="796"/>
+      <point x="828" y="796" type="curve" smooth="yes"/>
+      <point x="400" y="796" type="line"/>
+      <point x="400" y="596" type="line"/>
+      <point x="1009" y="596" type="line" smooth="yes"/>
+      <point x="1394" y="596"/>
+      <point x="1696" y="773"/>
+      <point x="1696" y="994" type="curve"/>
       <point x="1696" y="994"/>
       <point x="1696" y="1002"/>
-      <point x="1696" y="1002" type="curve" smooth="yes"/>
+      <point x="1696" y="1002" type="curve"/>
       <point x="1696" y="1224"/>
-      <point x="1436" y="1400"/>
-      <point x="1106" y="1400" type="curve" smooth="yes"/>
+      <point x="1416" y="1400"/>
+      <point x="1060" y="1400" type="curve"/>
       <point x="100" y="1400" type="line"/>
     </contour>
     <contour>
@@ -43,7 +43,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-11-19 09:57:37 +0000</string>
+      <string>2026-11-24 20:49:46 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

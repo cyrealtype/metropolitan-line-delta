@@ -2,7 +2,7 @@
 <glyph name="E" format="2">
   <advance width="508"/>
   <unicode hex="0045"/>
-  <guideline x="420" y="700" angle="90"/>
+  <guideline x="420" y="0" angle="90"/>
   <outline>
     <contour>
       <point x="210" y="850" type="line"/>
@@ -23,8 +23,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-11-18 19:42:14 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

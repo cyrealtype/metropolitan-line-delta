@@ -2,9 +2,9 @@
 <glyph name="W" format="2">
   <advance width="1992"/>
   <unicode hex="0057"/>
-  <guideline x="590" y="308" angle="90"/>
-  <guideline x="549" y="525" angle="0"/>
-  <guideline x="952" y="824" angle="0"/>
+  <guideline x="590" y="0" angle="90"/>
+  <guideline x="0" y="525" angle="0"/>
+  <guideline x="0" y="824" angle="0"/>
   <outline>
     <contour>
       <point x="486" y="0" type="line"/>
@@ -51,8 +51,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-10-19 20:53:10 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

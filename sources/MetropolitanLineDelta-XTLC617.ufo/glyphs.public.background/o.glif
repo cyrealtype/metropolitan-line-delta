@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o" format="2">
   <advance width="1688"/>
-  <guideline x="843" y="475" angle="90"/>
   <outline>
     <contour>
       <point x="843" y="-20" type="curve" smooth="yes"/>

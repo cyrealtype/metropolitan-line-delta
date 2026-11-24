@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="braceright" format="2">
   <advance width="576"/>
   <unicode hex="007D"/>
+  <guideline x="0" y="248" angle="0"/>
   <outline>
     <contour>
       <point x="341" y="577" type="curve"/>
@@ -40,11 +41,4 @@
       <point x="285" y="615"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="248"/>
-  <lib>
-  <dict>
-  <key>com.fontlab.caretAnchors</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

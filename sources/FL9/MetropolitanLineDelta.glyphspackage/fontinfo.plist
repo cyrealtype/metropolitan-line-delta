@@ -1,8 +1,6 @@
 {
+.appVersion = "4204";
 .formatVersion = 3;
-DisplayStrings = (
-B
-);
 axes = (
 {
 name = Width;
@@ -89,7 +87,6 @@ name = Ytos;
 tag = YTOS;
 }
 );
-familyName = "Metropolitan Line Delta";
 customParameters = (
 {
 name = glyphOrder;
@@ -315,6 +312,8 @@ name = vendorID;
 value = CYRE;
 }
 );
+date = "2026-11-24 20:48:30 +0000";
+familyName = "Metropolitan Line Delta";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
@@ -544,7 +543,7 @@ languagesystem latn dflt;
 ### close prefix 'Prefix' ###
 ### close prefix 'Prefix' ###
 ";
-tag = Languagesystems;
+name = xxxx;
 }
 );
 fontMaster = (
@@ -658,27 +657,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "x-height";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -758,10 +757,10 @@ value = "MetropolitanLineDelta-wght400.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "CC9109B5-4CBB-4392-A093-9EDD6B4D14D6";
+id = "C489D82A-7B9D-4B2F-9EDF-4464DCB58890";
 metricValues = (
 {
 over = 24;
@@ -769,7 +768,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -780,16 +778,15 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 over = 20;
 pos = 950;
 },
 {
-pos = 0;
 }
 );
+name = Regular;
 },
 {
 axesValues = (
@@ -901,27 +898,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "x-height";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -1001,10 +998,10 @@ value = "MetropolitanLineDelta-INKT-20.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "FF57531D-54C6-43A1-8D48-36177692F63B";
+id = "59FF26D6-2F6F-4373-AA99-E147549604BB";
 metricValues = (
 {
 over = 24;
@@ -1012,7 +1009,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -1023,14 +1019,12 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 over = 20;
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = "INKT-20";
@@ -1145,27 +1139,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "x-height";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -1245,10 +1239,10 @@ value = "MetropolitanLineDelta-INKT33.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "BCA8DE1E-BC7E-4CE7-9E6F-F0A2F31D8CDD";
+id = "3E7E8FC9-300E-4EA0-8C27-EDDFAC4D5029";
 metricValues = (
 {
 over = 24;
@@ -1256,7 +1250,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -1267,14 +1260,12 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 over = 20;
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = INKT33;
@@ -1459,16 +1450,15 @@ value = "MetropolitanLineDelta-YOLC280.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "830BCCE9-BC37-4EE5-829B-3863CFE83941";
+id = "F9B4982B-8617-4CF1-891D-7F134D93F75D";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -1477,13 +1467,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = YOLC280;
@@ -1668,16 +1656,15 @@ value = "MetropolitanLineDelta-XOLC5.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "8DAD344B-1CFA-4E6C-9A63-31F86ED97EE0";
+id = "EF83082C-A606-47EB-A237-317CCD8A65DF";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -1686,13 +1673,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XOLC5;
@@ -1877,16 +1862,15 @@ value = "MetropolitanLineDelta-XOLC300.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "95C8AD5A-FB3B-4C85-A9D0-07825248C5AC";
+id = "F694DBBC-41AF-46A6-A204-EABC417C90C2";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -1895,13 +1879,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XOLC300;
@@ -2086,16 +2068,15 @@ value = "MetropolitanLineDelta-XTSP5.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "0D3EAE40-7227-412A-8CD2-058AEB717470";
+id = "7A8BA5C7-1FE8-4E28-96E5-A42553F1A163";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -2104,13 +2085,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XTSP5;
@@ -2295,16 +2274,15 @@ value = "MetropolitanLineDelta-XTSP140.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "B114F03D-60CD-4096-9611-6455249B0E65";
+id = "F2060D6E-ECAA-4FDA-86AE-7A5EF093FC49";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -2313,13 +2291,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XTSP140;
@@ -2504,16 +2480,15 @@ value = "MetropolitanLineDelta-XOUC5.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "7C21F25F-E4EA-4113-8546-A0EB57D16751";
+id = "231F255E-86C1-4839-8EEF-BE4E9D3B1F4D";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -2522,13 +2497,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XOUC5;
@@ -2713,16 +2686,15 @@ value = "MetropolitanLineDelta-XOUC300.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "97AEA17D-2762-40D7-9216-7BB190BE1390";
+id = "A8B9C681-2B92-4175-846E-1A2C6E231FD6";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -2731,13 +2703,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XOUC300;
@@ -2922,16 +2892,15 @@ value = "MetropolitanLineDelta-YOUC5.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "BF245320-5686-4CA0-9AFA-9C3C39451A70";
+id = "2C754560-02E1-4D05-A438-242BE7C0F2DC";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -2940,13 +2909,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = YOUC5;
@@ -3131,16 +3098,15 @@ value = "MetropolitanLineDelta-YOLC5.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "84D89900-7AF8-42EA-814A-9E3E20C6A98A";
+id = "BA7973ED-0680-4D69-8293-0DF758523DBD";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -3149,13 +3115,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = YOLC5;
@@ -3340,16 +3304,15 @@ value = "MetropolitanLineDelta-YOUC280.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "B7418C93-C27E-4340-8F42-872FB7C6586C";
+id = "FF02570F-1598-4B5B-919B-11696122F5AF";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -3358,13 +3321,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = YOUC280;
@@ -3549,16 +3510,15 @@ value = "MetropolitanLineDelta-XTUC10.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "4C874A79-CE49-4311-95B0-D2AF7C4E053F";
+id = "3D546E1B-4A8C-4140-BE3D-690FA2C24DD6";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -3567,13 +3527,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XTUC10;
@@ -3758,16 +3716,15 @@ value = "MetropolitanLineDelta-XTUC617.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "F2C6B5AE-8514-4460-A437-327CCF1CB8D3";
+id = "E8C023F0-7AFF-4736-A089-F9389C4E9EB7";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -3776,13 +3733,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XTUC617;
@@ -3967,16 +3922,15 @@ value = "MetropolitanLineDelta-XTLC10.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "6F6C19D6-2987-403B-979C-79CDB2F27380";
+id = "AB3F3045-CD62-472A-A4CD-A2783B31032E";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -3985,13 +3939,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XTLC10;
@@ -4176,16 +4128,15 @@ value = "MetropolitanLineDelta-XTLC617.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "58793378-20D7-4AFD-B4D9-F1A2F842C046";
+id = "AC4EB0D1-399F-4C23-B442-0596F7BB00B3";
 metricValues = (
 {
 pos = 1400;
 },
 {
-pos = 0;
 },
 {
 pos = 1400;
@@ -4194,13 +4145,11 @@ pos = 1400;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = XTLC617;
@@ -4315,27 +4264,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "zone 1";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -4415,10 +4364,10 @@ value = "MetropolitanLineDelta-YTLC405.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "1A3F4BBE-7401-4C2A-BA99-AF544A1B97B1";
+id = "9849FC78-5262-4767-A00F-271722CB4287";
 metricValues = (
 {
 over = 24;
@@ -4426,7 +4375,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -4437,7 +4385,6 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 810;
@@ -4559,27 +4506,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "zone 1";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -4659,10 +4606,10 @@ value = "MetropolitanLineDelta-YTLC585.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "EBF7E92B-C807-45CD-B715-3D866A3DAB4B";
+id = "A5595309-84F4-4FD9-8118-FD497B67CD06";
 metricValues = (
 {
 over = 24;
@@ -4670,7 +4617,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -4681,7 +4627,6 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 pos = 1170;
@@ -4803,27 +4748,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "x-height";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -4903,10 +4848,10 @@ value = "MetropolitanLineDelta-STU02.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "0FB280B1-2AA2-4D01-90B6-469C7B3E6AAD";
+id = "ABDDD163-4B6C-494F-A330-CC377D03D022";
 metricValues = (
 {
 over = 24;
@@ -4914,7 +4859,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -4925,14 +4869,12 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 over = 20;
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = STUO2;
@@ -5047,27 +4989,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "x-height";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -5147,10 +5089,10 @@ value = "MetropolitanLineDelta-STUI2.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "D517D763-DE9B-428D-8203-9A8B498B4F06";
+id = "9BD3244A-8296-450F-950E-A807C71F2F44";
 metricValues = (
 {
 over = 24;
@@ -5158,7 +5100,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -5169,14 +5110,12 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 over = 20;
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = STUI2;
@@ -5291,27 +5230,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "x-height";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -5391,10 +5330,10 @@ value = "MetropolitanLineDelta-STUI552.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
 }
 );
-id = "3D5F61C9-CF58-42D2-9848-7516A28955D8";
+id = "DDD88647-6E95-433C-80A9-CE6F069029C3";
 metricValues = (
 {
 over = 24;
@@ -5402,7 +5341,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -5413,14 +5351,12 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 over = 20;
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = STUI552;
@@ -5535,27 +5471,27 @@ name = "Alignment Zones";
 value = (
 {
 name = ascender;
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "cap height";
-position = 1400;
+pos = 1400;
 size = 24;
 },
 {
 name = "x-height";
-position = 950;
+pos = 950;
 size = 20;
 },
 {
 name = baseline;
-position = 0;
+pos = 0;
 size = -20;
 },
 {
 name = descender;
-position = -450;
+pos = -450;
 size = -20;
 }
 );
@@ -5635,10 +5571,13 @@ value = "MetropolitanLineDelta-STUO552.ufo";
 );
 guides = (
 {
-position = "{0, 250}";
+pos = (0,250);
+},
+{
+pos = (0,1222);
 }
 );
-id = "B98DAA43-B434-4597-9988-E90E53143F8E";
+id = "2A68497E-E2ED-4051-80EC-B6D8C976FC9A";
 metricValues = (
 {
 over = 24;
@@ -5646,7 +5585,6 @@ pos = 1400;
 },
 {
 over = -20;
-pos = 0;
 },
 {
 over = 24;
@@ -5657,67 +5595,17 @@ over = -20;
 pos = -450;
 },
 {
-pos = 0;
 },
 {
 over = 20;
 pos = 950;
 },
 {
-pos = 0;
 }
 );
 name = STUO552;
 }
 );
-kerningLTR = {
-"0D3EAE40-7227-412A-8CD2-058AEB717470" = {
-};
-"0FB280B1-2AA2-4D01-90B6-469C7B3E6AAD" = {
-};
-"1A3F4BBE-7401-4C2A-BA99-AF544A1B97B1" = {
-};
-"3D5F61C9-CF58-42D2-9848-7516A28955D8" = {
-};
-"4C874A79-CE49-4311-95B0-D2AF7C4E053F" = {
-};
-"58793378-20D7-4AFD-B4D9-F1A2F842C046" = {
-};
-"6F6C19D6-2987-403B-979C-79CDB2F27380" = {
-};
-"7C21F25F-E4EA-4113-8546-A0EB57D16751" = {
-};
-"830BCCE9-BC37-4EE5-829B-3863CFE83941" = {
-};
-"84D89900-7AF8-42EA-814A-9E3E20C6A98A" = {
-};
-"8DAD344B-1CFA-4E6C-9A63-31F86ED97EE0" = {
-};
-"95C8AD5A-FB3B-4C85-A9D0-07825248C5AC" = {
-};
-"97AEA17D-2762-40D7-9216-7BB190BE1390" = {
-};
-"B114F03D-60CD-4096-9611-6455249B0E65" = {
-};
-"B7418C93-C27E-4340-8F42-872FB7C6586C" = {
-};
-"B98DAA43-B434-4597-9988-E90E53143F8E" = {
-};
-"BCA8DE1E-BC7E-4CE7-9E6F-F0A2F31D8CDD" = {
-};
-"BF245320-5686-4CA0-9AFA-9C3C39451A70" = {
-};
-"CC9109B5-4CBB-4392-A093-9EDD6B4D14D6" = {
-};
-"D517D763-DE9B-428D-8203-9A8B498B4F06" = {
-};
-"EBF7E92B-C807-45CD-B715-3D866A3DAB4B" = {
-};
-"F2C6B5AE-8514-4460-A437-327CCF1CB8D3" = {
-};
-"FF57531D-54C6-43A1-8D48-36177692F63B" = {
-};
-};
 metrics = (
 {
 type = ascender;
@@ -5752,10 +5640,6 @@ value = "Copyright 2026 The Metropolitan Line Project authors (https://github.co
 );
 },
 {
-key = designerURL;
-value = "https://cyreal.org";
-},
-{
 key = designers;
 values = (
 {
@@ -5765,8 +5649,8 @@ value = "Cyreal, Alexei Vanyashin, Michael Voronin";
 );
 },
 {
-key = licenseURL;
-value = "http://scripts.sil.org/OFL";
+key = designerURL;
+value = "https://cyreal.org";
 },
 {
 key = licenses;
@@ -5778,8 +5662,8 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 );
 },
 {
-key = manufacturerURL;
-value = "https://cyreal.org";
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
 },
 {
 key = manufacturers;
@@ -5791,6 +5675,10 @@ value = Cyreal;
 );
 },
 {
+key = manufacturerURL;
+value = "https://cyreal.org";
+},
+{
 key = vendorID;
 value = CYRE;
 }
@@ -5798,234 +5686,234 @@ value = CYRE;
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"CC9109B5-4CBB-4392-A093-9EDD6B4D14D6" = {
-HV = 220;
+"231F255E-86C1-4839-8EEF-BE4E9D3B1F4D" = {
 HH = 200;
-OV = 224;
+HV = 220;
 OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"FF57531D-54C6-43A1-8D48-36177692F63B" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"BCA8DE1E-BC7E-4CE7-9E6F-F0A2F31D8CDD" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"830BCCE9-BC37-4EE5-829B-3863CFE83941" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 410;
-nV = 200;
-tH = 380;
-};
-"8DAD344B-1CFA-4E6C-9A63-31F86ED97EE0" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 10;
-oH = 190;
-nV = 10;
-tH = 180;
-};
-"95C8AD5A-FB3B-4C85-A9D0-07825248C5AC" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 580;
-oH = 190;
-nV = 576;
-tH = 180;
-};
-"0D3EAE40-7227-412A-8CD2-058AEB717470" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"B114F03D-60CD-4096-9611-6455249B0E65" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"7C21F25F-E4EA-4113-8546-A0EB57D16751" = {
-HV = 220;
-HH = 200;
 OV = 10;
-OH = 204;
-oV = 200;
-oH = 190;
 nV = 200;
+oH = 190;
+oV = 200;
 tH = 180;
 };
-"97AEA17D-2762-40D7-9216-7BB190BE1390" = {
-HV = 220;
+"2A68497E-E2ED-4051-80EC-B6D8C976FC9A" = {
 HH = 200;
-OV = 610;
+HV = 220;
 OH = 204;
-oV = 200;
-oH = 190;
+OV = 224;
 nV = 200;
+oH = 190;
+oV = 200;
 tH = 180;
 };
-"BF245320-5686-4CA0-9AFA-9C3C39451A70" = {
-HV = 220;
+"2C754560-02E1-4D05-A438-242BE7C0F2DC" = {
 HH = 10;
-OV = 224;
+HV = 220;
 OH = 10;
-oV = 200;
-oH = 190;
+OV = 224;
 nV = 200;
+oH = 190;
+oV = 200;
 tH = 180;
 };
-"84D89900-7AF8-42EA-814A-9E3E20C6A98A" = {
+"3D546E1B-4A8C-4140-BE3D-690FA2C24DD6" = {
+HH = 560;
 HV = 220;
-HH = 200;
+OH = 578;
 OV = 224;
-OH = 204;
-oV = 200;
-oH = 10;
 nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"3E7E8FC9-300E-4EA0-8C27-EDDFAC4D5029" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"59FF26D6-2F6F-4373-AA99-E147549604BB" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"7A8BA5C7-1FE8-4E28-96E5-A42553F1A163" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"9849FC78-5262-4767-A00F-271722CB4287" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"9BD3244A-8296-450F-950E-A807C71F2F44" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"A5595309-84F4-4FD9-8118-FD497B67CD06" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"A8B9C681-2B92-4175-846E-1A2C6E231FD6" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 610;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"AB3F3045-CD62-472A-A4CD-A2783B31032E" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"ABDDD163-4B6C-494F-A330-CC377D03D022" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"AC4EB0D1-399F-4C23-B442-0596F7BB00B3" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"BA7973ED-0680-4D69-8293-0DF758523DBD" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 10;
+oV = 200;
 tH = 10;
 };
-"B7418C93-C27E-4340-8F42-872FB7C6586C" = {
+"C489D82A-7B9D-4B2F-9EDF-4464DCB58890" = {
+HH = 200;
 HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"DDD88647-6E95-433C-80A9-CE6F069029C3" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"E8C023F0-7AFF-4736-A089-F9389C4E9EB7" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"EF83082C-A606-47EB-A237-317CCD8A65DF" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 10;
+oH = 190;
+oV = 10;
+tH = 180;
+};
+"F2060D6E-ECAA-4FDA-86AE-7A5EF093FC49" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 190;
+oV = 200;
+tH = 180;
+};
+"F694DBBC-41AF-46A6-A204-EABC417C90C2" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 576;
+oH = 190;
+oV = 580;
+tH = 180;
+};
+"F9B4982B-8617-4CF1-891D-7F134D93F75D" = {
+HH = 200;
+HV = 220;
+OH = 204;
+OV = 224;
+nV = 200;
+oH = 410;
+oV = 200;
+tH = 380;
+};
+"FF02570F-1598-4B5B-919B-11696122F5AF" = {
 HH = 560;
-OV = 224;
+HV = 220;
 OH = 578;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"4C874A79-CE49-4311-95B0-D2AF7C4E053F" = {
-HV = 220;
-HH = 560;
 OV = 224;
-OH = 578;
-oV = 200;
-oH = 190;
 nV = 200;
-tH = 180;
-};
-"F2C6B5AE-8514-4460-A437-327CCF1CB8D3" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
 oH = 190;
-nV = 200;
-tH = 180;
-};
-"6F6C19D6-2987-403B-979C-79CDB2F27380" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
 oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"58793378-20D7-4AFD-B4D9-F1A2F842C046" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"1A3F4BBE-7401-4C2A-BA99-AF544A1B97B1" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"EBF7E92B-C807-45CD-B715-3D866A3DAB4B" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"0FB280B1-2AA2-4D01-90B6-469C7B3E6AAD" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"D517D763-DE9B-428D-8203-9A8B498B4F06" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"3D5F61C9-CF58-42D2-9848-7516A28955D8" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
-tH = 180;
-};
-"B98DAA43-B434-4597-9988-E90E53143F8E" = {
-HV = 220;
-HH = 200;
-OV = 224;
-OH = 204;
-oV = 200;
-oH = 190;
-nV = 200;
 tH = 180;
 };
 };

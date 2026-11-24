@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="2">
+  <advance width="988"/>
+  <outline>
+    <contour>
+      <point x="700" y="0" type="line"/>
+      <point x="700" y="650" type="line"/>
+      <point x="1166" y="650" type="line"/>
+      <point x="1166" y="850" type="line"/>
+      <point x="700" y="850" type="line"/>
+      <point x="700" y="1200" type="line"/>
+      <point x="1320" y="1200" type="line"/>
+      <point x="1320" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

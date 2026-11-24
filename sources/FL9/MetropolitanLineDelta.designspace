@@ -368,7 +368,7 @@
     </mappings>
   </axes>
   <sources>
-    <source filename="MetropolitanLineDelta-wght400.ufo" name="Regular" familyname="Metropolitan Line Delta" stylename="Regular">
+    <source filename="MetropolitanLineDelta-Regular.ufo" name="Regular" familyname="Metropolitan Line Delta" stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="opsz" xvalue="14"/>
