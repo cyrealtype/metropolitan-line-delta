@@ -26,7 +26,7 @@
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -70,10 +70,21 @@
   <string>Metropolitan Line Delta</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
-  <key>openTypeNameSampleText</key>
-  <string>Hond</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.003</string>
+  <key>openTypeOS2Panose</key>
+  <array>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+  </array>
   <key>openTypeOS2Selection</key>
   <array>
     <integer>7</integer>

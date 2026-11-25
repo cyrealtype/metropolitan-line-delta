@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+  <advance width="1514"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="320" y="0" type="line"/>
+      <point x="320" y="666" type="line"/>
+      <point x="1190" y="0" type="line"/>
+      <point x="1414" y="0" type="line"/>
+      <point x="1414" y="1400" type="line"/>
+      <point x="1194" y="1400" type="line"/>
+      <point x="1194" y="738" type="line"/>
+      <point x="326" y="1400" type="line"/>
+      <point x="100" y="1400" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

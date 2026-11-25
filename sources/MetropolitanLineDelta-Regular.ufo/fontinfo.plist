@@ -26,7 +26,7 @@
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -69,11 +69,22 @@
   <key>openTypeNamePreferredFamilyName</key>
   <string>Metropolitan Line Delta</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
-  <key>openTypeNameSampleText</key>
-  <string>Hond</string>
+  <string>Regular 2</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.003</string>
+  <key>openTypeOS2Panose</key>
+  <array>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+  </array>
   <key>openTypeOS2Selection</key>
   <array>
     <integer>7</integer>
@@ -135,11 +146,11 @@
     <integer>970</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>MetropolitanLineDelta-Regular</string>
+  <string>MetropolitanLineDelta-Reg2</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Metropolitan Line Delta Regular</string>
+  <string>Metropolitan Line Delta Reg 2</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -158,7 +169,7 @@
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Regular</string>
+  <string>Regular 2</string>
   <key>unitsPerEm</key>
   <integer>2000</integer>
   <key>versionMajor</key>
