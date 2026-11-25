@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+  <advance width="1296"/>
+  <outline>
+    <contour>
+      <point x="1282" y="0" type="line"/>
+      <point x="1282" y="200" type="line"/>
+      <point x="446" y="200" type="line"/>
+      <point x="1302" y="1400" type="line"/>
+      <point x="98" y="1400" type="line"/>
+      <point x="98" y="1200" type="line"/>
+      <point x="916" y="1200" type="line"/>
+      <point x="58" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

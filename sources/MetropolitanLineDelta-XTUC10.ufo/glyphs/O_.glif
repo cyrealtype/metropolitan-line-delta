@@ -37,7 +37,7 @@
     </contour>
   </outline>
   <guideline angle="0" x="0" y="351"/>
-  <guideline angle="90" x="-125" y="0"/>
+  <guideline angle="90.061" x="-125" y="100"/>
   <guideline angle="90" x="36" y="0"/>
   <guideline angle="90" x="504" y="0"/>
   <lib>
