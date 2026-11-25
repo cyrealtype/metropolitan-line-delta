@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciitilde" format="2">
   <advance width="820"/>
   <unicode hex="007E"/>
@@ -26,4 +26,10 @@
       <point x="422" y="544"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

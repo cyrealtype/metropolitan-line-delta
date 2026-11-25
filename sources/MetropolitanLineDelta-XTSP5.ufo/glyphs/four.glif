@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
   <advance width="1206"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="1196" y="588" type="line"/>
       <point x="406" y="588" type="line"/>
       <point x="418" y="572" type="line"/>
       <point x="765" y="960" type="line"/>
@@ -14,6 +13,13 @@
       <point x="972" y="1470" type="line"/>
       <point x="10" y="398" type="line"/>
       <point x="1196" y="398" type="line"/>
+      <point x="1196" y="588" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

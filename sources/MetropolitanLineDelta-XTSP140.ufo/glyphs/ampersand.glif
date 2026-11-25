@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ampersand" format="2">
   <advance width="1642"/>
   <unicode hex="0026"/>
   <outline>
     <contour>
-      <point x="1118" y="328" type="curve" smooth="yes"/>
       <point x="1390" y="754" type="line"/>
       <point x="1150" y="754" type="line"/>
       <point x="974" y="476" type="line" smooth="yes"/>
@@ -54,6 +53,13 @@
       <point x="606" y="-20" type="curve" smooth="yes"/>
       <point x="798" y="-20"/>
       <point x="968" y="96"/>
+      <point x="1118" y="328" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

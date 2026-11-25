@@ -1,12 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
   <advance width="1992"/>
   <unicode hex="0057"/>
-  <guideline x="0" y="253" angle="0"/>
-  <guideline x="0" y="1083" angle="0"/>
   <outline>
     <contour>
-      <point x="486" y="0" type="line"/>
       <point x="686" y="0" type="line"/>
       <point x="944" y="1083" type="line"/>
       <point x="966" y="1174"/>
@@ -46,12 +43,17 @@
       <point x="614" y="254" type="curve"/>
       <point x="242" y="1400" type="line"/>
       <point x="24" y="1400" type="line"/>
+      <point x="486" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="253"/>
+  <guideline angle="0" x="0" y="1083"/>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

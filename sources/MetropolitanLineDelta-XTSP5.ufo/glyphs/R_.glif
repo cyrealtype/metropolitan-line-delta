@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
   <advance width="1058"/>
   <unicode hex="0052"/>
-  <guideline x="-75" y="0" angle="90"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>
@@ -31,18 +30,19 @@
       <point x="10" y="1400" type="line"/>
     </contour>
     <contour>
+      <point x="321" y="696" type="line"/>
       <point x="804" y="0" type="line"/>
       <point x="1048" y="0" type="line"/>
       <point x="570" y="696" type="line"/>
-      <point x="321" y="696" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="-75" y="0"/>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-11-24 20:49:46 +0000</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

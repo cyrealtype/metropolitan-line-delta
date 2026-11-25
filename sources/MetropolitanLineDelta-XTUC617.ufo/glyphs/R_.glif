@@ -1,11 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
   <advance width="1454"/>
   <unicode hex="0052"/>
-  <guideline x="658" y="0" angle="90"/>
-  <guideline x="200" y="0" angle="90"/>
-  <guideline x="0" y="994" angle="0"/>
-  <guideline x="0" y="1002" angle="0"/>
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
@@ -34,18 +30,22 @@
       <point x="100" y="1400" type="line"/>
     </contour>
     <contour>
+      <point x="628" y="696" type="line"/>
       <point x="1184" y="0" type="line"/>
       <point x="1432" y="0" type="line"/>
       <point x="881" y="696" type="line"/>
-      <point x="628" y="696" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="658" y="0"/>
+  <guideline angle="90" x="200" y="0"/>
+  <guideline angle="0" x="0" y="994"/>
+  <guideline angle="0" x="0" y="1002"/>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2026-11-24 20:49:46 +0000</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

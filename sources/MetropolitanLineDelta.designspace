@@ -303,8 +303,6 @@
           <dimension name="XOLC" xvalue="300"/>
           <dimension name="YOUC" xvalue="280"/>
           <dimension name="YOLC" xvalue="113.309133"/>
-          <dimension name="STUI" xvalue="312.80012"/>
-          <dimension name="STUO" xvalue="28.602243"/>
           <dimension name="XTRA" xvalue="10"/>
           <dimension name="XTUC" xvalue="10"/>
           <dimension name="XTLC" xvalue="10"/>
@@ -312,6 +310,8 @@
           <dimension name="YTDE" xvalue="450"/>
           <dimension name="INKT" xvalue="0"/>
           <dimension name="XNCT" xvalue="10"/>
+          <dimension name="STUI" xvalue="8"/>
+          <dimension name="STUO" xvalue="70"/>
         </output>
       </mapping>
       <mapping description="Black Wide opsz8">
@@ -368,7 +368,7 @@
     </mappings>
   </axes>
   <sources>
-    <source filename="MetropolitanLineDelta-wght400.ufo" name="Regular" familyname="Metropolitan Line Delta" stylename="Regular">
+    <source filename="MetropolitanLineDelta-Regular.ufo" name="Regular" familyname="Metropolitan Line Delta" stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="opsz" xvalue="14"/>
@@ -943,7 +943,7 @@
         <dimension name="YTOS" xvalue="10"/>
       </location>
     </source>
-    <source filename="MetropolitanLineDelta-STU02.ufo" name="STUO2" familyname="Metropolitan Line Delta" stylename="STUO2">
+    <source filename="MetropolitanLineDelta-STUO2.ufo" name="STUO2" familyname="Metropolitan Line Delta" stylename="STUO2">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="opsz" xvalue="14"/>

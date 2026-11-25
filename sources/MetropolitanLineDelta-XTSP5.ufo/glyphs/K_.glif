@@ -1,12 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
   <advance width="1160"/>
   <unicode hex="004B"/>
-  <guideline x="516" y="0" angle="90"/>
-  <guideline x="70" y="0" angle="90"/>
   <outline>
     <contour>
-      <point x="10" y="0" type="line"/>
       <point x="230" y="0" type="line"/>
       <point x="230" y="664" type="line"/>
       <point x="862" y="0" type="line"/>
@@ -17,6 +14,15 @@
       <point x="230" y="846" type="line"/>
       <point x="230" y="1400" type="line"/>
       <point x="10" y="1400" type="line"/>
+      <point x="10" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="516" y="0"/>
+  <guideline angle="90" x="70" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

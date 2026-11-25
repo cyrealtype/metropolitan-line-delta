@@ -1,11 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="B" format="2">
   <advance width="1092"/>
   <unicode hex="0042"/>
   <outline>
     <contour>
-      <point x="570" y="10" type="curve" smooth="yes"/>
-      <point x="320" y="10" type="line"/>
       <point x="320" y="1390" type="line"/>
       <point x="494" y="1390" type="line" smooth="yes"/>
       <point x="604" y="1390"/>
@@ -48,12 +46,16 @@
       <point x="828" y="428" type="line" smooth="yes"/>
       <point x="828" y="207"/>
       <point x="722" y="10"/>
+      <point x="570" y="10" type="curve" smooth="yes"/>
+      <point x="320" y="10" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

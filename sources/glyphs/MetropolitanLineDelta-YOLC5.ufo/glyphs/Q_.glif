@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="1580"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="1404" y="-30" type="line"/>
+      <point x="1536" y="118" type="line"/>
+      <point x="1084" y="512" type="line"/>
+      <point x="954" y="364" type="line"/>
+    </contour>
+    <component base="O" identifier="0D8C70FF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0D8C70FF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

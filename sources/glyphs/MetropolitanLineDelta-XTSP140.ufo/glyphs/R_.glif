@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="1478"/>
+  <unicode hex="0052"/>
+  <guideline x="1165" y="0" angle="90"/>
+  <outline>
+    <contour>
+      <point x="240" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="1200" type="line"/>
+      <point x="588" y="1200" type="line"/>
+      <point x="740" y="1200"/>
+      <point x="846" y="1117"/>
+      <point x="846" y="1002" type="curve"/>
+      <point x="846" y="994" type="line"/>
+      <point x="846" y="879"/>
+      <point x="740" y="796"/>
+      <point x="588" y="796" type="curve" smooth="yes"/>
+      <point x="350" y="796" type="line"/>
+      <point x="350" y="596" type="line"/>
+      <point x="588" y="596" type="line" smooth="yes"/>
+      <point x="858" y="596"/>
+      <point x="1070" y="773"/>
+      <point x="1070" y="994" type="curve"/>
+      <point x="1070" y="994"/>
+      <point x="1070" y="1002"/>
+      <point x="1070" y="1002" type="curve"/>
+      <point x="1070" y="1224"/>
+      <point x="858" y="1400"/>
+      <point x="588" y="1400" type="curve"/>
+      <point x="240" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="1034" y="0" type="line"/>
+      <point x="1278" y="0" type="line"/>
+      <point x="800" y="696" type="line"/>
+      <point x="551" y="696" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-11-24 20:49:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
